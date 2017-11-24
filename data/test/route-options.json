@@ -1,0 +1,16 @@
+{
+    "waypoints": [
+        {
+            "longitude": 3.24800666311843,
+            "latitude": 51.1935399510971,
+            "name": "Daverlo",
+            "type": "library"
+        },
+        {
+            "longitude": 3.24635640450493,
+            "latitude": 51.242153938097,
+            "name": "De Arend",
+            "type": "library"
+        }
+    ]
+}
