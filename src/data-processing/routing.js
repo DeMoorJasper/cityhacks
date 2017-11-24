@@ -21,7 +21,7 @@ routing.calculate = function(waypoints) {
         waypoints = waypointToString(waypoints);
         if (waypoints) {
             console.log(waypoints);
-            let path = `https://api.mapbox.com/directions/v5/mapbox/walking/${waypoints}?access_token=${config.getMapBoxKey()}&steps=true`;
+            let path = `https://api.mapbox.com/directions/v5/mapbox/walking/${waypoints}?access_token=${config.getMapBoxKey()}&steps=true&geometries=geojson`;
             request.get(path).then((data) => {
                     resolve(JSON.parse(data));
                 }).catch(e => {
