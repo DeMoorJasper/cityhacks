@@ -1,0 +1,4578 @@
+[
+	{
+		"type": "bench",
+		"description": "in straat, tussen bloembakken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23700381337395,
+			"latitude": 25.59328658436325
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2578014651610703,
+			"latitude": 25.6014738141081
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bank met betonsokkel",
+		"amount": 1,
+		"position": {
+			"longitude": 3.25143499297345,
+			"latitude": 3.25143499297345
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan kerk",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2492291981272,
+			"latitude": 3.2492291981272
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Oude van dagen",
+		"amount": 4,
+		"position": {
+			"longitude": 3.174336862252965,
+			"latitude": 12.798695778527476
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein watertoren",
+		"amount": 2,
+		"position": {
+			"longitude": 3.18975742009233,
+			"latitude": 25.59678033481645
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanque",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2077706992486954,
+			"latitude": 12.800475002250975
+		}
+	},
+	{
+		"type": "bench",
+		"description": "dolomietplein",
+		"amount": 6,
+		"position": {
+			"longitude": 3.2082534109538217,
+			"latitude": 8.533621706831067
+		}
+	},
+	{
+		"type": "bench",
+		"description": "gemeenteplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.18121719582225,
+			"latitude": 25.59869894212025
+		}
+	},
+	{
+		"type": "bench",
+		"description": "antiekzaak",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2092349758119934,
+			"latitude": 17.068009525024433
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Sint-Lodewijkscollege",
+		"amount": 2,
+		"position": {
+			"longitude": 3.208973466404955,
+			"latitude": 25.6004099341143
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Stationslaan",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21118896827894,
+			"latitude": 3.21118896827894
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Ter Lindenhof",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20165619345625,
+			"latitude": 3.20165619345625
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Oude van dagen",
+		"amount": 2,
+		"position": {
+			"longitude": 3.20286005447085,
+			"latitude": 25.60247204467925
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein garages",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2074448622675,
+			"latitude": 3.2074448622675
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zandbak en ping-pong",
+		"amount": 4,
+		"position": {
+			"longitude": 3.208049357344423,
+			"latitude": 12.800562162408125
+		}
+	},
+	{
+		"type": "bench",
+		"description": "paviljoen",
+		"amount": 4,
+		"position": {
+			"longitude": 3.1996158422771277,
+			"latitude": 12.799773159658825
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein hoek Manitobalaan",
+		"amount": 4,
+		"position": {
+			"longitude": 3.19794127918969,
+			"latitude": 3.19794127918969
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Jacques van Delft",
+		"amount": 2,
+		"position": {
+			"longitude": 3.200130289091545,
+			"latitude": 25.59816693800575
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Pannenhuis",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20554344667753,
+			"latitude": 3.20554344667753
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Pannenhuis",
+		"amount": 2,
+		"position": {
+			"longitude": 3.205277037893305,
+			"latitude": 25.60164324248685
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2004131485154748,
+			"latitude": 12.79972661622945
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Abdijbekestraat",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2064123483183202,
+			"latitude": 25.59969556025855
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.18692024447013,
+			"latitude": 25.59993677011925
+		}
+	},
+	{
+		"type": "bench",
+		"description": "ingang kerkhof",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17961308837639,
+			"latitude": 3.17961308837639
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv serviceflats",
+		"amount": 3,
+		"position": {
+			"longitude": 3.176522261747287,
+			"latitude": 17.065979106965965
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 4",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17901482314918,
+			"latitude": 3.17901482314918
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 8",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17941762359311,
+			"latitude": 3.17941762359311
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17654423299111,
+			"latitude": 3.17654423299111
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Robrecht van Vlaanderenlaan",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1894912267764104,
+			"latitude": 25.5987972554553
+		}
+	},
+	{
+		"type": "bench",
+		"description": "parkje kant Oorlogsvrijwilligerslaa",
+		"amount": 2,
+		"position": {
+			"longitude": 3.17542482327701,
+			"latitude": 25.5915420209276
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Zandstraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18219361255826,
+			"latitude": 3.18219361255826
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanqueplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23660183733885,
+			"latitude": 25.61417639238515
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein thv oude van dagen",
+		"amount": 2,
+		"position": {
+			"longitude": 3.230175821093905,
+			"latitude": 25.61562453858875
+		}
+	},
+	{
+		"type": "bench",
+		"description": "to nr 10 en 20",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2308904395313,
+			"latitude": 25.61588838826175
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.25779896541489,
+			"latitude": 3.25779896541489
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.27114351326391,
+			"latitude": 25.60795037224265
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanqueveld achter huisbewaardersw",
+		"amount": 10,
+		"position": {
+			"longitude": 3.2451700690189953,
+			"latitude": 5.1217356509681204
+		}
+	},
+	{
+		"type": "bench",
+		"description": "veld 2",
+		"amount": 2,
+		"position": {
+			"longitude": 3.24765133929598,
+			"latitude": 25.60866876947
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 155 en 183",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23774999420048,
+			"latitude": 25.60882995166495
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hondenweide",
+		"amount": 2,
+		"position": {
+			"longitude": 3.24993113585434,
+			"latitude": 25.61003136741085
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr14",
+		"amount": 1,
+		"position": {
+			"longitude": 3.26530562541408,
+			"latitude": 3.26530562541408
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 140",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2479766751368,
+			"latitude": 3.2479766751368
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 191",
+		"amount": 1,
+		"position": {
+			"longitude": 3.25087570070492,
+			"latitude": 3.25087570070492
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 561",
+		"amount": 1,
+		"position": {
+			"longitude": 3.277070331611,
+			"latitude": 3.277070331611
+		}
+	},
+	{
+		"type": "bench",
+		"description": "nr 6 en 18",
+		"amount": 14,
+		"position": {
+			"longitude": 3.2727220044808876,
+			"latitude": 3.658281545054907
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein voor jonge kinderen",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2732114947224074,
+			"latitude": 12.803887769507774
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek 't Groeneveld",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21828747985625,
+			"latitude": 3.21828747985625
+		}
+	},
+	{
+		"type": "bench",
+		"description": "pleintje",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2064208333020847,
+			"latitude": 25.5964619693377
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanque",
+		"amount": 2,
+		"position": {
+			"longitude": 3.213968591533845,
+			"latitude": 25.59341334619705
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2208777324117,
+			"latitude": 3.2208777324117
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Ten Putte",
+		"amount": 1,
+		"position": {
+			"longitude": 3.216790939197,
+			"latitude": 3.216790939197
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv huisnr 30 en 32",
+		"amount": 2,
+		"position": {
+			"longitude": 3.21927964035228,
+			"latitude": 25.58871966207965
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelgaard",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2138120954622678,
+			"latitude": 12.796799043119774
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Ten Putte",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21738130016219,
+			"latitude": 3.21738130016219
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv Stokveldelaan nr 50",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21385987293119,
+			"latitude": 3.21385987293119
+		}
+	},
+	{
+		"type": "bench",
+		"description": "binnenplein",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2129224203566675,
+			"latitude": 12.793418302146526
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bushokje",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21659526237744,
+			"latitude": 3.21659526237744
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 48",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21437271866091,
+			"latitude": 3.21437271866091
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.218321979128295,
+			"latitude": 25.591422741265
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan parking",
+		"amount": 3,
+		"position": {
+			"longitude": 3.20980966340432,
+			"latitude": 17.0744491449251
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan huizen oude van dagen",
+		"amount": 2,
+		"position": {
+			"longitude": 3.207897839213035,
+			"latitude": 25.61612395845925
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv stichting Moulaert hoek St-Piet",
+		"amount": 2,
+		"position": {
+			"longitude": 3.206357753786385,
+			"latitude": 25.6145750093514
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2117695014003598,
+			"latitude": 25.61677374329555
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 6,
+		"position": {
+			"longitude": 3.196680347374763,
+			"latitude": 8.53813018170145
+		}
+	},
+	{
+		"type": "bench",
+		"description": "middenplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.20286106532459,
+			"latitude": 25.6098505229371
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op hoek van grasveld",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21134914740885,
+			"latitude": 3.21134914740885
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op grasplein achter huizen",
+		"amount": 4,
+		"position": {
+			"longitude": 3.1985096136416273,
+			"latitude": 12.806513677261675
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein",
+		"amount": 4,
+		"position": {
+			"longitude": 3.209197533069625,
+			"latitude": 12.806187955860425
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 22 en 25",
+		"amount": 2,
+		"position": {
+			"longitude": 3.208719042789315,
+			"latitude": 25.61233320974045
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.20854745993325,
+			"latitude": 25.61701650247295
+		}
+	},
+	{
+		"type": "bench",
+		"description": "tegenover nr 38",
+		"amount": 3,
+		"position": {
+			"longitude": 3.20910322968697,
+			"latitude": 17.077759707278666
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv kerk",
+		"amount": 2,
+		"position": {
+			"longitude": 3.20534458785451,
+			"latitude": 25.6120723662351
+		}
+	},
+	{
+		"type": "bench",
+		"description": "eind van de weg aan bushalte",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21320590163165,
+			"latitude": 3.21320590163165
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21002345333685,
+			"latitude": 3.21002345333685
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met arduinen sokkel",
+		"amount": 41,
+		"position": {
+			"longitude": 3.1765859858934085,
+			"latitude": 1.2519482834718438
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken type 't Zand dubbel",
+		"amount": 4,
+		"position": {
+			"longitude": 3.218338108742855,
+			"latitude": 12.80336807065925
+		}
+	},
+	{
+		"type": "bench",
+		"description": "rondpunt Sint-Hubertuslaan",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18449905217841,
+			"latitude": 3.18449905217841
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23485914517355,
+			"latitude": 3.23485914517355
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bank met arduinen sokkel",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22241179169088,
+			"latitude": 3.22241179169088
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein aan petanqueveld",
+		"amount": 2,
+		"position": {
+			"longitude": 3.22121013364658,
+			"latitude": 25.60941755327815
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.24632513541443,
+			"latitude": 3.24632513541443
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan petanqueplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.248763908082705,
+			"latitude": 25.6195040090163
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanque",
+		"amount": 8,
+		"position": {
+			"longitude": 3.180671705678989,
+			"latitude": 6.400114120050875
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.17520833917984,
+			"latitude": 17.061652437944165
+		}
+	},
+	{
+		"type": "bench",
+		"description": "midden ingang veld 6",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17640069061532,
+			"latitude": 3.17640069061532
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein thv nr 35",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18037076079145,
+			"latitude": 3.18037076079145
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein voor kerk thv nr 14",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18304530604164,
+			"latitude": 3.18304530604164
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv de Marmot",
+		"amount": 3,
+		"position": {
+			"longitude": 3.23372193343593,
+			"latitude": 17.07669441731007
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bushokje dr. Van Mol",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21299343000307,
+			"latitude": 3.21299343000307
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Bos Van Zuylen",
+		"amount": 2,
+		"position": {
+			"longitude": 3.24405497890805,
+			"latitude": 25.60833328651745
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 9,
+		"position": {
+			"longitude": 3.2454280727739904,
+			"latitude": 5.688553344488877
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein",
+		"amount": 25,
+		"position": {
+			"longitude": 3.246780381731784,
+			"latitude": 10.24019082901348
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23647294899248,
+			"latitude": 3.23647294899248
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan parking",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20437110828813,
+			"latitude": 3.20437110828813
+		}
+	},
+	{
+		"type": "bench",
+		"description": "De Zorghe",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2521973846627734,
+			"latitude": 17.0715642554235
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein voor gemeentehuis",
+		"amount": 15,
+		"position": {
+			"longitude": 3.24868633779958,
+			"latitude": 3.939531371558177
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.221095503577045,
+			"latitude": 25.604488004993
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan pleintje op hoek Zeelaan",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2031989781249663,
+			"latitude": 17.10984167604933
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2070511811237177,
+			"latitude": 12.832920975180425
+		}
+	},
+	{
+		"type": "bench",
+		"description": "ter hoogte van monument",
+		"amount": 2,
+		"position": {
+			"longitude": 3.211856843404685,
+			"latitude": 25.6662685069175
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2099754680747976,
+			"latitude": 12.832729262629625
+		}
+	},
+	{
+		"type": "bench",
+		"description": "De Landdijk",
+		"amount": 2,
+		"position": {
+			"longitude": 3.21398929869718,
+			"latitude": 25.66518268091115
+		}
+	},
+	{
+		"type": "bench",
+		"description": "busparking",
+		"amount": 4,
+		"position": {
+			"longitude": 3.22593485188209,
+			"latitude": 12.7988268976494
+		}
+	},
+	{
+		"type": "bench",
+		"amount": 2,
+		"position": {
+			"longitude": 3.223276839657105,
+			"latitude": 25.598638674537
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2315197911057907,
+			"latitude": 17.0701954209536
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Westkapelse Stwg",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2275534984571,
+			"latitude": 3.2275534984571
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22961569525267,
+			"latitude": 3.22961569525267
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 11,
+		"position": {
+			"longitude": 3.214688747059708,
+			"latitude": 4.655913047623437
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 2,
+		"position": {
+			"longitude": 3.21151217660119,
+			"latitude": 25.6032115969583
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 2,
+		"position": {
+			"longitude": 3.217160226523645,
+			"latitude": 25.60175411270425
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 2,
+		"position": {
+			"longitude": 3.21574909965526,
+			"latitude": 25.6041310762177
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 2,
+		"position": {
+			"longitude": 3.224387374858605,
+			"latitude": 25.6021287197697
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 2,
+		"position": {
+			"longitude": 3.226890507934775,
+			"latitude": 25.6075067972764
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.220356552544825,
+			"latitude": 25.60156301970375
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2287363318507203,
+			"latitude": 17.069540928502132
+		}
+	},
+	{
+		"type": "bench",
+		"description": "houten banken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2213230694706496,
+			"latitude": 25.6008408489923
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv kerk en bushalte",
+		"amount": 1,
+		"position": {
+			"longitude": 3.19758315787761,
+			"latitude": 3.19758315787761
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan petanqueplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.19880913242699,
+			"latitude": 3.19880913242699
+		}
+	},
+	{
+		"type": "bench",
+		"description": "tss 52-54, 72, 82-84",
+		"amount": 3,
+		"position": {
+			"longitude": 3.1975037093378966,
+			"latitude": 17.10271512103837
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein",
+		"amount": 6,
+		"position": {
+			"longitude": 3.1958347186310334,
+			"latitude": 8.551711034362816
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 7,
+		"position": {
+			"longitude": 3.181827754255942,
+			"latitude": 8.554677958616317
+		}
+	},
+	{
+		"type": "bench",
+		"amount": 38,
+		"position": {
+			"longitude": 3.1815515069146616,
+			"latitude": 1.3507960523739604
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bocht clubwinkel",
+		"amount": 3,
+		"position": {
+			"longitude": 3.17906473795915,
+			"latitude": 17.0646567735082
+		}
+	},
+	{
+		"type": "bench",
+		"description": "naast veld 13",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18164405030501,
+			"latitude": 3.18164405030501
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken 1/2 cirkel 6 elem.",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21456642392564,
+			"latitude": 3.21456642392564
+		}
+	},
+	{
+		"type": "bench",
+		"description": "houten banken",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21176582661846,
+			"latitude": 3.21176582661846
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 8,
+		"position": {
+			"longitude": 3.2124540154628565,
+			"latitude": 6.40117490056465
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 13,
+		"position": {
+			"longitude": 3.2129017294550986,
+			"latitude": 3.939177673930469
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 21,
+		"position": {
+			"longitude": 3.212627962897181,
+			"latitude": 2.4386494503134095
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 20,
+		"position": {
+			"longitude": 3.2142130924259207,
+			"latitude": 2.560038519738165
+		}
+	},
+	{
+		"type": "bench",
+		"description": "naast station",
+		"amount": 24,
+		"position": {
+			"longitude": 3.2173410849909043,
+			"latitude": 2.133290193132296
+		}
+	},
+	{
+		"type": "bench",
+		"description": "standbeeld",
+		"amount": 22,
+		"position": {
+			"longitude": 3.219134433008885,
+			"latitude": 2.327245406660191
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 31,
+		"position": {
+			"longitude": 3.223134422926837,
+			"latitude": 1.6515643688929194
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 8,
+		"position": {
+			"longitude": 3.2241274602142576,
+			"latitude": 6.400117254500913
+		}
+	},
+	{
+		"type": "bench",
+		"description": "parkje hoek Kustlaan",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1909295123802,
+			"latitude": 25.6638271713288
+		}
+	},
+	{
+		"type": "bench",
+		"amount": 6,
+		"position": {
+			"longitude": 3.19784119602841,
+			"latitude": 8.555381279562434
+		}
+	},
+	{
+		"type": "bench",
+		"amount": 2,
+		"position": {
+			"longitude": 3.20841569651247,
+			"latitude": 25.6673737505702
+		}
+	},
+	{
+		"type": "bench",
+		"amount": 3,
+		"position": {
+			"longitude": 3.1990798258636333,
+			"latitude": 17.1110327972392
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 5,
+		"position": {
+			"longitude": 3.226129759562528,
+			"latitude": 10.24232646151146
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 2,
+		"position": {
+			"longitude": 3.22424227272509,
+			"latitude": 25.6002899995631
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken (dubbel)",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2142666010100753,
+			"latitude": 12.80094336226585
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken type 't Zand",
+		"amount": 4,
+		"position": {
+			"longitude": 3.216917445281655,
+			"latitude": 12.80118606853375
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 4,
+		"position": {
+			"longitude": 3.226752294801857,
+			"latitude": 12.800347730663924
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2242780902254835,
+			"latitude": 17.067474071692732
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Oud Sint-Jan",
+		"amount": 2,
+		"position": {
+			"longitude": 3.222859247643025,
+			"latitude": 25.602276745492
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in parkje achter technische dienst",
+		"amount": 7,
+		"position": {
+			"longitude": 3.2219782164458954,
+			"latitude": 7.314751459347
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Groeningemuseum",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22602719385762,
+			"latitude": 3.22602719385762
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bank arduinen sokkel (dubbel)",
+		"amount": 4,
+		"position": {
+			"longitude": 3.225733180101625,
+			"latitude": 12.80155915073365
+		}
+	},
+	{
+		"type": "bench",
+		"description": "stenen bank",
+		"amount": 2,
+		"position": {
+			"longitude": 3.225740885131625,
+			"latitude": 25.6031642523257
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22666134652394,
+			"latitude": 3.22666134652394
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 3,
+		"position": {
+			"longitude": 3.231891165644297,
+			"latitude": 17.068248285780534
+		}
+	},
+	{
+		"type": "bench",
+		"description": "pic-nick banken",
+		"amount": 3,
+		"position": {
+			"longitude": 3.23232781261369,
+			"latitude": 17.06848800874617
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 23,
+		"position": {
+			"longitude": 3.231542837111704,
+			"latitude": 2.2263406648809436
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bank met arduinen sokkel",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23241782869791,
+			"latitude": 3.23241782869791
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 15,
+		"position": {
+			"longitude": 3.2317026654249137,
+			"latitude": 3.41349358536424
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2348535100056766,
+			"latitude": 17.06777153494153
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 5,
+		"position": {
+			"longitude": 3.2359418393119475,
+			"latitude": 10.24091854159184
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 8,
+		"position": {
+			"longitude": 3.2358414418312957,
+			"latitude": 6.400692714514825
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2352633457614397,
+			"latitude": 12.801424618221276
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 20,
+		"position": {
+			"longitude": 3.239065981897091,
+			"latitude": 2.560503862198555
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan pleintje tegenaan vesten",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23903561363175,
+			"latitude": 25.60389572970765
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2402758947654697,
+			"latitude": 17.070618142902735
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 29,
+		"position": {
+			"longitude": 3.237303757450054,
+			"latitude": 1.7659568613715138
+		}
+	},
+	{
+		"type": "bench",
+		"description": "houten banken",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23402055136265,
+			"latitude": 3.23402055136265
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 16,
+		"position": {
+			"longitude": 3.229555038053375,
+			"latitude": 3.2012098106734626
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 13,
+		"position": {
+			"longitude": 3.222682544468059,
+			"latitude": 3.9389584553593617
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 20,
+		"position": {
+			"longitude": 3.224354140348899,
+			"latitude": 2.56043951945207
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 26,
+		"position": {
+			"longitude": 3.226789983990812,
+			"latitude": 1.969559445569073
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.236934824922045,
+			"latitude": 25.60685114219865
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein Gulden Kamer",
+		"amount": 3,
+		"position": {
+			"longitude": 3.246993714046633,
+			"latitude": 17.072259006255933
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 6,20,36,53",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2578273689723973,
+			"latitude": 12.804286063592675
+		}
+	},
+	{
+		"type": "bench",
+		"description": "picknickbanken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2394848844471653,
+			"latitude": 25.60458440781045
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1928936751789747,
+			"latitude": 25.663189105829
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan station",
+		"amount": 3,
+		"position": {
+			"longitude": 3.19505221298328,
+			"latitude": 17.1088640883413
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2236972634634125,
+			"latitude": 12.8026144541374
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan kerk",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22085994249187,
+			"latitude": 3.22085994249187
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park Sebrechts",
+		"amount": 11,
+		"position": {
+			"longitude": 3.2180691720698094,
+			"latitude": 4.65538422442641
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Park Sebrechts",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2176962577129538,
+			"latitude": 17.0698991530721
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Park Sebrechts",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2179961021852552,
+			"latitude": 25.60471048545825
+		}
+	},
+	{
+		"type": "bench",
+		"description": "nr 74",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21904583859614,
+			"latitude": 3.21904583859614
+		}
+	},
+	{
+		"type": "bench",
+		"description": "voor kerk",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2211629082806,
+			"latitude": 3.2211629082806
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22023809852589,
+			"latitude": 3.22023809852589
+		}
+	},
+	{
+		"type": "bench",
+		"description": "ingang Zilverpand",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2205113181260954,
+			"latitude": 25.6032879020334
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2241603246360047,
+			"latitude": 12.803298848733975
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kant Ter Lindehof",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20231508243368,
+			"latitude": 3.20231508243368
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kant Doornstraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17439465806738,
+			"latitude": 3.17439465806738
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.25714350266217,
+			"latitude": 25.6024975909028
+		}
+	},
+	{
+		"type": "bench",
+		"description": "verbinding tss Maalse Stwg en Velte",
+		"amount": 1,
+		"position": {
+			"longitude": 3.25707573843014,
+			"latitude": 3.25707573843014
+		}
+	},
+	{
+		"type": "bench",
+		"description": "rechtover huisnr 36",
+		"amount": 1,
+		"position": {
+			"longitude": 3.25932593849842,
+			"latitude": 3.25932593849842
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22595267373158,
+			"latitude": 3.22595267373158
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 5,
+		"position": {
+			"longitude": 3.2291779134355516,
+			"latitude": 10.25491092172474
+		}
+	},
+	{
+		"type": "bench",
+		"description": "eind van de straat",
+		"amount": 2,
+		"position": {
+			"longitude": 3.22299664712619,
+			"latitude": 25.6365939503374
+		}
+	},
+	{
+		"type": "bench",
+		"description": "school",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2326689935609565,
+			"latitude": 17.0917878761242
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan bushalte",
+		"amount": 2,
+		"position": {
+			"longitude": 3.223999302667795,
+			"latitude": 25.6361885309977
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Herdersbruggestraat",
+		"amount": 2,
+		"position": {
+			"longitude": 3.223653376698595,
+			"latitude": 25.63606410914945
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv kerkhof",
+		"amount": 2,
+		"position": {
+			"longitude": 3.227822548170535,
+			"latitude": 25.63715712641585
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21240628083387,
+			"latitude": 3.21240628083387
+		}
+	},
+	{
+		"type": "bench",
+		"description": "houten banken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.214462882143795,
+			"latitude": 25.6078934043955
+		}
+	},
+	{
+		"type": "bench",
+		"description": "smeedijzeren banken (oud type)",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2149588104199,
+			"latitude": 3.2149588104199
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 4,
+		"position": {
+			"longitude": 3.214068782523465,
+			"latitude": 12.803646687953675
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 6,
+		"position": {
+			"longitude": 3.218380163136653,
+			"latitude": 8.536439338341516
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 4,
+		"position": {
+			"longitude": 3.21560920603777,
+			"latitude": 12.8039439072114
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 7,
+		"position": {
+			"longitude": 3.2128460994756614,
+			"latitude": 7.314548449413657
+		}
+	},
+	{
+		"type": "bench",
+		"description": "langs wandelpad",
+		"amount": 6,
+		"position": {
+			"longitude": 3.2130990419426966,
+			"latitude": 8.533397490339551
+		}
+	},
+	{
+		"type": "bench",
+		"description": "pleintje",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18994287754357,
+			"latitude": 3.18994287754357
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bushalte",
+		"amount": 1,
+		"position": {
+			"longitude": 3.1878152362823,
+			"latitude": 3.1878152362823
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan school \"de Lisdodde\"",
+		"amount": 1,
+		"position": {
+			"longitude": 3.19199553143377,
+			"latitude": 3.19199553143377
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan school \"de lisdodde\"",
+		"amount": 2,
+		"position": {
+			"longitude": 3.192054895558735,
+			"latitude": 25.64697126558285
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 5,
+		"position": {
+			"longitude": 3.196686995349658,
+			"latitude": 10.258729762136861
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Stationsstraat",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1954231463144254,
+			"latitude": 25.64730086281185
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 34",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1946231021941,
+			"latitude": 25.6478218508341
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek met Dwarsweg",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20332302967638,
+			"latitude": 3.20332302967638
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20070351080078,
+			"latitude": 3.20070351080078
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Lisseweegsesteenweg",
+		"amount": 1,
+		"position": {
+			"longitude": 3.19808561491844,
+			"latitude": 3.19808561491844
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 14",
+		"amount": 3,
+		"position": {
+			"longitude": 3.194900053781937,
+			"latitude": 17.098369396553966
+		}
+	},
+	{
+		"type": "bench",
+		"description": "t.o. nr 46",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2023887279778798,
+			"latitude": 25.6473730137961
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanqueveld",
+		"amount": 2,
+		"position": {
+			"longitude": 3.188014731099415,
+			"latitude": 25.64869935496435
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 11, nr41, nr61 en nr91",
+		"amount": 4,
+		"position": {
+			"longitude": 3.199230417107075,
+			"latitude": 12.8225607650719
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.21394519655803,
+			"latitude": 25.60825702556745
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan stuk richting Minnewaterpark",
+		"amount": 10,
+		"position": {
+			"longitude": 3.2258869536447854,
+			"latitude": 5.11981202533444
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 22,
+		"position": {
+			"longitude": 3.2185697048905753,
+			"latitude": 2.327201984994918
+		}
+	},
+	{
+		"type": "bench",
+		"description": "voor nr 104",
+		"amount": 1,
+		"position": {
+			"longitude": 3.19613600599746,
+			"latitude": 3.19613600599746
+		}
+	},
+	{
+		"type": "bench",
+		"description": "grasveld",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22778850391074,
+			"latitude": 3.22778850391074
+		}
+	},
+	{
+		"type": "bench",
+		"description": "garages",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23629881227328,
+			"latitude": 3.23629881227328
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Gustave Vincke Dujardinstraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2100593770582,
+			"latitude": 3.2100593770582
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Vlamingdam",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22017155659179,
+			"latitude": 3.22017155659179
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21851003193096,
+			"latitude": 3.21851003193096
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanqueveld",
+		"amount": 2,
+		"position": {
+			"longitude": 3.218081013072855,
+			"latitude": 25.60946325327395
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.21874354288603,
+			"latitude": 17.072843617072266
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in hoek",
+		"amount": 5,
+		"position": {
+			"longitude": 3.220343846501786,
+			"latitude": 10.24288518698594
+		}
+	},
+	{
+		"type": "bench",
+		"description": "tegenover garages",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21927088450127,
+			"latitude": 3.21927088450127
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 6,
+		"position": {
+			"longitude": 3.2164987310690702,
+			"latitude": 8.535617536271717
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bank met arduinen sokkel",
+		"amount": 2,
+		"position": {
+			"longitude": 3.22287922733537,
+			"latitude": 25.61032209149775
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Sincfalpark",
+		"amount": 9,
+		"position": {
+			"longitude": 3.224950985551653,
+			"latitude": 5.691091085438189
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 5,
+		"position": {
+			"longitude": 3.22594270555632,
+			"latitude": 10.24420788412492
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 7,
+		"position": {
+			"longitude": 3.2282511340094104,
+			"latitude": 7.317014600553072
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Esplanade",
+		"amount": 10,
+		"position": {
+			"longitude": 3.2273639721589062,
+			"latitude": 5.1194275670754
+		}
+	},
+	{
+		"type": "bench",
+		"description": "smeedijzeren banken (oud type)",
+		"amount": 2,
+		"position": {
+			"longitude": 3.223143222787355,
+			"latitude": 25.61025351124205
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 8,
+		"position": {
+			"longitude": 3.2245132246372723,
+			"latitude": 6.402713725801288
+		}
+	},
+	{
+		"type": "bench",
+		"description": "langs vest",
+		"amount": 2,
+		"position": {
+			"longitude": 3.225046813443785,
+			"latitude": 25.59932791050005
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken type 't Zand (dubbel)",
+		"amount": 16,
+		"position": {
+			"longitude": 3.2176995888249658,
+			"latitude": 3.2002973435442064
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken type 't Zand (enkel)",
+		"amount": 4,
+		"position": {
+			"longitude": 3.218185276813655,
+			"latitude": 12.801134103384426
+		}
+	},
+	{
+		"type": "bench",
+		"description": "tussen parkeergarage en winkelgebou",
+		"amount": 5,
+		"position": {
+			"longitude": 3.2194477367829677,
+			"latitude": 10.23953155017672
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Noord-Zuid",
+		"amount": 4,
+		"position": {
+			"longitude": 3.22108531433647,
+			"latitude": 12.8001797318507
+		}
+	},
+	{
+		"type": "bench",
+		"description": "langs water",
+		"amount": 1,
+		"position": {
+			"longitude": 3.24951851624437,
+			"latitude": 3.24951851624437
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in parkje",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23950897418085,
+			"latitude": 25.6137985493188
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.241842259934005,
+			"latitude": 25.61463460646465
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 408",
+		"amount": 1,
+		"position": {
+			"longitude": 3.28641489365412,
+			"latitude": 3.28641489365412
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 32, 91, 108",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2788797113025203,
+			"latitude": 17.069997238158034
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 7 en naast nr 39",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2720302166793847,
+			"latitude": 25.60117246547205
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr10",
+		"amount": 1,
+		"position": {
+			"longitude": 3.28489226150101,
+			"latitude": 3.28489226150101
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 69",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21870178027619,
+			"latitude": 3.21870178027619
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in bos Ryckevelde",
+		"amount": 15,
+		"position": {
+			"longitude": 3.2952716561767503,
+			"latitude": 3.413118864455913
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op pleintje naast Westmeers",
+		"amount": 3,
+		"position": {
+			"longitude": 3.219507765046123,
+			"latitude": 17.067978708305798
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op grasplein",
+		"amount": 8,
+		"position": {
+			"longitude": 3.205756530584896,
+			"latitude": 6.402541381689537
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan petanqueveld",
+		"amount": 5,
+		"position": {
+			"longitude": 3.20388629945662,
+			"latitude": 10.24542432492574
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.203988121119635,
+			"latitude": 25.6138167587344
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan voetbalpleinen",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2029128712337767,
+			"latitude": 17.0760330129389
+		}
+	},
+	{
+		"type": "bench",
+		"description": "De Dijk",
+		"amount": 5,
+		"position": {
+			"longitude": 3.205244542446606,
+			"latitude": 10.24583223234016
+		}
+	},
+	{
+		"type": "bench",
+		"description": "pleintje",
+		"amount": 4,
+		"position": {
+			"longitude": 3.205538152194092,
+			"latitude": 12.8074236282817
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan weg naar pompstation",
+		"amount": 1,
+		"position": {
+			"longitude": 3.19818552656271,
+			"latitude": 3.19818552656271
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.24689915680231,
+			"latitude": 3.24689915680231
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.248415358126247,
+			"latitude": 17.080525124972667
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kerkhof",
+		"amount": 2,
+		"position": {
+			"longitude": 3.248335430304745,
+			"latitude": 25.62110797882005
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op speelplein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2502675864648367,
+			"latitude": 17.077601515393734
+		}
+	},
+	{
+		"type": "bench",
+		"description": "dreef",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23541240739266,
+			"latitude": 25.59636903253845
+		}
+	},
+	{
+		"type": "bench",
+		"description": "pleintje de Kaproenen",
+		"amount": 4,
+		"position": {
+			"longitude": 3.246243385863673,
+			"latitude": 12.80005590169585
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein",
+		"amount": 5,
+		"position": {
+			"longitude": 3.278797245203248,
+			"latitude": 10.237531573010141
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op hoek",
+		"amount": 1,
+		"position": {
+			"longitude": 3.25051095953171,
+			"latitude": 3.25051095953171
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein voor kerk",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2742310450729826,
+			"latitude": 12.796971945415875
+		}
+	},
+	{
+		"type": "bench",
+		"description": "onder houten gebouwtje naast spoorw",
+		"amount": 2,
+		"position": {
+			"longitude": 3.276100560953215,
+			"latitude": 25.59920726953055
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanqueplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2375390690875196,
+			"latitude": 25.5969968294487
+		}
+	},
+	{
+		"type": "bench",
+		"description": "pleintje",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2468639702414266,
+			"latitude": 17.067891885440535
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanqueplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.24976717395809,
+			"latitude": 3.24976717395809
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanqueplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2496456172167054,
+			"latitude": 25.6022761973545
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Vossensteert",
+		"amount": 1,
+		"position": {
+			"longitude": 3.26146790908319,
+			"latitude": 3.26146790908319
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Gagelstraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.16562332142967,
+			"latitude": 3.16562332142967
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanque",
+		"amount": 2,
+		"position": {
+			"longitude": 3.18689202172603,
+			"latitude": 25.60265290043135
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kapel",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18270842093074,
+			"latitude": 3.18270842093074
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Sint-Baafs",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2046249299839022,
+			"latitude": 12.80042591221405
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 29",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1805981062869604,
+			"latitude": 25.593700420841
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 4,
+		"position": {
+			"longitude": 3.1791481810648503,
+			"latitude": 12.796059070226875
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zijkant nr 39",
+		"amount": 1,
+		"position": {
+			"longitude": 3.16770329004287,
+			"latitude": 3.16770329004287
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1709828789401397,
+			"latitude": 25.59842534895155
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Rustoord Fabiola",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18190171126252,
+			"latitude": 3.18190171126252
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Kerkhof",
+		"amount": 1,
+		"position": {
+			"longitude": 3.1792531403928,
+			"latitude": 3.1792531403928
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Terminus",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17420581810941,
+			"latitude": 3.17420581810941
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Hoek St-Annadreef",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17225554734365,
+			"latitude": 3.17225554734365
+		}
+	},
+	{
+		"type": "bench",
+		"description": "einde pijpekop",
+		"amount": 1,
+		"position": {
+			"longitude": 3.1638100275277,
+			"latitude": 3.1638100275277
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kant Kloosterveld",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18729147084282,
+			"latitude": 3.18729147084282
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv eerste wandelpad",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18460245826874,
+			"latitude": 3.18460245826874
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Korte Molenstraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17341247683123,
+			"latitude": 3.17341247683123
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 6,
+		"position": {
+			"longitude": 3.2353433439059014,
+			"latitude": 8.5346992681445
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan bushalte voor Biekorf",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2231241592768036,
+			"latitude": 17.069958286730667
+		}
+	},
+	{
+		"type": "bench",
+		"description": "onder banken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2294183644721297,
+			"latitude": 25.6064499922145
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22626943615596,
+			"latitude": 3.22626943615596
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 4,
+		"position": {
+			"longitude": 3.22631208319757,
+			"latitude": 12.803083119653076
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22789150896405,
+			"latitude": 3.22789150896405
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Langestraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23138249268614,
+			"latitude": 3.23138249268614
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Carmersstraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23152329137814,
+			"latitude": 3.23152329137814
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speciale banken",
+		"amount": 3,
+		"position": {
+			"longitude": 3.22022820471566,
+			"latitude": 17.06943371514703
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bank arduinen sokkel (dubbel)",
+		"amount": 6,
+		"position": {
+			"longitude": 3.2282065288344,
+			"latitude": 8.534628581473383
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zwanehalsbank",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2323949717782074,
+			"latitude": 12.8030872847493
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.20527577865502,
+			"latitude": 17.0636519091159
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek St-Michielslaan",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21947507164082,
+			"latitude": 3.21947507164082
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek cabine",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22033085785721,
+			"latitude": 3.22033085785721
+		}
+	},
+	{
+		"type": "bench",
+		"description": "rondpt Koning Albert I-Laan",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2050439424013,
+			"latitude": 3.2050439424013
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21921741093205,
+			"latitude": 3.21921741093205
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 25C",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2112871984247553,
+			"latitude": 25.5870083706366
+		}
+	},
+	{
+		"type": "bench",
+		"description": "ingang park de rode poort",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2084708602586,
+			"latitude": 3.2084708602586
+		}
+	},
+	{
+		"type": "bench",
+		"description": "gemeentehuis",
+		"amount": 4,
+		"position": {
+			"longitude": 3.210953856544305,
+			"latitude": 12.79710048848745
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Vesalius Instituut",
+		"amount": 2,
+		"position": {
+			"longitude": 3.21366620482679,
+			"latitude": 25.59647647836695
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Spoorwegstraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22400266718989,
+			"latitude": 3.22400266718989
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 52",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20721830782543,
+			"latitude": 3.20721830782543
+		}
+	},
+	{
+		"type": "bench",
+		"description": "ingang kerkhof",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21482881106942,
+			"latitude": 3.21482881106942
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kant gemeentehuis",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20995053069321,
+			"latitude": 3.20995053069321
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Rhetorika",
+		"amount": 3,
+		"position": {
+			"longitude": 3.210014696798607,
+			"latitude": 17.06270610063847
+		}
+	},
+	{
+		"type": "bench",
+		"description": "grasplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21955959709577,
+			"latitude": 3.21955959709577
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22679122443936,
+			"latitude": 3.22679122443936
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan nr 9, 17 en 27",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2097689380859435,
+			"latitude": 17.0783782934883
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Laconiastraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21141001244216,
+			"latitude": 3.21141001244216
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2087952521981737,
+			"latitude": 17.0743183456529
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 13, 22, 40, 44",
+		"amount": 10,
+		"position": {
+			"longitude": 3.201649947173943,
+			"latitude": 5.12221359973063
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv nr 19",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2089405301990968,
+			"latitude": 17.0772211455207
+		}
+	},
+	{
+		"type": "bench",
+		"description": "oud sas tot Baron de Maerelaan",
+		"amount": 6,
+		"position": {
+			"longitude": 3.1928054842593863,
+			"latitude": 8.55477354335115
+		}
+	},
+	{
+		"type": "bench",
+		"description": "van oud tot nieuw sas",
+		"amount": 5,
+		"position": {
+			"longitude": 3.203743267361946,
+			"latitude": 10.26703551653158
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bocht tss nr 23-25, to nr 6, nr 47",
+		"amount": 7,
+		"position": {
+			"longitude": 3.2385217218472926,
+			"latitude": 7.318025968257543
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.230060079049663,
+			"latitude": 17.08202106417973
+		}
+	},
+	{
+		"type": "bench",
+		"description": "pleintje",
+		"amount": 5,
+		"position": {
+			"longitude": 3.2379967075599665,
+			"latitude": 10.2453340360789
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan parking Sint-Pietersplas",
+		"amount": 4,
+		"position": {
+			"longitude": 3.1990960748944746,
+			"latitude": 12.808150315587724
+		}
+	},
+	{
+		"type": "bench",
+		"description": "domein Sint-Pietersplas",
+		"amount": 21,
+		"position": {
+			"longitude": 3.1940674532245317,
+			"latitude": 2.4396696365211477
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.1979605081955165,
+			"latitude": 17.076015403527
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 2,
+		"position": {
+			"longitude": 3.19745898393689,
+			"latitude": 25.61315729651035
+		}
+	},
+	{
+		"type": "bench",
+		"description": "r.o. nr 48",
+		"amount": 2,
+		"position": {
+			"longitude": 3.209154615498215,
+			"latitude": 25.6167778095039
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.212921208034817,
+			"latitude": 17.078291149788967
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Park ter Poele",
+		"amount": 15,
+		"position": {
+			"longitude": 3.2117191170188004,
+			"latitude": 3.415061002640827
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Vismijnstraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20626517762246,
+			"latitude": 3.20626517762246
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 23,
+		"position": {
+			"longitude": 3.1949989693154874,
+			"latitude": 2.228497164641326
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 9,
+		"position": {
+			"longitude": 3.195345021886632,
+			"latitude": 5.695105161169733
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan dierenopvang",
+		"amount": 3,
+		"position": {
+			"longitude": 3.1988856163263004,
+			"latitude": 17.084671293553836
+		}
+	},
+	{
+		"type": "bench",
+		"description": "nr 519",
+		"amount": 1,
+		"position": {
+			"longitude": 3.27011359378342,
+			"latitude": 3.27011359378342
+		}
+	},
+	{
+		"type": "bench",
+		"description": "rechtover nr 20",
+		"amount": 1,
+		"position": {
+			"longitude": 3.26258779561028,
+			"latitude": 3.26258779561028
+		}
+	},
+	{
+		"type": "bench",
+		"description": "straat en plein",
+		"amount": 4,
+		"position": {
+			"longitude": 3.25251319817833,
+			"latitude": 12.8042176937409
+		}
+	},
+	{
+		"type": "bench",
+		"description": "wandel- en fietspad naar Pijpeweg",
+		"amount": 2,
+		"position": {
+			"longitude": 3.282508089829065,
+			"latitude": 25.60855470711175
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Edestraat",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2415062789105153,
+			"latitude": 25.60991242503215
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv kapel",
+		"amount": 1,
+		"position": {
+			"longitude": 3.24147136902147,
+			"latitude": 3.24147136902147
+		}
+	},
+	{
+		"type": "bench",
+		"description": "binnenplein",
+		"amount": 4,
+		"position": {
+			"longitude": 3.26934169239343,
+			"latitude": 12.800994432198
+		}
+	},
+	{
+		"type": "bench",
+		"description": "wandel- en fietspad",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2632738186073,
+			"latitude": 25.6034577161203
+		}
+	},
+	{
+		"type": "bench",
+		"description": "nr 9 en binnenplein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2721167150555437,
+			"latitude": 17.071275134350433
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hoek Pelderijnstraat",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2895409199903,
+			"latitude": 17.0691576707364
+		}
+	},
+	{
+		"type": "bench",
+		"description": "nr 18",
+		"amount": 1,
+		"position": {
+			"longitude": 3.28024668041662,
+			"latitude": 3.28024668041662
+		}
+	},
+	{
+		"type": "bench",
+		"description": "rond boom",
+		"amount": 1,
+		"position": {
+			"longitude": 3.24632262023144,
+			"latitude": 3.24632262023144
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2465128383588047,
+			"latitude": 25.6058758074075
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan petanqueveld",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2738031018685567,
+			"latitude": 17.063471324859368
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.19947666147926,
+			"latitude": 3.19947666147926
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.26360171689915,
+			"latitude": 3.26360171689915
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan standbeeld van Georgske",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23176057321509,
+			"latitude": 25.61273232844995
+		}
+	},
+	{
+		"type": "bench",
+		"description": "schietpers",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17922951756626,
+			"latitude": 3.17922951756626
+		}
+	},
+	{
+		"type": "bench",
+		"description": "zijkant beschermd gebied",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18002632694063,
+			"latitude": 3.18002632694063
+		}
+	},
+	{
+		"type": "bench",
+		"description": "vijver",
+		"amount": 5,
+		"position": {
+			"longitude": 3.1827430088800517,
+			"latitude": 10.24101945143348
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein aan schietpers",
+		"amount": 2,
+		"position": {
+			"longitude": 3.17882288580534,
+			"latitude": 25.60205494217695
+		}
+	},
+	{
+		"type": "bench",
+		"description": "plein aan toiletgebouw",
+		"amount": 3,
+		"position": {
+			"longitude": 3.180171821463587,
+			"latitude": 17.0675914917258
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein met speelplein",
+		"amount": 5,
+		"position": {
+			"longitude": 3.188450534349988,
+			"latitude": 10.24066445659032
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 6,
+		"position": {
+			"longitude": 3.209941958278099,
+			"latitude": 8.534350512905817
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Weeldestuk",
+		"amount": 2,
+		"position": {
+			"longitude": 3.180720153263005,
+			"latitude": 25.5921681160322
+		}
+	},
+	{
+		"type": "bench",
+		"description": "verbinding Molenijzer",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1801743166597953,
+			"latitude": 25.59355468177455
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan buurthuis",
+		"amount": 2,
+		"position": {
+			"longitude": 3.235664096250645,
+			"latitude": 25.61496098033305
+		}
+	},
+	{
+		"type": "bench",
+		"description": "pleintje",
+		"amount": 5,
+		"position": {
+			"longitude": 3.23851723296774,
+			"latitude": 10.24517443356702
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20072311456168,
+			"latitude": 3.20072311456168
+		}
+	},
+	{
+		"type": "bench",
+		"description": "doorsteek Dopheide",
+		"amount": 1,
+		"position": {
+			"longitude": 3.16813422389733,
+			"latitude": 3.16813422389733
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein hoek Kanselierlaan",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2768880983513102,
+			"latitude": 17.072138898127864
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein hoek Maleveld",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2789509289257204,
+			"latitude": 17.072267336482234
+		}
+	},
+	{
+		"type": "bench",
+		"description": "toegang tot Ooievaarsbos",
+		"amount": 2,
+		"position": {
+			"longitude": 3.20300740628194,
+			"latitude": 25.61876214310015
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelgaard",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21368329598879,
+			"latitude": 3.21368329598879
+		}
+	},
+	{
+		"type": "bench",
+		"description": "wandelpad",
+		"amount": 4,
+		"position": {
+			"longitude": 3.21355079544125,
+			"latitude": 12.796650490660324
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met arduinen sokkel",
+		"amount": 11,
+		"position": {
+			"longitude": 3.246356268640926,
+			"latitude": 4.657456476997701
+		}
+	},
+	{
+		"type": "bench",
+		"description": "voor speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23180266239818,
+			"latitude": 25.61352527805845
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22471382371308,
+			"latitude": 3.22471382371308
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.22444520768832,
+			"latitude": 25.6076972383036
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein thv Langestraat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23490711567551,
+			"latitude": 3.23490711567551
+		}
+	},
+	{
+		"type": "bench",
+		"description": "buurtparking",
+		"amount": 2,
+		"position": {
+			"longitude": 3.235986910360425,
+			"latitude": 25.60796026089765
+		}
+	},
+	{
+		"type": "bench",
+		"description": "schietpers",
+		"amount": 13,
+		"position": {
+			"longitude": 3.237221982179899,
+			"latitude": 3.9395274271190694
+		}
+	},
+	{
+		"type": "bench",
+		"description": "nr 24-26 en aan bushalte thv Wulpen",
+		"amount": 3,
+		"position": {
+			"longitude": 3.22951887173229,
+			"latitude": 17.073433134678666
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan plein tegenaan vesten",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2385733293781236,
+			"latitude": 17.069299794466566
+		}
+	},
+	{
+		"type": "bench",
+		"description": "rustoord Sint-Jozef",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22158195975503,
+			"latitude": 3.22158195975503
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bikeparcours",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20089857841716,
+			"latitude": 3.20089857841716
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan garages",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2191166990332363,
+			"latitude": 17.0608915848127
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.20997515464226,
+			"latitude": 25.58844828267475
+		}
+	},
+	{
+		"type": "bench",
+		"description": "rosarium",
+		"amount": 4,
+		"position": {
+			"longitude": 3.210456926200738,
+			"latitude": 10.2355888550195
+		}
+	},
+	{
+		"type": "bench",
+		"description": "bejaarden",
+		"amount": 2,
+		"position": {
+			"longitude": 3.213179595454125,
+			"latitude": 25.5869404819795
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanqueplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.21527880927668,
+			"latitude": 25.58703491028675
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kant van station",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2200297795193302,
+			"latitude": 25.5993162431834
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Interbad",
+		"amount": 4,
+		"position": {
+			"longitude": 3.257728621687165,
+			"latitude": 12.8017891980869
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in bos",
+		"amount": 2,
+		"position": {
+			"longitude": 3.25931983379111,
+			"latitude": 25.60318630878655
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 3,
+		"position": {
+			"longitude": 3.228631551907567,
+			"latitude": 17.091169390891732
+		}
+	},
+	{
+		"type": "bench",
+		"description": "voor Boeverieschool",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2159502580939803,
+			"latitude": 25.6002287267307
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Boeverie",
+		"amount": 7,
+		"position": {
+			"longitude": 3.216839781775921,
+			"latitude": 7.3145656934375
+		}
+	},
+	{
+		"type": "bench",
+		"description": "rond plein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2361190135105935,
+			"latitude": 17.070677805214867
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan fietsbrug",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23136431825602,
+			"latitude": 25.59601925460575
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Rondelezpark",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2543958597061,
+			"latitude": 25.59777163697665
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein aan petanque",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17704612561448,
+			"latitude": 3.17704612561448
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein aan petanque",
+		"amount": 1,
+		"position": {
+			"longitude": 3.17711906271739,
+			"latitude": 3.17711906271739
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.20015939342533,
+			"latitude": 25.59715364828575
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2178880321112597,
+			"latitude": 25.58902524935355
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.232007342504855,
+			"latitude": 25.61366694848175
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2344161111723873,
+			"latitude": 12.8075861595029
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein",
+		"amount": 5,
+		"position": {
+			"longitude": 3.234268019862598,
+			"latitude": 10.24607922226376
+		}
+	},
+	{
+		"type": "bench",
+		"description": "wandel-fietspad thv zwembad",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18206559548899,
+			"latitude": 3.18206559548899
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelterrein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23208666155639,
+			"latitude": 25.6015441703522
+		}
+	},
+	{
+		"type": "bench",
+		"description": "School",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2314946528814747,
+			"latitude": 25.60617903189275
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in verkaveling",
+		"amount": 9,
+		"position": {
+			"longitude": 3.230007613043096,
+			"latitude": 5.689482674559078
+		}
+	},
+	{
+		"type": "bench",
+		"description": "verkaveling",
+		"amount": 2,
+		"position": {
+			"longitude": 3.230289903097585,
+			"latitude": 25.60290809122955
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.27213533663852,
+			"latitude": 25.59413286753675
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Hoeve de grendel boomgaard",
+		"amount": 2,
+		"position": {
+			"longitude": 3.239230063043725,
+			"latitude": 25.615005952375
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Hoeve de Grendel",
+		"amount": 7,
+		"position": {
+			"longitude": 3.2383081919570746,
+			"latitude": 7.318704729917371
+		}
+	},
+	{
+		"type": "bench",
+		"description": "dreef kerkhof",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2757165444495233,
+			"latitude": 17.06264717810573
+		}
+	},
+	{
+		"type": "bench",
+		"description": "domein Rust Roest",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23882526394051,
+			"latitude": 3.23882526394051
+		}
+	},
+	{
+		"type": "bench",
+		"description": "centrum gemeenteplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2486471784182402,
+			"latitude": 25.60715717308595
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kerkhof",
+		"amount": 3,
+		"position": {
+			"longitude": 3.250700967946587,
+			"latitude": 17.0722784723607
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Cruushove",
+		"amount": 7,
+		"position": {
+			"longitude": 3.253095553989827,
+			"latitude": 7.3170922968737715
+		}
+	},
+	{
+		"type": "bench",
+		"description": "straat",
+		"amount": 2,
+		"position": {
+			"longitude": 3.248871601657995,
+			"latitude": 25.59372803566545
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Watertoren, thv conciergewoning",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18690046557626,
+			"latitude": 3.18690046557626
+		}
+	},
+	{
+		"type": "bench",
+		"description": "rondpunt",
+		"amount": 2,
+		"position": {
+			"longitude": 3.19423654175807,
+			"latitude": 25.5967978424143
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.194237409067887,
+			"latitude": 17.064015226246433
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 6,
+		"position": {
+			"longitude": 3.1821947221419684,
+			"latitude": 8.533921317850433
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.174887358641825,
+			"latitude": 25.59126880358835
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Gruuthuse",
+		"amount": 4,
+		"position": {
+			"longitude": 3.22487367355222,
+			"latitude": 12.80125628419945
+		}
+	},
+	{
+		"type": "bench",
+		"description": "regiepost",
+		"amount": 1,
+		"position": {
+			"longitude": 3.24680615387706,
+			"latitude": 3.24680615387706
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Daverlopark",
+		"amount": 6,
+		"position": {
+			"longitude": 3.246235317581967,
+			"latitude": 8.5323906734427
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 1 en aan Raadsherenlaan",
+		"amount": 2,
+		"position": {
+			"longitude": 3.279842174928655,
+			"latitude": 25.60775452873655
+		}
+	},
+	{
+		"type": "bench",
+		"description": "huisnr 13, 35",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2713430205551797,
+			"latitude": 25.6088717008604
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanqueveld",
+		"amount": 2,
+		"position": {
+			"longitude": 3.270683992260145,
+			"latitude": 25.6080711105333
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.229782500456615,
+			"latitude": 25.60054210404925
+		}
+	},
+	{
+		"type": "bench",
+		"description": "thv Mariastraat",
+		"amount": 9,
+		"position": {
+			"longitude": 3.2235759169398635,
+			"latitude": 5.689298244697078
+		}
+	},
+	{
+		"type": "bench",
+		"description": "binnentuinen",
+		"amount": 6,
+		"position": {
+			"longitude": 3.2237151742098313,
+			"latitude": 8.53407910639325
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Domein 'De Lelie'",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2412529265578134,
+			"latitude": 17.0657585088599
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Albertpark",
+		"amount": 5,
+		"position": {
+			"longitude": 3.24120275427759,
+			"latitude": 10.239536157782641
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2698160359749626,
+			"latitude": 12.7984769330004
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Centrale Begraafplaats",
+		"amount": 12,
+		"position": {
+			"longitude": 3.2398105789845104,
+			"latitude": 4.265930613602275
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Centrale Begraafplaats",
+		"amount": 7,
+		"position": {
+			"longitude": 3.240080419482218,
+			"latitude": 7.3129760222794005
+		}
+	},
+	{
+		"type": "bench",
+		"description": "binnenplein",
+		"amount": 5,
+		"position": {
+			"longitude": 3.2034582236382136,
+			"latitude": 10.24729609391926
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan nr 26",
+		"amount": 2,
+		"position": {
+			"longitude": 3.21069107046608,
+			"latitude": 25.6177452767552
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 3,
+		"position": {
+			"longitude": 3.210204584607633,
+			"latitude": 17.111641270605535
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 15,
+		"position": {
+			"longitude": 3.2101133434560882,
+			"latitude": 3.4223012277351867
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kerkhof",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2760113858937823,
+			"latitude": 12.7970946109724
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kerkhof",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2047576821844297,
+			"latitude": 25.61476323459875
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kerkhof",
+		"amount": 2,
+		"position": {
+			"longitude": 3.19895394879353,
+			"latitude": 25.6469143581158
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.25629451355372,
+			"latitude": 3.25629451355372
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.24602238560096,
+			"latitude": 3.24602238560096
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Biekorf",
+		"amount": 2,
+		"position": {
+			"longitude": 3.22264606187393,
+			"latitude": 25.6049488059219
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 3,
+		"position": {
+			"longitude": 3.207863727558506,
+			"latitude": 17.066516944465132
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kinderboerderij",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2446020395679875,
+			"latitude": 12.7972810276954
+		}
+	},
+	{
+		"type": "bench",
+		"description": "langs fietspad",
+		"amount": 6,
+		"position": {
+			"longitude": 3.1780919891906945,
+			"latitude": 8.530844563114167
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kerkhof",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1803774122164947,
+			"latitude": 25.5975404879383
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kerkhof",
+		"amount": 2,
+		"position": {
+			"longitude": 3.17996557135195,
+			"latitude": 25.5983848189991
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kerkhof",
+		"amount": 2,
+		"position": {
+			"longitude": 3.215752813731055,
+			"latitude": 25.59396657842705
+		}
+	},
+	{
+		"type": "bench",
+		"description": "museum",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23762636797764,
+			"latitude": 25.60744431034575
+		}
+	},
+	{
+		"type": "bench",
+		"description": "museum",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2371959120911176,
+			"latitude": 12.803625577325
+		}
+	},
+	{
+		"type": "bench",
+		"description": "museum",
+		"amount": 2,
+		"position": {
+			"longitude": 3.237745058828345,
+			"latitude": 25.60730963598545
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 8,
+		"position": {
+			"longitude": 3.236695023527296,
+			"latitude": 6.401711241045238
+		}
+	},
+	{
+		"type": "bench",
+		"description": "houten banken met tafel",
+		"amount": 2,
+		"position": {
+			"longitude": 3.161869455420785,
+			"latitude": 25.589266710644
+		}
+	},
+	{
+		"type": "bench",
+		"description": "houten banken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.1619419153700603,
+			"latitude": 25.5892039824238
+		}
+	},
+	{
+		"type": "bench",
+		"description": "grot",
+		"amount": 2,
+		"position": {
+			"longitude": 3.16240996754091,
+			"latitude": 25.58561440613185
+		}
+	},
+	{
+		"type": "bench",
+		"description": "picknickbanken",
+		"amount": 2,
+		"position": {
+			"longitude": 3.16958267064157,
+			"latitude": 25.58534679164525
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kruidentuin",
+		"amount": 5,
+		"position": {
+			"longitude": 3.168100147191048,
+			"latitude": 10.233650158604899
+		}
+	},
+	{
+		"type": "bench",
+		"description": "kruidentuin",
+		"amount": 6,
+		"position": {
+			"longitude": 3.1684172432541335,
+			"latitude": 8.5280908339211
+		}
+	},
+	{
+		"type": "bench",
+		"description": "siertuin",
+		"amount": 8,
+		"position": {
+			"longitude": 3.1675357183655075,
+			"latitude": 6.3963515805368125
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in bos",
+		"amount": 12,
+		"position": {
+			"longitude": 3.1666658416514015,
+			"latitude": 4.264318475624058
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in bos",
+		"amount": 25,
+		"position": {
+			"longitude": 3.155012909431268,
+			"latitude": 2.04691463845566
+		}
+	},
+	{
+		"type": "bench",
+		"description": "hertenweide",
+		"amount": 10,
+		"position": {
+			"longitude": 3.158208940586572,
+			"latitude": 5.1176240244169104
+		}
+	},
+	{
+		"type": "bench",
+		"description": "In groenzone naar Abdijbekestraat",
+		"amount": 2,
+		"position": {
+			"longitude": 3.202382435315065,
+			"latitude": 25.59796689142775
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op pleintje",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2247280748294473,
+			"latitude": 12.802643572960225
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Joris Dumeryplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.215684599711955,
+			"latitude": 25.6009617636464
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan wandelpad thv appartement",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21052262906095,
+			"latitude": 3.21052262906095
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein thv school",
+		"amount": 2,
+		"position": {
+			"longitude": 3.270667816490775,
+			"latitude": 25.60110519135575
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 5,
+		"position": {
+			"longitude": 3.2139553584805376,
+			"latitude": 10.24322823431152
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in park",
+		"amount": 35,
+		"position": {
+			"longitude": 3.225300132640008,
+			"latitude": 1.46283277304242
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan water",
+		"amount": 2,
+		"position": {
+			"longitude": 3.2029004204707,
+			"latitude": 25.60727112280435
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in hoek kant gerechtsgebouw",
+		"amount": 1,
+		"position": {
+			"longitude": 3.23977301851902,
+			"latitude": 3.23977301851902
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in wijk",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2455669864342878,
+			"latitude": 12.796546892068
+		}
+	},
+	{
+		"type": "bench",
+		"description": "in natuurgebied",
+		"amount": 6,
+		"position": {
+			"longitude": 3.2628294851308635,
+			"latitude": 8.533063673317717
+		}
+	},
+	{
+		"type": "bench",
+		"description": "witte banken",
+		"amount": 7,
+		"position": {
+			"longitude": 3.2241730569979046,
+			"latitude": 7.3150336315323
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan petanqueplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.214980549444645,
+			"latitude": 25.6020077159759
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan bushalte r.o. nr 48",
+		"amount": 1,
+		"position": {
+			"longitude": 3.22846734832284,
+			"latitude": 3.22846734832284
+		}
+	},
+	{
+		"type": "bench",
+		"description": "tgnover Zeger van Malestraat aan zi",
+		"amount": 1,
+		"position": {
+			"longitude": 3.21013012121082,
+			"latitude": 3.21013012121082
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op plein einde van de straat",
+		"amount": 1,
+		"position": {
+			"longitude": 3.19418027974949,
+			"latitude": 3.19418027974949
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op hoek van Grote Ede",
+		"amount": 1,
+		"position": {
+			"longitude": 3.18243606400497,
+			"latitude": 3.18243606400497
+		}
+	},
+	{
+		"type": "bench",
+		"description": "draadbanken",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2148392496350033,
+			"latitude": 17.068192477810864
+		}
+	},
+	{
+		"type": "bench",
+		"description": "binnenkoer van de gebouwen van de p",
+		"amount": 3,
+		"position": {
+			"longitude": 3.2256931416094936,
+			"latitude": 17.068886981792264
+		}
+	},
+	{
+		"type": "bench",
+		"description": "trapveld en speelplein",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2716265921924648,
+			"latitude": 12.800181505918726
+		}
+	},
+	{
+		"type": "bench",
+		"description": "banken met betonsokkel",
+		"amount": 7,
+		"position": {
+			"longitude": 3.232564329203561,
+			"latitude": 7.314928999114043
+		}
+	},
+	{
+		"type": "bench",
+		"description": "paadje naast hulst",
+		"amount": 3,
+		"position": {
+			"longitude": 3.23289320439809,
+			"latitude": 17.068105933891133
+		}
+	},
+	{
+		"type": "bench",
+		"description": "op speelplein",
+		"amount": 1,
+		"position": {
+			"longitude": 3.2386605206265,
+			"latitude": 3.2386605206265
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein De Tandem",
+		"amount": 3,
+		"position": {
+			"longitude": 3.252636193203653,
+			"latitude": 17.0703402876609
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanquevelden",
+		"amount": 5,
+		"position": {
+			"longitude": 3.26614530635471,
+			"latitude": 10.24065024249564
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 2,
+		"position": {
+			"longitude": 3.23756967791926,
+			"latitude": 25.59331755488625
+		}
+	},
+	{
+		"type": "bench",
+		"description": "krachtbalterrein",
+		"amount": 3,
+		"position": {
+			"longitude": 3.206559666897357,
+			"latitude": 17.06239260502147
+		}
+	},
+	{
+		"type": "bench",
+		"description": "petanque",
+		"amount": 1,
+		"position": {
+			"longitude": 3.20775022557789,
+			"latitude": 3.20775022557789
+		}
+	},
+	{
+		"type": "bench",
+		"description": "dreef",
+		"amount": 11,
+		"position": {
+			"longitude": 3.213828373182406,
+			"latitude": 4.652000472611345
+		}
+	},
+	{
+		"type": "bench",
+		"description": "speelplein",
+		"amount": 20,
+		"position": {
+			"longitude": 3.2219730010393253,
+			"latitude": 12.7957792549509
+		}
+	},
+	{
+		"type": "bench",
+		"description": "Leiselepark",
+		"amount": 10,
+		"position": {
+			"longitude": 3.223279944749991,
+			"latitude": 5.1183328058359
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 6,
+		"position": {
+			"longitude": 3.20294142348983,
+			"latitude": 3.20294142348983
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 6,
+		"position": {
+			"longitude": 3.20300578899314,
+			"latitude": 3.20300578899314
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 6,
+		"position": {
+			"longitude": 3.20488889176433,
+			"latitude": 3.20488889176433
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 6,
+		"position": {
+			"longitude": 3.20599640208342,
+			"latitude": 3.20599640208342
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 6,
+		"position": {
+			"longitude": 3.20601384286667,
+			"latitude": 3.20601384286667
+		}
+	},
+	{
+		"type": "bench",
+		"description": "park",
+		"amount": 6,
+		"position": {
+			"longitude": 3.20740693844795,
+			"latitude": 3.20740693844795
+		}
+	},
+	{
+		"type": "bench",
+		"description": "aan fietspad naast water",
+		"amount": 4,
+		"position": {
+			"longitude": 3.2287982549468897,
+			"latitude": 12.805674728378
+		}
+	}
+]

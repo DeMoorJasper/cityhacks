@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./bin/index.js"
+    "start": "node ./bin/index.js",
+    "parsedata": "node ./data/scripts/index.js"
   },
   "repository": {
     "type": "git",
