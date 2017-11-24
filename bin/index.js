@@ -23,6 +23,12 @@ function webServer() {
 
 /* CHECK DATABASE */
 database.start().then((data) => {
-    persistence.checkAll();
-    webServer();
+    console.log("==== CHECKING DATABASE ====");
+    persistence.checkAll().then(() => {
+        console.log("==== STARTING WEBSERVER ====");
+        webServer();
+    }).catch((e) => {
+        console.log("Error accured while checking database.");
+        console.log(e);
+    });
 }).catch(e => console.log(e));
