@@ -25,6 +25,13 @@ function webServer() {
 database.start().then((data) => {
     console.log("==== CHECKING DATABASE ====");
     persistence.checkAll().then(() => {
+        const locations = require("../src/database/locations");
+        locations.searchRadius({
+            longitude: 22.76901822191689,
+            latitude: 358.338605890286
+        }, 1000, "nature").then(data => {
+            console.log(data);
+        }).catch(e => console.log(e));
         console.log("==== STARTING WEBSERVER ====");
         webServer();
     }).catch((e) => {
