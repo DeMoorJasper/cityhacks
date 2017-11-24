@@ -20,12 +20,13 @@ export default class Map extends Component {
 				accuracy: 0,
 				speed: 0
 			},
-			gpsEnabled: true
+			gpsEnabled: true,
+			maneuvers: [],
+			lastManeuver: 0
 		}
 		this.drawMarkers = this.drawMarkers.bind(this);
 		this.drawManeuvres = this.drawManeuvres.bind(this);
 	}
-
 	getLocation() {
 		return new Promise((resolve, reject) => {
 			if ("geolocation" in navigator) {
@@ -38,7 +39,17 @@ export default class Map extends Component {
 		});
 	}
 
+	fillManeuvers() {
+		let maneuvers = [];
+		mockRoute["routes"][0]["legs"][0]["steps"].forEach((step) => {
+			maneuvers.push(step.maneuver);
+		}, this);
+		console.log(maneuvers);
+		this.setState({ maneuvers: maneuvers });
+	}
+
 	componentDidMount() {
+		this.fillManeuvers();
 		let gpsLocation = this.state.gps;
 		this.getLocation().then(position => {
 			gpsLocation = position.coords;
@@ -47,6 +58,10 @@ export default class Map extends Component {
 				if (this.state.gpsEnabled) {
 					this.getLocation().then(position => {
 						gpsLocation = position.coords;
+						if (this.state.maneuvers[this.state.lastManeuver].latitude + 0.001 < gpsLocation.latitude && 
+							this.state.maneuvers[this.state.lastManeuver].longitude + 0.001 < gpsLocation.longitude) {
+								this.setState({ lastManeuver: this.state.lastManeuver + 1 });
+							}
 						console.log("New position: " + gpsLocation);
 					}).catch(e => {
 						interval = null;
@@ -70,7 +85,7 @@ export default class Map extends Component {
 					coordinates={waypoint["location"]}
 					anchor="bottom">
 					<img
-						src={"https://image.flaticon.com/icons/png/512/33/33622.png"}
+						src={"./assets/icons/marker.svg"}
 						style={{
 							width: '3rem',
 							height: 'auto'
@@ -87,6 +102,9 @@ export default class Map extends Component {
 		});
 		console.log(mockRoute["routes"][0]["geometry"]);
 		console.log(this.state.gps);
+		console.log(mockRoute["routes"][0]["legs"][0]["steps"][0]["maneuver"]);
+
+		alert(JSON.stringify(this.state.maneuvers[this.state.lastManeuver]));
 
 		return (
 			<Map
@@ -125,7 +143,9 @@ export default class Map extends Component {
 				</Marker>
 
 				{this.drawMarkers()}
+				{JSON.stringify(this.state.maneuvers[this.state.lastManeuver])}
 			</Map>
+			
 		);
 	}
 }
