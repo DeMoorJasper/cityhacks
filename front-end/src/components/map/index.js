@@ -4,58 +4,57 @@ const mockRoute = require("../../mockdata/route.json");
 
 // Node.js imports
 import { h, Component } from 'preact';
+import ReactMapboxGl, { GeoJSONLayer, Feature } from "react-mapbox-gl";
 
 // Script imports
 import style from './style.less';
 
 export default class Map extends Component {
-	constructor() {
-		super();
-		this.state = {
-			map: null
-		}
-	}
-
-	shouldComponentUpdate() {
-		return false;
-	}
-
-	componentDidMount() {
-		let mapboxgl = require('mapbox-gl/dist/mapbox-gl.js');
-		mapboxgl.accessToken = config["mapbox-apikey"];
-
-		let map = new mapboxgl.Map({
-			container: 'map',
-			style: 'mapbox://styles/mapbox/light-v9',
-			center: [3.225, 51.2098], // starting position [lng, lat]
-			zoom: 9 // starting zoom
-		});
-		map.addLayer({
-			"id": "route",
-			"type": "line",
-			"source": {
-				"type": "geojson",
-				"data": {
-					"type": "Feature",
-					"properties": {},
-					"geometry": mockRoute.routes[0].geometry
-				}
-			},
-			"layout": {
-				"line-join": "round",
-				"line-cap": "round"
-			},
-			"paint": {
-				"line-color": "#000000",
-				"line-width": 4
-			}
-		});
-		this.setState({ map: map });
-	}
-
 	render() {
+		const Map = ReactMapboxGl({
+			accessToken: "pk.eyJ1IjoiZ2lsbGVzdmluY2tpZXIyMCIsImEiOiJjamFlN3ZwbDUxeWtkMzNsbzRnMHM2eHZtIn0.QxVyqaJamA9maRZDRhQ5Vg"
+		});
+		console.log(mockRoute["routes"][0]["geometry"]);
+
 		return (
-			<div class={style.map} id="map"></div>
+			<Map
+				style="mapbox://styles/mapbox/streets-v9"
+				containerStyle={{
+					height: "100vh",
+					width: "100vw"
+				}}
+				center={[3.2247, 51.2093]}
+			>
+				<GeoJSONLayer
+					data={{
+						"type": "Feature",
+						"properties": {},
+						"geometry": mockRoute["routes"][0]["geometry"]
+					}}
+					linePaint={{
+						"line-color": "#888",
+            			"line-width": 8
+					}}
+					lineLayout={{
+						"line-join": "round",
+            			"line-cap": "round"
+					}}
+				/><GeoJSONLayer
+					data={{
+						"type": "Feature",
+						"properties": {},
+						"geometry": mockRoute["routes"][0]["geometry"]
+					}}
+					linePaint={{
+						"line-color": "#888",
+            			"line-width": 8
+					}}
+					lineLayout={{
+						"line-join": "round",
+            			"line-cap": "round"
+					}}
+				/>
+			</Map>
 		);
 	}
 }
