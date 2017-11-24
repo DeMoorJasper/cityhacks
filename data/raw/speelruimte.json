@@ -1,0 +1,1267 @@
+[
+{
+"json_featuretype":"Speelruimte"
+,"ID":30
+,"X":70466.905
+,"Y":218974.592
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22888794590563,51.2755992936774]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":31
+,"X":70256.491
+,"Y":218720.427
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22570176651719,51.2730052760439]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":32
+,"X":68230.792
+,"Y":221046.304
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19629463230742,51.2937689922647]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":33
+,"X":67775.601
+,"Y":221082.549
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18961945223362,51.2938846857139]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":38
+,"X":68400.632
+,"Y":222790.736
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19804796314999,51.3090907911013]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":36
+,"X":69520.669
+,"Y":225137.96
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21372957587818,51.3305770218517]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":35
+,"X":69320.843
+,"Y":225617.285
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21045144964246,51.3349786006706]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":37
+,"X":67004.143
+,"Y":225026.485
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17754553666527,51.3294055740122]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":43
+,"X":71891.199
+,"Y":214233.231
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25008989412303,51.2329006075647]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":44
+,"X":71582.544
+,"Y":214077.839
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24570559006058,51.2314626821609]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":47
+,"X":71614.825
+,"Y":215101.31
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24594550766644,51.2406649396123]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":45
+,"X":71655.147
+,"Y":215234.342
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24649444398782,51.241866059857]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":46
+,"X":70492.865
+,"Y":215732.331
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22974372831146,51.2461826166186]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":39
+,"X":70595.788
+,"Y":213649.39
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23167515696785,51.2274767029799]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":40
+,"X":70690.503
+,"Y":213990.82
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23384966702422,51.2304201749835]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":42
+,"X":71118.868
+,"Y":213687.871
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23915272997384,51.2278948220837]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":41
+,"X":71054.46
+,"Y":213496.3
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23827369407546,51.2261643908551]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":25
+,"X":68665.335
+,"Y":213703.477
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20368647797049,51.227759493943]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":24
+,"X":68752.706
+,"Y":212892.155
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20546244576615,51.2204148017414]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":29
+,"X":69099.905
+,"Y":213614.126
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21146043257091,51.2273838393988]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":27
+,"X":69271.8
+,"Y":214483.286
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21253747060537,51.234787794013]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":26
+,"X":68977.761
+,"Y":214385.694
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20834976615217,51.2338695583097]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":28
+,"X":68136.069
+,"Y":213858.644
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19641998736114,51.2290145989594]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":16
+,"X":70763.549
+,"Y":211681.378
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23450583307253,51.2098129553305]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":14
+,"X":70908.325
+,"Y":211927.567
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23621756185599,51.2120323277166]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":15
+,"X":70880.091
+,"Y":212124.67
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23607654430581,51.213813283382]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":13
+,"X":70098.611
+,"Y":212785.605
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22474863413441,51.219645675165]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":12
+,"X":70053.401
+,"Y":212355.658
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22419587399119,51.2157755727289]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":20
+,"X":69574.297
+,"Y":211704.011
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21702781102304,51.2097043053478]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":21
+,"X":69184.262
+,"Y":211934.063
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21185272065295,51.2118648886792]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":22
+,"X":69646.473
+,"Y":212684.394
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21830107242247,51.2186734513054]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":17
+,"X":70597.562
+,"Y":211245.684
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23211732408441,51.2057711337097]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":23
+,"X":70519.843
+,"Y":210986.578
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23117013146911,51.2035347136908]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":19
+,"X":69204.024
+,"Y":210860.426
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21237405852169,51.2022190431907]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":90
+,"X":69250.818
+,"Y":209193.023
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21352145159414,51.1873134105184]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":88
+,"X":69567.175
+,"Y":208732.948
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21804059251069,51.1831484962456]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":92
+,"X":69786.114
+,"Y":208802.945
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22115712874106,51.1838080579132]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":87
+,"X":69519.203
+,"Y":208155.151
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21748287695678,51.1779490304614]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":89
+,"X":68971.642
+,"Y":208097.174
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20966760443965,51.1773523111815]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":91
+,"X":68656.637
+,"Y":209615.562
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20485195810845,51.1908892230741]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":52
+,"X":71615.781
+,"Y":209820.043
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24696941248568,51.1933429018325]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":51
+,"X":71176.264
+,"Y":210350.551
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24069919580245,51.1979093848168]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":55
+,"X":71020.848
+,"Y":210044.567
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23854374410498,51.195137683726]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":57
+,"X":71415.209
+,"Y":209363.13
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2443318190133,51.1890671688003]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":59
+,"X":71432.441
+,"Y":209120.123
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24462553541837,51.186825258572]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":56
+,"X":70710.464
+,"Y":209477.776
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23422741348242,51.1900008542468]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":54
+,"X":73313.868
+,"Y":209246.875
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27151024113346,51.1882772634644]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":53
+,"X":73478.886
+,"Y":209483.685
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27382020912959,51.190427484997]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":50
+,"X":73178.839
+,"Y":209897.89
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26944216186106,51.1941102353804]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":49
+,"X":73290.87
+,"Y":210671.429
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27088098087942,51.2010778349936]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":48
+,"X":72247.385
+,"Y":210250.14
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25604278419006,51.1971520270863]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":60
+,"X":71633.288
+,"Y":212495.033
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2467748455986,51.2172446021909]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":65
+,"X":72359.733
+,"Y":211928.899
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25694850818239,51.2124016804786]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":66
+,"X":72753.443
+,"Y":211282.895
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.26306249156491,51.2065013867486]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":61
+,"X":73283.711
+,"Y":212363.117
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27072899368934,51.2160845658559]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":64
+,"X":74014.742
+,"Y":212932.922
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28076219009835,51.2214986355949]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":67
+,"X":68840.433
+,"Y":210884.281
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20765651673859,51.2022516181296]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":68
+,"X":68322.392
+,"Y":210540.565
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2002703061695,51.1990209664383]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":75
+,"X":68842.854
+,"Y":211673.07
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20728534941749,51.2095313872787]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":74
+,"X":69009.128
+,"Y":211390.47
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20946733926139,51.2069546424338]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":76
+,"X":68494.024
+,"Y":211390.364
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20209907967496,51.2068821840722]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":77
+,"X":68259.38
+,"Y":211485.842
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19934844170629,51.2077658792928]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":82
+,"X":67502.541
+,"Y":211036.026
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18799283487674,51.2035564723816]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":81
+,"X":67398.032
+,"Y":210653.72
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18658605495164,51.2001052276922]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":79
+,"X":66719.867
+,"Y":211488.6
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17669263518087,51.2075118710027]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":78
+,"X":67075.709
+,"Y":211008.755
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18189007801355,51.2035034899935]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":80
+,"X":66979.554
+,"Y":211681.912
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18053513567263,51.2093363470425]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":70
+,"X":67896.393
+,"Y":209772.943
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19391457897723,51.1922609085737]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":69
+,"X":67594.024
+,"Y":210254.479
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18792565247023,51.1961506596349]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":83
+,"X":67588.46
+,"Y":209933.428
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18947333744775,51.1936594796181]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":86
+,"X":66663.345
+,"Y":210421.894
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17612982071718,51.1979165819703]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":85
+,"X":66280.9
+,"Y":210342.936
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17067687150117,51.1971522253562]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":84
+,"X":68313.971
+,"Y":210023.48
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.1998302398936,51.1945712199619]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":71
+,"X":65899.35
+,"Y":207458.531
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.16588682890929,51.1711725666917]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":72
+,"X":66637.578
+,"Y":208888.276
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17611322593657,51.1841293260152]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":73
+,"X":66563.936
+,"Y":208998.201
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.17503350009597,51.1851069463466]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":58
+,"X":70921.536
+,"Y":209110.503
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23732557172145,51.1867289614071]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":62
+,"X":73794.602
+,"Y":212375.329
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27773003056506,51.2164575952564]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":63
+,"X":74064.566
+,"Y":212390.175
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.28158988731031,51.2166263980835]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":96
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2569242865517,51.2050555435781]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":95
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23853984595966,51.2080194350832]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":97
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2389622924981,51.2093920706441]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":94
+,"X":0
+,"Y":0
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18738271551205,51.1942829376795]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":93
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21846279503566,51.1885390004199]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":98
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22570784395913,51.2248570018849]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":101
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21954034262854,51.2065685546508]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":100
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.241524952544,51.2293984412581]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":99
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22648701186005,51.177737409422]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":102
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18747002718254,51.2973779763806]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":103
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20957367213946,51.3312282715184]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":11
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24235203859111,51.2287017444309]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":117
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23827426161923,51.2311671037976]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":104
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24634294134067,51.2119573378865]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":105
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.25214613904777,51.2109275878985]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":106
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.24551084778999,51.199464014897]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":107
+,"X":0
+,"Y":0
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20104978338719,51.1917521666796]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":108
+,"X":0
+,"Y":0
+,"TOESTELLEN":"N"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18949925476941,51.2320550179443]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":109
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20163727654344,51.2376648125616]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":110
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23554247673906,51.2082259992236]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":111
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23240774847645,51.2050565960337]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":112
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19232484069193,51.1795276686324]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":113
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23515930815478,51.2330366385667]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":114
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.21306787052046,51.224706393074]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":115
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19167883666557,51.2270218171403]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":116
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.2262267274403,51.1993012749866]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":1
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.19486174948167,51.2084990233627]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":2
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18070896401319,51.2011321806766]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":3
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23072052859261,51.1934529905587]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":4
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22748181227267,51.2446786805513]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":5
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23702463004865,51.1885698231722]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":6
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.18276941255055,51.1925656619175]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":7
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.20332994464638,51.2045035966835]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":8
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.27833411916148,51.1877667721252]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":9
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.23292354440134,51.1963701551166]}
+}
+,{
+"json_featuretype":"Speelruimte"
+,"ID":10
+,"X":0
+,"Y":0
+,"TOESTELLEN":"J"
+,"PUBLIEK":"J"
+,"Aangemaakt op":"16/03/2017"
+,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+,"json_geometry":{"type":"Point","coordinates":[3.22987786950876,51.2728925430693]}
+}
+]
