@@ -23,7 +23,7 @@ const convert = () => {
         if (err) {
             return console.log(err);
         }
-        console.log("Data written.");
+        console.log("Bench data written.");
     });
 }
 
