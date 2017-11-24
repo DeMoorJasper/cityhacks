@@ -1,14 +1,26 @@
 const config = require('./config');
 const express = require('express');
-const app = express();
+const database = require('../src/database/database');
+const persistence = require('../src/database/persistence');
 
-/* EndPoints */
-const root = require('../src/endpoints/root');
-const routing = require('../src/endpoints/routing');
+function webServer() {
+    /* START WEBSERVER */
+    const app = express();
 
-app.get('/', root.handleRequest);
-app.get('/routing', routing.handleRequest);
+    /* EndPoints */
+    const root = require('../src/endpoints/root');
+    const routing = require('../src/endpoints/routing');
 
-const port = config.getServerPort();
-app.listen(port);
-console.log(`Server started on port: ${port}`);
+    app.get('/', root.handleRequest);
+    app.get('/routing', routing.handleRequest);
+
+    const port = config.getServerPort();
+    app.listen(port);
+    console.log(`Server started on port: ${port}`);
+}
+
+/* CHECK DATABASE */
+database.start().then((data) => {
+    persistence.checkAll();
+    webServer();
+}).catch(e => console.log(e));
