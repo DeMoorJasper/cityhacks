@@ -10,9 +10,11 @@ function webServer() {
     /* EndPoints */
     const root = require('../src/endpoints/root');
     const routing = require('../src/endpoints/routing');
+    const search = require('../src/endpoints/search');
 
     app.get('/', root.handleRequest);
     app.get('/routing', routing.handleRequest);
+    app.get('/search', search.handleRequest);
 
     const port = config.getServerPort();
     app.listen(port);
