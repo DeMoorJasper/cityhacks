@@ -25,20 +25,40 @@ routing.generateRoute = function(options) {
                 radius: 150,
                 passed: {},
                 addPoint: () => {
+                    console.log("Search point");
                     locations.searchRadius(routeBuilder.lastPoint, routeBuilder.radius, options.type)
                     .then((data) => {
                         if (data.length > 0) {
-                            let key = `${data[0].longitude}-${data[0].latitude}`;
+                            let point = {
+                                longitude: data[0].longitude,
+                                latitude: data[0].latitude
+                            };
+                            let key = `${point.longitude}-${point.latitude}`;
+                            let index = 0;
+                            while (routeBuilder.passed[key]) {
+                                index++;
+                                if (data.length < index) {
+                                    point = {
+                                        longitude: data[index].longitude,
+                                        latitude: data[index].latitude
+                                    };
+                                    key = `${point.longitude}-${point.latitude}`;
+                                } else {
+                                    break;
+                                }
+                            }
                             if (!routeBuilder.passed[key]) {
                                 routeBuilder.passed[key] = true;
                                 routeBuilder.points.push({
-                                    longitude: data[0].longitude,
-                                    latitude: data[0].latitude
+                                    longitude: point.longitude,
+                                    latitude: point.latitude
                                 });
-                                routeBuilder.lastPoint.longitude = data[0].longitude;
-                                routeBuilder.lastPoint.latitude = data[0].latitude;
+                                routeBuilder.lastPoint.longitude = point.longitude;
+                                routeBuilder.lastPoint.latitude = point.latitude;
                                 // TODO improve distance adder
                                 routeBuilder.distance += routeBuilder.radius;
+                            } else {
+                                routeBuilder.radius = routeBuilder.radius * 2;
                             }
                         } else {
                             if (routeBuilder.radius > options.distance) {

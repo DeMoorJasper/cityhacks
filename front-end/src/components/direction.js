@@ -31,7 +31,7 @@ export default class Direction extends Component {
 		// console.log("direction", direction);
 		return (
 			<div class={style.direction}>
-				<h1 class={style.arrowText}>next turn {direction.modifier} {this.getIcon(direction.modifier)}</h1>
+				<h1 class={style.arrowText}>{direction.instruction} {this.getIcon(direction.modifier)}</h1>
 			</div>
 		);
 	}

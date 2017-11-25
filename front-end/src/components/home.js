@@ -54,6 +54,7 @@ export default class Home extends Component {
 					})
 				}
 				if (data.error) {
+					alert("Geen geschikte route gevonden :(");
 					console.log(data);
 				}
 			});
@@ -75,7 +76,7 @@ export default class Home extends Component {
 			if (data && data.length > 0) {
 				this.setState({ form: form }, () => {
 					let form = this.state.form;
-					form.suggestions = this.getSuggestions(value);
+					form.suggestions = data;
 					this.setState({
 						form: form
 					});
@@ -93,18 +94,6 @@ export default class Home extends Component {
 		this.setState({
 			form: form
 		});
-	};
-
-	getSuggestions(value) {
-		const inputValue = value.trim().toLowerCase();
-		const inputLength = inputValue.length;
-		let locations = this.state.form.searchData;
-
-		let res = inputLength === 0 ? [] : locations.filter(loc =>
-			loc.description.includes(inputValue)
-		);
-		console.log(res);
-		return res;
 	};
 
 	onSuggestionSelected(event, data) {
