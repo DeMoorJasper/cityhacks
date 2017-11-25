@@ -46,11 +46,15 @@ export default class Home extends Component {
 				distance: 2500
 			};
 			console.log(options);
+			console.log(`http://localhost:4200/routing?options=${JSON.stringify(options)}`);
 			ajax.get(`http://localhost:4200/routing?options=${JSON.stringify(options)}`, null, (data) => {
 				if (data && data.routes) {
 					this.props.setRoute(data, () => {
 						route('/routing', true);
 					})
+				}
+				if (data.error) {
+					console.log(data);
 				}
 			});
 		}
@@ -76,6 +80,9 @@ export default class Home extends Component {
 						form: form
 					});
 				});
+			}
+			if (data.error) {
+				console.log(data);
 			}
 		});
 	};
