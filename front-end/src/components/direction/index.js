@@ -2,12 +2,12 @@ import { h, Component } from 'preact';
 import { Link } from 'preact-router';
 import style from './style.less';
 
-export default class Header extends Component {
+export default class Direction extends Component {
 	render() {
 		return (
-			<header class={style.header}>
-				<h1>Pitstop</h1>
-			</header>
+			<div>
+				{JSON.stringify(this.props.data)}
+			</div>
 		);
 	}
 }

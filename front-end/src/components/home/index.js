@@ -1,5 +1,4 @@
 import { h, Component } from 'preact';
-import style from './reset.less';
 import style from './style.less';
 
 export default class Home extends Component {
@@ -16,9 +15,9 @@ export default class Home extends Component {
 						<option value="Playgrounds">Speelbos</option>
 						<option value="Swimming">Zwembad</option>
 						<option value="Horeca">Horeca</option>
-					</select>
+					</select><br/>
 					<label for="bank">Zitbankje</label>
-					<input type="checkbox" name="Bank" id="bank"/>
+					<input type="checkbox" name="Bank" id="bank"/><br/>
 					<label>Rolstoel<input type="checkbox" name="Wheelchair"/></label>
 					<input type="submit" value="Zoeken"/>
 				</form>
