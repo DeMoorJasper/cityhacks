@@ -27,10 +27,29 @@ export default class Routing extends Component {
 		}
 
 		this.fillManeuvers = this.fillManeuvers.bind(this);
+		this.checkManeuver = this.checkManeuver.bind(this);
 	}
 
 	componentDidMount() {
 		this.fillManeuvers();
+		let gpsLocation = this.state.gps;
+		this.getLocation().then(position => {
+			this.setState({ gps: position.coords });
+		}).catch(e => {
+			this.setState({ gpsEnabled: false });
+		});
+	}
+
+	getLocation() {
+		return new Promise((resolve, reject) => {
+			if ("geolocation" in navigator) {
+				navigator.geolocation.getCurrentPosition((position) => {
+					return resolve(position);
+				});
+			} else {
+				return reject("Geolocation unavailable");
+			}
+		});
 	}
 
 	fillManeuvers() {
@@ -42,10 +61,19 @@ export default class Routing extends Component {
 		this.setState({ maneuvers: maneuvers });
 	}
 
+	checkManeuver(gpsLocation) {
+		console.log(gpsLocation);
+		if (this.state.maneuvers[this.state.lastManeuver].latitude + 0.001 < gpsLocation.latitude &&
+			this.state.maneuvers[this.state.lastManeuver].longitude + 0.001 < gpsLocation.longitude) {
+			this.setState({ lastManeuver: this.state.lastManeuver + 1 });
+		}
+	}
+
 	render() {
 		return (
 			<div>
-				<Map />
+				<Map gps={this.state.gps} route={mockRoute} gpsEnabled={this.state.gpsEnabled} 
+					getLocation={this.getLocation} checkManeuver={this.checkManeuver} />
 				<Direction data={this.state.maneuvers[this.state.lastManeuver]} />
 			</div>
 		);
