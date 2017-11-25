@@ -1,6 +1,6 @@
 import { h, Component } from 'preact';
 import { Link } from 'preact-router';
-import style from './style.less';
+import style from './styles/header.less';
 
 export default class Header extends Component {
 	render() {

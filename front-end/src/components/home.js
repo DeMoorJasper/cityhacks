@@ -1,5 +1,5 @@
 import { h, Component } from 'preact';
-import style from './style.less';
+import style from './styles/home.less';
 
 export default class Home extends Component {
 	render() {

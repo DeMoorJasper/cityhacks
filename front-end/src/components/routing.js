@@ -1,16 +1,15 @@
 // Data imports
-const config = require("../../config.json");
-const mockRoute = require("../../mockdata/route.json");
+const mockRoute = require("../mockdata/route.json");
 
 // Node.js imports
 import { h, Component } from 'preact';
 
 // Script imports
-import style from './style.less';
+import style from './styles/routing.less';
 
 // Modules
-import Direction from '../direction';
-import Map from '../map';
+import Direction from './direction';
+import Map from './map';
 
 export default class Routing extends Component {
 	constructor() {

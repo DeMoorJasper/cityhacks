@@ -1,6 +1,6 @@
 import { h, Component } from 'preact';
 import { Link } from 'preact-router';
-import style from './style.less';
+import style from './styles/direction.less';
 
 export default class Direction extends Component {
 	render() {
