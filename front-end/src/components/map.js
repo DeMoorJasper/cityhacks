@@ -1,6 +1,3 @@
-// Data imports
-// const mockRoute = require("../mockdata/route.json");
-
 // Node.js imports
 import { h, Component } from 'preact';
 import ReactMapboxGl, { GeoJSONLayer, Feature } from "react-mapbox-gl";
