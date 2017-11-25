@@ -3,3 +3,4 @@
 
 # Skip config file
 config.json
+package-lock.json
