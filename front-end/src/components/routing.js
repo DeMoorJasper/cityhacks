@@ -28,6 +28,7 @@ export default class Routing extends Component {
 
 		this.fillManeuvers = this.fillManeuvers.bind(this);
 		this.checkManeuver = this.checkManeuver.bind(this);
+		this.updateGps = this.updateGps.bind(this);
 	}
 
 	componentDidMount() {
@@ -57,23 +58,28 @@ export default class Routing extends Component {
 		mockRoute["routes"][0]["legs"][0]["steps"].forEach((step) => {
 			maneuvers.push(step.maneuver);
 		}, this);
-		console.log(maneuvers);
+		// console.log(maneuvers);
 		this.setState({ maneuvers: maneuvers });
 	}
 
 	checkManeuver(gpsLocation) {
-		console.log(gpsLocation);
+		// console.log(gpsLocation);
 		if (this.state.maneuvers[this.state.lastManeuver].latitude + 0.001 < gpsLocation.latitude &&
 			this.state.maneuvers[this.state.lastManeuver].longitude + 0.001 < gpsLocation.longitude) {
 			this.setState({ lastManeuver: this.state.lastManeuver + 1 });
 		}
 	}
 
+	updateGps(gps) {
+		this.setState({ gps : gps });
+	}
+
 	render() {
 		return (
 			<div>
 				<Map gps={this.state.gps} route={mockRoute} gpsEnabled={this.state.gpsEnabled} 
-					getLocation={this.getLocation} checkManeuver={this.checkManeuver} />
+					getLocation={this.getLocation} checkManeuver={this.checkManeuver} 
+					updateGps={this.updateGps} />
 				<Direction data={this.state.maneuvers[this.state.lastManeuver]} />
 			</div>
 		);

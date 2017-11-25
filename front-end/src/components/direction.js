@@ -28,7 +28,7 @@ export default class Direction extends Component {
 	render() {
 		if (!this.props.data) return "";
 		let direction = this.props.data;
-		console.log("direction", direction);
+		// console.log("direction", direction);
 		return (
 			<div class={style.direction}>
 				<h1 class={style.arrowText}>next turn {direction.modifier} {this.getIcon(direction.modifier)}</h1>

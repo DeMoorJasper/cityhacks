@@ -8,9 +8,19 @@ import { Marker } from "react-mapbox-gl";
 
 import style from './styles/map.less';
 
+const Map = ReactMapboxGl({
+	accessToken: "pk.eyJ1IjoiZ2lsbGVzdmluY2tpZXIyMCIsImEiOiJjamFlN3ZwbDUxeWtkMzNsbzRnMHM2eHZtIn0.QxVyqaJamA9maRZDRhQ5Vg"
+});
+
 export default class Profile extends Component {
 	constructor() {
 		super();
+		this.state = {
+			gps: {
+				longitude: 0,
+				latitude: 0
+			}
+		}
 		this.drawMarkers = this.drawMarkers.bind(this);
 	}
 
@@ -21,10 +31,20 @@ export default class Profile extends Component {
 				this.props.getLocation().then(position => {
 					gpsLocation = position.coords;
 					this.props.checkManeuver(gpsLocation);
-					console.log("New position: " + gpsLocation);
+					this.props.updateGps(gpsLocation);
 				}).catch(e => console.log(e));
 			}
 		}, 2000);
+		console.log(Map);
+	}
+
+	componentWillReceiveProps(nextProps) {
+		if (nextProps.gps && nextProps.gps !== this.props.gps) {
+			console.log("update gps");
+			this.setState({ gps : nextProps.gps }, () => {
+				console.log(this.state);
+			});
+		}
 	}
 
 	drawMarkers() {
@@ -38,7 +58,7 @@ export default class Profile extends Component {
 						style={{
 							width: '3rem',
 							height: 'auto',
-							marginBottom: '-1.5rem'
+							marginBottom: '-1.1rem'
 						}}
 					/>
 				</Marker>
@@ -47,10 +67,6 @@ export default class Profile extends Component {
 	}
 
 	render() {
-		const Map = ReactMapboxGl({
-			accessToken: "pk.eyJ1IjoiZ2lsbGVzdmluY2tpZXIyMCIsImEiOiJjamFlN3ZwbDUxeWtkMzNsbzRnMHM2eHZtIn0.QxVyqaJamA9maRZDRhQ5Vg"
-		});
-
 		if (!this.props.route) {
 			return <h1>No route data supplied.</h1>;
 		}
@@ -66,7 +82,7 @@ export default class Profile extends Component {
 					height: "100vh",
 					width: "100vw"
 				}}
-				center={[3.2247, 51.2093]}
+				center={[this.state.gps.longitude, this.state.gps.latitude]}
 			>
 				<GeoJSONLayer
 					data={{
@@ -85,7 +101,7 @@ export default class Profile extends Component {
 				/>
 
 				<Marker
-					coordinates={[this.props.gps.longitude, this.props.gps.latitude]}>
+					coordinates={[this.state.gps.longitude, this.state.gps.latitude]}>
 					<img
 						src={"./assets/icons/gps.svg"}
 						style={{
