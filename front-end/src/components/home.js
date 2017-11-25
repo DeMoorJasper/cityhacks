@@ -44,7 +44,8 @@ export default class Home extends Component {
 				},
 				type: this.state.form.type,
 				distance: 2500
-			}
+			};
+			console.log(options);
 			ajax.get(`http://localhost:4200/routing?options=${JSON.stringify(options)}`, null, (data) => {
 				if (data && data.routes) {
 					this.props.setRoute(data, () => {

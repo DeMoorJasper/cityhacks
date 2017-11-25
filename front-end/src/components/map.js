@@ -48,6 +48,7 @@ export default class Profile extends Component {
 	}
 
 	drawMarkers() {
+		console.log(this.props.route);
 		return this.props.route["waypoints"].map((waypoint) => {
 			return (
 				<Marker
