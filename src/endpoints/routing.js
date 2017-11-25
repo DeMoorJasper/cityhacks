@@ -3,6 +3,7 @@ const calculateRoute = require("../data-processing/routing");
 const routing = {};
 
 routing.handleRequest = function(req, res) {
+    res.header("Access-Control-Allow-Origin", "*");
     let options = req.query.options;
     options = options ? JSON.parse(options) : undefined;
 

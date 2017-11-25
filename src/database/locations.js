@@ -25,7 +25,7 @@ locations.insert = function(location) {
 locations.search = function(query, page) {
     query = `%${query}%`;
     page = page ? page : 0;
-    return db.all("SELECT * FROM locations WHERE description LIKE ? LIMIT 25 OFFSET ?", query, page);
+    return db.all("SELECT * FROM locations WHERE description LIKE ? AND type IS NOT 'bench' LIMIT 25 OFFSET ?", query, page);
 };
 
 locations.searchRadius = function(position, radius, type) {

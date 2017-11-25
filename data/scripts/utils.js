@@ -4,7 +4,7 @@ utils.positionArrayToObject = (coordinates) => {
     if (coordinates.length > 1) {
         return {
             longitude: coordinates[0],
-            latitude: coordinates[0]
+            latitude: coordinates[1]
         };
     }
     return null;

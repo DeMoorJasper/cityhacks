@@ -3,6 +3,7 @@ const locations = require("../database/locations");
 const search = {};
 
 search.handleRequest = function(req, res) {
+    res.header("Access-Control-Allow-Origin", "*");
     let searchQuery = req.query.query;
     let page = req.query.page;
     

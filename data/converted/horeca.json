@@ -5,7 +5,7 @@
 		"description": "De Markies",
 		"position": {
 			"longitude": 3.21801821432411,
-			"latitude": 3.21801821432411
+			"latitude": 51.2060502894539
 		}
 	},
 	{
@@ -14,7 +14,7 @@
 		"description": "Rica Rokk",
 		"position": {
 			"longitude": 3.21808008996403,
-			"latitude": 3.21808008996403
+			"latitude": 51.2059350061145
 		}
 	},
 	{
@@ -23,7 +23,7 @@
 		"description": "Bras Café",
 		"position": {
 			"longitude": 3.2181150591336,
-			"latitude": 3.2181150591336
+			"latitude": 51.2058634974067
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		"description": "Ravage",
 		"position": {
 			"longitude": 3.21826735129743,
-			"latitude": 3.21826735129743
+			"latitude": 51.2058221014686
 		}
 	},
 	{
@@ -41,7 +41,7 @@
 		"description": "Portinari Hotel",
 		"position": {
 			"longitude": 3.21831934321233,
-			"latitude": 3.21831934321233
+			"latitude": 51.2055838833099
 		}
 	},
 	{
@@ -50,7 +50,7 @@
 		"description": "De Hanze",
 		"position": {
 			"longitude": 3.21830082227862,
-			"latitude": 3.21830082227862
+			"latitude": 51.2053623619793
 		}
 	},
 	{
@@ -59,7 +59,7 @@
 		"description": "De Gouden Aap",
 		"position": {
 			"longitude": 3.21838919001982,
-			"latitude": 3.21838919001982
+			"latitude": 51.2052948492086
 		}
 	},
 	{
@@ -68,7 +68,7 @@
 		"description": "Graaf van Vlaanderen",
 		"position": {
 			"longitude": 3.2184236230119,
-			"latitude": 3.2184236230119
+			"latitude": 51.2050205356742
 		}
 	},
 	{
@@ -77,7 +77,7 @@
 		"description": "La Source",
 		"position": {
 			"longitude": 3.21831934321233,
-			"latitude": 3.21831934321233
+			"latitude": 51.2055838833099
 		}
 	},
 	{
@@ -86,7 +86,7 @@
 		"description": "De Middenstand",
 		"position": {
 			"longitude": 3.21855220503456,
-			"latitude": 3.21855220503456
+			"latitude": 51.2048931535212
 		}
 	},
 	{
@@ -95,7 +95,7 @@
 		"description": "'t Zand",
 		"position": {
 			"longitude": 3.21862145498268,
-			"latitude": 3.21862145498268
+			"latitude": 51.2047779415986
 		}
 	},
 	{
@@ -104,7 +104,7 @@
 		"description": "De Gulden Spoor",
 		"position": {
 			"longitude": 3.2186641422306,
-			"latitude": 3.2186641422306
+			"latitude": 51.2046926015225
 		}
 	},
 	{
@@ -113,7 +113,7 @@
 		"description": "Petite maison",
 		"position": {
 			"longitude": 3.21872214310604,
-			"latitude": 3.21872214310604
+			"latitude": 51.2046595588057
 		}
 	},
 	{
@@ -122,7 +122,7 @@
 		"description": "Taveerne Hollywood",
 		"position": {
 			"longitude": 3.21873069081355,
-			"latitude": 3.21873069081355
+			"latitude": 51.2046121288962
 		}
 	},
 	{
@@ -131,7 +131,7 @@
 		"description": "The Green",
 		"position": {
 			"longitude": 3.21875941141142,
-			"latitude": 3.21875941141142
+			"latitude": 51.2045695305774
 		}
 	},
 	{
@@ -140,7 +140,7 @@
 		"description": "Leopold",
 		"position": {
 			"longitude": 3.21881040606874,
-			"latitude": 3.21881040606874
+			"latitude": 51.2045213545765
 		}
 	},
 	{
@@ -149,7 +149,7 @@
 		"description": "'t Pallieterke",
 		"position": {
 			"longitude": 3.2188077566072,
-			"latitude": 3.2188077566072
+			"latitude": 51.204404284503
 		}
 	},
 	{
@@ -158,7 +158,7 @@
 		"description": "'t Zandzakske",
 		"position": {
 			"longitude": 3.21886575702241,
-			"latitude": 3.21886575702241
+			"latitude": 51.204371241712
 		}
 	},
 	{
@@ -167,7 +167,7 @@
 		"description": "De Foyer",
 		"position": {
 			"longitude": 3.21894741891846,
-			"latitude": 3.21894741891846
+			"latitude": 51.2043511763562
 		}
 	},
 	{
@@ -176,7 +176,7 @@
 		"description": "'t Putje",
 		"position": {
 			"longitude": 3.21919021744921,
-			"latitude": 3.21919021744921
+			"latitude": 51.2043048649468
 		}
 	},
 	{
@@ -185,7 +185,7 @@
 		"description": "De Zandloper",
 		"position": {
 			"longitude": 3.21956921635764,
-			"latitude": 3.21956921635764
+			"latitude": 51.204196139687
 		}
 	},
 	{
@@ -194,7 +194,7 @@
 		"description": "'t Zandpoortje",
 		"position": {
 			"longitude": 3.21741673062389,
-			"latitude": 3.21741673062389
+			"latitude": 51.2060537060181
 		}
 	},
 	{
@@ -203,7 +203,7 @@
 		"description": "Efes 2",
 		"position": {
 			"longitude": 3.21783810026508,
-			"latitude": 3.21783810026508
+			"latitude": 51.2061725340996
 		}
 	},
 	{
@@ -212,7 +212,7 @@
 		"description": "De Londres",
 		"position": {
 			"longitude": 3.21831934321233,
-			"latitude": 3.21831934321233
+			"latitude": 51.2055838833099
 		}
 	},
 	{
@@ -221,7 +221,7 @@
 		"description": "'t Speelmanshuys",
 		"position": {
 			"longitude": 3.21757986331824,
-			"latitude": 3.21757986331824
+			"latitude": 51.2061711795096
 		}
 	},
 	{
@@ -230,7 +230,7 @@
 		"description": "Favela Cocktailbar",
 		"position": {
 			"longitude": 3.21881096599986,
-			"latitude": 3.21881096599986
+			"latitude": 51.2049478184517
 		}
 	},
 	{
@@ -239,7 +239,7 @@
 		"description": "Pasta Maria",
 		"position": {
 			"longitude": 3.22143398576469,
-			"latitude": 3.22143398576469
+			"latitude": 51.2049559128434
 		}
 	},
 	{
@@ -248,7 +248,7 @@
 		"description": "Lokkedize",
 		"position": {
 			"longitude": 3.21918576168602,
-			"latitude": 3.21918576168602
+			"latitude": 51.204710420687
 		}
 	},
 	{
@@ -257,7 +257,7 @@
 		"description": "Hotel Lijbeer",
 		"position": {
 			"longitude": 3.21931617451657,
-			"latitude": 3.21931617451657
+			"latitude": 51.2046583810467
 		}
 	},
 	{
@@ -266,7 +266,7 @@
 		"description": "Kardinaalshof",
 		"position": {
 			"longitude": 3.2213205792822,
-			"latitude": 3.2213205792822
+			"latitude": 51.2049165703654
 		}
 	},
 	{
@@ -275,7 +275,7 @@
 		"description": "Hotel Salvators",
 		"position": {
 			"longitude": 3.22080591863967,
-			"latitude": 3.22080591863967
+			"latitude": 51.2050657031569
 		}
 	},
 	{
@@ -284,7 +284,7 @@
 		"description": "Den Apero",
 		"position": {
 			"longitude": 3.219914788584,
-			"latitude": 3.219914788584
+			"latitude": 51.2040963593291
 		}
 	},
 	{
@@ -293,7 +293,7 @@
 		"description": "Dolle Dries",
 		"position": {
 			"longitude": 3.21986713257995,
-			"latitude": 3.21986713257995
+			"latitude": 51.2040089822617
 		}
 	},
 	{
@@ -302,7 +302,7 @@
 		"description": "Groenighe",
 		"position": {
 			"longitude": 3.21942739199636,
-			"latitude": 3.21942739199636
+			"latitude": 51.2047116104511
 		}
 	},
 	{
@@ -311,7 +311,7 @@
 		"description": "Joepyjee",
 		"position": {
 			"longitude": 3.22168967989031,
-			"latitude": 3.22168967989031
+			"latitude": 51.2060361269229
 		}
 	},
 	{
@@ -320,7 +320,7 @@
 		"description": "The Top",
 		"position": {
 			"longitude": 3.22195116192157,
-			"latitude": 3.22195116192157
+			"latitude": 51.2059053947533
 		}
 	},
 	{
@@ -329,7 +329,7 @@
 		"description": "Belle Epoque",
 		"position": {
 			"longitude": 3.21872483204207,
-			"latitude": 3.21872483204207
+			"latitude": 51.2050744548273
 		}
 	},
 	{
@@ -338,7 +338,7 @@
 		"description": "China",
 		"position": {
 			"longitude": 3.2185655484716,
-			"latitude": 3.2185655484716
+			"latitude": 51.2050253927021
 		}
 	},
 	{
@@ -347,7 +347,7 @@
 		"description": "St Salvator",
 		"position": {
 			"longitude": 3.22039686041894,
-			"latitude": 3.22039686041894
+			"latitude": 51.2057211194566
 		}
 	},
 	{
@@ -356,7 +356,7 @@
 		"description": "De Buhne",
 		"position": {
 			"longitude": 3.22243734435824,
-			"latitude": 3.22243734435824
+			"latitude": 51.2060897305991
 		}
 	},
 	{
@@ -365,7 +365,7 @@
 		"description": "'t Kleine Genoegen",
 		"position": {
 			"longitude": 3.22264996126044,
-			"latitude": 3.22264996126044
+			"latitude": 51.2059956065321
 		}
 	},
 	{
@@ -374,7 +374,7 @@
 		"description": "Pizza Hut",
 		"position": {
 			"longitude": 3.22297303967891,
-			"latitude": 3.22297303967891
+			"latitude": 51.2068122517249
 		}
 	},
 	{
@@ -383,7 +383,7 @@
 		"description": "Aquarel",
 		"position": {
 			"longitude": 3.22297303967891,
-			"latitude": 3.22297303967891
+			"latitude": 51.2068122517249
 		}
 	},
 	{
@@ -392,7 +392,7 @@
 		"description": "Bhavani",
 		"position": {
 			"longitude": 3.22331083222786,
-			"latitude": 3.22331083222786
+			"latitude": 51.206503792598
 		}
 	},
 	{
@@ -401,7 +401,7 @@
 		"description": "'t Fonteintje",
 		"position": {
 			"longitude": 3.22336951453244,
-			"latitude": 3.22336951453244
+			"latitude": 51.2064429417727
 		}
 	},
 	{
@@ -410,7 +410,7 @@
 		"description": "Simon Stevin",
 		"position": {
 			"longitude": 3.22323661539049,
-			"latitude": 3.22323661539049
+			"latitude": 51.2062956391205
 		}
 	},
 	{
@@ -419,7 +419,7 @@
 		"description": "Poules Moules",
 		"position": {
 			"longitude": 3.22318900351247,
-			"latitude": 3.22318900351247
+			"latitude": 51.2062812716963
 		}
 	},
 	{
@@ -428,7 +428,7 @@
 		"description": "De Vuyst",
 		"position": {
 			"longitude": 3.22245009603736,
-			"latitude": 3.22245009603736
+			"latitude": 51.20632162478
 		}
 	},
 	{
@@ -437,7 +437,7 @@
 		"description": "Bodega Lorena",
 		"position": {
 			"longitude": 3.22338586246814,
-			"latitude": 3.22338586246814
+			"latitude": 51.2069043233811
 		}
 	},
 	{
@@ -446,7 +446,7 @@
 		"description": "De Verbeelding",
 		"position": {
 			"longitude": 3.22375024158214,
-			"latitude": 3.22375024158214
+			"latitude": 51.2065648315014
 		}
 	},
 	{
@@ -455,7 +455,7 @@
 		"description": "Oude Burg 22",
 		"position": {
 			"longitude": 3.22390584087711,
-			"latitude": 3.22390584087711
+			"latitude": 51.206764501643
 		}
 	},
 	{
@@ -464,7 +464,7 @@
 		"description": "De Mangerie",
 		"position": {
 			"longitude": 3.2241121859239,
-			"latitude": 3.2241121859239
+			"latitude": 51.2067004444134
 		}
 	},
 	{
@@ -473,7 +473,7 @@
 		"description": "'t Voermanshuys",
 		"position": {
 			"longitude": 3.22440869390867,
-			"latitude": 3.22440869390867
+			"latitude": 51.2070219982161
 		}
 	},
 	{
@@ -482,7 +482,7 @@
 		"description": "Vineeto",
 		"position": {
 			"longitude": 3.2248383999941,
-			"latitude": 3.2248383999941
+			"latitude": 51.2073286157056
 		}
 	},
 	{
@@ -491,7 +491,7 @@
 		"description": "De Koetse",
 		"position": {
 			"longitude": 3.22356950499196,
-			"latitude": 3.22356950499196
+			"latitude": 51.2063371052519
 		}
 	},
 	{
@@ -500,7 +500,7 @@
 		"description": "De Gilde",
 		"position": {
 			"longitude": 3.2250826895774,
-			"latitude": 3.2250826895774
+			"latitude": 51.2069207447953
 		}
 	},
 	{
@@ -509,7 +509,7 @@
 		"description": "The Olivetree",
 		"position": {
 			"longitude": 3.22537130647268,
-			"latitude": 3.22537130647268
+			"latitude": 51.2083176339417
 		}
 	},
 	{
@@ -518,7 +518,7 @@
 		"description": "Sweet Bruges",
 		"position": {
 			"longitude": 3.22633792352677,
-			"latitude": 3.22633792352677
+			"latitude": 51.2075679275287
 		}
 	},
 	{
@@ -527,7 +527,7 @@
 		"description": "Erasmus",
 		"position": {
 			"longitude": 3.2266599840519,
-			"latitude": 3.2266599840519
+			"latitude": 51.2075246840721
 		}
 	},
 	{
@@ -536,7 +536,7 @@
 		"description": "Bourgoensch Hof",
 		"position": {
 			"longitude": 3.2266599840519,
-			"latitude": 3.2266599840519
+			"latitude": 51.2075246840721
 		}
 	},
 	{
@@ -545,7 +545,7 @@
 		"description": "Relais Bourgondisch Cruyce",
 		"position": {
 			"longitude": 3.22694813606681,
-			"latitude": 3.22694813606681
+			"latitude": 51.2075100836544
 		}
 	},
 	{
@@ -554,7 +554,7 @@
 		"description": "The 57th Restaurant",
 		"position": {
 			"longitude": 3.22637001752001,
-			"latitude": 3.22637001752001
+			"latitude": 51.2076887580815
 		}
 	},
 	{
@@ -563,7 +563,7 @@
 		"description": "Riva del Solle",
 		"position": {
 			"longitude": 3.22618560224285,
-			"latitude": 3.22618560224285
+			"latitude": 51.207309191021
 		}
 	},
 	{
@@ -572,7 +572,7 @@
 		"description": "Caramel",
 		"position": {
 			"longitude": 3.22615441825877,
-			"latitude": 3.22615441825877
+			"latitude": 51.2073772619825
 		}
 	},
 	{
@@ -581,7 +581,7 @@
 		"description": "Martin's",
 		"position": {
 			"longitude": 3.2255215627907,
-			"latitude": 3.2255215627907
+			"latitude": 51.2074557422033
 		}
 	},
 	{
@@ -590,7 +590,7 @@
 		"description": "Arthie's",
 		"position": {
 			"longitude": 3.22585820828068,
-			"latitude": 3.22585820828068
+			"latitude": 51.2075702457205
 		}
 	},
 	{
@@ -599,7 +599,7 @@
 		"description": "De Orangerie",
 		"position": {
 			"longitude": 3.2264497436796,
-			"latitude": 3.2264497436796
+			"latitude": 51.2069942173162
 		}
 	},
 	{
@@ -608,7 +608,7 @@
 		"description": "Opus Latino",
 		"position": {
 			"longitude": 3.22620382625288,
-			"latitude": 3.22620382625288
+			"latitude": 51.2082225418988
 		}
 	},
 	{
@@ -617,7 +617,7 @@
 		"description": "Ter Steeghere",
 		"position": {
 			"longitude": 3.2258980195162,
-			"latitude": 3.2258980195162
+			"latitude": 51.2079785461209
 		}
 	},
 	{
@@ -626,7 +626,7 @@
 		"description": "De Garre",
 		"position": {
 			"longitude": 3.22566695532565,
-			"latitude": 3.22566695532565
+			"latitude": 51.2082231483458
 		}
 	},
 	{
@@ -635,7 +635,7 @@
 		"description": "Cookie's",
 		"position": {
 			"longitude": 3.22591215098743,
-			"latitude": 3.22591215098743
+			"latitude": 51.20823015339
 		}
 	},
 	{
@@ -644,7 +644,7 @@
 		"description": "Hennon",
 		"position": {
 			"longitude": 3.22596300097857,
-			"latitude": 3.22596300097857
+			"latitude": 51.2084137432279
 		}
 	},
 	{
@@ -653,7 +653,7 @@
 		"description": "Breidel de Coninc",
 		"position": {
 			"longitude": 3.2261621156293,
-			"latitude": 3.2261621156293
+			"latitude": 51.2084944689269
 		}
 	},
 	{
@@ -662,7 +662,7 @@
 		"description": "Tom Pouce",
 		"position": {
 			"longitude": 3.22622048407552,
-			"latitude": 3.22622048407552
+			"latitude": 51.2083710357589
 		}
 	},
 	{
@@ -671,7 +671,7 @@
 		"description": "Crown Plaza",
 		"position": {
 			"longitude": 3.22737279470751,
-			"latitude": 3.22737279470751
+			"latitude": 51.2090044649222
 		}
 	},
 	{
@@ -680,7 +680,7 @@
 		"description": "Celtic Ireland",
 		"position": {
 			"longitude": 3.22681657078308,
-			"latitude": 3.22681657078308
+			"latitude": 51.2094185995302
 		}
 	},
 	{
@@ -689,7 +689,7 @@
 		"description": "Kohinoor Tondori",
 		"position": {
 			"longitude": 3.22548241848995,
-			"latitude": 3.22548241848995
+			"latitude": 51.2093547208739
 		}
 	},
 	{
@@ -698,7 +698,7 @@
 		"description": "Quatre mains",
 		"position": {
 			"longitude": 3.22555622584857,
-			"latitude": 3.22555622584857
+			"latitude": 51.2093542754693
 		}
 	},
 	{
@@ -707,7 +707,7 @@
 		"description": "Song-Hua",
 		"position": {
 			"longitude": 3.2256844311376,
-			"latitude": 3.2256844311376
+			"latitude": 51.2093172725608
 		}
 	},
 	{
@@ -716,7 +716,7 @@
 		"description": "Au petit Grand",
 		"position": {
 			"longitude": 3.22612318923497,
-			"latitude": 3.22612318923497
+			"latitude": 51.2094061084094
 		}
 	},
 	{
@@ -725,7 +725,7 @@
 		"description": "Assiette blanche",
 		"position": {
 			"longitude": 3.22631530151438,
-			"latitude": 3.22631530151438
+			"latitude": 51.2096976769042
 		}
 	},
 	{
@@ -734,7 +734,7 @@
 		"description": "Bao Bab Wijnbistro",
 		"position": {
 			"longitude": 3.22640006288567,
-			"latitude": 3.22640006288567
+			"latitude": 51.2097019721792
 		}
 	},
 	{
@@ -743,7 +743,7 @@
 		"description": "'t Brugs Pitahuis",
 		"position": {
 			"longitude": 3.22679339260309,
-			"latitude": 3.22679339260309
+			"latitude": 51.2096872290142
 		}
 	},
 	{
@@ -752,7 +752,7 @@
 		"description": "Passion for Food",
 		"position": {
 			"longitude": 3.2269491535152,
-			"latitude": 3.2269491535152
+			"latitude": 51.2097304514659
 		}
 	},
 	{
@@ -761,7 +761,7 @@
 		"description": "Het Dagelijks Brood",
 		"position": {
 			"longitude": 3.22621680608689,
-			"latitude": 3.22621680608689
+			"latitude": 51.2097268555552
 		}
 	},
 	{
@@ -770,7 +770,7 @@
 		"description": "Sultan Kebab",
 		"position": {
 			"longitude": 3.22627142884393,
-			"latitude": 3.22627142884393
+			"latitude": 51.2094550533616
 		}
 	},
 	{
@@ -779,7 +779,7 @@
 		"description": "Ter Burg",
 		"position": {
 			"longitude": 3.22653235224062,
-			"latitude": 3.22653235224062
+			"latitude": 51.209498133344
 		}
 	},
 	{
@@ -788,7 +788,7 @@
 		"description": "Cambrinus",
 		"position": {
 			"longitude": 3.22612656795923,
-			"latitude": 3.22612656795923
+			"latitude": 51.2097201895369
 		}
 	},
 	{
@@ -797,7 +797,7 @@
 		"description": "De Bocarme",
 		"position": {
 			"longitude": 3.22526624312841,
-			"latitude": 3.22526624312841
+			"latitude": 51.2095936719416
 		}
 	},
 	{
@@ -806,7 +806,7 @@
 		"description": "L' Italiano",
 		"position": {
 			"longitude": 3.22490895140428,
-			"latitude": 3.22490895140428
+			"latitude": 51.2096435240904
 		}
 	},
 	{
@@ -815,7 +815,7 @@
 		"description": "Taveerne Curiosa",
 		"position": {
 			"longitude": 3.22469109584436,
-			"latitude": 3.22469109584436
+			"latitude": 51.2099508300613
 		}
 	},
 	{
@@ -824,7 +824,7 @@
 		"description": "Dell'arte",
 		"position": {
 			"longitude": 3.22484790333619,
-			"latitude": 3.22484790333619
+			"latitude": 51.210101838516
 		}
 	},
 	{
@@ -833,7 +833,7 @@
 		"description": "Den Huzaar",
 		"position": {
 			"longitude": 3.22479747349805,
-			"latitude": 3.22479747349805
+			"latitude": 51.2102774960367
 		}
 	},
 	{
@@ -842,7 +842,7 @@
 		"description": "Maxim's 2",
 		"position": {
 			"longitude": 3.22476018388319,
-			"latitude": 3.22476018388319
+			"latitude": 51.2103686845449
 		}
 	},
 	{
@@ -851,7 +851,7 @@
 		"description": "Verdi",
 		"position": {
 			"longitude": 3.22458429762554,
-			"latitude": 3.22458429762554
+			"latitude": 51.2094908920155
 		}
 	},
 	{
@@ -860,7 +860,7 @@
 		"description": "Rozenbrouw",
 		"position": {
 			"longitude": 3.22264266717629,
-			"latitude": 3.22264266717629
+			"latitude": 51.2122266805664
 		}
 	},
 	{
@@ -869,7 +869,7 @@
 		"description": "Pieter Pourbus",
 		"position": {
 			"longitude": 3.22228057064996,
-			"latitude": 3.22228057064996
+			"latitude": 51.2117202302275
 		}
 	},
 	{
@@ -878,7 +878,7 @@
 		"description": "On the Rock",
 		"position": {
 			"longitude": 3.2232702019664,
-			"latitude": 3.2232702019664
+			"latitude": 51.2110901334149
 		}
 	},
 	{
@@ -887,7 +887,7 @@
 		"description": "Vino Vino",
 		"position": {
 			"longitude": 3.22289776092093,
-			"latitude": 3.22289776092093
+			"latitude": 51.2113055484911
 		}
 	},
 	{
@@ -896,7 +896,7 @@
 		"description": "Celebrations",
 		"position": {
 			"longitude": 3.22364690095339,
-			"latitude": 3.22364690095339
+			"latitude": 51.2119791426978
 		}
 	},
 	{
@@ -905,7 +905,7 @@
 		"description": "Braserie 1900",
 		"position": {
 			"longitude": 3.22445694555566,
-			"latitude": 3.22445694555566
+			"latitude": 51.2094178111572
 		}
 	},
 	{
@@ -914,7 +914,7 @@
 		"description": "Au petit café",
 		"position": {
 			"longitude": 3.22447039669322,
-			"latitude": 3.22447039669322
+			"latitude": 51.209395923132
 		}
 	},
 	{
@@ -923,7 +923,7 @@
 		"description": "La Civiere D'or",
 		"position": {
 			"longitude": 3.22445694555566,
-			"latitude": 3.22445694555566
+			"latitude": 51.2094178111572
 		}
 	},
 	{
@@ -932,7 +932,7 @@
 		"description": "Café Des Arts",
 		"position": {
 			"longitude": 3.22431492087324,
-			"latitude": 3.22431492087324
+			"latitude": 51.2094164369398
 		}
 	},
 	{
@@ -941,7 +941,7 @@
 		"description": "De Gouden Meermin",
 		"position": {
 			"longitude": 3.22422482570175,
-			"latitude": 3.22422482570175
+			"latitude": 51.2094039765888
 		}
 	},
 	{
@@ -950,7 +950,7 @@
 		"description": "Central",
 		"position": {
 			"longitude": 3.22409928485499,
-			"latitude": 3.22409928485499
+			"latitude": 51.2094827223509
 		}
 	},
 	{
@@ -959,7 +959,7 @@
 		"description": "Sint Joris",
 		"position": {
 			"longitude": 3.22401310594611,
-			"latitude": 3.22401310594611
+			"latitude": 51.2094610289339
 		}
 	},
 	{
@@ -968,7 +968,7 @@
 		"description": "Le Pannier D'or",
 		"position": {
 			"longitude": 3.22393365435662,
-			"latitude": 3.22393365435662
+			"latitude": 51.2093907288259
 		}
 	},
 	{
@@ -977,7 +977,7 @@
 		"description": "De Brugse Taverne",
 		"position": {
 			"longitude": 3.22383678163099,
-			"latitude": 3.22383678163099
+			"latitude": 51.2092785413731
 		}
 	},
 	{
@@ -986,7 +986,7 @@
 		"description": "De Carré",
 		"position": {
 			"longitude": 3.22374532905605,
-			"latitude": 3.22374532905605
+			"latitude": 51.2091710417111
 		}
 	},
 	{
@@ -995,7 +995,7 @@
 		"description": "Belfort",
 		"position": {
 			"longitude": 3.22362013279586,
-			"latitude": 3.22362013279586
+			"latitude": 51.2091605587622
 		}
 	},
 	{
@@ -1004,7 +1004,7 @@
 		"description": "Café Francais",
 		"position": {
 			"longitude": 3.22353409687382,
-			"latitude": 3.22353409687382
+			"latitude": 51.2091330721132
 		}
 	},
 	{
@@ -1013,7 +1013,7 @@
 		"description": "Da Mario",
 		"position": {
 			"longitude": 3.2234633001661,
-			"latitude": 3.2234633001661
+			"latitude": 51.2090860325015
 		}
 	},
 	{
@@ -1022,7 +1022,7 @@
 		"description": "De Beurze",
 		"position": {
 			"longitude": 3.22338140839738,
-			"latitude": 3.22338140839738
+			"latitude": 51.2090400442471
 		}
 	},
 	{
@@ -1031,7 +1031,7 @@
 		"description": "Huize die Maene",
 		"position": {
 			"longitude": 3.22345165940473,
-			"latitude": 3.22345165940473
+			"latitude": 51.2086583035885
 		}
 	},
 	{
@@ -1040,7 +1040,7 @@
 		"description": "Craenenburg",
 		"position": {
 			"longitude": 3.22360787229884,
-			"latitude": 3.22360787229884
+			"latitude": 51.208607667928
 		}
 	},
 	{
@@ -1049,7 +1049,7 @@
 		"description": "Meridian 3",
 		"position": {
 			"longitude": 3.22377821832363,
-			"latitude": 3.22377821832363
+			"latitude": 51.2085073382745
 		}
 	},
 	{
@@ -1058,7 +1058,7 @@
 		"description": "Quick",
 		"position": {
 			"longitude": 3.22376003313468,
-			"latitude": 3.22376003313468
+			"latitude": 51.2084214072024
 		}
 	},
 	{
@@ -1067,7 +1067,7 @@
 		"description": "De Vier Winden",
 		"position": {
 			"longitude": 3.22428664289404,
-			"latitude": 3.22428664289404
+			"latitude": 51.2081622862104
 		}
 	},
 	{
@@ -1076,7 +1076,7 @@
 		"description": "De Vlaamsche Pot",
 		"position": {
 			"longitude": 3.21980106955645,
-			"latitude": 3.21980106955645
+			"latitude": 51.207591516102
 		}
 	},
 	{
@@ -1085,7 +1085,7 @@
 		"description": "Le Petit Patron",
 		"position": {
 			"longitude": 3.22355546533383,
-			"latitude": 3.22355546533383
+			"latitude": 51.2096906864453
 		}
 	},
 	{
@@ -1094,7 +1094,7 @@
 		"description": "Hotel Heritage",
 		"position": {
 			"longitude": 3.22370930468296,
-			"latitude": 3.22370930468296
+			"latitude": 51.2101128388385
 		}
 	},
 	{
@@ -1103,7 +1103,7 @@
 		"description": "Hotel Nicola's",
 		"position": {
 			"longitude": 3.22352608449198,
-			"latitude": 3.22352608449198
+			"latitude": 51.2099105836437
 		}
 	},
 	{
@@ -1112,7 +1112,7 @@
 		"description": "Raymond",
 		"position": {
 			"longitude": 3.22280142647298,
-			"latitude": 3.22280142647298
+			"latitude": 51.209443500557
 		}
 	},
 	{
@@ -1121,7 +1121,7 @@
 		"description": "Malpertuus",
 		"position": {
 			"longitude": 3.22330541963703,
-			"latitude": 3.22330541963703
+			"latitude": 51.2095051665362
 		}
 	},
 	{
@@ -1130,7 +1130,7 @@
 		"description": "'t Hof van Rembrandt",
 		"position": {
 			"longitude": 3.22337301529317,
-			"latitude": 3.22337301529317
+			"latitude": 51.2094571494325
 		}
 	},
 	{
@@ -1139,7 +1139,7 @@
 		"description": "Coolcat café",
 		"position": {
 			"longitude": 3.22344565308174,
-			"latitude": 3.22344565308174
+			"latitude": 51.2095795322406
 		}
 	},
 	{
@@ -1148,7 +1148,7 @@
 		"description": "Amborix",
 		"position": {
 			"longitude": 3.22344565308174,
-			"latitude": 3.22344565308174
+			"latitude": 51.2095795322406
 		}
 	},
 	{
@@ -1157,7 +1157,7 @@
 		"description": "Pick",
 		"position": {
 			"longitude": 3.22372794761693,
-			"latitude": 3.22372794761693
+			"latitude": 51.2095034637211
 		}
 	},
 	{
@@ -1166,7 +1166,7 @@
 		"description": "Don Quichotte",
 		"position": {
 			"longitude": 3.22366822404042,
-			"latitude": 3.22366822404042
+			"latitude": 51.2093058807977
 		}
 	},
 	{
@@ -1175,7 +1175,7 @@
 		"description": "Los á Moelle",
 		"position": {
 			"longitude": 3.2236095989936,
-			"latitude": 3.2236095989936
+			"latitude": 51.2092890892582
 		}
 	},
 	{
@@ -1184,7 +1184,7 @@
 		"description": "'t Voutje",
 		"position": {
 			"longitude": 3.22343585293779,
-			"latitude": 3.22343585293779
+			"latitude": 51.2092271465673
 		}
 	},
 	{
@@ -1193,7 +1193,7 @@
 		"description": "La Soure",
 		"position": {
 			"longitude": 3.22322816748043,
-			"latitude": 3.22322816748043
+			"latitude": 51.2091950050268
 		}
 	},
 	{
@@ -1202,7 +1202,7 @@
 		"description": "Ter Halle",
 		"position": {
 			"longitude": 3.22368828926838,
-			"latitude": 3.22368828926838
+			"latitude": 51.2092400205483
 		}
 	},
 	{
@@ -1211,7 +1211,7 @@
 		"description": "De Pub",
 		"position": {
 			"longitude": 3.2238225878743,
-			"latitude": 3.2238225878743
+			"latitude": 51.2094058775951
 		}
 	},
 	{
@@ -1220,7 +1220,7 @@
 		"description": "Pane pane",
 		"position": {
 			"longitude": 3.22272183446941,
-			"latitude": 3.22272183446941
+			"latitude": 51.2093789925126
 		}
 	},
 	{
@@ -1229,7 +1229,7 @@
 		"description": "Pickles",
 		"position": {
 			"longitude": 3.2227048175187,
-			"latitude": 3.2227048175187
+			"latitude": 51.2092455597023
 		}
 	},
 	{
@@ -1238,7 +1238,7 @@
 		"description": "De Sneeuwberg",
 		"position": {
 			"longitude": 3.22428573865905,
-			"latitude": 3.22428573865905
+			"latitude": 51.2080487100036
 		}
 	},
 	{
@@ -1247,7 +1247,7 @@
 		"description": "De Pitaleir",
 		"position": {
 			"longitude": 3.22435004013333,
-			"latitude": 3.22435004013333
+			"latitude": 51.2079844365435
 		}
 	},
 	{
@@ -1256,7 +1256,7 @@
 		"description": "@ The Pub",
 		"position": {
 			"longitude": 3.22435004013333,
-			"latitude": 3.22435004013333
+			"latitude": 51.2079844365435
 		}
 	},
 	{
@@ -1265,7 +1265,7 @@
 		"description": "Het Koffieboontje",
 		"position": {
 			"longitude": 3.22435004013333,
-			"latitude": 3.22435004013333
+			"latitude": 51.2079844365435
 		}
 	},
 	{
@@ -1274,7 +1274,7 @@
 		"description": "De Witte Raaf",
 		"position": {
 			"longitude": 3.22435004013333,
-			"latitude": 3.22435004013333
+			"latitude": 51.2079844365435
 		}
 	},
 	{
@@ -1283,7 +1283,7 @@
 		"description": "Strijdershuis",
 		"position": {
 			"longitude": 3.22495774319976,
-			"latitude": 3.22495774319976
+			"latitude": 51.2075024389046
 		}
 	},
 	{
@@ -1292,7 +1292,7 @@
 		"description": "Hotel Brasserie Boterhuis",
 		"position": {
 			"longitude": 3.22163357838908,
-			"latitude": 3.22163357838908
+			"latitude": 51.2104948458791
 		}
 	},
 	{
@@ -1301,7 +1301,7 @@
 		"description": "Hotel Lucca",
 		"position": {
 			"longitude": 3.22252623083819,
-			"latitude": 3.22252623083819
+			"latitude": 51.2110330951384
 		}
 	},
 	{
@@ -1310,7 +1310,7 @@
 		"description": "Hotel Aragon",
 		"position": {
 			"longitude": 3.22228263804139,
-			"latitude": 3.22228263804139
+			"latitude": 51.2106599018862
 		}
 	},
 	{
@@ -1319,7 +1319,7 @@
 		"description": "De Belegde Boterham",
 		"position": {
 			"longitude": 3.22287577065443,
-			"latitude": 3.22287577065443
+			"latitude": 51.208143989353
 		}
 	},
 	{
@@ -1328,7 +1328,7 @@
 		"description": "Sale & Pepe",
 		"position": {
 			"longitude": 3.22282707100475,
-			"latitude": 3.22282707100475
+			"latitude": 51.2082489730178
 		}
 	},
 	{
@@ -1337,7 +1337,7 @@
 		"description": "Bistro De Pompe",
 		"position": {
 			"longitude": 3.22257259136641,
-			"latitude": 3.22257259136641
+			"latitude": 51.2083195146748
 		}
 	},
 	{
@@ -1346,7 +1346,7 @@
 		"description": "De Stove",
 		"position": {
 			"longitude": 3.22258173342328,
-			"latitude": 3.22258173342328
+			"latitude": 51.2082477544551
 		}
 	},
 	{
@@ -1355,7 +1355,7 @@
 		"description": "In de Plantenmarkt",
 		"position": {
 			"longitude": 3.22345713972442,
-			"latitude": 3.22345713972442
+			"latitude": 51.2085853490112
 		}
 	},
 	{
@@ -1364,7 +1364,7 @@
 		"description": "De Amand",
 		"position": {
 			"longitude": 3.22335595129399,
-			"latitude": 3.22335595129399
+			"latitude": 51.2085739394006
 		}
 	},
 	{
@@ -1373,7 +1373,7 @@
 		"description": "Beethoven",
 		"position": {
 			"longitude": 3.22323186170296,
-			"latitude": 3.22323186170296
+			"latitude": 51.2085935968822
 		}
 	},
 	{
@@ -1382,7 +1382,7 @@
 		"description": "'t Eetablissement",
 		"position": {
 			"longitude": 3.22311509289615,
-			"latitude": 3.22311509289615
+			"latitude": 51.208615642853
 		}
 	},
 	{
@@ -1391,7 +1391,7 @@
 		"description": "Taveerne Oud Brugge",
 		"position": {
 			"longitude": 3.22282125726163,
-			"latitude": 3.22282125726163
+			"latitude": 51.2086359731866
 		}
 	},
 	{
@@ -1400,7 +1400,7 @@
 		"description": "Brasserie Medard",
 		"position": {
 			"longitude": 3.22253269858284,
-			"latitude": 3.22253269858284
+			"latitude": 51.2086667836011
 		}
 	},
 	{
@@ -1409,7 +1409,7 @@
 		"description": "Carrilon",
 		"position": {
 			"longitude": 3.22230867241608,
-			"latitude": 3.22230867241608
+			"latitude": 51.2086240523701
 		}
 	},
 	{
@@ -1418,7 +1418,7 @@
 		"description": "Chagall",
 		"position": {
 			"longitude": 3.22169406547588,
-			"latitude": 3.22169406547588
+			"latitude": 51.2084094996203
 		}
 	},
 	{
@@ -1427,7 +1427,7 @@
 		"description": "Humptie Dumptie",
 		"position": {
 			"longitude": 3.22190615981016,
-			"latitude": 3.22190615981016
+			"latitude": 51.2082620645945
 		}
 	},
 	{
@@ -1436,7 +1436,7 @@
 		"description": "St Amandje",
 		"position": {
 			"longitude": 3.22201089371458,
-			"latitude": 3.22201089371458
+			"latitude": 51.2082793040956
 		}
 	},
 	{
@@ -1445,7 +1445,7 @@
 		"description": "Chicken In",
 		"position": {
 			"longitude": 3.22209735419789,
-			"latitude": 3.22209735419789
+			"latitude": 51.2082894132221
 		}
 	},
 	{
@@ -1454,7 +1454,7 @@
 		"description": "Café Frappee +",
 		"position": {
 			"longitude": 3.22217655086106,
-			"latitude": 3.22217655086106
+			"latitude": 51.2082948164556
 		}
 	},
 	{
@@ -1463,7 +1463,7 @@
 		"description": "Eethuis Aubergine",
 		"position": {
 			"longitude": 3.22228466069574,
-			"latitude": 3.22228466069574
+			"latitude": 51.2083248358131
 		}
 	},
 	{
@@ -1472,7 +1472,7 @@
 		"description": "'t Vagevuur",
 		"position": {
 			"longitude": 3.22233519474534,
-			"latitude": 3.22233519474534
+			"latitude": 51.2083705209015
 		}
 	},
 	{
@@ -1481,7 +1481,7 @@
 		"description": "Pasta Presto",
 		"position": {
 			"longitude": 3.22255581542263,
-			"latitude": 3.22255581542263
+			"latitude": 51.2084016305746
 		}
 	},
 	{
@@ -1490,7 +1490,7 @@
 		"description": "De Lange Muur",
 		"position": {
 			"longitude": 3.22303545857995,
-			"latitude": 3.22303545857995
+			"latitude": 51.2083274761925
 		}
 	},
 	{
@@ -1499,7 +1499,7 @@
 		"description": "Ristorante Adriatico",
 		"position": {
 			"longitude": 3.22326178346317,
-			"latitude": 3.22326178346317
+			"latitude": 51.2083516866953
 		}
 	},
 	{
@@ -1508,7 +1508,7 @@
 		"description": "Druid's Cellar",
 		"position": {
 			"longitude": 3.22303545857995,
-			"latitude": 3.22303545857995
+			"latitude": 51.2083274761925
 		}
 	},
 	{
@@ -1517,7 +1517,7 @@
 		"description": "De Medici",
 		"position": {
 			"longitude": 3.22245819284215,
-			"latitude": 3.22245819284215
+			"latitude": 51.2089210088668
 		}
 	},
 	{
@@ -1526,7 +1526,7 @@
 		"description": "Sale et Sucre",
 		"position": {
 			"longitude": 3.22182951562311,
-			"latitude": 3.22182951562311
+			"latitude": 51.2086031826928
 		}
 	},
 	{
@@ -1535,7 +1535,7 @@
 		"description": "Da Vinci",
 		"position": {
 			"longitude": 3.22114872430023,
-			"latitude": 3.22114872430023
+			"latitude": 51.2085293651908
 		}
 	},
 	{
@@ -1544,7 +1544,7 @@
 		"description": "Happy House",
 		"position": {
 			"longitude": 3.2213314875151,
-			"latitude": 3.2213314875151
+			"latitude": 51.2085995107635
 		}
 	},
 	{
@@ -1553,7 +1553,7 @@
 		"description": "La Monnaie",
 		"position": {
 			"longitude": 3.22213900460177,
-			"latitude": 3.22213900460177
+			"latitude": 51.2090720420383
 		}
 	},
 	{
@@ -1562,7 +1562,7 @@
 		"description": "Best Western",
 		"position": {
 			"longitude": 3.22198732094734,
-			"latitude": 3.22198732094734
+			"latitude": 51.2081875262107
 		}
 	},
 	{
@@ -1571,7 +1571,7 @@
 		"description": "Hotel van Eyck",
 		"position": {
 			"longitude": 3.22236298036214,
-			"latitude": 3.22236298036214
+			"latitude": 51.2079153613849
 		}
 	},
 	{
@@ -1580,7 +1580,7 @@
 		"description": "Anurak Thai",
 		"position": {
 			"longitude": 3.22006143601714,
-			"latitude": 3.22006143601714
+			"latitude": 51.19986216755
 		}
 	},
 	{
@@ -1589,7 +1589,7 @@
 		"description": "Breugelhof",
 		"position": {
 			"longitude": 3.22011323255921,
-			"latitude": 3.22011323255921
+			"latitude": 51.199931043238
 		}
 	},
 	{
@@ -1598,7 +1598,7 @@
 		"description": "'t Keizershof",
 		"position": {
 			"longitude": 3.2202809136399,
-			"latitude": 3.2202809136399
+			"latitude": 51.2000879587144
 		}
 	},
 	{
@@ -1607,7 +1607,7 @@
 		"description": "De Stoepa",
 		"position": {
 			"longitude": 3.22039820618891,
-			"latitude": 3.22039820618891
+			"latitude": 51.2002687205674
 		}
 	},
 	{
@@ -1616,7 +1616,7 @@
 		"description": "Cafedraal",
 		"position": {
 			"longitude": 3.22035848438287,
-			"latitude": 3.22035848438287
+			"latitude": 51.2060811502509
 		}
 	},
 	{
@@ -1625,7 +1625,7 @@
 		"description": "Zilveren Pauw",
 		"position": {
 			"longitude": 3.22088841030442,
-			"latitude": 3.22088841030442
+			"latitude": 51.206586919596
 		}
 	},
 	{
@@ -1634,7 +1634,7 @@
 		"description": "Best Western",
 		"position": {
 			"longitude": 3.22086277317988,
-			"latitude": 3.22086277317988
+			"latitude": 51.210179112874
 		}
 	},
 	{
@@ -1643,7 +1643,7 @@
 		"description": "Relax Café",
 		"position": {
 			"longitude": 3.22094135860326,
-			"latitude": 3.22094135860326
+			"latitude": 51.2103594975343
 		}
 	},
 	{
@@ -1652,7 +1652,7 @@
 		"description": "Pietje Pek",
 		"position": {
 			"longitude": 3.22218131817235,
-			"latitude": 3.22218131817235
+			"latitude": 51.209377230231
 		}
 	},
 	{
@@ -1661,7 +1661,7 @@
 		"description": "De Coulissen",
 		"position": {
 			"longitude": 3.22370930468296,
-			"latitude": 3.22370930468296
+			"latitude": 51.2101128388385
 		}
 	},
 	{
@@ -1670,7 +1670,7 @@
 		"description": "La Plaza",
 		"position": {
 			"longitude": 3.22305385621591,
-			"latitude": 3.22305385621591
+			"latitude": 51.2100578195648
 		}
 	},
 	{
@@ -1679,7 +1679,7 @@
 		"description": "Nano",
 		"position": {
 			"longitude": 3.22305385621591,
-			"latitude": 3.22305385621591
+			"latitude": 51.2100578195648
 		}
 	},
 	{
@@ -1688,7 +1688,7 @@
 		"description": "Grand café du Theatre",
 		"position": {
 			"longitude": 3.22346086157969,
-			"latitude": 3.22346086157969
+			"latitude": 51.2101625815691
 		}
 	},
 	{
@@ -1697,7 +1697,7 @@
 		"description": "De Kuppe",
 		"position": {
 			"longitude": 3.22306582452432,
-			"latitude": 3.22306582452432
+			"latitude": 51.2101715028982
 		}
 	},
 	{
@@ -1706,7 +1706,7 @@
 		"description": "Bistro 't Zwarte Huis",
 		"position": {
 			"longitude": 3.22264234623451,
-			"latitude": 3.22264234623451
+			"latitude": 51.2102867615976
 		}
 	},
 	{
@@ -1715,7 +1715,7 @@
 		"description": "Hotel Cavalier",
 		"position": {
 			"longitude": 3.22275981585431,
-			"latitude": 3.22275981585431
+			"latitude": 51.2104617275169
 		}
 	},
 	{
@@ -1724,7 +1724,7 @@
 		"description": "Hotel Hans Memling",
 		"position": {
 			"longitude": 3.22309036489394,
-			"latitude": 3.22309036489394
+			"latitude": 51.2107500071772
 		}
 	},
 	{
@@ -1733,7 +1733,7 @@
 		"description": "Oud Brugge Kojote",
 		"position": {
 			"longitude": 3.22272880885829,
-			"latitude": 3.22272880885829
+			"latitude": 51.2107476632312
 		}
 	},
 	{
@@ -1742,7 +1742,7 @@
 		"description": "In den Witten Kop",
 		"position": {
 			"longitude": 3.22241271466491,
-			"latitude": 3.22241271466491
+			"latitude": 51.2095706837796
 		}
 	},
 	{
@@ -1751,7 +1751,7 @@
 		"description": "Cultuurcafe Biekorf",
 		"position": {
 			"longitude": 3.22225917255397,
-			"latitude": 3.22225917255397
+			"latitude": 51.2098878795846
 		}
 	},
 	{
@@ -1760,7 +1760,7 @@
 		"description": "De Republiek",
 		"position": {
 			"longitude": 3.22154664283525,
-			"latitude": 3.22154664283525
+			"latitude": 51.2100536391758
 		}
 	},
 	{
@@ -1769,7 +1769,7 @@
 		"description": "El Greco",
 		"position": {
 			"longitude": 3.22125926152059,
-			"latitude": 3.22125926152059
+			"latitude": 51.2107113965279
 		}
 	},
 	{
@@ -1778,7 +1778,7 @@
 		"description": "Meneer B",
 		"position": {
 			"longitude": 3.22121042057001,
-			"latitude": 3.22121042057001
+			"latitude": 51.2107468470445
 		}
 	},
 	{
@@ -1787,7 +1787,7 @@
 		"description": "De Bottelier",
 		"position": {
 			"longitude": 3.22059598257579,
-			"latitude": 3.22059598257579
+			"latitude": 51.2113492807262
 		}
 	},
 	{
@@ -1796,7 +1796,7 @@
 		"description": "Saint Cantroit",
 		"position": {
 			"longitude": 3.22081877010353,
-			"latitude": 3.22081877010353
+			"latitude": 51.2111428500574
 		}
 	},
 	{
@@ -1805,7 +1805,7 @@
 		"description": "Zeno",
 		"position": {
 			"longitude": 3.22337936385611,
-			"latitude": 3.22337936385611
+			"latitude": 51.21175405298
 		}
 	},
 	{
@@ -1814,7 +1814,7 @@
 		"description": "De Zolder",
 		"position": {
 			"longitude": 3.22337936385611,
-			"latitude": 3.22337936385611
+			"latitude": 51.21175405298
 		}
 	},
 	{
@@ -1823,7 +1823,7 @@
 		"description": "El Churrasco",
 		"position": {
 			"longitude": 3.22476521890141,
-			"latitude": 3.22476521890141
+			"latitude": 51.2110663611298
 		}
 	},
 	{
@@ -1832,7 +1832,7 @@
 		"description": "Brasserie Soufleur",
 		"position": {
 			"longitude": 3.22477810916566,
-			"latitude": 3.22477810916566
+			"latitude": 51.2107663436032
 		}
 	},
 	{
@@ -1841,7 +1841,7 @@
 		"description": "De drie zintuigen",
 		"position": {
 			"longitude": 3.21998693313344,
-			"latitude": 3.21998693313344
+			"latitude": 51.2034886615334
 		}
 	},
 	{
@@ -1850,7 +1850,7 @@
 		"description": "'t Capucientje",
 		"position": {
 			"longitude": 3.21976138779755,
-			"latitude": 3.21976138779755
+			"latitude": 51.2026845426654
 		}
 	},
 	{
@@ -1859,7 +1859,7 @@
 		"description": "Poes café",
 		"position": {
 			"longitude": 3.22349907280776,
-			"latitude": 3.22349907280776
+			"latitude": 51.2081546622613
 		}
 	},
 	{
@@ -1868,7 +1868,7 @@
 		"description": "Swiss Inn",
 		"position": {
 			"longitude": 3.22168435616009,
-			"latitude": 3.22168435616009
+			"latitude": 51.2065529237399
 		}
 	},
 	{
@@ -1877,7 +1877,7 @@
 		"description": "Laurent",
 		"position": {
 			"longitude": 3.22158074293078,
-			"latitude": 3.22158074293078
+			"latitude": 51.2061150311136
 		}
 	},
 	{
@@ -1886,7 +1886,7 @@
 		"description": "De Brugse Hanze",
 		"position": {
 			"longitude": 3.22077739040879,
-			"latitude": 3.22077739040879
+			"latitude": 51.2062254386267
 		}
 	},
 	{
@@ -1895,7 +1895,7 @@
 		"description": "De Gouden Cop",
 		"position": {
 			"longitude": 3.22420196711576,
-			"latitude": 3.22420196711576
+			"latitude": 51.2082298390146
 		}
 	},
 	{
@@ -1904,7 +1904,7 @@
 		"description": "De Hobbit",
 		"position": {
 			"longitude": 3.22176666459531,
-			"latitude": 3.22176666459531
+			"latitude": 51.2069570028291
 		}
 	},
 	{
@@ -1913,7 +1913,7 @@
 		"description": "'t Brugs Beertje",
 		"position": {
 			"longitude": 3.22161039029396,
-			"latitude": 3.22161039029396
+			"latitude": 51.2067851357245
 		}
 	},
 	{
@@ -1922,7 +1922,7 @@
 		"description": "Dreupelhuisje",
 		"position": {
 			"longitude": 3.22149736394105,
-			"latitude": 3.22149736394105
+			"latitude": 51.2068802241063
 		}
 	},
 	{
@@ -1931,7 +1931,7 @@
 		"description": "The Food Box",
 		"position": {
 			"longitude": 3.21826738805241,
-			"latitude": 3.21826738805241
+			"latitude": 51.2061199273059
 		}
 	},
 	{
@@ -1940,7 +1940,7 @@
 		"description": "La Vitta",
 		"position": {
 			"longitude": 3.21792341308649,
-			"latitude": 3.21792341308649
+			"latitude": 51.2062289893245
 		}
 	},
 	{
@@ -1949,7 +1949,7 @@
 		"description": "Azelea Hotel",
 		"position": {
 			"longitude": 3.21794006516572,
-			"latitude": 3.21794006516572
+			"latitude": 51.2074239295357
 		}
 	},
 	{
@@ -1958,7 +1958,7 @@
 		"description": "L'Intermedé",
 		"position": {
 			"longitude": 3.2189752134058,
-			"latitude": 3.2189752134058
+			"latitude": 51.2067421624546
 		}
 	},
 	{
@@ -1967,7 +1967,7 @@
 		"description": "Juliette's",
 		"position": {
 			"longitude": 3.21969419980968,
-			"latitude": 3.21969419980968
+			"latitude": 51.2057131353676
 		}
 	},
 	{
@@ -1976,7 +1976,7 @@
 		"description": "Bocca",
 		"position": {
 			"longitude": 3.21973173260444,
-			"latitude": 3.21973173260444
+			"latitude": 51.2057621719027
 		}
 	},
 	{
@@ -1985,7 +1985,7 @@
 		"description": "Hotel Passage",
 		"position": {
 			"longitude": 3.21931099709053,
-			"latitude": 3.21931099709053
+			"latitude": 51.2057673540917
 		}
 	},
 	{
@@ -1994,7 +1994,7 @@
 		"description": "De Passage",
 		"position": {
 			"longitude": 3.21912396683358,
-			"latitude": 3.21912396683358
+			"latitude": 51.2058709917824
 		}
 	},
 	{
@@ -2003,7 +2003,7 @@
 		"description": "Hotel Imperial",
 		"position": {
 			"longitude": 3.21908190728113,
-			"latitude": 3.21908190728113
+			"latitude": 51.205930843306
 		}
 	},
 	{
@@ -2012,7 +2012,7 @@
 		"description": "Hemelrijcke",
 		"position": {
 			"longitude": 3.2191138454517,
-			"latitude": 3.2191138454517
+			"latitude": 51.2062069609839
 		}
 	},
 	{
@@ -2021,7 +2021,7 @@
 		"description": "Le Bon Vivant",
 		"position": {
 			"longitude": 3.21915134949286,
-			"latitude": 3.21915134949286
+			"latitude": 51.2062571562702
 		}
 	},
 	{
@@ -2030,7 +2030,7 @@
 		"description": "Atlas",
 		"position": {
 			"longitude": 3.21919335923494,
-			"latitude": 3.21919335923494
+			"latitude": 51.206349114071
 		}
 	},
 	{
@@ -2039,7 +2039,7 @@
 		"description": "Sapristi",
 		"position": {
 			"longitude": 3.21914103236136,
-			"latitude": 3.21914103236136
+			"latitude": 51.2063764179033
 		}
 	},
 	{
@@ -2048,7 +2048,7 @@
 		"description": "Maxim's et Voila",
 		"position": {
 			"longitude": 3.21913306244673,
-			"latitude": 3.21913306244673
+			"latitude": 51.2065501684645
 		}
 	},
 	{
@@ -2057,7 +2057,7 @@
 		"description": "De Ysbeer",
 		"position": {
 			"longitude": 3.21898592427545,
-			"latitude": 3.21898592427545
+			"latitude": 51.2064571886144
 		}
 	},
 	{
@@ -2066,7 +2066,7 @@
 		"description": "Café Au Lait",
 		"position": {
 			"longitude": 3.22027442675135,
-			"latitude": 3.22027442675135
+			"latitude": 51.2078475849041
 		}
 	},
 	{
@@ -2075,7 +2075,7 @@
 		"description": "Walwyck",
 		"position": {
 			"longitude": 3.21943897896707,
-			"latitude": 3.21943897896707
+			"latitude": 51.2100088405792
 		}
 	},
 	{
@@ -2084,7 +2084,7 @@
 		"description": "Karel de Stoute",
 		"position": {
 			"longitude": 3.21986925207249,
-			"latitude": 3.21986925207249
+			"latitude": 51.2093930352455
 		}
 	},
 	{
@@ -2093,7 +2093,7 @@
 		"description": "Hotel Prinsenhof",
 		"position": {
 			"longitude": 3.21946412810652,
-			"latitude": 3.21946412810652
+			"latitude": 51.2080888666494
 		}
 	},
 	{
@@ -2102,7 +2102,7 @@
 		"description": "Laurenzio",
 		"position": {
 			"longitude": 3.22127533642318,
-			"latitude": 3.22127533642318
+			"latitude": 51.2082571045846
 		}
 	},
 	{
@@ -2111,7 +2111,7 @@
 		"description": "Hotel Sablon",
 		"position": {
 			"longitude": 3.22096031557443,
-			"latitude": 3.22096031557443
+			"latitude": 51.2076386970228
 		}
 	},
 	{
@@ -2120,7 +2120,7 @@
 		"description": "Carpaccio",
 		"position": {
 			"longitude": 3.22001264282638,
-			"latitude": 3.22001264282638
+			"latitude": 51.2070906291768
 		}
 	},
 	{
@@ -2129,7 +2129,7 @@
 		"description": "Lunch Pakket",
 		"position": {
 			"longitude": 3.23496471875893,
-			"latitude": 3.23496471875893
+			"latitude": 51.2266131255952
 		}
 	},
 	{
@@ -2138,7 +2138,7 @@
 		"description": "Boldershof",
 		"position": {
 			"longitude": 3.23264192874343,
-			"latitude": 3.23264192874343
+			"latitude": 51.2249128413184
 		}
 	},
 	{
@@ -2147,7 +2147,7 @@
 		"description": "Ter Loy",
 		"position": {
 			"longitude": 3.23108025747468,
-			"latitude": 3.23108025747468
+			"latitude": 51.2255328801276
 		}
 	},
 	{
@@ -2156,7 +2156,7 @@
 		"description": "Azucar Danscentrum",
 		"position": {
 			"longitude": 3.23101970976108,
-			"latitude": 3.23101970976108
+			"latitude": 51.2260479825705
 		}
 	},
 	{
@@ -2165,7 +2165,7 @@
 		"description": "Grilladin",
 		"position": {
 			"longitude": 3.23046927906988,
-			"latitude": 3.23046927906988
+			"latitude": 51.2456548539326
 		}
 	},
 	{
@@ -2174,7 +2174,7 @@
 		"description": "De Zilverberk",
 		"position": {
 			"longitude": 3.23406276410026,
-			"latitude": 3.23406276410026
+			"latitude": 51.2803069069721
 		}
 	},
 	{
@@ -2183,7 +2183,7 @@
 		"description": "Gallo Romeinse Wijnkelder",
 		"position": {
 			"longitude": 3.22473555083888,
-			"latitude": 3.22473555083888
+			"latitude": 51.2738320962298
 		}
 	},
 	{
@@ -2192,7 +2192,7 @@
 		"description": "J Verstegen Ijsatelier",
 		"position": {
 			"longitude": 3.23569843364388,
-			"latitude": 3.23569843364388
+			"latitude": 51.2226963174712
 		}
 	},
 	{
@@ -2201,7 +2201,7 @@
 		"description": "Brsserie Fort van Beieren",
 		"position": {
 			"longitude": 3.24927324731767,
-			"latitude": 3.24927324731767
+			"latitude": 51.2356237349653
 		}
 	},
 	{
@@ -2210,7 +2210,7 @@
 		"description": "De Klokke",
 		"position": {
 			"longitude": 3.24625415235191,
-			"latitude": 3.24625415235191
+			"latitude": 51.2382720408775
 		}
 	},
 	{
@@ -2219,7 +2219,7 @@
 		"description": "Kleine Hap",
 		"position": {
 			"longitude": 3.23941025432109,
-			"latitude": 3.23941025432109
+			"latitude": 51.2289964975072
 		}
 	},
 	{
@@ -2228,7 +2228,7 @@
 		"description": "Houtzagerij",
 		"position": {
 			"longitude": 3.22893565350506,
-			"latitude": 3.22893565350506
+			"latitude": 51.2244785506197
 		}
 	},
 	{
@@ -2237,7 +2237,7 @@
 		"description": "Waterweelde",
 		"position": {
 			"longitude": 3.22764208117861,
-			"latitude": 3.22764208117861
+			"latitude": 51.2272646861917
 		}
 	},
 	{
@@ -2246,7 +2246,7 @@
 		"description": "Frituur de Ring",
 		"position": {
 			"longitude": 3.2275954640574,
-			"latitude": 3.2275954640574
+			"latitude": 51.2278876935633
 		}
 	},
 	{
@@ -2255,7 +2255,7 @@
 		"description": "Oriental Wok",
 		"position": {
 			"longitude": 3.22843644725581,
-			"latitude": 3.22843644725581
+			"latitude": 51.224214159206
 		}
 	},
 	{
@@ -2264,7 +2264,7 @@
 		"description": "Frietshop",
 		"position": {
 			"longitude": 3.22747257363071,
-			"latitude": 3.22747257363071
+			"latitude": 51.2230286384954
 		}
 	},
 	{
@@ -2273,7 +2273,7 @@
 		"description": "Westminster",
 		"position": {
 			"longitude": 3.2274906526575,
-			"latitude": 3.2274906526575
+			"latitude": 51.2229685530083
 		}
 	},
 	{
@@ -2282,7 +2282,7 @@
 		"description": "Art Hostel",
 		"position": {
 			"longitude": 3.22749039490017,
-			"latitude": 3.22749039490017
+			"latitude": 51.2229036552512
 		}
 	},
 	{
@@ -2291,7 +2291,7 @@
 		"description": "De Marmot",
 		"position": {
 			"longitude": 3.23615352148213,
-			"latitude": 3.23615352148213
+			"latitude": 51.2261470693902
 		}
 	},
 	{
@@ -2300,7 +2300,7 @@
 		"description": "Café Vespa",
 		"position": {
 			"longitude": 3.2351015773895,
-			"latitude": 3.2351015773895
+			"latitude": 51.2247788327955
 		}
 	},
 	{
@@ -2309,7 +2309,7 @@
 		"description": "Shalimar Tandoori",
 		"position": {
 			"longitude": 3.23093069771514,
-			"latitude": 3.23093069771514
+			"latitude": 51.2232659045478
 		}
 	},
 	{
@@ -2318,7 +2318,7 @@
 		"description": "Eethuis Krokantje",
 		"position": {
 			"longitude": 3.23083463521763,
-			"latitude": 3.23083463521763
+			"latitude": 51.2231942911823
 		}
 	},
 	{
@@ -2327,7 +2327,7 @@
 		"description": "Sint Joris",
 		"position": {
 			"longitude": 3.22756063893651,
-			"latitude": 3.22756063893651
+			"latitude": 51.2742718910219
 		}
 	},
 	{
@@ -2336,7 +2336,7 @@
 		"description": "Brasserie de drie Zwanen",
 		"position": {
 			"longitude": 3.22507023374614,
-			"latitude": 3.22507023374614
+			"latitude": 51.2737449405243
 		}
 	},
 	{
@@ -2345,7 +2345,7 @@
 		"description": "Frituur Veerle",
 		"position": {
 			"longitude": 3.2250194541346,
-			"latitude": 3.2250194541346
+			"latitude": 51.2737815324349
 		}
 	},
 	{
@@ -2354,7 +2354,7 @@
 		"description": "Café Sportwereld",
 		"position": {
 			"longitude": 3.22448714976131,
-			"latitude": 3.22448714976131
+			"latitude": 51.2725121164973
 		}
 	},
 	{
@@ -2363,7 +2363,7 @@
 		"description": "Herdersbrug",
 		"position": {
 			"longitude": 3.21389315145843,
-			"latitude": 3.21389315145843
+			"latitude": 51.2694183583178
 		}
 	},
 	{
@@ -2372,7 +2372,7 @@
 		"description": "Bar Choq",
 		"position": {
 			"longitude": 3.22021034183354,
-			"latitude": 3.22021034183354
+			"latitude": 51.2067785001504
 		}
 	},
 	{
@@ -2381,7 +2381,7 @@
 		"description": "Bocadillo",
 		"position": {
 			"longitude": 3.22019439719934,
-			"latitude": 3.22019439719934
+			"latitude": 51.2065268741463
 		}
 	},
 	{
@@ -2390,7 +2390,7 @@
 		"description": "'t Zonnekin",
 		"position": {
 			"longitude": 3.22020016751253,
-			"latitude": 3.22020016751253
+			"latitude": 51.2064423338958
 		}
 	},
 	{
@@ -2399,7 +2399,7 @@
 		"description": "Silversant",
 		"position": {
 			"longitude": 3.22016050218864,
-			"latitude": 3.22016050218864
+			"latitude": 51.2059552302134
 		}
 	},
 	{
@@ -2408,7 +2408,7 @@
 		"description": "Joey's Café",
 		"position": {
 			"longitude": 3.22014048032522,
-			"latitude": 3.22014048032522
+			"latitude": 51.2058692805866
 		}
 	},
 	{
@@ -2417,7 +2417,7 @@
 		"description": "Snack Izmir",
 		"position": {
 			"longitude": 3.24643711110968,
-			"latitude": 3.24643711110968
+			"latitude": 51.2131802908834
 		}
 	},
 	{
@@ -2426,7 +2426,7 @@
 		"description": "De Wagenmakerij",
 		"position": {
 			"longitude": 3.24615506423583,
-			"latitude": 3.24615506423583
+			"latitude": 51.2134001123915
 		}
 	},
 	{
@@ -2435,7 +2435,7 @@
 		"description": "De Schulle",
 		"position": {
 			"longitude": 3.25666316796781,
-			"latitude": 3.25666316796781
+			"latitude": 51.2133800156438
 		}
 	},
 	{
@@ -2444,7 +2444,7 @@
 		"description": "Den Arend",
 		"position": {
 			"longitude": 3.24165731253498,
-			"latitude": 3.24165731253498
+			"latitude": 51.2120802915714
 		}
 	},
 	{
@@ -2453,7 +2453,7 @@
 		"description": "'t Apertje",
 		"position": {
 			"longitude": 3.25918678154144,
-			"latitude": 3.25918678154144
+			"latitude": 51.2340367952078
 		}
 	},
 	{
@@ -2462,7 +2462,7 @@
 		"description": "Waterman",
 		"position": {
 			"longitude": 3.270934069378,
-			"latitude": 3.270934069378
+			"latitude": 51.2101121363386
 		}
 	},
 	{
@@ -2471,7 +2471,7 @@
 		"description": "Club Beaufort",
 		"position": {
 			"longitude": 3.29842833786025,
-			"latitude": 3.29842833786025
+			"latitude": 51.2070800008818
 		}
 	},
 	{
@@ -2480,7 +2480,7 @@
 		"description": "Taverne Dampierre",
 		"position": {
 			"longitude": 3.28821903918454,
-			"latitude": 3.28821903918454
+			"latitude": 51.2075665855509
 		}
 	},
 	{
@@ -2489,7 +2489,7 @@
 		"description": "Salons Lodewijk Van Male",
 		"position": {
 			"longitude": 3.28465253873607,
-			"latitude": 3.28465253873607
+			"latitude": 51.2088573399521
 		}
 	},
 	{
@@ -2498,7 +2498,7 @@
 		"description": "Tresor",
 		"position": {
 			"longitude": 3.28053150629238,
-			"latitude": 3.28053150629238
+			"latitude": 51.2074949421293
 		}
 	},
 	{
@@ -2507,7 +2507,7 @@
 		"description": "Eethuis De Jonkman",
 		"position": {
 			"longitude": 3.27830578855992,
-			"latitude": 3.27830578855992
+			"latitude": 51.2076899859301
 		}
 	},
 	{
@@ -2516,7 +2516,7 @@
 		"description": "Frituur Rakontiki",
 		"position": {
 			"longitude": 3.2774469168641,
-			"latitude": 3.2774469168641
+			"latitude": 51.2069450421028
 		}
 	},
 	{
@@ -2525,7 +2525,7 @@
 		"description": "Tearoom Usilia",
 		"position": {
 			"longitude": 3.28717727889425,
-			"latitude": 3.28717727889425
+			"latitude": 51.2076219581531
 		}
 	},
 	{
@@ -2534,7 +2534,7 @@
 		"description": "De Gasterie",
 		"position": {
 			"longitude": 3.25534842516957,
-			"latitude": 3.25534842516957
+			"latitude": 51.2142750201578
 		}
 	},
 	{
@@ -2543,7 +2543,7 @@
 		"description": "De Pauze",
 		"position": {
 			"longitude": 3.25265586212043,
-			"latitude": 3.25265586212043
+			"latitude": 51.2143759583912
 		}
 	},
 	{
@@ -2552,7 +2552,7 @@
 		"description": "Tram 6",
 		"position": {
 			"longitude": 3.25112116112684,
-			"latitude": 3.25112116112684
+			"latitude": 51.2138191291828
 		}
 	},
 	{
@@ -2561,7 +2561,7 @@
 		"description": "Frituur Marnix",
 		"position": {
 			"longitude": 3.2502737882239,
-			"latitude": 3.2502737882239
+			"latitude": 51.2136083220014
 		}
 	},
 	{
@@ -2570,7 +2570,7 @@
 		"description": "Sumo",
 		"position": {
 			"longitude": 3.24829535931282,
-			"latitude": 3.24829535931282
+			"latitude": 51.213476030779
 		}
 	},
 	{
@@ -2579,7 +2579,7 @@
 		"description": "Isola Bella",
 		"position": {
 			"longitude": 3.2476047321128,
-			"latitude": 3.2476047321128
+			"latitude": 51.2137302264206
 		}
 	},
 	{
@@ -2588,7 +2588,7 @@
 		"description": "Bies & Basil",
 		"position": {
 			"longitude": 3.24764763981531,
-			"latitude": 3.24764763981531
+			"latitude": 51.2137874164463
 		}
 	},
 	{
@@ -2597,7 +2597,7 @@
 		"description": "Gildenhuis",
 		"position": {
 			"longitude": 3.24837007397132,
-			"latitude": 3.24837007397132
+			"latitude": 51.2142832934187
 		}
 	},
 	{
@@ -2606,7 +2606,7 @@
 		"description": "Mexico",
 		"position": {
 			"longitude": 3.26119608113073,
-			"latitude": 3.26119608113073
+			"latitude": 51.2137852640924
 		}
 	},
 	{
@@ -2615,7 +2615,7 @@
 		"description": "Jing Fu",
 		"position": {
 			"longitude": 3.25835236208895,
-			"latitude": 3.25835236208895
+			"latitude": 51.2135720291837
 		}
 	},
 	{
@@ -2624,7 +2624,7 @@
 		"description": "Studio",
 		"position": {
 			"longitude": 3.24748289844458,
-			"latitude": 3.24748289844458
+			"latitude": 51.2158057183308
 		}
 	},
 	{
@@ -2633,7 +2633,7 @@
 		"description": "De Nieuwe Welkom",
 		"position": {
 			"longitude": 3.2391781347933,
-			"latitude": 3.2391781347933
+			"latitude": 51.2179273493814
 		}
 	},
 	{
@@ -2642,7 +2642,7 @@
 		"description": "Pizza Line",
 		"position": {
 			"longitude": 3.23968341429081,
-			"latitude": 3.23968341429081
+			"latitude": 51.2168729900371
 		}
 	},
 	{
@@ -2651,7 +2651,7 @@
 		"description": "Lotus",
 		"position": {
 			"longitude": 3.24452021923557,
-			"latitude": 3.24452021923557
+			"latitude": 51.2127924154114
 		}
 	},
 	{
@@ -2660,7 +2660,7 @@
 		"description": "Nieuwe Steenweg",
 		"position": {
 			"longitude": 3.24197802602048,
-			"latitude": 3.24197802602048
+			"latitude": 51.212933939798
 		}
 	},
 	{
@@ -2669,7 +2669,7 @@
 		"description": "Krokantino",
 		"position": {
 			"longitude": 3.23668364124858,
-			"latitude": 3.23668364124858
+			"latitude": 51.219664945808
 		}
 	},
 	{
@@ -2678,7 +2678,7 @@
 		"description": "La Riviera",
 		"position": {
 			"longitude": 3.24495531159253,
-			"latitude": 3.24495531159253
+			"latitude": 51.2102783796398
 		}
 	},
 	{
@@ -2687,7 +2687,7 @@
 		"description": "Mystique",
 		"position": {
 			"longitude": 3.25165381961632,
-			"latitude": 3.25165381961632
+			"latitude": 51.2095271693173
 		}
 	},
 	{
@@ -2696,7 +2696,7 @@
 		"description": "Faluche",
 		"position": {
 			"longitude": 3.25228122161205,
-			"latitude": 3.25228122161205
+			"latitude": 51.2093673788206
 		}
 	},
 	{
@@ -2705,7 +2705,7 @@
 		"description": "'t Petatje",
 		"position": {
 			"longitude": 3.25315865393157,
-			"latitude": 3.25315865393157
+			"latitude": 51.209321192742
 		}
 	},
 	{
@@ -2714,7 +2714,7 @@
 		"description": "Huyze Orphee",
 		"position": {
 			"longitude": 3.25548923464705,
-			"latitude": 3.25548923464705
+			"latitude": 51.2089920232327
 		}
 	},
 	{
@@ -2723,7 +2723,7 @@
 		"description": "Pizza Hut",
 		"position": {
 			"longitude": 3.24793558966953,
-			"latitude": 3.24793558966953
+			"latitude": 51.2104028438302
 		}
 	},
 	{
@@ -2732,7 +2732,7 @@
 		"description": "Klein Noorwegen",
 		"position": {
 			"longitude": 3.24205963933358,
-			"latitude": 3.24205963933358
+			"latitude": 51.2116171099389
 		}
 	},
 	{
@@ -2741,7 +2741,7 @@
 		"description": "Den Voerman",
 		"position": {
 			"longitude": 3.24183202110041,
-			"latitude": 3.24183202110041
+			"latitude": 51.2119510067187
 		}
 	},
 	{
@@ -2750,7 +2750,7 @@
 		"description": "Nieuw Zevekote",
 		"position": {
 			"longitude": 3.24869947794789,
-			"latitude": 3.24869947794789
+			"latitude": 51.1994079847934
 		}
 	},
 	{
@@ -2759,7 +2759,7 @@
 		"description": "De Oosterse Hap / Het Westers Broodje",
 		"position": {
 			"longitude": 3.2470040283549,
-			"latitude": 3.2470040283549
+			"latitude": 51.20034332866
 		}
 	},
 	{
@@ -2768,7 +2768,7 @@
 		"description": "Drakenpaleis",
 		"position": {
 			"longitude": 3.24676568453239,
-			"latitude": 3.24676568453239
+			"latitude": 51.2002831249076
 		}
 	},
 	{
@@ -2777,7 +2777,7 @@
 		"description": "Pita Efes",
 		"position": {
 			"longitude": 3.2457522507506,
-			"latitude": 3.2457522507506
+			"latitude": 51.2006988025758
 		}
 	},
 	{
@@ -2786,7 +2786,7 @@
 		"description": "Nieuw Gemeentehuis",
 		"position": {
 			"longitude": 3.24595484607887,
-			"latitude": 3.24595484607887
+			"latitude": 51.2005581879105
 		}
 	},
 	{
@@ -2795,7 +2795,7 @@
 		"description": "Tramhuis",
 		"position": {
 			"longitude": 3.24613624160115,
-			"latitude": 3.24613624160115
+			"latitude": 51.2009921610941
 		}
 	},
 	{
@@ -2804,7 +2804,7 @@
 		"description": "Frietkotje",
 		"position": {
 			"longitude": 3.23676469048167,
-			"latitude": 3.23676469048167
+			"latitude": 51.2024070087567
 		}
 	},
 	{
@@ -2813,7 +2813,7 @@
 		"description": "New Hong Kong City",
 		"position": {
 			"longitude": 3.2383724987635,
-			"latitude": 3.2383724987635
+			"latitude": 51.2019032235649
 		}
 	},
 	{
@@ -2822,7 +2822,7 @@
 		"description": "Groenhove",
 		"position": {
 			"longitude": 3.24362768699439,
-			"latitude": 3.24362768699439
+			"latitude": 51.2003008214251
 		}
 	},
 	{
@@ -2831,7 +2831,7 @@
 		"description": "De Tijger",
 		"position": {
 			"longitude": 3.21187801424935,
-			"latitude": 3.21187801424935
+			"latitude": 51.1887419193292
 		}
 	},
 	{
@@ -2840,7 +2840,7 @@
 		"description": "'t Snackstje",
 		"position": {
 			"longitude": 3.21138155782322,
-			"latitude": 3.21138155782322
+			"latitude": 51.1892040817777
 		}
 	},
 	{
@@ -2849,7 +2849,7 @@
 		"description": "De Papil",
 		"position": {
 			"longitude": 3.21139648494197,
-			"latitude": 3.21139648494197
+			"latitude": 51.189271441979
 		}
 	},
 	{
@@ -2858,7 +2858,7 @@
 		"description": "'t Schuttershof",
 		"position": {
 			"longitude": 3.21199769205152,
-			"latitude": 3.21199769205152
+			"latitude": 51.1895682009292
 		}
 	},
 	{
@@ -2867,7 +2867,7 @@
 		"description": "El Commandante",
 		"position": {
 			"longitude": 3.2115893985414,
-			"latitude": 3.2115893985414
+			"latitude": 51.1898956398654
 		}
 	},
 	{
@@ -2876,7 +2876,7 @@
 		"description": "De Beiaard",
 		"position": {
 			"longitude": 3.18073137670028,
-			"latitude": 3.18073137670028
+			"latitude": 51.1969170873353
 		}
 	},
 	{
@@ -2885,7 +2885,7 @@
 		"description": "Ocean City",
 		"position": {
 			"longitude": 3.17862128306398,
-			"latitude": 3.17862128306398
+			"latitude": 51.1967023352584
 		}
 	},
 	{
@@ -2894,7 +2894,7 @@
 		"description": "'t Stadion",
 		"position": {
 			"longitude": 3.17831117346052,
-			"latitude": 3.17831117346052
+			"latitude": 51.1967119608536
 		}
 	},
 	{
@@ -2903,7 +2903,7 @@
 		"description": "In De Vriendschap",
 		"position": {
 			"longitude": 3.17471863731514,
-			"latitude": 3.17471863731514
+			"latitude": 51.1962631771751
 		}
 	},
 	{
@@ -2912,7 +2912,7 @@
 		"description": "Pitta Olympia",
 		"position": {
 			"longitude": 3.17508141885364,
-			"latitude": 3.17508141885364
+			"latitude": 51.1962853822785
 		}
 	},
 	{
@@ -2921,7 +2921,7 @@
 		"description": "De Zoete Zonde",
 		"position": {
 			"longitude": 3.17821629218193,
-			"latitude": 3.17821629218193
+			"latitude": 51.197033170782
 		}
 	},
 	{
@@ -2930,7 +2930,7 @@
 		"description": "De Platse",
 		"position": {
 			"longitude": 3.18002494487678,
-			"latitude": 3.18002494487678
+			"latitude": 51.1974245240729
 		}
 	},
 	{
@@ -2939,7 +2939,7 @@
 		"description": "Jan Breydel",
 		"position": {
 			"longitude": 3.18022993709451,
-			"latitude": 3.18022993709451
+			"latitude": 51.1974868459597
 		}
 	},
 	{
@@ -2948,7 +2948,7 @@
 		"description": "De Chalet",
 		"position": {
 			"longitude": 3.18034765730574,
-			"latitude": 3.18034765730574
+			"latitude": 51.197499617914
 		}
 	},
 	{
@@ -2957,7 +2957,7 @@
 		"description": "Frituur Carlos",
 		"position": {
 			"longitude": 3.18022993709451,
-			"latitude": 3.18022993709451
+			"latitude": 51.1974868459597
 		}
 	},
 	{
@@ -2966,7 +2966,7 @@
 		"description": "Los Amigos",
 		"position": {
 			"longitude": 3.18152280838031,
-			"latitude": 3.18152280838031
+			"latitude": 51.196982980371
 		}
 	},
 	{
@@ -2975,7 +2975,7 @@
 		"description": "The Corner",
 		"position": {
 			"longitude": 3.17352615597753,
-			"latitude": 3.17352615597753
+			"latitude": 51.1959417100571
 		}
 	},
 	{
@@ -2984,7 +2984,7 @@
 		"description": "Tuinbos",
 		"position": {
 			"longitude": 3.171411048585,
-			"latitude": 3.171411048585
+			"latitude": 51.1954219948244
 		}
 	},
 	{
@@ -2993,7 +2993,7 @@
 		"description": "Guapa",
 		"position": {
 			"longitude": 3.18336495377293,
-			"latitude": 3.18336495377293
+			"latitude": 51.1979447808133
 		}
 	},
 	{
@@ -3002,7 +3002,7 @@
 		"description": "Sweet Home Lunch",
 		"position": {
 			"longitude": 3.18311242327431,
-			"latitude": 3.18311242327431
+			"latitude": 51.1978657636213
 		}
 	},
 	{
@@ -3011,7 +3011,7 @@
 		"description": "La Baguette",
 		"position": {
 			"longitude": 3.18650613612459,
-			"latitude": 3.18650613612459
+			"latitude": 51.1981616494858
 		}
 	},
 	{
@@ -3020,7 +3020,7 @@
 		"description": "Clos Du Midi",
 		"position": {
 			"longitude": 3.19111973813779,
-			"latitude": 3.19111973813779
+			"latitude": 51.1995287950336
 		}
 	},
 	{
@@ -3029,7 +3029,7 @@
 		"description": "'t Putje",
 		"position": {
 			"longitude": 3.18914781465182,
-			"latitude": 3.18914781465182
+			"latitude": 51.1990954246297
 		}
 	},
 	{
@@ -3038,7 +3038,7 @@
 		"description": "De Lagune",
 		"position": {
 			"longitude": 3.18941713579392,
-			"latitude": 3.18941713579392
+			"latitude": 51.1987295923325
 		}
 	},
 	{
@@ -3047,7 +3047,7 @@
 		"description": "'t Leitje",
 		"position": {
 			"longitude": 3.27014653044757,
-			"latitude": 3.27014653044757
+			"latitude": 51.1872975955875
 		}
 	},
 	{
@@ -3056,7 +3056,7 @@
 		"description": "'t Leenhof",
 		"position": {
 			"longitude": 3.27394885243516,
-			"latitude": 3.27394885243516
+			"latitude": 51.187535668679
 		}
 	},
 	{
@@ -3065,7 +3065,7 @@
 		"description": "De peerdeblomme",
 		"position": {
 			"longitude": 3.26384788554158,
-			"latitude": 3.26384788554158
+			"latitude": 51.1918719775146
 		}
 	},
 	{
@@ -3074,7 +3074,7 @@
 		"description": "Vossesteert",
 		"position": {
 			"longitude": 3.26720998824924,
-			"latitude": 3.26720998824924
+			"latitude": 51.2071074009945
 		}
 	},
 	{
@@ -3083,7 +3083,7 @@
 		"description": "Pitta Istanbul",
 		"position": {
 			"longitude": 3.20845066689242,
-			"latitude": 3.20845066689242
+			"latitude": 51.2039183758097
 		}
 	},
 	{
@@ -3092,7 +3092,7 @@
 		"description": "Pannenhuis",
 		"position": {
 			"longitude": 3.20501721908089,
-			"latitude": 3.20501721908089
+			"latitude": 51.2034187761735
 		}
 	},
 	{
@@ -3101,7 +3101,7 @@
 		"description": "Club Ibiza",
 		"position": {
 			"longitude": 3.20350903433505,
-			"latitude": 3.20350903433505
+			"latitude": 51.2022798311416
 		}
 	},
 	{
@@ -3110,7 +3110,7 @@
 		"description": "Tempelier",
 		"position": {
 			"longitude": 3.20324557613555,
-			"latitude": 3.20324557613555
+			"latitude": 51.2022668049724
 		}
 	},
 	{
@@ -3119,7 +3119,7 @@
 		"description": "Kruimeltje",
 		"position": {
 			"longitude": 3.20321538995462,
-			"latitude": 3.20321538995462
+			"latitude": 51.2021459860705
 		}
 	},
 	{
@@ -3128,7 +3128,7 @@
 		"description": "Weinebrugge",
 		"position": {
 			"longitude": 3.19733308804346,
-			"latitude": 3.19733308804346
+			"latitude": 51.1706083740222
 		}
 	},
 	{
@@ -3137,7 +3137,7 @@
 		"description": "In De Trutselaar",
 		"position": {
 			"longitude": 3.19372944218561,
-			"latitude": 3.19372944218561
+			"latitude": 51.1793197744723
 		}
 	},
 	{
@@ -3146,7 +3146,7 @@
 		"description": "De Toekomst",
 		"position": {
 			"longitude": 3.23187899717384,
-			"latitude": 3.23187899717384
+			"latitude": 51.192456567698
 		}
 	},
 	{
@@ -3155,7 +3155,7 @@
 		"description": "Brugeoise",
 		"position": {
 			"longitude": 3.23189565655585,
-			"latitude": 3.23189565655585
+			"latitude": 51.1923025999401
 		}
 	},
 	{
@@ -3164,7 +3164,7 @@
 		"description": "'t Baronneke",
 		"position": {
 			"longitude": 3.23193740523728,
-			"latitude": 3.23193740523728
+			"latitude": 51.192254329399
 		}
 	},
 	{
@@ -3173,7 +3173,7 @@
 		"description": "The Corner",
 		"position": {
 			"longitude": 3.23834072726345,
-			"latitude": 3.23834072726345
+			"latitude": 51.2000163097077
 		}
 	},
 	{
@@ -3182,7 +3182,7 @@
 		"description": "Nieuw St-Katharina",
 		"position": {
 			"longitude": 3.23512060094889,
-			"latitude": 3.23512060094889
+			"latitude": 51.1974163045117
 		}
 	},
 	{
@@ -3191,7 +3191,7 @@
 		"description": "De Zeven Torentjes",
 		"position": {
 			"longitude": 3.24502739783994,
-			"latitude": 3.24502739783994
+			"latitude": 51.1890512424119
 		}
 	},
 	{
@@ -3200,7 +3200,7 @@
 		"description": "De Zwaan",
 		"position": {
 			"longitude": 3.23626442742831,
-			"latitude": 3.23626442742831
+			"latitude": 51.1810607260516
 		}
 	},
 	{
@@ -3209,7 +3209,7 @@
 		"description": "Aquila",
 		"position": {
 			"longitude": 3.2102029536616,
-			"latitude": 3.2102029536616
+			"latitude": 51.1847540862915
 		}
 	},
 	{
@@ -3218,7 +3218,7 @@
 		"description": "Lunch Time",
 		"position": {
 			"longitude": 3.21024478623725,
-			"latitude": 3.21024478623725
+			"latitude": 51.1849260083666
 		}
 	},
 	{
@@ -3227,7 +3227,7 @@
 		"description": "Lindenhove",
 		"position": {
 			"longitude": 3.21580622840323,
-			"latitude": 3.21580622840323
+			"latitude": 51.187162523898
 		}
 	},
 	{
@@ -3236,7 +3236,7 @@
 		"description": "Fritwinkel",
 		"position": {
 			"longitude": 3.25835716332605,
-			"latitude": 3.25835716332605
+			"latitude": 51.1945299276739
 		}
 	},
 	{
@@ -3245,7 +3245,7 @@
 		"description": "Bisdom",
 		"position": {
 			"longitude": 3.26411392310788,
-			"latitude": 3.26411392310788
+			"latitude": 51.1941122007884
 		}
 	},
 	{
@@ -3254,7 +3254,7 @@
 		"description": "De Boom In",
 		"position": {
 			"longitude": 3.26774559981122,
-			"latitude": 3.26774559981122
+			"latitude": 51.192928126146
 		}
 	},
 	{
@@ -3263,7 +3263,7 @@
 		"description": "Wegwijzer",
 		"position": {
 			"longitude": 3.26524299402335,
-			"latitude": 3.26524299402335
+			"latitude": 51.1939408049851
 		}
 	},
 	{
@@ -3272,7 +3272,7 @@
 		"description": "Mardin",
 		"position": {
 			"longitude": 3.26029917661605,
-			"latitude": 3.26029917661605
+			"latitude": 51.19453192626
 		}
 	},
 	{
@@ -3281,7 +3281,7 @@
 		"description": "Rosenburg",
 		"position": {
 			"longitude": 3.23459433404928,
-			"latitude": 3.23459433404928
+			"latitude": 51.2067017729127
 		}
 	},
 	{
@@ -3290,7 +3290,7 @@
 		"description": "Willemijn",
 		"position": {
 			"longitude": 3.23369187527973,
-			"latitude": 3.23369187527973
+			"latitude": 51.2035306112745
 		}
 	},
 	{
@@ -3299,7 +3299,7 @@
 		"description": "Resto Mojo",
 		"position": {
 			"longitude": 3.23221891782516,
-			"latitude": 3.23221891782516
+			"latitude": 51.204552477323
 		}
 	},
 	{
@@ -3308,7 +3308,7 @@
 		"description": "Shqiponja",
 		"position": {
 			"longitude": 3.23464391972428,
-			"latitude": 3.23464391972428
+			"latitude": 51.206027797793
 		}
 	},
 	{
@@ -3317,7 +3317,7 @@
 		"description": "De Schaar",
 		"position": {
 			"longitude": 3.23504376143763,
-			"latitude": 3.23504376143763
+			"latitude": 51.2072623298812
 		}
 	},
 	{
@@ -3326,7 +3326,7 @@
 		"description": "In 't Nieuw Museum",
 		"position": {
 			"longitude": 3.23610984229087,
-			"latitude": 3.23610984229087
+			"latitude": 51.2078797815876
 		}
 	},
 	{
@@ -3335,7 +3335,7 @@
 		"description": "De Nisse",
 		"position": {
 			"longitude": 3.23534561042139,
-			"latitude": 3.23534561042139
+			"latitude": 51.2073672018115
 		}
 	},
 	{
@@ -3344,7 +3344,7 @@
 		"description": "Munckenhuis",
 		"position": {
 			"longitude": 3.23665314056187,
-			"latitude": 3.23665314056187
+			"latitude": 51.206245212036
 		}
 	},
 	{
@@ -3353,7 +3353,7 @@
 		"description": "Royal",
 		"position": {
 			"longitude": 3.23928632841626,
-			"latitude": 3.23928632841626
+			"latitude": 51.212619714541
 		}
 	},
 	{
@@ -3362,7 +3362,7 @@
 		"description": "Pro Deo",
 		"position": {
 			"longitude": 3.2381435298748,
-			"latitude": 3.2381435298748
+			"latitude": 51.2124210631515
 		}
 	},
 	{
@@ -3371,7 +3371,7 @@
 		"description": "Kooktheater Sans Cravate",
 		"position": {
 			"longitude": 3.23806835045306,
-			"latitude": 3.23806835045306
+			"latitude": 51.2124018029556
 		}
 	},
 	{
@@ -3380,7 +3380,7 @@
 		"description": "Hof Van Beroep",
 		"position": {
 			"longitude": 3.23699217888526,
-			"latitude": 3.23699217888526
+			"latitude": 51.211662595753
 		}
 	},
 	{
@@ -3389,7 +3389,7 @@
 		"description": "Sol Y Sombra",
 		"position": {
 			"longitude": 3.23680949253828,
-			"latitude": 3.23680949253828
+			"latitude": 51.2115878401665
 		}
 	},
 	{
@@ -3398,7 +3398,7 @@
 		"description": "Brugs Hof",
 		"position": {
 			"longitude": 3.22891370684397,
-			"latitude": 3.22891370684397
+			"latitude": 51.1998481700052
 		}
 	},
 	{
@@ -3407,7 +3407,7 @@
 		"description": "Soeur Sourire",
 		"position": {
 			"longitude": 3.22899195122661,
-			"latitude": 3.22899195122661
+			"latitude": 51.1998164763075
 		}
 	},
 	{
@@ -3416,7 +3416,7 @@
 		"description": "Het Visioen",
 		"position": {
 			"longitude": 3.22926517239108,
-			"latitude": 3.22926517239108
+			"latitude": 51.1995803855985
 		}
 	},
 	{
@@ -3425,7 +3425,7 @@
 		"description": "Mystic",
 		"position": {
 			"longitude": 3.22981590229886,
-			"latitude": 3.22981590229886
+			"latitude": 51.1999148060677
 		}
 	},
 	{
@@ -3434,7 +3434,7 @@
 		"description": "'t Zwaantje",
 		"position": {
 			"longitude": 3.22934907283442,
-			"latitude": 3.22934907283442
+			"latitude": 51.200072548226
 		}
 	},
 	{
@@ -3443,7 +3443,7 @@
 		"description": "Happy Days Pub",
 		"position": {
 			"longitude": 3.22923515691211,
-			"latitude": 3.22923515691211
+			"latitude": 51.199978742169
 		}
 	},
 	{
@@ -3452,7 +3452,7 @@
 		"description": "Sivalai",
 		"position": {
 			"longitude": 3.22866263440878,
-			"latitude": 3.22866263440878
+			"latitude": 51.2004611010312
 		}
 	},
 	{
@@ -3461,7 +3461,7 @@
 		"description": "'t Katelijntje",
 		"position": {
 			"longitude": 3.22765323655583,
-			"latitude": 3.22765323655583
+			"latitude": 51.2009311301072
 		}
 	},
 	{
@@ -3470,7 +3470,7 @@
 		"description": "De Bekoring",
 		"position": {
 			"longitude": 3.22531398899055,
-			"latitude": 3.22531398899055
+			"latitude": 51.2006431553857
 		}
 	},
 	{
@@ -3479,7 +3479,7 @@
 		"description": "Porta",
 		"position": {
 			"longitude": 3.22478305209366,
-			"latitude": 3.22478305209366
+			"latitude": 51.2030391661676
 		}
 	},
 	{
@@ -3488,7 +3488,7 @@
 		"description": "'t Nieuw Walnutje",
 		"position": {
 			"longitude": 3.22461015941386,
-			"latitude": 3.22461015941386
+			"latitude": 51.2026423243224
 		}
 	},
 	{
@@ -3497,7 +3497,7 @@
 		"description": "De Zevende Hemel",
 		"position": {
 			"longitude": 3.22467411217148,
-			"latitude": 3.22467411217148
+			"latitude": 51.2025919535016
 		}
 	},
 	{
@@ -3506,7 +3506,7 @@
 		"description": "De Halve Maan",
 		"position": {
 			"longitude": 3.22413084400866,
-			"latitude": 3.22413084400866
+			"latitude": 51.2024047560809
 		}
 	},
 	{
@@ -3515,7 +3515,7 @@
 		"description": "Lily",
 		"position": {
 			"longitude": 3.22470435973345,
-			"latitude": 3.22470435973345
+			"latitude": 51.2024867904268
 		}
 	},
 	{
@@ -3524,7 +3524,7 @@
 		"description": "Heer Halewijn",
 		"position": {
 			"longitude": 3.22475001216832,
-			"latitude": 3.22475001216832
+			"latitude": 51.2024304482436
 		}
 	},
 	{
@@ -3533,7 +3533,7 @@
 		"description": "Bélissimo",
 		"position": {
 			"longitude": 3.22465800861968,
-			"latitude": 3.22465800861968
+			"latitude": 51.202120144087
 		}
 	},
 	{
@@ -3542,7 +3542,7 @@
 		"description": "'t Crêperietje",
 		"position": {
 			"longitude": 3.22463857266894,
-			"latitude": 3.22463857266894
+			"latitude": 51.2021605159363
 		}
 	},
 	{
@@ -3551,7 +3551,7 @@
 		"description": "Salade Folle",
 		"position": {
 			"longitude": 3.22493662152937,
-			"latitude": 3.22493662152937
+			"latitude": 51.2021923706251
 		}
 	},
 	{
@@ -3560,7 +3560,7 @@
 		"description": "Academie",
 		"position": {
 			"longitude": 3.22559735278176,
-			"latitude": 3.22559735278176
+			"latitude": 51.2021779005091
 		}
 	},
 	{
@@ -3569,7 +3569,7 @@
 		"description": "Detavenier",
 		"position": {
 			"longitude": 3.22525651629085,
-			"latitude": 3.22525651629085
+			"latitude": 51.2023113498598
 		}
 	},
 	{
@@ -3578,7 +3578,7 @@
 		"description": "La Maison du Pain",
 		"position": {
 			"longitude": 3.22525728556908,
-			"latitude": 3.22525728556908
+			"latitude": 51.2020540917064
 		}
 	},
 	{
@@ -3587,7 +3587,7 @@
 		"description": "De Wijngaert",
 		"position": {
 			"longitude": 3.22528038092197,
-			"latitude": 3.22528038092197
+			"latitude": 51.2020149139994
 		}
 	},
 	{
@@ -3596,7 +3596,7 @@
 		"description": "Onbekend",
 		"position": {
 			"longitude": 3.22515316284166,
-			"latitude": 3.22515316284166
+			"latitude": 51.2018618738506
 		}
 	},
 	{
@@ -3605,7 +3605,7 @@
 		"description": "Onbekend",
 		"position": {
 			"longitude": 3.22505360562611,
-			"latitude": 3.22505360562611
+			"latitude": 51.2018597521357
 		}
 	},
 	{
@@ -3614,7 +3614,7 @@
 		"description": "'t Fonduehuisje",
 		"position": {
 			"longitude": 3.22478761635784,
-			"latitude": 3.22478761635784
+			"latitude": 51.2019498875681
 		}
 	},
 	{
@@ -3623,7 +3623,7 @@
 		"description": "Vivaldi",
 		"position": {
 			"longitude": 3.22460044716872,
-			"latitude": 3.22460044716872
+			"latitude": 51.2019098345378
 		}
 	},
 	{
@@ -3632,7 +3632,7 @@
 		"description": "'t Minnewater",
 		"position": {
 			"longitude": 3.22454804740807,
-			"latitude": 3.22454804740807
+			"latitude": 51.2017899655261
 		}
 	},
 	{
@@ -3641,7 +3641,7 @@
 		"description": "La Dentellière",
 		"position": {
 			"longitude": 3.22484666498895,
-			"latitude": 3.22484666498895
+			"latitude": 51.201647997825
 		}
 	},
 	{
@@ -3650,7 +3650,7 @@
 		"description": "'t Oude Kanthuis",
 		"position": {
 			"longitude": 3.22440715152473,
-			"latitude": 3.22440715152473
+			"latitude": 51.2018187323273
 		}
 	},
 	{
@@ -3659,7 +3659,7 @@
 		"description": "Maximiliaan van Oostenrijk",
 		"position": {
 			"longitude": 3.22420775586905,
-			"latitude": 3.22420775586905
+			"latitude": 51.2017507478374
 		}
 	},
 	{
@@ -3668,7 +3668,7 @@
 		"description": "Hertog Jan",
 		"position": {
 			"longitude": 3.19092431365817,
-			"latitude": 3.19092431365817
+			"latitude": 51.1858568578217
 		}
 	},
 	{
@@ -3677,7 +3677,7 @@
 		"description": "Auberge De Herborist",
 		"position": {
 			"longitude": 3.1626363778294,
-			"latitude": 3.1626363778294
+			"latitude": 51.1674073052735
 		}
 	},
 	{
@@ -3686,7 +3686,7 @@
 		"description": "Mary Tudor",
 		"position": {
 			"longitude": 3.16741932270374,
-			"latitude": 3.16741932270374
+			"latitude": 51.1709326800731
 		}
 	},
 	{
@@ -3695,7 +3695,7 @@
 		"description": "Het Koetsenhuis",
 		"position": {
 			"longitude": 3.1537225223713,
-			"latitude": 3.1537225223713
+			"latitude": 51.1767504616498
 		}
 	},
 	{
@@ -3704,7 +3704,7 @@
 		"description": "Golden Harvest",
 		"position": {
 			"longitude": 3.19809146885024,
-			"latitude": 3.19809146885024
+			"latitude": 51.1885957675082
 		}
 	},
 	{
@@ -3713,7 +3713,7 @@
 		"description": "Freety",
 		"position": {
 			"longitude": 3.19964021878468,
-			"latitude": 3.19964021878468
+			"latitude": 51.1869875222936
 		}
 	},
 	{
@@ -3722,7 +3722,7 @@
 		"description": "Pizza Hut",
 		"position": {
 			"longitude": 3.19964021878468,
-			"latitude": 3.19964021878468
+			"latitude": 51.1869875222936
 		}
 	},
 	{
@@ -3731,7 +3731,7 @@
 		"description": "Tijl",
 		"position": {
 			"longitude": 3.19328561532861,
-			"latitude": 3.19328561532861
+			"latitude": 51.188454209542
 		}
 	},
 	{
@@ -3740,7 +3740,7 @@
 		"description": "Quick",
 		"position": {
 			"longitude": 3.19624985081607,
-			"latitude": 3.19624985081607
+			"latitude": 51.1931225887535
 		}
 	},
 	{
@@ -3749,7 +3749,7 @@
 		"description": "Mister Grill",
 		"position": {
 			"longitude": 3.19624985081607,
-			"latitude": 3.19624985081607
+			"latitude": 51.1931225887535
 		}
 	},
 	{
@@ -3758,7 +3758,7 @@
 		"description": "Het Bargehuis",
 		"position": {
 			"longitude": 3.22878609112039,
-			"latitude": 3.22878609112039
+			"latitude": 51.1993335673015
 		}
 	},
 	{
@@ -3767,7 +3767,7 @@
 		"description": "Kasteel Minnewater",
 		"position": {
 			"longitude": 3.22455545805444,
-			"latitude": 3.22455545805444
+			"latitude": 51.1995314290917
 		}
 	},
 	{
@@ -3776,7 +3776,7 @@
 		"description": "Egmond",
 		"position": {
 			"longitude": 3.2251392588317,
-			"latitude": 3.2251392588317
+			"latitude": 51.2000956449935
 		}
 	},
 	{
@@ -3785,7 +3785,7 @@
 		"description": "Novotel",
 		"position": {
 			"longitude": 3.22660575789757,
-			"latitude": 3.22660575789757
+			"latitude": 51.2022780352285
 		}
 	},
 	{
@@ -3794,7 +3794,7 @@
 		"description": "Ibis Hotel",
 		"position": {
 			"longitude": 3.22660575789757,
-			"latitude": 3.22660575789757
+			"latitude": 51.2022780352285
 		}
 	},
 	{
@@ -3803,7 +3803,7 @@
 		"description": "De Postiljon",
 		"position": {
 			"longitude": 3.2248014207284,
-			"latitude": 3.2248014207284
+			"latitude": 51.2037949163944
 		}
 	},
 	{
@@ -3812,7 +3812,7 @@
 		"description": "De Proeverie",
 		"position": {
 			"longitude": 3.22450087061892,
-			"latitude": 3.22450087061892
+			"latitude": 51.2035637144715
 		}
 	},
 	{
@@ -3821,7 +3821,7 @@
 		"description": "La Baguette",
 		"position": {
 			"longitude": 3.22453248054922,
-			"latitude": 3.22453248054922
+			"latitude": 51.2034782651643
 		}
 	},
 	{
@@ -3830,7 +3830,7 @@
 		"description": "l' Italiano",
 		"position": {
 			"longitude": 3.22467596970952,
-			"latitude": 3.22467596970952
+			"latitude": 51.203193416617
 		}
 	},
 	{
@@ -3839,7 +3839,7 @@
 		"description": "Loreto",
 		"position": {
 			"longitude": 3.22502271741585,
-			"latitude": 3.22502271741585
+			"latitude": 51.2029696354912
 		}
 	},
 	{
@@ -3848,7 +3848,7 @@
 		"description": "Manna & Co",
 		"position": {
 			"longitude": 3.22520728358593,
-			"latitude": 3.22520728358593
+			"latitude": 51.2028149751973
 		}
 	},
 	{
@@ -3857,7 +3857,7 @@
 		"description": "Den Anker",
 		"position": {
 			"longitude": 3.22521534378919,
-			"latitude": 3.22521534378919
+			"latitude": 51.2026365896588
 		}
 	},
 	{
@@ -3866,7 +3866,7 @@
 		"description": "Shang Hai",
 		"position": {
 			"longitude": 3.22597881702083,
-			"latitude": 3.22597881702083
+			"latitude": 51.2023438271113
 		}
 	},
 	{
@@ -3875,7 +3875,7 @@
 		"description": "Charles Quint",
 		"position": {
 			"longitude": 3.22643617416423,
-			"latitude": 3.22643617416423
+			"latitude": 51.2020469441189
 		}
 	},
 	{
@@ -3884,7 +3884,7 @@
 		"description": "De Bron",
 		"position": {
 			"longitude": 3.2265802746499,
-			"latitude": 3.2265802746499
+			"latitude": 51.201962580878
 		}
 	},
 	{
@@ -3893,7 +3893,7 @@
 		"description": "'t Kattepoortje",
 		"position": {
 			"longitude": 3.23353802366087,
-			"latitude": 3.23353802366087
+			"latitude": 51.2031061536374
 		}
 	},
 	{
@@ -3902,7 +3902,7 @@
 		"description": "Indian Tandoori",
 		"position": {
 			"longitude": 3.22634366182386,
-			"latitude": 3.22634366182386
+			"latitude": 51.2028873781398
 		}
 	},
 	{
@@ -3911,7 +3911,7 @@
 		"description": "Bistro Cosy",
 		"position": {
 			"longitude": 3.2261743624234,
-			"latitude": 3.2261743624234
+			"latitude": 51.2028706773695
 		}
 	},
 	{
@@ -3920,7 +3920,7 @@
 		"description": "Tanuki",
 		"position": {
 			"longitude": 3.22588941657724,
-			"latitude": 3.22588941657724
+			"latitude": 51.2029061660025
 		}
 	},
 	{
@@ -3929,7 +3929,7 @@
 		"description": "Montanus",
 		"position": {
 			"longitude": 3.22764658513137,
-			"latitude": 3.22764658513137
+			"latitude": 51.2035419626805
 		}
 	},
 	{
@@ -3938,7 +3938,7 @@
 		"description": "RED!",
 		"position": {
 			"longitude": 3.22864336762039,
-			"latitude": 3.22864336762039
+			"latitude": 51.2041947400908
 		}
 	},
 	{
@@ -3947,7 +3947,7 @@
 		"description": "'t Parlasantje",
 		"position": {
 			"longitude": 3.23161243937014,
-			"latitude": 3.23161243937014
+			"latitude": 51.2043832490579
 		}
 	},
 	{
@@ -3956,7 +3956,7 @@
 		"description": "La Noche",
 		"position": {
 			"longitude": 3.22993757917565,
-			"latitude": 3.22993757917565
+			"latitude": 51.2043775617071
 		}
 	},
 	{
@@ -3965,7 +3965,7 @@
 		"description": "l'Estaminet",
 		"position": {
 			"longitude": 3.23016650688932,
-			"latitude": 3.23016650688932
+			"latitude": 51.207243287411
 		}
 	},
 	{
@@ -3974,7 +3974,7 @@
 		"description": "Botaniek",
 		"position": {
 			"longitude": 3.22971755899967,
-			"latitude": 3.22971755899967
+			"latitude": 51.2076480385931
 		}
 	},
 	{
@@ -3983,7 +3983,7 @@
 		"description": "De Belleman Pub",
 		"position": {
 			"longitude": 3.22944338533472,
-			"latitude": 3.22944338533472
+			"latitude": 51.2067878481027
 		}
 	},
 	{
@@ -3992,7 +3992,7 @@
 		"description": "'t Kachot",
 		"position": {
 			"longitude": 3.22921742716621,
-			"latitude": 3.22921742716621
+			"latitude": 51.2066732625313
 		}
 	},
 	{
@@ -4001,7 +4001,7 @@
 		"description": "Bolero",
 		"position": {
 			"longitude": 3.22934437192514,
-			"latitude": 3.22934437192514
+			"latitude": 51.2043451940406
 		}
 	},
 	{
@@ -4010,7 +4010,7 @@
 		"description": "Christophe",
 		"position": {
 			"longitude": 3.22944495286467,
-			"latitude": 3.22944495286467
+			"latitude": 51.2043056032749
 		}
 	},
 	{
@@ -4019,7 +4019,7 @@
 		"description": "Couvert",
 		"position": {
 			"longitude": 3.22806800615798,
-			"latitude": 3.22806800615798
+			"latitude": 51.2064512706261
 		}
 	},
 	{
@@ -4028,7 +4028,7 @@
 		"description": "'t Eekhoetje",
 		"position": {
 			"longitude": 3.22761830821023,
-			"latitude": 3.22761830821023
+			"latitude": 51.2068108116236
 		}
 	},
 	{
@@ -4037,7 +4037,7 @@
 		"description": "De Eetkamer",
 		"position": {
 			"longitude": 3.22759457500591,
-			"latitude": 3.22759457500591
+			"latitude": 51.2064988515761
 		}
 	},
 	{
@@ -4046,7 +4046,7 @@
 		"description": "Kunstbistro De Twijfelaar",
 		"position": {
 			"longitude": 3.22798697858784,
-			"latitude": 3.22798697858784
+			"latitude": 51.2060680680499
 		}
 	},
 	{
@@ -4055,7 +4055,7 @@
 		"description": "Ganzespel",
 		"position": {
 			"longitude": 3.23571564563092,
-			"latitude": 3.23571564563092
+			"latitude": 51.2085388672207
 		}
 	},
 	{
@@ -4064,7 +4064,7 @@
 		"description": "De Jakobijn",
 		"position": {
 			"longitude": 3.23440823961793,
-			"latitude": 3.23440823961793
+			"latitude": 51.2097280608612
 		}
 	},
 	{
@@ -4073,7 +4073,7 @@
 		"description": "The Crash",
 		"position": {
 			"longitude": 3.23552583358936,
-			"latitude": 3.23552583358936
+			"latitude": 51.2104294478771
 		}
 	},
 	{
@@ -4082,7 +4082,7 @@
 		"description": "De Muppets",
 		"position": {
 			"longitude": 3.2360702864312,
-			"latitude": 3.2360702864312
+			"latitude": 51.2107255340243
 		}
 	},
 	{
@@ -4091,7 +4091,7 @@
 		"description": "Pizzafoon",
 		"position": {
 			"longitude": 3.23573430402815,
-			"latitude": 3.23573430402815
+			"latitude": 51.2108857134397
 		}
 	},
 	{
@@ -4100,7 +4100,7 @@
 		"description": "Joker's Place",
 		"position": {
 			"longitude": 3.23636919096364,
-			"latitude": 3.23636919096364
+			"latitude": 51.2108767286633
 		}
 	},
 	{
@@ -4109,7 +4109,7 @@
 		"description": "Ratatouille",
 		"position": {
 			"longitude": 3.23641710981938,
-			"latitude": 3.23641710981938
+			"latitude": 51.2109548302162
 		}
 	},
 	{
@@ -4118,7 +4118,7 @@
 		"description": "Flanders",
 		"position": {
 			"longitude": 3.23348533639596,
-			"latitude": 3.23348533639596
+			"latitude": 51.2095187248316
 		}
 	},
 	{
@@ -4127,7 +4127,7 @@
 		"description": "De Pepermolen",
 		"position": {
 			"longitude": 3.23222329678372,
-			"latitude": 3.23222329678372
+			"latitude": 51.2095993118363
 		}
 	},
 	{
@@ -4136,7 +4136,7 @@
 		"description": "De Torre",
 		"position": {
 			"longitude": 3.23182834119474,
-			"latitude": 3.23182834119474
+			"latitude": 51.2095294614298
 		}
 	},
 	{
@@ -4145,7 +4145,7 @@
 		"description": "Uilenspiegel",
 		"position": {
 			"longitude": 3.23158851114125,
-			"latitude": 3.23158851114125
+			"latitude": 51.2096047986178
 		}
 	},
 	{
@@ -4154,7 +4154,7 @@
 		"description": "Ter Reien",
 		"position": {
 			"longitude": 3.23154121247895,
-			"latitude": 3.23154121247895
+			"latitude": 51.209880149926
 		}
 	},
 	{
@@ -4163,7 +4163,7 @@
 		"description": "'t Stokershuis",
 		"position": {
 			"longitude": 3.23195263847368,
-			"latitude": 3.23195263847368
+			"latitude": 51.2098041445997
 		}
 	},
 	{
@@ -4172,7 +4172,7 @@
 		"description": "De Versteende Nacht",
 		"position": {
 			"longitude": 3.23209279184466,
-			"latitude": 3.23209279184466
+			"latitude": 51.2098066504915
 		}
 	},
 	{
@@ -4181,7 +4181,7 @@
 		"description": "Rock-Fort",
 		"position": {
 			"longitude": 3.23223635204074,
-			"latitude": 3.23223635204074
+			"latitude": 51.2098207774437
 		}
 	},
 	{
@@ -4190,7 +4190,7 @@
 		"description": "De Karmeliet",
 		"position": {
 			"longitude": 3.23250259079246,
-			"latitude": 3.23250259079246
+			"latitude": 51.2098731660371
 		}
 	},
 	{
@@ -4199,7 +4199,7 @@
 		"description": "'t Risico",
 		"position": {
 			"longitude": 3.23322311144685,
-			"latitude": 3.23322311144685
+			"latitude": 51.2124098513479
 		}
 	},
 	{
@@ -4208,7 +4208,7 @@
 		"description": "Sint-Barbe",
 		"position": {
 			"longitude": 3.23215831987312,
-			"latitude": 3.23215831987312
+			"latitude": 51.2117367630043
 		}
 	},
 	{
@@ -4217,7 +4217,7 @@
 		"description": "Relais Ravenstein",
 		"position": {
 			"longitude": 3.23184192371669,
-			"latitude": 3.23184192371669
+			"latitude": 51.2103349920254
 		}
 	},
 	{
@@ -4226,7 +4226,7 @@
 		"description": "Bistro De Max",
 		"position": {
 			"longitude": 3.23448128658781,
-			"latitude": 3.23448128658781
+			"latitude": 51.2100625097593
 		}
 	},
 	{
@@ -4235,7 +4235,7 @@
 		"description": "De Kelk",
 		"position": {
 			"longitude": 3.23528647277906,
-			"latitude": 3.23528647277906
+			"latitude": 51.2107133896348
 		}
 	},
 	{
@@ -4244,7 +4244,7 @@
 		"description": "Frituur 't Bootje",
 		"position": {
 			"longitude": 3.23593588134798,
-			"latitude": 3.23593588134798
+			"latitude": 51.2109421101271
 		}
 	},
 	{
@@ -4253,7 +4253,7 @@
 		"description": "Sultan Kebab",
 		"position": {
 			"longitude": 3.236085462884,
-			"latitude": 3.236085462884
+			"latitude": 51.2110883986356
 		}
 	},
 	{
@@ -4262,7 +4262,7 @@
 		"description": "'t Botaniekske",
 		"position": {
 			"longitude": 3.23297957530286,
-			"latitude": 3.23297957530286
+			"latitude": 51.2059666301435
 		}
 	},
 	{
@@ -4271,7 +4271,7 @@
 		"description": "Den Gouden Harynck",
 		"position": {
 			"longitude": 3.22587781367978,
-			"latitude": 3.22587781367978
+			"latitude": 51.2048865338185
 		}
 	},
 	{
@@ -4280,7 +4280,7 @@
 		"description": "'t Pandreitje",
 		"position": {
 			"longitude": 3.22906216577417,
-			"latitude": 3.22906216577417
+			"latitude": 51.2067609979252
 		}
 	},
 	{
@@ -4289,7 +4289,7 @@
 		"description": "Pandhotel",
 		"position": {
 			"longitude": 3.22795078394843,
-			"latitude": 3.22795078394843
+			"latitude": 51.2069449694418
 		}
 	},
 	{
@@ -4298,7 +4298,7 @@
 		"description": "Carrello",
 		"position": {
 			"longitude": 3.23849295280828,
-			"latitude": 3.23849295280828
+			"latitude": 51.2123154711724
 		}
 	},
 	{
@@ -4307,7 +4307,7 @@
 		"description": "Den Optimist",
 		"position": {
 			"longitude": 3.23857165308786,
-			"latitude": 3.23857165308786
+			"latitude": 51.2123417178189
 		}
 	},
 	{
@@ -4316,7 +4316,7 @@
 		"description": "Park / Fleuri",
 		"position": {
 			"longitude": 3.23098071165682,
-			"latitude": 3.23098071165682
+			"latitude": 51.2072928419343
 		}
 	},
 	{
@@ -4325,7 +4325,7 @@
 		"description": "Volkshuis",
 		"position": {
 			"longitude": 3.22888435896426,
-			"latitude": 3.22888435896426
+			"latitude": 51.2079227705249
 		}
 	},
 	{
@@ -4334,7 +4334,7 @@
 		"description": "Hollandse Vismijn",
 		"position": {
 			"longitude": 3.22879043986938,
-			"latitude": 3.22879043986938
+			"latitude": 51.2079913963155
 		}
 	},
 	{
@@ -4343,7 +4343,7 @@
 		"description": "Mozarthuys",
 		"position": {
 			"longitude": 3.22782849531246,
-			"latitude": 3.22782849531246
+			"latitude": 51.2077967041421
 		}
 	},
 	{
@@ -4352,7 +4352,7 @@
 		"description": "Duc de Bourgogne",
 		"position": {
 			"longitude": 3.22736052192619,
-			"latitude": 3.22736052192619
+			"latitude": 51.2076960039865
 		}
 	},
 	{
@@ -4361,7 +4361,7 @@
 		"description": "'t Huidevettershuis",
 		"position": {
 			"longitude": 3.22766456031963,
-			"latitude": 3.22766456031963
+			"latitude": 51.2075598757799
 		}
 	},
 	{
@@ -4370,7 +4370,7 @@
 		"description": "Den Gouden Karpel",
 		"position": {
 			"longitude": 3.22789866468414,
-			"latitude": 3.22789866468414
+			"latitude": 51.2077185791933
 		}
 	},
 	{
@@ -4379,7 +4379,7 @@
 		"description": "De Visscherie",
 		"position": {
 			"longitude": 3.22803591573823,
-			"latitude": 3.22803591573823
+			"latitude": 51.2076886141377
 		}
 	},
 	{
@@ -4388,7 +4388,7 @@
 		"description": "Bistro Old Bruges",
 		"position": {
 			"longitude": 3.22808355524631,
-			"latitude": 3.22808355524631
+			"latitude": 51.2076264956817
 		}
 	},
 	{
@@ -4397,7 +4397,7 @@
 		"description": "Bistro De Mosselkelder",
 		"position": {
 			"longitude": 3.22780185520579,
-			"latitude": 3.22780185520579
+			"latitude": 51.2079053791203
 		}
 	},
 	{
@@ -4406,7 +4406,7 @@
 		"description": "'t Lammetje",
 		"position": {
 			"longitude": 3.22797081296684,
-			"latitude": 3.22797081296684
+			"latitude": 51.2074840284122
 		}
 	},
 	{
@@ -4415,7 +4415,7 @@
 		"description": "'t Klein Venetië",
 		"position": {
 			"longitude": 3.22792529773107,
-			"latitude": 3.22792529773107
+			"latitude": 51.2074592534933
 		}
 	},
 	{
@@ -4424,7 +4424,7 @@
 		"description": "'t Dreveken",
 		"position": {
 			"longitude": 3.22766456031963,
-			"latitude": 3.22766456031963
+			"latitude": 51.2075598757799
 		}
 	},
 	{
@@ -4433,7 +4433,7 @@
 		"description": "De Kogge",
 		"position": {
 			"longitude": 3.22813749243886,
-			"latitude": 3.22813749243886
+			"latitude": 51.2075331489699
 		}
 	},
 	{
@@ -4442,7 +4442,7 @@
 		"description": "Die Swaene",
 		"position": {
 			"longitude": 3.22862440328072,
-			"latitude": 3.22862440328072
+			"latitude": 51.2082934146237
 		}
 	},
 	{
@@ -4451,7 +4451,7 @@
 		"description": "Jan Brito",
 		"position": {
 			"longitude": 3.23028854908829,
-			"latitude": 3.23028854908829
+			"latitude": 51.2081390947672
 		}
 	},
 	{
@@ -4460,7 +4460,7 @@
 		"description": "La Romagna",
 		"position": {
 			"longitude": 3.2284027102089,
-			"latitude": 3.2284027102089
+			"latitude": 51.2074001210258
 		}
 	},
 	{
@@ -4469,7 +4469,7 @@
 		"description": "De Gastro",
 		"position": {
 			"longitude": 3.22830027334254,
-			"latitude": 3.22830027334254
+			"latitude": 51.2073643677213
 		}
 	},
 	{
@@ -4478,7 +4478,7 @@
 		"description": "La Passione",
 		"position": {
 			"longitude": 3.22822768675014,
-			"latitude": 3.22822768675014
+			"latitude": 51.2073149959891
 		}
 	},
 	{
@@ -4487,7 +4487,7 @@
 		"description": "Rozengoedkaai",
 		"position": {
 			"longitude": 3.22809270610572,
-			"latitude": 3.22809270610572
+			"latitude": 51.2073276003925
 		}
 	},
 	{
@@ -4496,7 +4496,7 @@
 		"description": "Casa Patata",
 		"position": {
 			"longitude": 3.22770809670272,
-			"latitude": 3.22770809670272
+			"latitude": 51.2070619898486
 		}
 	},
 	{
@@ -4505,7 +4505,7 @@
 		"description": "Matinée",
 		"position": {
 			"longitude": 3.22761641576836,
-			"latitude": 3.22761641576836
+			"latitude": 51.2070390870746
 		}
 	},
 	{
@@ -4514,7 +4514,7 @@
 		"description": "Notre Dame",
 		"position": {
 			"longitude": 3.2231916854816,
-			"latitude": 3.2231916854816
+			"latitude": 51.2060217146625
 		}
 	},
 	{
@@ -4523,7 +4523,7 @@
 		"description": "Venice Corn",
 		"position": {
 			"longitude": 3.22306589600231,
-			"latitude": 3.22306589600231
+			"latitude": 51.2061108866259
 		}
 	},
 	{
@@ -4532,7 +4532,7 @@
 		"description": "Gruuthuse Hof",
 		"position": {
 			"longitude": 3.22355365839045,
-			"latitude": 3.22355365839045
+			"latitude": 51.2048779560064
 		}
 	},
 	{
@@ -4541,7 +4541,7 @@
 		"description": "Hotel De Castillion",
 		"position": {
 			"longitude": 3.22242298081975,
-			"latitude": 3.22242298081975
+			"latitude": 51.2053977560668
 		}
 	},
 	{
@@ -4550,7 +4550,7 @@
 		"description": "Het Gheestelic Hof",
 		"position": {
 			"longitude": 3.22215498095264,
-			"latitude": 3.22215498095264
+			"latitude": 51.2051181919822
 		}
 	},
 	{
@@ -4559,7 +4559,7 @@
 		"description": "Bonobo",
 		"position": {
 			"longitude": 3.2224228763336,
-			"latitude": 3.2224228763336
+			"latitude": 51.2045008024742
 		}
 	},
 	{
@@ -4568,7 +4568,7 @@
 		"description": "Gauthierz",
 		"position": {
 			"longitude": 3.22107921425989,
-			"latitude": 3.22107921425989
+			"latitude": 51.2045294887123
 		}
 	},
 	{
@@ -4577,7 +4577,7 @@
 		"description": "De Goezeput",
 		"position": {
 			"longitude": 3.22079771092047,
-			"latitude": 3.22079771092047
+			"latitude": 51.2043494517344
 		}
 	},
 	{
@@ -4586,7 +4586,7 @@
 		"description": "B.IN",
 		"position": {
 			"longitude": 3.22293082106494,
-			"latitude": 3.22293082106494
+			"latitude": 51.2031220536774
 		}
 	},
 	{
@@ -4595,7 +4595,7 @@
 		"description": "Marieke van Brugghe",
 		"position": {
 			"longitude": 3.22366129929913,
-			"latitude": 3.22366129929913
+			"latitude": 51.2050771622309
 		}
 	},
 	{
@@ -4604,7 +4604,7 @@
 		"description": "Maria van Bourgondië",
 		"position": {
 			"longitude": 3.22379851357737,
-			"latitude": 3.22379851357737
+			"latitude": 51.2051236860603
 		}
 	},
 	{
@@ -4613,7 +4613,7 @@
 		"description": "'t Schrijverke",
 		"position": {
 			"longitude": 3.2244016516822,
-			"latitude": 3.2244016516822
+			"latitude": 51.2053531825743
 		}
 	},
 	{
@@ -4622,7 +4622,7 @@
 		"description": "Den Comptoir",
 		"position": {
 			"longitude": 3.22579019437669,
-			"latitude": 3.22579019437669
+			"latitude": 51.2057525086719
 		}
 	},
 	{
@@ -4631,7 +4631,7 @@
 		"description": "De Tuilerieën",
 		"position": {
 			"longitude": 3.22663774689051,
-			"latitude": 3.22663774689051
+			"latitude": 51.2063980656223
 		}
 	},
 	{
@@ -4640,7 +4640,7 @@
 		"description": "Den Dijver",
 		"position": {
 			"longitude": 3.22688912158004,
-			"latitude": 3.22688912158004
+			"latitude": 51.2065291255426
 		}
 	},
 	{
@@ -4649,7 +4649,7 @@
 		"description": "Walburg",
 		"position": {
 			"longitude": 3.23029181012333,
-			"latitude": 3.23029181012333
+			"latitude": 51.2101984020343
 		}
 	},
 	{
@@ -4658,7 +4658,7 @@
 		"description": "Anselmus",
 		"position": {
 			"longitude": 3.22938285741705,
-			"latitude": 3.22938285741705
+			"latitude": 51.2100981000629
 		}
 	},
 	{
@@ -4667,7 +4667,7 @@
 		"description": "Patritius",
 		"position": {
 			"longitude": 3.22907708139305,
-			"latitude": 3.22907708139305
+			"latitude": 51.2103049057399
 		}
 	},
 	{
@@ -4676,7 +4676,7 @@
 		"description": "Carlito's",
 		"position": {
 			"longitude": 3.22923237829028,
-			"latitude": 3.22923237829028
+			"latitude": 51.209762901648
 		}
 	},
 	{
@@ -4685,7 +4685,7 @@
 		"description": "Charlie Rockets",
 		"position": {
 			"longitude": 3.22896172411909,
-			"latitude": 3.22896172411909
+			"latitude": 51.209815918419
 		}
 	},
 	{
@@ -4694,7 +4694,7 @@
 		"description": "Pili Pili",
 		"position": {
 			"longitude": 3.22888146712222,
-			"latitude": 3.22888146712222
+			"latitude": 51.2097027365212
 		}
 	},
 	{
@@ -4703,7 +4703,7 @@
 		"description": "Malleberg",
 		"position": {
 			"longitude": 3.22792282587239,
-			"latitude": 3.22792282587239
+			"latitude": 51.2092960078502
 		}
 	},
 	{
@@ -4712,7 +4712,7 @@
 		"description": "Diligence",
 		"position": {
 			"longitude": 3.22790057557158,
-			"latitude": 3.22790057557158
+			"latitude": 51.2092251033589
 		}
 	},
 	{
@@ -4721,7 +4721,7 @@
 		"description": "Calis",
 		"position": {
 			"longitude": 3.22873916330721,
-			"latitude": 3.22873916330721
+			"latitude": 51.2093351683732
 		}
 	},
 	{
@@ -4730,7 +4730,7 @@
 		"description": "De Kluiver",
 		"position": {
 			"longitude": 3.22888016903404,
-			"latitude": 3.22888016903404
+			"latitude": 51.2093782460531
 		}
 	},
 	{
@@ -4739,7 +4739,7 @@
 		"description": "Kaffee Pergola",
 		"position": {
 			"longitude": 3.22925096620466,
-			"latitude": 3.22925096620466
+			"latitude": 51.2090017163996
 		}
 	},
 	{
@@ -4748,7 +4748,7 @@
 		"description": "Chez Olivier",
 		"position": {
 			"longitude": 3.22928334052616,
-			"latitude": 3.22928334052616
+			"latitude": 51.2089603097161
 		}
 	},
 	{
@@ -4757,7 +4757,7 @@
 		"description": "Oud Huis De Peellaert",
 		"position": {
 			"longitude": 3.22952643261094,
-			"latitude": 3.22952643261094
+			"latitude": 51.2095826362019
 		}
 	},
 	{
@@ -4766,7 +4766,7 @@
 		"description": "Ryad",
 		"position": {
 			"longitude": 3.23028007819364,
-			"latitude": 3.23028007819364
+			"latitude": 51.209771832558
 		}
 	},
 	{
@@ -4775,7 +4775,7 @@
 		"description": "Spinola",
 		"position": {
 			"longitude": 3.22634715957009,
-			"latitude": 3.22634715957009
+			"latitude": 51.2114860901548
 		}
 	},
 	{
@@ -4784,7 +4784,7 @@
 		"description": "Jan van Eyck",
 		"position": {
 			"longitude": 3.22593863212282,
-			"latitude": 3.22593863212282
+			"latitude": 51.2113674174127
 		}
 	},
 	{
@@ -4793,7 +4793,7 @@
 		"description": "De Schilder",
 		"position": {
 			"longitude": 3.22585236374332,
-			"latitude": 3.22585236374332
+			"latitude": 51.2113492010791
 		}
 	},
 	{
@@ -4802,7 +4802,7 @@
 		"description": "Lotus",
 		"position": {
 			"longitude": 3.22649123901363,
-			"latitude": 3.22649123901363
+			"latitude": 51.2098210555289
 		}
 	},
 	{
@@ -4811,7 +4811,7 @@
 		"description": "'t Gulden Vlies",
 		"position": {
 			"longitude": 3.22781826065549,
-			"latitude": 3.22781826065549
+			"latitude": 51.2093471474265
 		}
 	},
 	{
@@ -4820,7 +4820,7 @@
 		"description": "Cordoeanier",
 		"position": {
 			"longitude": 3.22609141119592,
-			"latitude": 3.22609141119592
+			"latitude": 51.2101011116433
 		}
 	},
 	{
@@ -4829,7 +4829,7 @@
 		"description": "De Vuurmolen",
 		"position": {
 			"longitude": 3.22534793021971,
-			"latitude": 3.22534793021971
+			"latitude": 51.2104763469077
 		}
 	},
 	{
@@ -4838,7 +4838,7 @@
 		"description": "Marquee",
 		"position": {
 			"longitude": 3.22529804128594,
-			"latitude": 3.22529804128594
+			"latitude": 51.2106299916773
 		}
 	},
 	{
@@ -4847,7 +4847,7 @@
 		"description": "Amon",
 		"position": {
 			"longitude": 3.22461600591777,
-			"latitude": 3.22461600591777
+			"latitude": 51.2112074563645
 		}
 	},
 	{
@@ -4856,7 +4856,7 @@
 		"description": "Trium",
 		"position": {
 			"longitude": 3.22510534456998,
-			"latitude": 3.22510534456998
+			"latitude": 51.2115667970836
 		}
 	},
 	{
@@ -4865,7 +4865,7 @@
 		"description": "De Florentijnen",
 		"position": {
 			"longitude": 3.22415818333976,
-			"latitude": 3.22415818333976
+			"latitude": 51.2113687422719
 		}
 	},
 	{
@@ -4874,7 +4874,7 @@
 		"description": "Fevery",
 		"position": {
 			"longitude": 3.22716789707935,
-			"latitude": 3.22716789707935
+			"latitude": 51.2152683843537
 		}
 	},
 	{
@@ -4883,7 +4883,7 @@
 		"description": "De Pauw",
 		"position": {
 			"longitude": 3.22710701964407,
-			"latitude": 3.22710701964407
+			"latitude": 51.215192471701
 		}
 	},
 	{
@@ -4892,7 +4892,7 @@
 		"description": "'t Oud Handbogenhof",
 		"position": {
 			"longitude": 3.22650740737089,
-			"latitude": 3.22650740737089
+			"latitude": 51.2153408096859
 		}
 	},
 	{
@@ -4901,7 +4901,7 @@
 		"description": "Frituur 't Scheumspoantje",
 		"position": {
 			"longitude": 3.22388474708386,
-			"latitude": 3.22388474708386
+			"latitude": 51.2151439447505
 		}
 	},
 	{
@@ -4910,7 +4910,7 @@
 		"description": "Europ",
 		"position": {
 			"longitude": 3.22482836539822,
-			"latitude": 3.22482836539822
+			"latitude": 51.2133823534089
 		}
 	},
 	{
@@ -4919,7 +4919,7 @@
 		"description": "'t Opkikkertje",
 		"position": {
 			"longitude": 3.22450258671672,
-			"latitude": 3.22450258671672
+			"latitude": 51.2139516736734
 		}
 	},
 	{
@@ -4928,7 +4928,7 @@
 		"description": "Tom's Dinner",
 		"position": {
 			"longitude": 3.22432903966137,
-			"latitude": 3.22432903966137
+			"latitude": 51.2141817644385
 		}
 	},
 	{
@@ -4937,7 +4937,7 @@
 		"description": "Ter Brughe",
 		"position": {
 			"longitude": 3.22546975912921,
-			"latitude": 3.22546975912921
+			"latitude": 51.2133352477434
 		}
 	},
 	{
@@ -4946,7 +4946,7 @@
 		"description": "Asiris",
 		"position": {
 			"longitude": 3.2264674933626,
-			"latitude": 3.2264674933626
+			"latitude": 51.2144840355675
 		}
 	},
 	{
@@ -4955,7 +4955,7 @@
 		"description": "Jacobs",
 		"position": {
 			"longitude": 3.22623830071364,
-			"latitude": 3.22623830071364
+			"latitude": 51.2146510138199
 		}
 	},
 	{
@@ -4964,7 +4964,7 @@
 		"description": "Kalvarieberg",
 		"position": {
 			"longitude": 3.22412790416466,
-			"latitude": 3.22412790416466
+			"latitude": 51.2183192231167
 		}
 	},
 	{
@@ -4973,7 +4973,7 @@
 		"description": "De Reisduif",
 		"position": {
 			"longitude": 3.22838618258175,
-			"latitude": 3.22838618258175
+			"latitude": 51.2160032565685
 		}
 	},
 	{
@@ -4982,7 +4982,7 @@
 		"description": "De Witte Poorte",
 		"position": {
 			"longitude": 3.22581992774292,
-			"latitude": 3.22581992774292
+			"latitude": 51.2118448752951
 		}
 	},
 	{
@@ -4991,7 +4991,7 @@
 		"description": "'t Zonneke",
 		"position": {
 			"longitude": 3.22604976234834,
-			"latitude": 3.22604976234834
+			"latitude": 51.2120278765365
 		}
 	},
 	{
@@ -5000,7 +5000,7 @@
 		"description": "Terrastje",
 		"position": {
 			"longitude": 3.22836613607668,
-			"latitude": 3.22836613607668
+			"latitude": 51.2131998107491
 		}
 	},
 	{
@@ -5009,7 +5009,7 @@
 		"description": "Barabass",
 		"position": {
 			"longitude": 3.2224815210353,
-			"latitude": 3.2224815210353
+			"latitude": 51.2151813440341
 		}
 	},
 	{
@@ -5018,7 +5018,7 @@
 		"description": "De Bretoen",
 		"position": {
 			"longitude": 3.22054733431889,
-			"latitude": 3.22054733431889
+			"latitude": 51.2116767632825
 		}
 	},
 	{
@@ -5027,7 +5027,7 @@
 		"description": "'t Knabbeltje",
 		"position": {
 			"longitude": 3.2187222142225,
-			"latitude": 3.2187222142225
+			"latitude": 51.2131157068092
 		}
 	},
 	{
@@ -5036,7 +5036,7 @@
 		"description": "De Pottekijker",
 		"position": {
 			"longitude": 3.21842970001537,
-			"latitude": 3.21842970001537
+			"latitude": 51.2133805568285
 		}
 	},
 	{
@@ -5045,7 +5045,7 @@
 		"description": "De Vlamingdam",
 		"position": {
 			"longitude": 3.2213456961441,
-			"latitude": 3.2213456961441
+			"latitude": 51.2154496141464
 		}
 	},
 	{
@@ -5054,7 +5054,7 @@
 		"description": "'t Fortuintje",
 		"position": {
 			"longitude": 3.21786658852066,
-			"latitude": 3.21786658852066
+			"latitude": 51.2149661805807
 		}
 	},
 	{
@@ -5063,7 +5063,7 @@
 		"description": "Croissanterie Ortiz",
 		"position": {
 			"longitude": 3.21777436481599,
-			"latitude": 3.21777436481599
+			"latitude": 51.2139176825376
 		}
 	},
 	{
@@ -5072,7 +5072,7 @@
 		"description": "'t Ezeltje",
 		"position": {
 			"longitude": 3.21659123277312,
-			"latitude": 3.21659123277312
+			"latitude": 51.2150557434576
 		}
 	},
 	{
@@ -5081,7 +5081,7 @@
 		"description": "Bethune",
 		"position": {
 			"longitude": 3.21692246268547,
-			"latitude": 3.21692246268547
+			"latitude": 51.2153162341315
 		}
 	},
 	{
@@ -5090,7 +5090,7 @@
 		"description": "De Biezen",
 		"position": {
 			"longitude": 3.21752624537028,
-			"latitude": 3.21752624537028
+			"latitude": 51.215822735245
 		}
 	},
 	{
@@ -5099,7 +5099,7 @@
 		"description": "Gulden Vlies",
 		"position": {
 			"longitude": 3.21799027848535,
-			"latitude": 3.21799027848535
+			"latitude": 51.2160856740314
 		}
 	},
 	{
@@ -5108,7 +5108,7 @@
 		"description": "Oud Huis Amsterdam",
 		"position": {
 			"longitude": 3.22685025361845,
-			"latitude": 3.22685025361845
+			"latitude": 51.2120379252905
 		}
 	},
 	{
@@ -5117,7 +5117,7 @@
 		"description": "Bryghia",
 		"position": {
 			"longitude": 3.22617426510794,
-			"latitude": 3.22617426510794
+			"latitude": 51.2131218740546
 		}
 	},
 	{
@@ -5126,7 +5126,7 @@
 		"description": "Kok au Vin",
 		"position": {
 			"longitude": 3.21964491307413,
-			"latitude": 3.21964491307413
+			"latitude": 51.2119101990858
 		}
 	},
 	{
@@ -5135,7 +5135,7 @@
 		"description": "Snuffel",
 		"position": {
 			"longitude": 3.21873130635047,
-			"latitude": 3.21873130635047
+			"latitude": 51.212671955364
 		}
 	},
 	{
@@ -5144,7 +5144,7 @@
 		"description": "In 't Molenhuis",
 		"position": {
 			"longitude": 3.23325565423134,
-			"latitude": 3.23325565423134
+			"latitude": 51.2203980871921
 		}
 	},
 	{
@@ -5153,7 +5153,7 @@
 		"description": "Bistro du Phare",
 		"position": {
 			"longitude": 3.23277181165305,
-			"latitude": 3.23277181165305
+			"latitude": 51.2213981595722
 		}
 	},
 	{
@@ -5162,7 +5162,7 @@
 		"description": "Assisenhof",
 		"position": {
 			"longitude": 3.23293930661535,
-			"latitude": 3.23293930661535
+			"latitude": 51.2210370497678
 		}
 	},
 	{
@@ -5171,7 +5171,7 @@
 		"description": "Saspoort",
 		"position": {
 			"longitude": 3.23287744178875,
-			"latitude": 3.23287744178875
+			"latitude": 51.2209252067848
 		}
 	},
 	{
@@ -5180,7 +5180,7 @@
 		"description": "Ter Duinen",
 		"position": {
 			"longitude": 3.22812040455005,
-			"latitude": 3.22812040455005
+			"latitude": 51.2172893316573
 		}
 	},
 	{
@@ -5189,7 +5189,7 @@
 		"description": "De Bronne",
 		"position": {
 			"longitude": 3.22614586992817,
-			"latitude": 3.22614586992817
+			"latitude": 51.2193295457315
 		}
 	},
 	{
@@ -5198,7 +5198,7 @@
 		"description": "Tableau",
 		"position": {
 			"longitude": 3.22653212341999,
-			"latitude": 3.22653212341999
+			"latitude": 51.2208884467303
 		}
 	},
 	{
@@ -5207,7 +5207,7 @@
 		"description": "Golden Tulip",
 		"position": {
 			"longitude": 3.2296517066241,
-			"latitude": 3.2296517066241
+			"latitude": 51.2150315892207
 		}
 	},
 	{
@@ -5216,7 +5216,7 @@
 		"description": "Adornes",
 		"position": {
 			"longitude": 3.22945821823438,
-			"latitude": 3.22945821823438
+			"latitude": 51.2132833423628
 		}
 	},
 	{
@@ -5225,7 +5225,7 @@
 		"description": "Herberghe Vlissinghe 1515",
 		"position": {
 			"longitude": 3.23009991081972,
-			"latitude": 3.23009991081972
+			"latitude": 51.2128456827436
 		}
 	},
 	{
@@ -5234,7 +5234,7 @@
 		"description": "Pas Partout",
 		"position": {
 			"longitude": 3.2307446849912,
-			"latitude": 3.2307446849912
+			"latitude": 51.2134915720849
 		}
 	},
 	{
@@ -5243,7 +5243,7 @@
 		"description": "'t Gezelleke",
 		"position": {
 			"longitude": 3.23103653893186,
-			"latitude": 3.23103653893186
+			"latitude": 51.2137806150511
 		}
 	},
 	{
@@ -5252,7 +5252,7 @@
 		"description": "De Verloren Hoek",
 		"position": {
 			"longitude": 3.2370008856024,
-			"latitude": 3.2370008856024
+			"latitude": 51.2157916474362
 		}
 	},
 	{
@@ -5261,7 +5261,7 @@
 		"description": "De Windmolen",
 		"position": {
 			"longitude": 3.23682571727361,
-			"latitude": 3.23682571727361
+			"latitude": 51.2160147872706
 		}
 	},
 	{
@@ -5270,7 +5270,7 @@
 		"description": "Pizza Company",
 		"position": {
 			"longitude": 3.21813605352796,
-			"latitude": 3.21813605352796
+			"latitude": 51.2130926233268
 		}
 	},
 	{
@@ -5279,7 +5279,7 @@
 		"description": "Saigon",
 		"position": {
 			"longitude": 3.21777016660319,
-			"latitude": 3.21777016660319
+			"latitude": 51.213414700498
 		}
 	},
 	{
@@ -5288,7 +5288,7 @@
 		"description": "De Vismijn",
 		"position": {
 			"longitude": 3.21629178005352,
-			"latitude": 3.21629178005352
+			"latitude": 51.2148535039354
 		}
 	},
 	{
@@ -5297,7 +5297,7 @@
 		"description": "Zen",
 		"position": {
 			"longitude": 3.21477311349297,
-			"latitude": 3.21477311349297
+			"latitude": 51.2112775462896
 		}
 	},
 	{
@@ -5306,7 +5306,7 @@
 		"description": "Guillaume",
 		"position": {
 			"longitude": 3.21652616890928,
-			"latitude": 3.21652616890928
+			"latitude": 51.20775318333
 		}
 	},
 	{
@@ -5315,7 +5315,7 @@
 		"description": "Ensor",
 		"position": {
 			"longitude": 3.21700815958845,
-			"latitude": 3.21700815958845
+			"latitude": 51.2071355738596
 		}
 	},
 	{
@@ -5324,7 +5324,7 @@
 		"description": "Pastis",
 		"position": {
 			"longitude": 3.21691729889036,
-			"latitude": 3.21691729889036
+			"latitude": 51.2070048973188
 		}
 	},
 	{
@@ -5333,7 +5333,7 @@
 		"description": "Montovani",
 		"position": {
 			"longitude": 3.21471942717957,
-			"latitude": 3.21471942717957
+			"latitude": 51.207927936624
 		}
 	},
 	{
@@ -5342,7 +5342,7 @@
 		"description": "Karos",
 		"position": {
 			"longitude": 3.21536674751838,
-			"latitude": 3.21536674751838
+			"latitude": 51.2078624024749
 		}
 	},
 	{
@@ -5351,7 +5351,7 @@
 		"description": "De Frisse Lane",
 		"position": {
 			"longitude": 3.21576159025561,
-			"latitude": 3.21576159025561
+			"latitude": 51.2074873073318
 		}
 	},
 	{
@@ -5360,7 +5360,7 @@
 		"description": "Golden Tree",
 		"position": {
 			"longitude": 3.21591894671576,
-			"latitude": 3.21591894671576
+			"latitude": 51.2070171877632
 		}
 	},
 	{
@@ -5369,7 +5369,7 @@
 		"description": "Maraboe",
 		"position": {
 			"longitude": 3.21640382923384,
-			"latitude": 3.21640382923384
+			"latitude": 51.2061330722719
 		}
 	},
 	{
@@ -5378,7 +5378,7 @@
 		"description": "Dickie's Beer & Grillhouse",
 		"position": {
 			"longitude": 3.21652746338214,
-			"latitude": 3.21652746338214
+			"latitude": 51.2055339902908
 		}
 	},
 	{
@@ -5387,7 +5387,7 @@
 		"description": "La Fuente",
 		"position": {
 			"longitude": 3.21652191686883,
-			"latitude": 3.21652191686883
+			"latitude": 51.2054597695526
 		}
 	},
 	{
@@ -5396,7 +5396,7 @@
 		"description": "Lindenhof",
 		"position": {
 			"longitude": 3.21669232764872,
-			"latitude": 3.21669232764872
+			"latitude": 51.204759163798
 		}
 	},
 	{
@@ -5405,7 +5405,7 @@
 		"description": "Hertog van Windsor",
 		"position": {
 			"longitude": 3.21671038488072,
-			"latitude": 3.21671038488072
+			"latitude": 51.2047002381082
 		}
 	},
 	{
@@ -5414,7 +5414,7 @@
 		"description": "Parkhotel",
 		"position": {
 			"longitude": 3.21645367228345,
-			"latitude": 3.21645367228345
+			"latitude": 51.2046374765105
 		}
 	},
 	{
@@ -5423,7 +5423,7 @@
 		"description": "'t Hauwerke",
 		"position": {
 			"longitude": 3.21626034183573,
-			"latitude": 3.21626034183573
+			"latitude": 51.2043238604939
 		}
 	},
 	{
@@ -5432,7 +5432,7 @@
 		"description": "NH hotel",
 		"position": {
 			"longitude": 3.21652816469595,
-			"latitude": 3.21652816469595
+			"latitude": 51.2040112616992
 		}
 	},
 	{
@@ -5441,7 +5441,7 @@
 		"description": "'t Beursken",
 		"position": {
 			"longitude": 3.21504919594103,
-			"latitude": 3.21504919594103
+			"latitude": 51.2036932218399
 		}
 	},
 	{
@@ -5450,7 +5450,7 @@
 		"description": "Il Fiore",
 		"position": {
 			"longitude": 3.21510772495373,
-			"latitude": 3.21510772495373
+			"latitude": 51.2037134933904
 		}
 	},
 	{
@@ -5459,7 +5459,7 @@
 		"description": "Het Andere Idee",
 		"position": {
 			"longitude": 3.21519147210027,
-			"latitude": 3.21519147210027
+			"latitude": 51.2037583468854
 		}
 	},
 	{
@@ -5468,7 +5468,7 @@
 		"description": "De Vetten Os",
 		"position": {
 			"longitude": 3.21537452262743,
-			"latitude": 3.21537452262743
+			"latitude": 51.203815757458
 		}
 	},
 	{
@@ -5477,7 +5477,7 @@
 		"description": "Bonheur",
 		"position": {
 			"longitude": 3.21467326368866,
-			"latitude": 3.21467326368866
+			"latitude": 51.2055425635196
 		}
 	},
 	{
@@ -5486,7 +5486,7 @@
 		"description": "Entree Principale",
 		"position": {
 			"longitude": 3.214621468948,
-			"latitude": 3.214621468948
+			"latitude": 51.205473685597
 		}
 	},
 	{
@@ -5495,7 +5495,7 @@
 		"description": "'t Zandkoekje",
 		"position": {
 			"longitude": 3.21612049828066,
-			"latitude": 3.21612049828066
+			"latitude": 51.2055045296327
 		}
 	},
 	{
@@ -5504,7 +5504,7 @@
 		"description": "Gouden Rivier",
 		"position": {
 			"longitude": 3.21435477475144,
-			"latitude": 3.21435477475144
+			"latitude": 51.2049194674049
 		}
 	},
 	{
@@ -5513,7 +5513,7 @@
 		"description": "Narai Thai",
 		"position": {
 			"longitude": 3.21457429539693,
-			"latitude": 3.21457429539693
+			"latitude": 51.2050687847333
 		}
 	},
 	{
@@ -5522,7 +5522,7 @@
 		"description": "Mas que Nada",
 		"position": {
 			"longitude": 3.21424510461399,
-			"latitude": 3.21424510461399
+			"latitude": 51.2036853742854
 		}
 	},
 	{
@@ -5531,7 +5531,7 @@
 		"description": "Cocon",
 		"position": {
 			"longitude": 3.21438371798454,
-			"latitude": 3.21438371798454
+			"latitude": 51.2035256464922
 		}
 	},
 	{
@@ -5540,7 +5540,7 @@
 		"description": "Aneth",
 		"position": {
 			"longitude": 3.21117141876879,
-			"latitude": 3.21117141876879
+			"latitude": 51.2118090294353
 		}
 	},
 	{
@@ -5549,7 +5549,7 @@
 		"description": "'t Stil Ende",
 		"position": {
 			"longitude": 3.21454130405137,
-			"latitude": 3.21454130405137
+			"latitude": 51.2163974073737
 		}
 	},
 	{
@@ -5558,7 +5558,7 @@
 		"description": "Sing Wah",
 		"position": {
 			"longitude": 3.21235811582058,
-			"latitude": 3.21235811582058
+			"latitude": 51.2177504808896
 		}
 	},
 	{
@@ -5567,7 +5567,7 @@
 		"description": "Du Gaz",
 		"position": {
 			"longitude": 3.21229262878761,
-			"latitude": 3.21229262878761
+			"latitude": 51.2177869238811
 		}
 	},
 	{
@@ -5576,7 +5576,7 @@
 		"description": "City I",
 		"position": {
 			"longitude": 3.21112542006991,
-			"latitude": 3.21112542006991
+			"latitude": 51.2178276552318
 		}
 	},
 	{
@@ -5585,7 +5585,7 @@
 		"description": "De Kroon",
 		"position": {
 			"longitude": 3.20944715921279,
-			"latitude": 3.20944715921279
+			"latitude": 51.2184590168495
 		}
 	},
 	{
@@ -5594,7 +5594,7 @@
 		"description": "De Achtste Dag",
 		"position": {
 			"longitude": 3.21534941225142,
-			"latitude": 3.21534941225142
+			"latitude": 51.2161769964408
 		}
 	},
 	{
@@ -5603,7 +5603,7 @@
 		"description": "Leonardo Brugge",
 		"position": {
 			"longitude": 3.20359726104308,
-			"latitude": 3.20359726104308
+			"latitude": 51.1733287596728
 		}
 	},
 	{
@@ -5612,7 +5612,7 @@
 		"description": "Mayla",
 		"position": {
 			"longitude": 3.2082911081213,
-			"latitude": 3.2082911081213
+			"latitude": 51.2035842180427
 		}
 	},
 	{
@@ -5621,7 +5621,7 @@
 		"description": "Frietkotje",
 		"position": {
 			"longitude": 3.20822722238045,
-			"latitude": 3.20822722238045
+			"latitude": 51.2035569373697
 		}
 	},
 	{
@@ -5630,7 +5630,7 @@
 		"description": "De Pompe",
 		"position": {
 			"longitude": 3.20794009773708,
-			"latitude": 3.20794009773708
+			"latitude": 51.2033826082809
 		}
 	},
 	{
@@ -5639,7 +5639,7 @@
 		"description": "Square",
 		"position": {
 			"longitude": 3.20871012265234,
-			"latitude": 3.20871012265234
+			"latitude": 51.2034249303347
 		}
 	},
 	{
@@ -5648,7 +5648,7 @@
 		"description": "Brouwershof",
 		"position": {
 			"longitude": 3.20896526030379,
-			"latitude": 3.20896526030379
+			"latitude": 51.2034019380534
 		}
 	},
 	{
@@ -5657,7 +5657,7 @@
 		"description": "Lam",
 		"position": {
 			"longitude": 3.20834355069561,
-			"latitude": 3.20834355069561
+			"latitude": 51.2031814502309
 		}
 	},
 	{
@@ -5666,7 +5666,7 @@
 		"description": "De Klokke",
 		"position": {
 			"longitude": 3.20083180283694,
-			"latitude": 3.20083180283694
+			"latitude": 51.1971463184119
 		}
 	},
 	{
@@ -5675,7 +5675,7 @@
 		"description": "The Farao's",
 		"position": {
 			"longitude": 3.19947367479456,
-			"latitude": 3.19947367479456
+			"latitude": 51.1949623447614
 		}
 	},
 	{
@@ -5684,7 +5684,7 @@
 		"description": "Frituur Patriek",
 		"position": {
 			"longitude": 3.198346558917,
-			"latitude": 3.198346558917
+			"latitude": 51.1938676545359
 		}
 	},
 	{
@@ -5693,7 +5693,7 @@
 		"description": "Cohiba",
 		"position": {
 			"longitude": 3.19803979021287,
-			"latitude": 3.19803979021287
+			"latitude": 51.1942597899636
 		}
 	},
 	{
@@ -5702,7 +5702,7 @@
 		"description": "'t Frietje",
 		"position": {
 			"longitude": 3.23541684037474,
-			"latitude": 3.23541684037474
+			"latitude": 51.1814176431827
 		}
 	},
 	{
@@ -5711,7 +5711,7 @@
 		"description": "'t Hoekske",
 		"position": {
 			"longitude": 3.23331486806563,
-			"latitude": 3.23331486806563
+			"latitude": 51.1795235904524
 		}
 	},
 	{
@@ -5720,7 +5720,7 @@
 		"description": "Taco Smulkroeg",
 		"position": {
 			"longitude": 3.23224164433788,
-			"latitude": 3.23224164433788
+			"latitude": 51.1939990155982
 		}
 	},
 	{
@@ -5729,7 +5729,7 @@
 		"description": "Narai catering",
 		"position": {
 			"longitude": 3.21027349084596,
-			"latitude": 3.21027349084596
+			"latitude": 51.2053199218711
 		}
 	},
 	{
@@ -5738,7 +5738,7 @@
 		"description": "Passage",
 		"position": {
 			"longitude": 3.21084543774143,
-			"latitude": 3.21084543774143
+			"latitude": 51.1903727600513
 		}
 	},
 	{
@@ -5747,7 +5747,7 @@
 		"description": "Frituur Bosrand",
 		"position": {
 			"longitude": 3.20921734420169,
-			"latitude": 3.20921734420169
+			"latitude": 51.1879846083982
 		}
 	},
 	{
@@ -5756,7 +5756,7 @@
 		"description": "D'Hoeve",
 		"position": {
 			"longitude": 3.20404148649006,
-			"latitude": 3.20404148649006
+			"latitude": 51.1808704310136
 		}
 	},
 	{
@@ -5765,7 +5765,7 @@
 		"description": "Brugotel",
 		"position": {
 			"longitude": 3.19912838611274,
-			"latitude": 3.19912838611274
+			"latitude": 51.1921811318924
 		}
 	},
 	{
@@ -5774,7 +5774,7 @@
 		"description": "Café Crea",
 		"position": {
 			"longitude": 3.20198328553854,
-			"latitude": 3.20198328553854
+			"latitude": 51.1797109625625
 		}
 	},
 	{
@@ -5783,7 +5783,7 @@
 		"description": "De Driehoek",
 		"position": {
 			"longitude": 3.2037031342015,
-			"latitude": 3.2037031342015
+			"latitude": 51.1938394406167
 		}
 	},
 	{
@@ -5792,7 +5792,7 @@
 		"description": "Olympia",
 		"position": {
 			"longitude": 3.20690275771418,
-			"latitude": 3.20690275771418
+			"latitude": 51.2004439851711
 		}
 	},
 	{
@@ -5801,7 +5801,7 @@
 		"description": "Spoor 13",
 		"position": {
 			"longitude": 3.22373541032903,
-			"latitude": 3.22373541032903
+			"latitude": 51.1843876343665
 		}
 	},
 	{
@@ -5810,7 +5810,7 @@
 		"description": "Marabout",
 		"position": {
 			"longitude": 3.22574360113464,
-			"latitude": 3.22574360113464
+			"latitude": 51.1802386408238
 		}
 	},
 	{
@@ -5819,7 +5819,7 @@
 		"description": "Grillhuisje 't Gehucht",
 		"position": {
 			"longitude": 3.22619773634634,
-			"latitude": 3.22619773634634
+			"latitude": 51.1798385882965
 		}
 	},
 	{
@@ -5828,7 +5828,7 @@
 		"description": "De Barge",
 		"position": {
 			"longitude": 3.22756749074163,
-			"latitude": 3.22756749074163
+			"latitude": 51.1968940109141
 		}
 	},
 	{
@@ -5837,7 +5837,7 @@
 		"description": "Mayflower",
 		"position": {
 			"longitude": 3.22765836744184,
-			"latitude": 3.22765836744184
+			"latitude": 51.1971753310766
 		}
 	},
 	{
@@ -5846,7 +5846,7 @@
 		"description": "Santa Fe",
 		"position": {
 			"longitude": 3.21784311879849,
-			"latitude": 3.21784311879849
+			"latitude": 51.1975912546949
 		}
 	},
 	{
@@ -5855,7 +5855,7 @@
 		"description": "Den Express",
 		"position": {
 			"longitude": 3.21784311879849,
-			"latitude": 3.21784311879849
+			"latitude": 51.1975912546949
 		}
 	},
 	{
@@ -5864,7 +5864,7 @@
 		"description": "De Krakele",
 		"position": {
 			"longitude": 3.22083713494014,
-			"latitude": 3.22083713494014
+			"latitude": 51.2224707723727
 		}
 	},
 	{
@@ -5873,7 +5873,7 @@
 		"description": "La Tâche",
 		"position": {
 			"longitude": 3.20881731205735,
-			"latitude": 3.20881731205735
+			"latitude": 51.2194482949643
 		}
 	},
 	{
@@ -5882,7 +5882,7 @@
 		"description": "Frituur Peter",
 		"position": {
 			"longitude": 3.24613624160115,
-			"latitude": 3.24613624160115
+			"latitude": 51.2009921610941
 		}
 	},
 	{
@@ -5891,7 +5891,7 @@
 		"description": "Frituur 't Peerdeke",
 		"position": {
 			"longitude": 3.24613624160115,
-			"latitude": 3.24613624160115
+			"latitude": 51.2009921610941
 		}
 	},
 	{
@@ -5900,7 +5900,7 @@
 		"description": "Monnikenwerve",
 		"position": {
 			"longitude": 3.19605325806449,
-			"latitude": 3.19605325806449
+			"latitude": 51.2473433683227
 		}
 	},
 	{
@@ -5909,7 +5909,7 @@
 		"description": "Zandwegemolen",
 		"position": {
 			"longitude": 3.19342414901612,
-			"latitude": 3.19342414901612
+			"latitude": 51.22543479751
 		}
 	},
 	{
@@ -5918,7 +5918,7 @@
 		"description": "Di Trevi",
 		"position": {
 			"longitude": 3.20774561264394,
-			"latitude": 3.20774561264394
+			"latitude": 51.2203208254819
 		}
 	},
 	{
@@ -5927,7 +5927,7 @@
 		"description": "Kerim",
 		"position": {
 			"longitude": 3.2054089577746,
-			"latitude": 3.2054089577746
+			"latitude": 51.2218924476012
 		}
 	},
 	{
@@ -5936,7 +5936,7 @@
 		"description": "Sportcafetaria Tempelhof",
 		"position": {
 			"longitude": 3.2039633472818,
-			"latitude": 3.2039633472818
+			"latitude": 51.2271660513449
 		}
 	},
 	{
@@ -5945,7 +5945,7 @@
 		"description": "Intermezzo",
 		"position": {
 			"longitude": 3.2058061032985,
-			"latitude": 3.2058061032985
+			"latitude": 51.2252083430775
 		}
 	},
 	{
@@ -5954,7 +5954,7 @@
 		"description": "Golden City",
 		"position": {
 			"longitude": 3.20704474013273,
-			"latitude": 3.20704474013273
+			"latitude": 51.222307166446
 		}
 	},
 	{
@@ -5963,7 +5963,7 @@
 		"description": "Normandie",
 		"position": {
 			"longitude": 3.20718845176056,
-			"latitude": 3.20718845176056
+			"latitude": 51.2220200240925
 		}
 	},
 	{
@@ -5972,7 +5972,7 @@
 		"description": "De Beurs",
 		"position": {
 			"longitude": 3.21324051573591,
-			"latitude": 3.21324051573591
+			"latitude": 51.2234722275037
 		}
 	},
 	{
@@ -5981,7 +5981,7 @@
 		"description": "The Shady",
 		"position": {
 			"longitude": 3.21209203369162,
-			"latitude": 3.21209203369162
+			"latitude": 51.223347437387
 		}
 	},
 	{
@@ -5990,7 +5990,7 @@
 		"description": "Koopmanshuis",
 		"position": {
 			"longitude": 3.21197668787899,
-			"latitude": 3.21197668787899
+			"latitude": 51.2233103853216
 		}
 	},
 	{
@@ -5999,7 +5999,7 @@
 		"description": "De Groene Jager",
 		"position": {
 			"longitude": 3.21124238280733,
-			"latitude": 3.21124238280733
+			"latitude": 51.2230795454005
 		}
 	},
 	{
@@ -6008,7 +6008,7 @@
 		"description": "Quick",
 		"position": {
 			"longitude": 3.26457207129506,
-			"latitude": 3.26457207129506
+			"latitude": 51.2083482576711
 		}
 	},
 	{
@@ -6017,7 +6017,7 @@
 		"description": "Lunch Garden",
 		"position": {
 			"longitude": 3.26457207129506,
-			"latitude": 3.26457207129506
+			"latitude": 51.2083482576711
 		}
 	},
 	{
@@ -6026,7 +6026,7 @@
 		"description": "Byblos Pub",
 		"position": {
 			"longitude": 3.26457207129506,
-			"latitude": 3.26457207129506
+			"latitude": 51.2083482576711
 		}
 	},
 	{
@@ -6035,7 +6035,7 @@
 		"description": "McDonald's",
 		"position": {
 			"longitude": 3.25654381875426,
-			"latitude": 3.25654381875426
+			"latitude": 51.2095628253425
 		}
 	},
 	{
@@ -6044,7 +6044,7 @@
 		"description": "Bij Alfredo - De Spaanse Kok",
 		"position": {
 			"longitude": 3.19129802211507,
-			"latitude": 3.19129802211507
+			"latitude": 51.1953864713821
 		}
 	},
 	{
@@ -6053,7 +6053,7 @@
 		"description": "Martin's Visrestaurant",
 		"position": {
 			"longitude": 3.20644269740846,
-			"latitude": 3.20644269740846
+			"latitude": 51.3313489089735
 		}
 	},
 	{
@@ -6062,7 +6062,7 @@
 		"description": "'t Spinnetje",
 		"position": {
 			"longitude": 3.20965222054486,
-			"latitude": 3.20965222054486
+			"latitude": 51.3296328572522
 		}
 	},
 	{
@@ -6071,7 +6071,7 @@
 		"description": "'t Pakhuis",
 		"position": {
 			"longitude": 3.20173644439091,
-			"latitude": 3.20173644439091
+			"latitude": 51.3339493823096
 		}
 	},
 	{
@@ -6080,7 +6080,7 @@
 		"description": "Old Steamer",
 		"position": {
 			"longitude": 3.20320313054939,
-			"latitude": 3.20320313054939
+			"latitude": 51.3343288275618
 		}
 	},
 	{
@@ -6089,7 +6089,7 @@
 		"description": "Pier 27",
 		"position": {
 			"longitude": 3.20439824574795,
-			"latitude": 3.20439824574795
+			"latitude": 51.3345468332332
 		}
 	},
 	{
@@ -6098,7 +6098,7 @@
 		"description": "Anker",
 		"position": {
 			"longitude": 3.20577327833224,
-			"latitude": 3.20577327833224
+			"latitude": 51.3349682217546
 		}
 	},
 	{
@@ -6107,7 +6107,7 @@
 		"description": "Kymata",
 		"position": {
 			"longitude": 3.20622144689267,
-			"latitude": 3.20622144689267
+			"latitude": 51.3350966070068
 		}
 	},
 	{
@@ -6116,7 +6116,7 @@
 		"description": "Frituur 'Met of Zonder'",
 		"position": {
 			"longitude": 3.20221868470963,
-			"latitude": 3.20221868470963
+			"latitude": 51.3324963591515
 		}
 	},
 	{
@@ -6125,7 +6125,7 @@
 		"description": "Atlantic",
 		"position": {
 			"longitude": 3.20257431919478,
-			"latitude": 3.20257431919478
+			"latitude": 51.3316655221417
 		}
 	},
 	{
@@ -6134,7 +6134,7 @@
 		"description": "Café Zonder Naam",
 		"position": {
 			"longitude": 3.20372226158433,
-			"latitude": 3.20372226158433
+			"latitude": 51.3322133291303
 		}
 	},
 	{
@@ -6143,7 +6143,7 @@
 		"description": "Brasserie Nelson",
 		"position": {
 			"longitude": 3.20399742320848,
-			"latitude": 3.20399742320848
+			"latitude": 51.3323794225914
 		}
 	},
 	{
@@ -6152,7 +6152,7 @@
 		"description": "The Boat House",
 		"position": {
 			"longitude": 3.20408103712823,
-			"latitude": 3.20408103712823
+			"latitude": 51.3325123467663
 		}
 	},
 	{
@@ -6161,7 +6161,7 @@
 		"description": "The Sailor",
 		"position": {
 			"longitude": 3.2049450312253,
-			"latitude": 3.2049450312253
+			"latitude": 51.3325069235212
 		}
 	},
 	{
@@ -6170,7 +6170,7 @@
 		"description": "Slabbinck",
 		"position": {
 			"longitude": 3.20517404997385,
-			"latitude": 3.20517404997385
+			"latitude": 51.332225265462
 		}
 	},
 	{
@@ -6179,7 +6179,7 @@
 		"description": "Seawitch",
 		"position": {
 			"longitude": 3.20532638575202,
-			"latitude": 3.20532638575202
+			"latitude": 51.3327910944702
 		}
 	},
 	{
@@ -6188,7 +6188,7 @@
 		"description": "Mon Manège à Toi",
 		"position": {
 			"longitude": 3.20547502565,
-			"latitude": 3.20547502565
+			"latitude": 51.3328389045233
 		}
 	},
 	{
@@ -6197,7 +6197,7 @@
 		"description": "Zeemeermin",
 		"position": {
 			"longitude": 3.2056215269335,
-			"latitude": 3.2056215269335
+			"latitude": 51.3328982813825
 		}
 	},
 	{
@@ -6206,7 +6206,7 @@
 		"description": "Rembrandt",
 		"position": {
 			"longitude": 3.20290507835144,
-			"latitude": 3.20290507835144
+			"latitude": 51.330424224486
 		}
 	},
 	{
@@ -6215,7 +6215,7 @@
 		"description": "De Lichtboeie",
 		"position": {
 			"longitude": 3.20314887385021,
-			"latitude": 3.20314887385021
+			"latitude": 51.3297742171761
 		}
 	},
 	{
@@ -6224,7 +6224,7 @@
 		"description": "New Corner",
 		"position": {
 			"longitude": 3.20256137267169,
-			"latitude": 3.20256137267169
+			"latitude": 51.3294509296821
 		}
 	},
 	{
@@ -6233,7 +6233,7 @@
 		"description": "Channel 16 (Ch 16)",
 		"position": {
 			"longitude": 3.20159969307461,
-			"latitude": 3.20159969307461
+			"latitude": 51.3300347734271
 		}
 	},
 	{
@@ -6242,7 +6242,7 @@
 		"description": "Sedov Bistro",
 		"position": {
 			"longitude": 3.20178244930433,
-			"latitude": 3.20178244930433
+			"latitude": 51.3300493188952
 		}
 	},
 	{
@@ -6251,7 +6251,7 @@
 		"description": "De Kuisbank",
 		"position": {
 			"longitude": 3.20100897956854,
-			"latitude": 3.20100897956854
+			"latitude": 51.3299872409493
 		}
 	},
 	{
@@ -6260,7 +6260,7 @@
 		"description": "'t Werftje",
 		"position": {
 			"longitude": 3.19969835515514,
-			"latitude": 3.19969835515514
+			"latitude": 51.3298074598522
 		}
 	},
 	{
@@ -6269,7 +6269,7 @@
 		"description": "'t Kastaarke",
 		"position": {
 			"longitude": 3.20588869320465,
-			"latitude": 3.20588869320465
+			"latitude": 51.3318301726636
 		}
 	},
 	{
@@ -6278,7 +6278,7 @@
 		"description": "Abri",
 		"position": {
 			"longitude": 3.20569776066951,
-			"latitude": 3.20569776066951
+			"latitude": 51.3316243517932
 		}
 	},
 	{
@@ -6287,7 +6287,7 @@
 		"description": "Polydor",
 		"position": {
 			"longitude": 3.20563338586755,
-			"latitude": 3.20563338586755
+			"latitude": 51.331535651764
 		}
 	},
 	{
@@ -6296,7 +6296,7 @@
 		"description": "Las Vegas",
 		"position": {
 			"longitude": 3.2008678740553,
-			"latitude": 3.2008678740553
+			"latitude": 51.3287552055605
 		}
 	},
 	{
@@ -6305,7 +6305,7 @@
 		"description": "Ship-Otel",
 		"position": {
 			"longitude": 3.19642135201031,
-			"latitude": 3.19642135201031
+			"latitude": 51.3279453597067
 		}
 	},
 	{
@@ -6314,7 +6314,7 @@
 		"description": "Suffolk Ferry",
 		"position": {
 			"longitude": 3.19468418645663,
-			"latitude": 3.19468418645663
+			"latitude": 51.3267867512675
 		}
 	},
 	{
@@ -6323,7 +6323,7 @@
 		"description": "Korenbloem",
 		"position": {
 			"longitude": 3.19461531405654,
-			"latitude": 3.19461531405654
+			"latitude": 51.3274639689145
 		}
 	},
 	{
@@ -6332,7 +6332,7 @@
 		"description": "El Toro",
 		"position": {
 			"longitude": 3.18894312657716,
-			"latitude": 3.18894312657716
+			"latitude": 51.3093464772141
 		}
 	},
 	{
@@ -6341,7 +6341,7 @@
 		"description": "'t Lisputje",
 		"position": {
 			"longitude": 3.19172447914315,
-			"latitude": 3.19172447914315
+			"latitude": 51.2985704999142
 		}
 	},
 	{
@@ -6350,7 +6350,7 @@
 		"description": "Frituur Baraque",
 		"position": {
 			"longitude": 3.19128167908624,
-			"latitude": 3.19128167908624
+			"latitude": 51.2973678831996
 		}
 	},
 	{
@@ -6359,7 +6359,7 @@
 		"description": "St Joseph",
 		"position": {
 			"longitude": 3.1944119696002,
-			"latitude": 3.1944119696002
+			"latitude": 51.2941055861321
 		}
 	},
 	{
@@ -6368,7 +6368,7 @@
 		"description": "De Zwarte Orchidee",
 		"position": {
 			"longitude": 3.19273545677394,
-			"latitude": 3.19273545677394
+			"latitude": 51.2947691849143
 		}
 	},
 	{
@@ -6377,7 +6377,7 @@
 		"description": "Justy's Frietshop",
 		"position": {
 			"longitude": 3.19268405346015,
-			"latitude": 3.19268405346015
+			"latitude": 51.2949749444881
 		}
 	},
 	{
@@ -6386,7 +6386,7 @@
 		"description": "Den Ouden Toren",
 		"position": {
 			"longitude": 3.19840496378555,
-			"latitude": 3.19840496378555
+			"latitude": 51.2944452277878
 		}
 	},
 	{
@@ -6395,7 +6395,7 @@
 		"description": "'t Torretje",
 		"position": {
 			"longitude": 3.19831674547658,
-			"latitude": 3.19831674547658
+			"latitude": 51.2946459906726
 		}
 	},
 	{
@@ -6404,7 +6404,7 @@
 		"description": "De Pepermolen",
 		"position": {
 			"longitude": 3.19714401741909,
-			"latitude": 3.19714401741909
+			"latitude": 51.2943145668079
 		}
 	},
 	{
@@ -6413,7 +6413,7 @@
 		"description": "De Goedendag",
 		"position": {
 			"longitude": 3.19710573270208,
-			"latitude": 3.19710573270208
+			"latitude": 51.2948078447093
 		}
 	},
 	{
@@ -6422,7 +6422,7 @@
 		"description": "De Valckenaere",
 		"position": {
 			"longitude": 3.1966017507709,
-			"latitude": 3.1966017507709
+			"latitude": 51.2944899792528
 		}
 	},
 	{
@@ -6431,7 +6431,7 @@
 		"description": "St Jacobshuis",
 		"position": {
 			"longitude": 3.1980467458735,
-			"latitude": 3.1980467458735
+			"latitude": 51.2944312596385
 		}
 	},
 	{
@@ -6440,7 +6440,7 @@
 		"description": "Huyze Saeftinghe",
 		"position": {
 			"longitude": 3.19866330103144,
-			"latitude": 3.19866330103144
+			"latitude": 51.2935056602444
 		}
 	},
 	{
@@ -6449,7 +6449,7 @@
 		"description": "St Amand",
 		"position": {
 			"longitude": 3.19760121609622,
-			"latitude": 3.19760121609622
+			"latitude": 51.2927442525533
 		}
 	},
 	{
@@ -6458,7 +6458,7 @@
 		"description": "De Cité",
 		"position": {
 			"longitude": 3.19615849937402,
-			"latitude": 3.19615849937402
+			"latitude": 51.3098201867575
 		}
 	},
 	{
@@ -6467,7 +6467,7 @@
 		"description": "De Kavijaks",
 		"position": {
 			"longitude": 3.19740238484065,
-			"latitude": 3.19740238484065
+			"latitude": 51.3103516330502
 		}
 	},
 	{
@@ -6476,7 +6476,7 @@
 		"description": "Bras (Beach)",
 		"position": {
 			"longitude": 3.18133407350733,
-			"latitude": 3.18133407350733
+			"latitude": 51.3293897494165
 		}
 	},
 	{
@@ -6485,7 +6485,7 @@
 		"description": "Ambrosius",
 		"position": {
 			"longitude": 3.18043075254198,
-			"latitude": 3.18043075254198
+			"latitude": 51.3291987678161
 		}
 	},
 	{
@@ -6494,7 +6494,7 @@
 		"description": "Maritime",
 		"position": {
 			"longitude": 3.18106651222949,
-			"latitude": 3.18106651222949
+			"latitude": 51.3292920477776
 		}
 	},
 	{
@@ -6503,7 +6503,7 @@
 		"description": "Sea & Sand",
 		"position": {
 			"longitude": 3.18090435696457,
-			"latitude": 3.18090435696457
+			"latitude": 51.3291954014746
 		}
 	},
 	{
@@ -6512,7 +6512,7 @@
 		"description": "Falstaff",
 		"position": {
 			"longitude": 3.18067545516632,
-			"latitude": 3.18067545516632
+			"latitude": 51.3292498896769
 		}
 	},
 	{
@@ -6521,7 +6521,7 @@
 		"description": "The Old Barrel",
 		"position": {
 			"longitude": 3.1803363837412,
-			"latitude": 3.1803363837412
+			"latitude": 51.3292001396693
 		}
 	},
 	{
@@ -6530,7 +6530,7 @@
 		"description": "'t Zandlopertje",
 		"position": {
 			"longitude": 3.1803363837412,
-			"latitude": 3.1803363837412
+			"latitude": 51.3292001396693
 		}
 	},
 	{
@@ -6539,7 +6539,7 @@
 		"description": "Zeezicht",
 		"position": {
 			"longitude": 3.17901512519535,
-			"latitude": 3.17901512519535
+			"latitude": 51.3288612658087
 		}
 	},
 	{
@@ -6548,7 +6548,7 @@
 		"description": "Atlas",
 		"position": {
 			"longitude": 3.18169953474786,
-			"latitude": 3.18169953474786
+			"latitude": 51.3284049477742
 		}
 	},
 	{
@@ -6557,7 +6557,7 @@
 		"description": "Sandwich Express",
 		"position": {
 			"longitude": 3.18340677767378,
-			"latitude": 3.18340677767378
+			"latitude": 51.3278959291838
 		}
 	},
 	{
@@ -6566,7 +6566,7 @@
 		"description": "Monte Carlo",
 		"position": {
 			"longitude": 3.18440894930892,
-			"latitude": 3.18440894930892
+			"latitude": 51.327763410344
 		}
 	},
 	{
@@ -6575,7 +6575,7 @@
 		"description": "Jin Yan Lou",
 		"position": {
 			"longitude": 3.18460950659441,
-			"latitude": 3.18460950659441
+			"latitude": 51.3275139527088
 		}
 	},
 	{
@@ -6584,7 +6584,7 @@
 		"description": "Beaufort",
 		"position": {
 			"longitude": 3.18378421676962,
-			"latitude": 3.18378421676962
+			"latitude": 51.3283273007644
 		}
 	},
 	{
@@ -6593,7 +6593,7 @@
 		"description": "Monaco",
 		"position": {
 			"longitude": 3.18348264489648,
-			"latitude": 3.18348264489648
+			"latitude": 51.328620940694
 		}
 	},
 	{
@@ -6602,7 +6602,7 @@
 		"description": "Lagaar",
 		"position": {
 			"longitude": 3.18290319231943,
-			"latitude": 3.18290319231943
+			"latitude": 51.3295120619857
 		}
 	},
 	{
@@ -6611,7 +6611,7 @@
 		"description": "Olympos",
 		"position": {
 			"longitude": 3.18317158958652,
-			"latitude": 3.18317158958652
+			"latitude": 51.1943746905506
 		}
 	},
 	{
@@ -6620,7 +6620,7 @@
 		"description": "Frituur Peter",
 		"position": {
 			"longitude": 3.20593528946061,
-			"latitude": 3.20593528946061
+			"latitude": 51.2277996375061
 		}
 	},
 	{
@@ -6629,7 +6629,7 @@
 		"description": "Traiteur Yves",
 		"position": {
 			"longitude": 3.20492437022846,
-			"latitude": 3.20492437022846
+			"latitude": 51.2301467922476
 		}
 	},
 	{
@@ -6638,7 +6638,7 @@
 		"description": "De Barrière",
 		"position": {
 			"longitude": 3.20506915130687,
-			"latitude": 3.20506915130687
+			"latitude": 51.2304101154845
 		}
 	},
 	{
@@ -6647,7 +6647,7 @@
 		"description": "Pickles",
 		"position": {
 			"longitude": 3.20577838549992,
-			"latitude": 3.20577838549992
+			"latitude": 51.2303174278098
 		}
 	},
 	{
@@ -6656,7 +6656,7 @@
 		"description": "Charly's",
 		"position": {
 			"longitude": 3.20592027772589,
-			"latitude": 3.20592027772589
+			"latitude": 51.2301786019977
 		}
 	},
 	{
@@ -6665,7 +6665,7 @@
 		"description": "Erotiek Center Martine",
 		"position": {
 			"longitude": 3.20410147481115,
-			"latitude": 3.20410147481115
+			"latitude": 51.2333869399338
 		}
 	},
 	{
@@ -6674,7 +6674,7 @@
 		"description": "Apollo Hotel",
 		"position": {
 			"longitude": 3.21276323624381,
-			"latitude": 3.21276323624381
+			"latitude": 51.2263484579324
 		}
 	},
 	{
@@ -6683,7 +6683,7 @@
 		"description": "De Vrede",
 		"position": {
 			"longitude": 3.20858569453815,
-			"latitude": 3.20858569453815
+			"latitude": 51.3313096368061
 		}
 	},
 	{
@@ -6692,7 +6692,7 @@
 		"description": "Della Piazza",
 		"position": {
 			"longitude": 3.23383598238583,
-			"latitude": 3.23383598238583
+			"latitude": 51.1879708916791
 		}
 	},
 	{
@@ -6701,7 +6701,7 @@
 		"description": "Le grand café Belfort",
 		"position": {
 			"longitude": 3.22352160463426,
-			"latitude": 3.22352160463426
+			"latitude": 51.2092662190461
 		}
 	},
 	{
@@ -6710,7 +6710,7 @@
 		"description": "La Bodega",
 		"position": {
 			"longitude": 3.22264234623451,
-			"latitude": 3.22264234623451
+			"latitude": 51.2102867615976
 		}
 	},
 	{
@@ -6719,7 +6719,7 @@
 		"description": "Kempinski Dukes' Palace",
 		"position": {
 			"longitude": 3.21976489988876,
-			"latitude": 3.21976489988876
+			"latitude": 51.2086109550703
 		}
 	},
 	{
@@ -6728,7 +6728,7 @@
 		"description": "Bauhaus",
 		"position": {
 			"longitude": 3.23746413618015,
-			"latitude": 3.23746413618015
+			"latitude": 51.2119058332984
 		}
 	},
 	{
@@ -6737,7 +6737,7 @@
 		"description": "Biskajer",
 		"position": {
 			"longitude": 3.22606059932414,
-			"latitude": 3.22606059932414
+			"latitude": 51.2112839998107
 		}
 	},
 	{
@@ -6746,7 +6746,7 @@
 		"description": "Cosy nostra",
 		"position": {
 			"longitude": 3.22536381961412,
-			"latitude": 3.22536381961412
+			"latitude": 51.2106561223036
 		}
 	},
 	{
@@ -6755,7 +6755,7 @@
 		"description": "Concertgebouwcafé",
 		"position": {
 			"longitude": 3.21842614442565,
-			"latitude": 3.21842614442565
+			"latitude": 51.2037956508148
 		}
 	},
 	{
@@ -6764,7 +6764,7 @@
 		"description": "Passeviet",
 		"position": {
 			"longitude": 3.21454447653394,
-			"latitude": 3.21454447653394
+			"latitude": 51.2055285592203
 		}
 	},
 	{
@@ -6773,7 +6773,7 @@
 		"description": "Campanile",
 		"position": {
 			"longitude": 3.20585172369115,
-			"latitude": 3.20585172369115
+			"latitude": 51.1811072816347
 		}
 	},
 	{
@@ -6782,7 +6782,7 @@
 		"description": "The Night",
 		"position": {
 			"longitude": 3.20404148649006,
-			"latitude": 3.20404148649006
+			"latitude": 51.1808704310136
 		}
 	},
 	{
@@ -6791,7 +6791,7 @@
 		"description": "Tuf-Tuf",
 		"position": {
 			"longitude": 3.22075185066067,
-			"latitude": 3.22075185066067
+			"latitude": 51.1981896894922
 		}
 	},
 	{
@@ -6800,7 +6800,7 @@
 		"description": "Albert I",
 		"position": {
 			"longitude": 3.2172937454883,
-			"latitude": 3.2172937454883
+			"latitude": 51.2037857887998
 		}
 	},
 	{
@@ -6809,7 +6809,7 @@
 		"description": "Rustenburg",
 		"position": {
 			"longitude": 3.21067369437159,
-			"latitude": 3.21067369437159
+			"latitude": 51.2201919229703
 		}
 	},
 	{
@@ -6818,7 +6818,7 @@
 		"description": "De Waterkant",
 		"position": {
 			"longitude": 3.19652581373678,
-			"latitude": 3.19652581373678
+			"latitude": 51.2331012244504
 		}
 	},
 	{
@@ -6827,7 +6827,7 @@
 		"description": "De Munte",
 		"position": {
 			"longitude": 3.26699778971708,
-			"latitude": 3.26699778971708
+			"latitude": 51.1930439978107
 		}
 	},
 	{
@@ -6836,7 +6836,7 @@
 		"description": "Le Bar",
 		"position": {
 			"longitude": 3.19069017645825,
-			"latitude": 3.19069017645825
+			"latitude": 51.1854894806216
 		}
 	},
 	{
@@ -6845,7 +6845,7 @@
 		"description": "Brasserie Den Tijd",
 		"position": {
 			"longitude": 3.21784311879849,
-			"latitude": 3.21784311879849
+			"latitude": 51.1975912546949
 		}
 	},
 	{
@@ -6854,7 +6854,7 @@
 		"description": "Tonka",
 		"position": {
 			"longitude": 3.22471815863764,
-			"latitude": 3.22471815863764
+			"latitude": 51.2020743718643
 		}
 	},
 	{
@@ -6863,7 +6863,7 @@
 		"description": "Malesherbes",
 		"position": {
 			"longitude": 3.22450763344134,
-			"latitude": 3.22450763344134
+			"latitude": 51.2032126472505
 		}
 	},
 	{
@@ -6872,7 +6872,7 @@
 		"description": "Miramar",
 		"position": {
 			"longitude": 3.2236786017427,
-			"latitude": 3.2236786017427
+			"latitude": 51.2051990093413
 		}
 	},
 	{
@@ -6881,7 +6881,7 @@
 		"description": "Sacre Coeur",
 		"position": {
 			"longitude": 3.23741557780539,
-			"latitude": 3.23741557780539
+			"latitude": 51.2120061885057
 		}
 	},
 	{
@@ -6890,7 +6890,7 @@
 		"description": "De Kartuizer",
 		"position": {
 			"longitude": 3.23668194693596,
-			"latitude": 3.23668194693596
+			"latitude": 51.2115217240079
 		}
 	},
 	{
@@ -6899,7 +6899,7 @@
 		"description": "Lion Belge",
 		"position": {
 			"longitude": 3.2368852219314,
-			"latitude": 3.2368852219314
+			"latitude": 51.2116604134113
 		}
 	},
 	{
@@ -6908,7 +6908,7 @@
 		"description": "Chasse-Spleen",
 		"position": {
 			"longitude": 3.21696673976443,
-			"latitude": 3.21696673976443
+			"latitude": 51.2067956262868
 		}
 	},
 	{
@@ -6917,7 +6917,7 @@
 		"description": "Punta Est",
 		"position": {
 			"longitude": 3.23264960032908,
-			"latitude": 3.23264960032908
+			"latitude": 51.2092151932363
 		}
 	},
 	{
@@ -6926,7 +6926,7 @@
 		"description": "De Môle",
 		"position": {
 			"longitude": 3.18155348838635,
-			"latitude": 3.18155348838635
+			"latitude": 51.3291995847826
 		}
 	},
 	{
@@ -6935,7 +6935,7 @@
 		"description": "Nadine Vandamme",
 		"position": {
 			"longitude": 3.20757450618948,
-			"latitude": 3.20757450618948
+			"latitude": 51.3307655338388
 		}
 	},
 	{
@@ -6944,7 +6944,7 @@
 		"description": "Moloko",
 		"position": {
 			"longitude": 3.2476834539868,
-			"latitude": 3.2476834539868
+			"latitude": 51.2104537610826
 		}
 	},
 	{
@@ -6953,7 +6953,7 @@
 		"description": "Wilgenhof",
 		"position": {
 			"longitude": 3.26040177901095,
-			"latitude": 3.26040177901095
+			"latitude": 51.2333980768387
 		}
 	},
 	{
@@ -6962,7 +6962,7 @@
 		"description": "Blue lobster",
 		"position": {
 			"longitude": 3.20249333680046,
-			"latitude": 3.20249333680046
+			"latitude": 51.3300991882895
 		}
 	},
 	{
@@ -6971,7 +6971,7 @@
 		"description": "Bloemenhof",
 		"position": {
 			"longitude": 3.24758629262872,
-			"latitude": 3.24758629262872
+			"latitude": 51.2783834203795
 		}
 	},
 	{
@@ -6980,7 +6980,7 @@
 		"description": "De Ketel",
 		"position": {
 			"longitude": 3.24944320180856,
-			"latitude": 3.24944320180856
+			"latitude": 51.2416176614266
 		}
 	},
 	{
@@ -6989,7 +6989,7 @@
 		"description": "Dogas Club",
 		"position": {
 			"longitude": 3.1840733333542,
-			"latitude": 3.1840733333542
+			"latitude": 51.3280868406549
 		}
 	},
 	{
@@ -6998,7 +6998,7 @@
 		"description": "Salon Monet",
 		"position": {
 			"longitude": 3.18254191490833,
-			"latitude": 3.18254191490833
+			"latitude": 51.329535100951
 		}
 	},
 	{
@@ -7007,7 +7007,7 @@
 		"description": "'t Dol-Fijntje",
 		"position": {
 			"longitude": 3.20603290834411,
-			"latitude": 3.20603290834411
+			"latitude": 51.331906908612
 		}
 	},
 	{
@@ -7016,7 +7016,7 @@
 		"description": "Tijdok",
 		"position": {
 			"longitude": 3.20297526841041,
-			"latitude": 3.20297526841041
+			"latitude": 51.3306497215593
 		}
 	},
 	{
@@ -7025,7 +7025,7 @@
 		"description": "Kurt's Pan",
 		"position": {
 			"longitude": 3.2210128125277,
-			"latitude": 3.2210128125277
+			"latitude": 51.2109048510486
 		}
 	},
 	{
@@ -7034,7 +7034,7 @@
 		"description": "De kleine nachtwinkel",
 		"position": {
 			"longitude": 3.22110092272956,
-			"latitude": 3.22110092272956
+			"latitude": 51.2109230888153
 		}
 	},
 	{
@@ -7043,7 +7043,7 @@
 		"description": "Lunch Garden",
 		"position": {
 			"longitude": 3.20061870356016,
-			"latitude": 3.20061870356016
+			"latitude": 51.2505428708936
 		}
 	},
 	{
@@ -7052,7 +7052,7 @@
 		"description": "De 4 Torens",
 		"position": {
 			"longitude": 3.2035380097825,
-			"latitude": 3.2035380097825
+			"latitude": 51.3323320338366
 		}
 	},
 	{
@@ -7061,7 +7061,7 @@
 		"description": "De Kombuis",
 		"position": {
 			"longitude": 3.20354286164316,
-			"latitude": 3.20354286164316
+			"latitude": 51.3323598926623
 		}
 	},
 	{
@@ -7070,7 +7070,7 @@
 		"description": "Brasserie Forestiere",
 		"position": {
 			"longitude": 3.22465745892307,
-			"latitude": 3.22465745892307
+			"latitude": 51.2114732340176
 		}
 	},
 	{
@@ -7079,7 +7079,7 @@
 		"description": "Pand 23",
 		"position": {
 			"longitude": 3.2458361290319,
-			"latitude": 3.2458361290319
+			"latitude": 51.2006625159382
 		}
 	},
 	{
@@ -7088,7 +7088,7 @@
 		"description": "Cathedraak",
 		"position": {
 			"longitude": 3.22376276866129,
-			"latitude": 3.22376276866129
+			"latitude": 51.2094377463212
 		}
 	},
 	{
@@ -7097,7 +7097,7 @@
 		"description": "Polshoogte",
 		"position": {
 			"longitude": 3.23370293365167,
-			"latitude": 3.23370293365167
+			"latitude": 51.203151772983
 		}
 	},
 	{
@@ -7106,7 +7106,7 @@
 		"description": "Café Mundo",
 		"position": {
 			"longitude": 3.22293082106494,
-			"latitude": 3.22293082106494
+			"latitude": 51.2031220536774
 		}
 	},
 	{
@@ -7115,7 +7115,7 @@
 		"description": "Coffee Time Bruges",
 		"position": {
 			"longitude": 3.22448337644099,
-			"latitude": 3.22448337644099
+			"latitude": 51.2041267479758
 		}
 	},
 	{
@@ -7124,7 +7124,7 @@
 		"description": "Cafe Leffe",
 		"position": {
 			"longitude": 3.21801821432411,
-			"latitude": 3.21801821432411
+			"latitude": 51.2060502894539
 		}
 	},
 	{
@@ -7133,7 +7133,7 @@
 		"description": "'t Poatersgat",
 		"position": {
 			"longitude": 3.22385017725697,
-			"latitude": 3.22385017725697
+			"latitude": 51.2118907202681
 		}
 	},
 	{
@@ -7142,7 +7142,7 @@
 		"description": "Jeugdherberg Europa",
 		"position": {
 			"longitude": 3.23338181264672,
-			"latitude": 3.23338181264672
+			"latitude": 51.1942104521882
 		}
 	},
 	{
@@ -7151,7 +7151,7 @@
 		"description": "Poulin",
 		"position": {
 			"longitude": 3.22699510778787,
-			"latitude": 3.22699510778787
+			"latitude": 51.222857157887
 		}
 	}
 ]
