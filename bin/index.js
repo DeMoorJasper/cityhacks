@@ -25,15 +25,6 @@ function webServer() {
 database.start().then((data) => {
     console.log("==== CHECKING DATABASE ====");
     persistence.checkAll().then(() => {
-        const routing = require('../src/data-processing/routing');
-        routing.generateRoute({
-            start: {
-                longitude: 3.22282125726163,
-                latitude: 3.22282125726163
-            },
-            type: "horeca",
-            distance: 2500
-        }, 1500).then(data => console.log(data)).catch(e => console.log(e));
         console.log("==== STARTING WEBSERVER ====");
         webServer();
     }).catch((e) => {
