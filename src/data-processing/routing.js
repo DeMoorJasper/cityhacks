@@ -17,15 +17,17 @@ function waypointToString(waypoints) {
 
 routing.generateRoute = function(options) {
     return new Promise((resolve, reject) => {
+        let i = 0;
         if (options && options.start && options.type && options.distance) {
             let routeBuilder = {
                 distance: 0,
                 lastPoint: options.start,
                 points: [],
-                radius: 50,
+                radius: options.distance / 25,
                 passed: {},
                 addPoint: () => {
-                    console.log("Search point");
+                    console.log("Search point " + i);
+                    i++;
                     locations.searchRadius(routeBuilder.lastPoint, routeBuilder.radius, options.type)
                     .then((data) => {
                         if (data.length > 0) {
@@ -49,10 +51,7 @@ routing.generateRoute = function(options) {
                             }
                             if (!routeBuilder.passed[key]) {
                                 routeBuilder.passed[key] = true;
-                                routeBuilder.points.push({
-                                    longitude: point.longitude,
-                                    latitude: point.latitude
-                                });
+                                routeBuilder.points.push(data[index]);
                                 routeBuilder.lastPoint.longitude = point.longitude;
                                 routeBuilder.lastPoint.latitude = point.latitude;
                                 // Point found, reset radius
@@ -63,16 +62,13 @@ routing.generateRoute = function(options) {
                                 routeBuilder.radius = routeBuilder.radius * 2;
                             }
                         } else {
-                            if (routeBuilder.radius > options.distance) {
-                                return resolve(routeBuilder.points);
-                            }
                             routeBuilder.radius = routeBuilder.radius * 2;
                         }
-                        if (routeBuilder.distance < options.distance) {
-                            routeBuilder.addPoint();
-                        } else {
-                            return resolve(routeBuilder.points);
+                        if ((routeBuilder.distance + routeBuilder.radius) < options.distance) {
+                            return routeBuilder.addPoint();
                         }
+                        console.log(routeBuilder.distance);
+                        return resolve(routeBuilder.points);
                     }).catch(e => console.log(e));
                 }
             }

@@ -1,5 +1,5 @@
-# CityHacks
-## Requirements
-Node.js (v6.x)
+# CityHacks 24-HOUR HACKATON
+Pitstop project for the CityHacks hackaton, this project is about creating a routing application for senior citizens.
 
-### If u wanna see nice, bugfree code, don't look here
+## Requirements
+Node.js (v8.x)

@@ -4,6 +4,7 @@ import style from './styles/home.less';
 import Autosuggest from 'react-autosuggest';
 
 const ajax = require('ajax');
+const domain = require('../domain.json').domain;
 
 const renderSuggestion = suggestion => (
 	<div class={style.searchItem}>
@@ -46,7 +47,7 @@ export default class Home extends Component {
 				distance: 2500
 			};
 			console.log(options);
-			ajax.get(`https://api.cityhacks.finestevents.org/routing?options=${JSON.stringify(options)}`, null, (data) => {
+			ajax.get(`${domain}/routing?options=${JSON.stringify(options)}`, null, (data) => {
 				if (data && data.routes) {
 					this.props.setRoute(data, () => {
 						route('/routing', true);
@@ -69,7 +70,7 @@ export default class Home extends Component {
 	};
 
 	onSuggestionsFetchRequested = ({ value }) => {
-		ajax.get(`https://api.cityhacks.finestevents.org/search?query=${value}&page=0`, null, (data) => {
+		ajax.get(`${domain}/search?query=${value}&page=0`, null, (data) => {
 			let form = this.state.form;
 			form.searchData = data;
 			if (data && data.length > 0) {
@@ -132,10 +133,6 @@ export default class Home extends Component {
 						<option value="horeca">Horeca</option>
 						<option value="nature">Natuurwandeling</option>
 					</select>
-					<div class={style.checkblock}>
-						<input type="checkbox" name="Bank" id="bank" />
-						<label for="bank">Zitbankje</label>
-					</div>
 					<button type="submit">Zoeken</button>
 				</form>
 			</div>

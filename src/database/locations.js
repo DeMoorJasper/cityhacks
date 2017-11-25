@@ -43,9 +43,9 @@ locations.searchRadius = function(position, radius, type) {
         longitude: position.longitude - longitudeRadius,
         latitude: position.latitude - latitudeRadius
     }
-    return db.all("SELECT * FROM locations WHERE type = ? AND latitude BETWEEN ? AND ? AND " + 
+    return db.all("SELECT * FROM locations WHERE type IN ( ? , ? ) AND latitude BETWEEN ? AND ? AND " + 
                 "longitude BETWEEN ? AND ? AND longitude IS NOT ? AND latitude IS NOT ? LIMIT 25", 
-                type, minPosition.latitude, maxPosition.latitude, minPosition.longitude, maxPosition.longitude, 
+                type, 'bench', minPosition.latitude, maxPosition.latitude, minPosition.longitude, maxPosition.longitude, 
                 position.longitude, position.longitude);
 };
 
