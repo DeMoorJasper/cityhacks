@@ -4,7 +4,7 @@ import style from './styles/home.less';
 import Autosuggest from 'react-autosuggest';
 
 const ajax = require('ajax');
-const config = require('../config.json');
+const domain = require('../domain.json').domain;
 
 const renderSuggestion = suggestion => (
 	<div class={style.searchItem}>
@@ -47,7 +47,7 @@ export default class Home extends Component {
 				distance: 2500
 			};
 			console.log(options);
-			ajax.get(`${config.domain}/routing?options=${JSON.stringify(options)}`, null, (data) => {
+			ajax.get(`${domain}/routing?options=${JSON.stringify(options)}`, null, (data) => {
 				if (data && data.routes) {
 					this.props.setRoute(data, () => {
 						route('/routing', true);
@@ -70,7 +70,7 @@ export default class Home extends Component {
 	};
 
 	onSuggestionsFetchRequested = ({ value }) => {
-		ajax.get(`${config.domain}/search?query=${value}&page=0`, null, (data) => {
+		ajax.get(`${domain}/search?query=${value}&page=0`, null, (data) => {
 			let form = this.state.form;
 			form.searchData = data;
 			if (data && data.length > 0) {
