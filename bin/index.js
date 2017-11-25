@@ -25,13 +25,15 @@ function webServer() {
 database.start().then((data) => {
     console.log("==== CHECKING DATABASE ====");
     persistence.checkAll().then(() => {
-        const locations = require("../src/database/locations");
-        locations.searchRadius({
-            longitude: 22.76901822191689,
-            latitude: 358.338605890286
-        }, 1000, "nature").then(data => {
-            console.log(data);
-        }).catch(e => console.log(e));
+        const routing = require('../src/data-processing/routing');
+        routing.generateRoute({
+            start: {
+                longitude: 3.22282125726163,
+                latitude: 3.22282125726163
+            },
+            type: "horeca",
+            distance: 2500
+        }, 1500).then(data => console.log(data)).catch(e => console.log(e));
         console.log("==== STARTING WEBSERVER ====");
         webServer();
     }).catch((e) => {
