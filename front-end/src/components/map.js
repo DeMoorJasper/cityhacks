@@ -1,5 +1,5 @@
 // Data imports
-const mockRoute = require("../mockdata/route.json");
+// const mockRoute = require("../mockdata/route.json");
 
 // Node.js imports
 import { h, Component } from 'preact';
@@ -48,7 +48,7 @@ export default class Profile extends Component {
 	}
 
 	drawMarkers() {
-		return mockRoute["waypoints"].map((waypoint) => {
+		return this.props.route["waypoints"].map((waypoint) => {
 			return (
 				<Marker
 					coordinates={waypoint["location"]}
@@ -88,7 +88,7 @@ export default class Profile extends Component {
 					data={{
 						"type": "Feature",
 						"properties": {},
-						"geometry": mockRoute["routes"][0]["geometry"]
+						"geometry": this.props.route["routes"][0]["geometry"]
 					}}
 					linePaint={{
 						"line-color": "#76B1EC",

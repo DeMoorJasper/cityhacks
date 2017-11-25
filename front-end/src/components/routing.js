@@ -1,8 +1,9 @@
 // Data imports
-const mockRoute = require("../mockdata/route.json");
+// const mockRoute = require("../mockdata/route.json");
 
 // Node.js imports
 import { h, Component } from 'preact';
+import { route } from 'preact-router';
 
 // Script imports
 import style from './styles/routing.less';
@@ -25,15 +26,21 @@ export default class Routing extends Component {
 			maneuvers: [],
 			lastManeuver: 0
 		}
-
 		this.fillManeuvers = this.fillManeuvers.bind(this);
 		this.checkManeuver = this.checkManeuver.bind(this);
 		this.updateGps = this.updateGps.bind(this);
 	}
 
 	componentDidMount() {
+		// FIX THIS
+		if (!(this.props.route && this.props.route["waypoints"])) {
+			return route('/', true);
+		}
 		this.fillManeuvers();
 		let gpsLocation = this.state.gps;
+		gpsLocation.latitude = this.props.route["waypoints"][0]["location"][0];
+		gpsLocation.longitude = this.props.route["waypoints"][0]["location"][1];
+		this.setState({ gps: gpsLocation });
 		this.getLocation().then(position => {
 			this.setState({ gps: position.coords });
 		}).catch(e => {
@@ -55,7 +62,7 @@ export default class Routing extends Component {
 
 	fillManeuvers() {
 		let maneuvers = [];
-		mockRoute["routes"][0]["legs"][0]["steps"].forEach((step) => {
+		this.props.route["routes"][0]["legs"][0]["steps"].forEach((step) => {
 			maneuvers.push(step.maneuver);
 		}, this);
 		// console.log(maneuvers);
@@ -75,9 +82,13 @@ export default class Routing extends Component {
 	}
 
 	render() {
+		if (!this.props.route) {
+			return <h1>No route data supplied.</h1>
+		}
+
 		return (
 			<div>
-				<Map gps={this.state.gps} route={mockRoute} gpsEnabled={this.state.gpsEnabled} 
+				<Map gps={this.state.gps} route={this.props.route} gpsEnabled={this.state.gpsEnabled} 
 					getLocation={this.getLocation} checkManeuver={this.checkManeuver} 
 					updateGps={this.updateGps} />
 				<Direction data={this.state.maneuvers[this.state.lastManeuver]} />

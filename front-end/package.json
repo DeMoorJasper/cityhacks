@@ -88,6 +88,7 @@
     "webpack-dev-server": "^2.4.4"
   },
   "dependencies": {
+    "ajax": "0.0.4",
     "mapbox-gl": "^0.42.2",
     "preact": "^8.1.0",
     "preact-compat": "^3.15.0",
@@ -95,6 +96,7 @@
     "preact-router": "^2.5.1",
     "promise-polyfill": "^6.0.2",
     "proptypes": "^1.0.0",
+    "react-autosuggest": "^9.3.2",
     "react-mapbox-gl": "^3.2.0",
     "serve": "^6.0.0"
   }

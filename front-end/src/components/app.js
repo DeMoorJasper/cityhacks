@@ -6,12 +6,21 @@ import Home from './home';
 import Routing from './routing';
 
 export default class App extends Component {
-	/** Gets fired when the route changes.
-	 *	@param {Object} event		"change" event from [preact-router](http://git.io/preact-router)
-	 *	@param {string} event.url	The newly routed URL
-	 */
+	constructor() {
+		super();
+		this.state = {
+			route: {}
+		};
+		this.handleRoute = this.handleRoute.bind(this);
+		this.setRoute = this.setRoute.bind(this);
+	}
+
 	handleRoute = e => {
 		this.currentUrl = e.url;
+	};
+
+	setRoute = (route, callback) => {
+		this.setState({ route : route }, callback);
 	};
 
 	render() {
@@ -19,8 +28,8 @@ export default class App extends Component {
 			<div id="app">
 				<Header />
 				<Router onChange={this.handleRoute}>
-					<Home path="/" />
-					<Routing path="/routing"/>
+					<Home path="/" setRoute={this.setRoute} />
+					<Routing path="/routing" route={this.state.route} />
 				</Router>
 			</div>
 		);
