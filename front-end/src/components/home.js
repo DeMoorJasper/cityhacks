@@ -46,8 +46,7 @@ export default class Home extends Component {
 				distance: 2500
 			};
 			console.log(options);
-			console.log(`http://localhost:4200/routing?options=${JSON.stringify(options)}`);
-			ajax.get(`http://localhost:4200/routing?options=${JSON.stringify(options)}`, null, (data) => {
+			ajax.get(`http://api.cityhacks.finestevents.org/routing?options=${JSON.stringify(options)}`, null, (data) => {
 				if (data && data.routes) {
 					this.props.setRoute(data, () => {
 						route('/routing', true);
@@ -70,7 +69,7 @@ export default class Home extends Component {
 	};
 
 	onSuggestionsFetchRequested = ({ value }) => {
-		ajax.get(`http://localhost:4200/search?query=${value}&page=0`, null, (data) => {
+		ajax.get(`http://api.cityhacks.finestevents.org/search?query=${value}&page=0`, null, (data) => {
 			let form = this.state.form;
 			form.searchData = data;
 			if (data && data.length > 0) {

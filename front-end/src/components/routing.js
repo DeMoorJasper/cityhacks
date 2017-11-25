@@ -38,9 +38,6 @@ export default class Routing extends Component {
 		}
 		this.fillManeuvers();
 		let gpsLocation = this.state.gps;
-		gpsLocation.latitude = this.props.route["waypoints"][0]["location"][0];
-		gpsLocation.longitude = this.props.route["waypoints"][0]["location"][1];
-		this.setState({ gps: gpsLocation });
 		this.getLocation().then(position => {
 			this.setState({ gps: position.coords });
 		}).catch(e => {

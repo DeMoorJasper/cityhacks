@@ -35,7 +35,6 @@ export default class Profile extends Component {
 				}).catch(e => console.log(e));
 			}
 		}, 2000);
-		console.log(Map);
 	}
 
 	componentWillReceiveProps(nextProps) {
@@ -76,6 +75,11 @@ export default class Profile extends Component {
 			return <h1>No gps data supplied.</h1>;
 		}
 
+		let startPoint = {
+			latitude: parseFloat(this.props.route["waypoints"][0]["location"][0]),
+			longitude: parseFloat(this.props.route["waypoints"][0]["location"][1])
+		}
+
 		return (
 			<Map
 				style="mapbox://styles/mapbox/streets-v9"
@@ -83,7 +87,9 @@ export default class Profile extends Component {
 					height: "100vh",
 					width: "100vw"
 				}}
-				center={[this.state.gps.longitude, this.state.gps.latitude]}
+				center={[startPoint.latitude, startPoint.longitude]}
+				movingMethod="easeTo"
+				zoom={[14]}
 			>
 				<GeoJSONLayer
 					data={{
