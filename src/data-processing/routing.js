@@ -22,21 +22,29 @@ routing.generateRoute = function(options) {
                 distance: 0,
                 lastPoint: options.start,
                 points: [],
+                radius: 150,
+                passed: {},
                 addPoint: () => {
-                    locations.searchRadius(routeBuilder.lastPoint, 150, options.type)
+                    locations.searchRadius(routeBuilder.lastPoint, routeBuilder.radius, options.type)
                     .then((data) => {
                         if (data.length > 0) {
-                            routeBuilder.points.push({
-                                longitude: data[0].longitude,
-                                latitude: data[0].latitude
-                            });
-                            routeBuilder.lastPoint.longitude = data[0].longitude;
-                            routeBuilder.lastPoint.latitude = data[0].latitude;
-                            routeBuilder.distance += 150;
+                            let key = `${data[0].longitude}-${data[0].latitude}`;
+                            if (!routeBuilder.passed[key]) {
+                                routeBuilder.passed[key] = true;
+                                routeBuilder.points.push({
+                                    longitude: data[0].longitude,
+                                    latitude: data[0].latitude
+                                });
+                                routeBuilder.lastPoint.longitude = data[0].longitude;
+                                routeBuilder.lastPoint.latitude = data[0].latitude;
+                                // TODO improve distance adder
+                                routeBuilder.distance += routeBuilder.radius;
+                            }
                         } else {
-                            routeBuilder.lastPoint.latitude += 150;
-                            routeBuilder.lastPoint.longitude += 150;
-                            routeBuilder.distance += 150;
+                            if (routeBuilder.radius > options.distance) {
+                                return resolve(routeBuilder.points);
+                            }
+                            routeBuilder.radius = routeBuilder.radius * 2;
                         }
                         if (routeBuilder.distance < options.distance) {
                             routeBuilder.addPoint();
@@ -60,7 +68,7 @@ routing.calculate = function(waypoints) {
         waypoints = waypointToString(waypoints);
         if (waypoints) {
             // console.log(waypoints);
-            let path = `https://api.mapbox.com/directions/v5/mapbox/walking/${waypoints}?access_token=${config.getMapBoxKey()}&steps=true&geometries=geojson`;
+            let path = `https://api.mapbox.com/directions/v5/mapbox/walking/${waypoints}?access_token=${config.getMapBoxKey()}&steps=true&geometries=geojson&language=nl`;
             request.get(path).then((data) => {
                     resolve(JSON.parse(data));
                 }).catch(e => {

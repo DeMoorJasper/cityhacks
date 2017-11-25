@@ -40,8 +40,8 @@ locations.searchRadius = function(position, radius, type) {
         latitude: position.latitude + latitudeRadius
     }
     let minPosition = {
-        longitude: position.longitude,
-        latitude: position.latitude
+        longitude: position.longitude - longitudeRadius,
+        latitude: position.latitude - latitudeRadius
     }
     return db.all("SELECT * FROM locations WHERE type = ? AND latitude BETWEEN ? AND ? AND " + 
                 "longitude BETWEEN ? AND ? AND longitude IS NOT ? AND latitude IS NOT ? LIMIT 25", 
