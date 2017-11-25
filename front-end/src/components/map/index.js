@@ -7,11 +7,10 @@ import { h, Component } from 'preact';
 import ReactMapboxGl, { GeoJSONLayer, Feature } from "react-mapbox-gl";
 import { Marker } from "react-mapbox-gl";
 
-// Script imports
 import style from './style.less';
 
-export default class Map extends Component {
-	constructor() {
+export default class Profile extends Component {
+    constructor() {
 		super();
 		this.state = {
 			gps: {
@@ -25,31 +24,9 @@ export default class Map extends Component {
 			lastManeuver: 0
 		}
 		this.drawMarkers = this.drawMarkers.bind(this);
-		this.drawManeuvres = this.drawManeuvres.bind(this);
-	}
-	getLocation() {
-		return new Promise((resolve, reject) => {
-			if ("geolocation" in navigator) {
-				navigator.geolocation.getCurrentPosition((position) => {
-					return resolve(position);
-				});
-			} else {
-				return reject("Geolocation unavailable");
-			}
-		});
-	}
-
-	fillManeuvers() {
-		let maneuvers = [];
-		mockRoute["routes"][0]["legs"][0]["steps"].forEach((step) => {
-			maneuvers.push(step.maneuver);
-		}, this);
-		console.log(maneuvers);
-		this.setState({ maneuvers: maneuvers });
-	}
-
-	componentDidMount() {
-		this.fillManeuvers();
+    }
+    
+    componentDidMount() {
 		let gpsLocation = this.state.gps;
 		this.getLocation().then(position => {
 			gpsLocation = position.coords;
@@ -58,10 +35,10 @@ export default class Map extends Component {
 				if (this.state.gpsEnabled) {
 					this.getLocation().then(position => {
 						gpsLocation = position.coords;
-						if (this.state.maneuvers[this.state.lastManeuver].latitude + 0.001 < gpsLocation.latitude && 
+						if (this.state.maneuvers[this.state.lastManeuver].latitude + 0.001 < gpsLocation.latitude &&
 							this.state.maneuvers[this.state.lastManeuver].longitude + 0.001 < gpsLocation.longitude) {
-								this.setState({ lastManeuver: this.state.lastManeuver + 1 });
-							}
+							this.setState({ lastManeuver: this.state.lastManeuver + 1 });
+						}
 						console.log("New position: " + gpsLocation);
 					}).catch(e => {
 						interval = null;
@@ -74,8 +51,16 @@ export default class Map extends Component {
 		});
 	}
 
-	drawManeuvres() {
-		
+	getLocation() {
+		return new Promise((resolve, reject) => {
+			if ("geolocation" in navigator) {
+				navigator.geolocation.getCurrentPosition((position) => {
+					return resolve(position);
+				});
+			} else {
+				return reject("Geolocation unavailable");
+			}
+		});
 	}
 
 	drawMarkers() {
@@ -88,7 +73,8 @@ export default class Map extends Component {
 						src={"./assets/icons/marker.svg"}
 						style={{
 							width: '3rem',
-							height: 'auto'
+							height: 'auto',
+							marginBottom: '-1.5rem'
 						}}
 					/>
 				</Marker>
@@ -96,56 +82,49 @@ export default class Map extends Component {
 		});
 	}
 
-	render() {
-		const Map = ReactMapboxGl({
+    render() {
+        const Map = ReactMapboxGl({
 			accessToken: "pk.eyJ1IjoiZ2lsbGVzdmluY2tpZXIyMCIsImEiOiJjamFlN3ZwbDUxeWtkMzNsbzRnMHM2eHZtIn0.QxVyqaJamA9maRZDRhQ5Vg"
 		});
-		console.log(mockRoute["routes"][0]["geometry"]);
-		console.log(this.state.gps);
-		console.log(mockRoute["routes"][0]["legs"][0]["steps"][0]["maneuver"]);
 
-		alert(JSON.stringify(this.state.maneuvers[this.state.lastManeuver]));
+        return (
+            <Map
+                style="mapbox://styles/mapbox/streets-v9"
+                containerStyle={{
+                    height: "100vh",
+                    width: "100vw"
+                }}
+                center={[3.2247, 51.2093]}
+            >
+                <GeoJSONLayer
+                    data={{
+                        "type": "Feature",
+                        "properties": {},
+                        "geometry": mockRoute["routes"][0]["geometry"]
+                    }}
+                    linePaint={{
+                        "line-color": "#76B1EC",
+                        "line-width": 8
+                    }}
+                    lineLayout={{
+                        "line-join": "round",
+                        "line-cap": "round"
+                    }}
+                />
 
-		return (
-			<Map
-				style="mapbox://styles/mapbox/streets-v9"
-				containerStyle={{
-					height: "100vh",
-					width: "100vw"
-				}}
-				center={[3.2247, 51.2093]}
-			>
-				<GeoJSONLayer
-					data={{
-						"type": "Feature",
-						"properties": {},
-						"geometry": mockRoute["routes"][0]["geometry"]
-					}}
-					linePaint={{
-						"line-color": "#76B1EC",
-						"line-width": 8
-					}}
-					lineLayout={{
-						"line-join": "round",
-						"line-cap": "round"
-					}}
-				/>
+                <Marker
+                    coordinates={[this.state.gps.longitude, this.state.gps.latitude]}>
+                    <img
+                        src={"./assets/icons/gps.svg"}
+                        style={{
+                            width: '3rem',
+                            height: 'auto'
+                        }}
+                    />
+                </Marker>
 
-				<Marker
-					coordinates={[this.state.gps.longitude, this.state.gps.latitude]}>
-					<img
-						src={"./assets/icons/gps.svg"}
-						style={{
-							width: '3rem',
-							height: 'auto'
-						}}
-					/>
-				</Marker>
-
-				{this.drawMarkers()}
-				{JSON.stringify(this.state.maneuvers[this.state.lastManeuver])}
-			</Map>
-			
-		);
-	}
+                {this.drawMarkers()}
+            </Map>
+        );
+    }
 }
