@@ -22,7 +22,7 @@ routing.generateRoute = function(options) {
                 distance: 0,
                 lastPoint: options.start,
                 points: [],
-                radius: 150,
+                radius: 50,
                 passed: {},
                 addPoint: () => {
                     console.log("Search point");
@@ -55,6 +55,8 @@ routing.generateRoute = function(options) {
                                 });
                                 routeBuilder.lastPoint.longitude = point.longitude;
                                 routeBuilder.lastPoint.latitude = point.latitude;
+                                // Point found, reset radius
+                                routeBuilder.radius = 50;
                                 // TODO improve distance adder
                                 routeBuilder.distance += routeBuilder.radius;
                             } else {
