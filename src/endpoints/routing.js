@@ -4,7 +4,6 @@ const routing = {};
 
 routing.handleRequest = function(req, res) {
     let options = req.query.options;
-    console.log(options);
     options = options ? JSON.parse(options) : undefined;
 
     if (options && options.start && options.type && options.distance) {

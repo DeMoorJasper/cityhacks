@@ -33,8 +33,8 @@ locations.searchRadius = function(position, radius, type) {
     if (isNaN(position.longitude) || isNaN(position.latitude)) return;
     let longitudeRadius = geoUtils.meterToLongitude(radius, position.longitude);
     let latitudeRadius = geoUtils.meterToLatitude(radius, position.latitude);
-    console.log("longitudeRadius: ", longitudeRadius);
-    console.log("latitudeRadius: ", latitudeRadius);
+    // console.log("longitudeRadius: ", longitudeRadius);
+    // console.log("latitudeRadius: ", latitudeRadius);
     let maxPosition = {
         longitude: position.longitude + longitudeRadius,
         latitude: position.latitude + latitudeRadius

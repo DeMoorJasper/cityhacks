@@ -23,7 +23,6 @@ routing.generateRoute = function(options) {
                 lastPoint: options.start,
                 points: [],
                 addPoint: () => {
-                    console.log("Add point");
                     locations.searchRadius(routeBuilder.lastPoint, 150, options.type)
                     .then((data) => {
                         if (data.length > 0) {
@@ -60,7 +59,7 @@ routing.calculate = function(waypoints) {
         // distance = meters
         waypoints = waypointToString(waypoints);
         if (waypoints) {
-            console.log(waypoints);
+            // console.log(waypoints);
             let path = `https://api.mapbox.com/directions/v5/mapbox/walking/${waypoints}?access_token=${config.getMapBoxKey()}&steps=true&geometries=geojson`;
             request.get(path).then((data) => {
                     resolve(JSON.parse(data));
