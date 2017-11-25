@@ -30,7 +30,8 @@ module.exports = {
 			components: path.resolve(__dirname, "src/components"),    // used for tests
 			style: path.resolve(__dirname, "src/style"),
 			'react': 'preact-compat',
-			'react-dom': 'preact-compat'
+			'react-dom': 'preact-compat',
+			'mapbox-gl': path.resolve('./node_modules/mapbox-gl/dist/mapbox-gl.js')
 		}
 	},
 

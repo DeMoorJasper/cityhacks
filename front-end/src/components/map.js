@@ -79,7 +79,7 @@ export default class Profile extends Component {
 
 		return (
 			<Map
-				style="mapbox://styles/mapbox/streets-v9"
+				style="mapbox://styles/jaspernorth/cjaducuvi5lgt2rovlbzxf9ma"
 				containerStyle={{
 					height: "100vh",
 					width: "100vw"
