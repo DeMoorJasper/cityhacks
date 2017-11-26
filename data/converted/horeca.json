@@ -1,0 +1,7157 @@
+[
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "De Markies",
+		"position": {
+			"longitude": 3.21801821432411,
+			"latitude": 51.2060502894539
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Rica Rokk",
+		"position": {
+			"longitude": 3.21808008996403,
+			"latitude": 51.2059350061145
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Bras Café",
+		"position": {
+			"longitude": 3.2181150591336,
+			"latitude": 51.2058634974067
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Ravage",
+		"position": {
+			"longitude": 3.21826735129743,
+			"latitude": 51.2058221014686
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Portinari Hotel",
+		"position": {
+			"longitude": 3.21831934321233,
+			"latitude": 51.2055838833099
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Hanze",
+		"position": {
+			"longitude": 3.21830082227862,
+			"latitude": 51.2053623619793
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "De Gouden Aap",
+		"position": {
+			"longitude": 3.21838919001982,
+			"latitude": 51.2052948492086
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Graaf van Vlaanderen",
+		"position": {
+			"longitude": 3.2184236230119,
+			"latitude": 51.2050205356742
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "La Source",
+		"position": {
+			"longitude": 3.21831934321233,
+			"latitude": 51.2055838833099
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Middenstand",
+		"position": {
+			"longitude": 3.21855220503456,
+			"latitude": 51.2048931535212
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "'t Zand",
+		"position": {
+			"longitude": 3.21862145498268,
+			"latitude": 51.2047779415986
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Gulden Spoor",
+		"position": {
+			"longitude": 3.2186641422306,
+			"latitude": 51.2046926015225
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Petite maison",
+		"position": {
+			"longitude": 3.21872214310604,
+			"latitude": 51.2046595588057
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Taveerne Hollywood",
+		"position": {
+			"longitude": 3.21873069081355,
+			"latitude": 51.2046121288962
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Green",
+		"position": {
+			"longitude": 3.21875941141142,
+			"latitude": 51.2045695305774
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Leopold",
+		"position": {
+			"longitude": 3.21881040606874,
+			"latitude": 51.2045213545765
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Pallieterke",
+		"position": {
+			"longitude": 3.2188077566072,
+			"latitude": 51.204404284503
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "'t Zandzakske",
+		"position": {
+			"longitude": 3.21886575702241,
+			"latitude": 51.204371241712
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Foyer",
+		"position": {
+			"longitude": 3.21894741891846,
+			"latitude": 51.2043511763562
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "'t Putje",
+		"position": {
+			"longitude": 3.21919021744921,
+			"latitude": 51.2043048649468
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Zandloper",
+		"position": {
+			"longitude": 3.21956921635764,
+			"latitude": 51.204196139687
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Zandpoortje",
+		"position": {
+			"longitude": 3.21741673062389,
+			"latitude": 51.2060537060181
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Efes 2",
+		"position": {
+			"longitude": 3.21783810026508,
+			"latitude": 51.2061725340996
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Londres",
+		"position": {
+			"longitude": 3.21831934321233,
+			"latitude": 51.2055838833099
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Speelmanshuys",
+		"position": {
+			"longitude": 3.21757986331824,
+			"latitude": 51.2061711795096
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Favela Cocktailbar",
+		"position": {
+			"longitude": 3.21881096599986,
+			"latitude": 51.2049478184517
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Pasta Maria",
+		"position": {
+			"longitude": 3.22143398576469,
+			"latitude": 51.2049559128434
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Lokkedize",
+		"position": {
+			"longitude": 3.21918576168602,
+			"latitude": 51.204710420687
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Lijbeer",
+		"position": {
+			"longitude": 3.21931617451657,
+			"latitude": 51.2046583810467
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Kardinaalshof",
+		"position": {
+			"longitude": 3.2213205792822,
+			"latitude": 51.2049165703654
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Salvators",
+		"position": {
+			"longitude": 3.22080591863967,
+			"latitude": 51.2050657031569
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Den Apero",
+		"position": {
+			"longitude": 3.219914788584,
+			"latitude": 51.2040963593291
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Dolle Dries",
+		"position": {
+			"longitude": 3.21986713257995,
+			"latitude": 51.2040089822617
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Groenighe",
+		"position": {
+			"longitude": 3.21942739199636,
+			"latitude": 51.2047116104511
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Joepyjee",
+		"position": {
+			"longitude": 3.22168967989031,
+			"latitude": 51.2060361269229
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Top",
+		"position": {
+			"longitude": 3.22195116192157,
+			"latitude": 51.2059053947533
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Belle Epoque",
+		"position": {
+			"longitude": 3.21872483204207,
+			"latitude": 51.2050744548273
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "China",
+		"position": {
+			"longitude": 3.2185655484716,
+			"latitude": 51.2050253927021
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "St Salvator",
+		"position": {
+			"longitude": 3.22039686041894,
+			"latitude": 51.2057211194566
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "De Buhne",
+		"position": {
+			"longitude": 3.22243734435824,
+			"latitude": 51.2060897305991
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Kleine Genoegen",
+		"position": {
+			"longitude": 3.22264996126044,
+			"latitude": 51.2059956065321
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Pizza Hut",
+		"position": {
+			"longitude": 3.22297303967891,
+			"latitude": 51.2068122517249
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Aquarel",
+		"position": {
+			"longitude": 3.22297303967891,
+			"latitude": 51.2068122517249
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Bhavani",
+		"position": {
+			"longitude": 3.22331083222786,
+			"latitude": 51.206503792598
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Fonteintje",
+		"position": {
+			"longitude": 3.22336951453244,
+			"latitude": 51.2064429417727
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Simon Stevin",
+		"position": {
+			"longitude": 3.22323661539049,
+			"latitude": 51.2062956391205
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Poules Moules",
+		"position": {
+			"longitude": 3.22318900351247,
+			"latitude": 51.2062812716963
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Vuyst",
+		"position": {
+			"longitude": 3.22245009603736,
+			"latitude": 51.20632162478
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Bodega Lorena",
+		"position": {
+			"longitude": 3.22338586246814,
+			"latitude": 51.2069043233811
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Verbeelding",
+		"position": {
+			"longitude": 3.22375024158214,
+			"latitude": 51.2065648315014
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Oude Burg 22",
+		"position": {
+			"longitude": 3.22390584087711,
+			"latitude": 51.206764501643
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Mangerie",
+		"position": {
+			"longitude": 3.2241121859239,
+			"latitude": 51.2067004444134
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "'t Voermanshuys",
+		"position": {
+			"longitude": 3.22440869390867,
+			"latitude": 51.2070219982161
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Vineeto",
+		"position": {
+			"longitude": 3.2248383999941,
+			"latitude": 51.2073286157056
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Koetse",
+		"position": {
+			"longitude": 3.22356950499196,
+			"latitude": 51.2063371052519
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Gilde",
+		"position": {
+			"longitude": 3.2250826895774,
+			"latitude": 51.2069207447953
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "The Olivetree",
+		"position": {
+			"longitude": 3.22537130647268,
+			"latitude": 51.2083176339417
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Yssalon",
+		"description": "Sweet Bruges",
+		"position": {
+			"longitude": 3.22633792352677,
+			"latitude": 51.2075679275287
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Erasmus",
+		"position": {
+			"longitude": 3.2266599840519,
+			"latitude": 51.2075246840721
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Bourgoensch Hof",
+		"position": {
+			"longitude": 3.2266599840519,
+			"latitude": 51.2075246840721
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Relais Bourgondisch Cruyce",
+		"position": {
+			"longitude": 3.22694813606681,
+			"latitude": 51.2075100836544
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "The 57th Restaurant",
+		"position": {
+			"longitude": 3.22637001752001,
+			"latitude": 51.2076887580815
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Riva del Solle",
+		"position": {
+			"longitude": 3.22618560224285,
+			"latitude": 51.207309191021
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Caramel",
+		"position": {
+			"longitude": 3.22615441825877,
+			"latitude": 51.2073772619825
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Martin's",
+		"position": {
+			"longitude": 3.2255215627907,
+			"latitude": 51.2074557422033
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Arthie's",
+		"position": {
+			"longitude": 3.22585820828068,
+			"latitude": 51.2075702457205
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "De Orangerie",
+		"position": {
+			"longitude": 3.2264497436796,
+			"latitude": 51.2069942173162
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Opus Latino",
+		"position": {
+			"longitude": 3.22620382625288,
+			"latitude": 51.2082225418988
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Ter Steeghere",
+		"position": {
+			"longitude": 3.2258980195162,
+			"latitude": 51.2079785461209
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Garre",
+		"position": {
+			"longitude": 3.22566695532565,
+			"latitude": 51.2082231483458
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Cookie's",
+		"position": {
+			"longitude": 3.22591215098743,
+			"latitude": 51.20823015339
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Hennon",
+		"position": {
+			"longitude": 3.22596300097857,
+			"latitude": 51.2084137432279
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Breidel de Coninc",
+		"position": {
+			"longitude": 3.2261621156293,
+			"latitude": 51.2084944689269
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Tom Pouce",
+		"position": {
+			"longitude": 3.22622048407552,
+			"latitude": 51.2083710357589
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Crown Plaza",
+		"position": {
+			"longitude": 3.22737279470751,
+			"latitude": 51.2090044649222
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Celtic Ireland",
+		"position": {
+			"longitude": 3.22681657078308,
+			"latitude": 51.2094185995302
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Kohinoor Tondori",
+		"position": {
+			"longitude": 3.22548241848995,
+			"latitude": 51.2093547208739
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Quatre mains",
+		"position": {
+			"longitude": 3.22555622584857,
+			"latitude": 51.2093542754693
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Song-Hua",
+		"position": {
+			"longitude": 3.2256844311376,
+			"latitude": 51.2093172725608
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Au petit Grand",
+		"position": {
+			"longitude": 3.22612318923497,
+			"latitude": 51.2094061084094
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Assiette blanche",
+		"position": {
+			"longitude": 3.22631530151438,
+			"latitude": 51.2096976769042
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Bao Bab Wijnbistro",
+		"position": {
+			"longitude": 3.22640006288567,
+			"latitude": 51.2097019721792
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "'t Brugs Pitahuis",
+		"position": {
+			"longitude": 3.22679339260309,
+			"latitude": 51.2096872290142
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Passion for Food",
+		"position": {
+			"longitude": 3.2269491535152,
+			"latitude": 51.2097304514659
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Het Dagelijks Brood",
+		"position": {
+			"longitude": 3.22621680608689,
+			"latitude": 51.2097268555552
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Sultan Kebab",
+		"position": {
+			"longitude": 3.22627142884393,
+			"latitude": 51.2094550533616
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Ter Burg",
+		"position": {
+			"longitude": 3.22653235224062,
+			"latitude": 51.209498133344
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Cambrinus",
+		"position": {
+			"longitude": 3.22612656795923,
+			"latitude": 51.2097201895369
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Bocarme",
+		"position": {
+			"longitude": 3.22526624312841,
+			"latitude": 51.2095936719416
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "L' Italiano",
+		"position": {
+			"longitude": 3.22490895140428,
+			"latitude": 51.2096435240904
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Taveerne Curiosa",
+		"position": {
+			"longitude": 3.22469109584436,
+			"latitude": 51.2099508300613
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Dell'arte",
+		"position": {
+			"longitude": 3.22484790333619,
+			"latitude": 51.210101838516
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Den Huzaar",
+		"position": {
+			"longitude": 3.22479747349805,
+			"latitude": 51.2102774960367
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Maxim's 2",
+		"position": {
+			"longitude": 3.22476018388319,
+			"latitude": 51.2103686845449
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Verdi",
+		"position": {
+			"longitude": 3.22458429762554,
+			"latitude": 51.2094908920155
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Rozenbrouw",
+		"position": {
+			"longitude": 3.22264266717629,
+			"latitude": 51.2122266805664
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Pieter Pourbus",
+		"position": {
+			"longitude": 3.22228057064996,
+			"latitude": 51.2117202302275
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "On the Rock",
+		"position": {
+			"longitude": 3.2232702019664,
+			"latitude": 51.2110901334149
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Vino Vino",
+		"position": {
+			"longitude": 3.22289776092093,
+			"latitude": 51.2113055484911
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Partycentrum",
+		"description": "Celebrations",
+		"position": {
+			"longitude": 3.22364690095339,
+			"latitude": 51.2119791426978
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Braserie 1900",
+		"position": {
+			"longitude": 3.22445694555566,
+			"latitude": 51.2094178111572
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Au petit café",
+		"position": {
+			"longitude": 3.22447039669322,
+			"latitude": 51.209395923132
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "La Civiere D'or",
+		"position": {
+			"longitude": 3.22445694555566,
+			"latitude": 51.2094178111572
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Café Des Arts",
+		"position": {
+			"longitude": 3.22431492087324,
+			"latitude": 51.2094164369398
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Gouden Meermin",
+		"position": {
+			"longitude": 3.22422482570175,
+			"latitude": 51.2094039765888
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Central",
+		"position": {
+			"longitude": 3.22409928485499,
+			"latitude": 51.2094827223509
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Sint Joris",
+		"position": {
+			"longitude": 3.22401310594611,
+			"latitude": 51.2094610289339
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Le Pannier D'or",
+		"position": {
+			"longitude": 3.22393365435662,
+			"latitude": 51.2093907288259
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Brugse Taverne",
+		"position": {
+			"longitude": 3.22383678163099,
+			"latitude": 51.2092785413731
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Carré",
+		"position": {
+			"longitude": 3.22374532905605,
+			"latitude": 51.2091710417111
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Belfort",
+		"position": {
+			"longitude": 3.22362013279586,
+			"latitude": 51.2091605587622
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Café Francais",
+		"position": {
+			"longitude": 3.22353409687382,
+			"latitude": 51.2091330721132
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Da Mario",
+		"position": {
+			"longitude": 3.2234633001661,
+			"latitude": 51.2090860325015
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Beurze",
+		"position": {
+			"longitude": 3.22338140839738,
+			"latitude": 51.2090400442471
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Huize die Maene",
+		"position": {
+			"longitude": 3.22345165940473,
+			"latitude": 51.2086583035885
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Craenenburg",
+		"position": {
+			"longitude": 3.22360787229884,
+			"latitude": 51.208607667928
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Meridian 3",
+		"position": {
+			"longitude": 3.22377821832363,
+			"latitude": 51.2085073382745
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Quick",
+		"position": {
+			"longitude": 3.22376003313468,
+			"latitude": 51.2084214072024
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Vier Winden",
+		"position": {
+			"longitude": 3.22428664289404,
+			"latitude": 51.2081622862104
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Vlaamsche Pot",
+		"position": {
+			"longitude": 3.21980106955645,
+			"latitude": 51.207591516102
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Le Petit Patron",
+		"position": {
+			"longitude": 3.22355546533383,
+			"latitude": 51.2096906864453
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Heritage",
+		"position": {
+			"longitude": 3.22370930468296,
+			"latitude": 51.2101128388385
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Nicola's",
+		"position": {
+			"longitude": 3.22352608449198,
+			"latitude": 51.2099105836437
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Raymond",
+		"position": {
+			"longitude": 3.22280142647298,
+			"latitude": 51.209443500557
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Malpertuus",
+		"position": {
+			"longitude": 3.22330541963703,
+			"latitude": 51.2095051665362
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Hof van Rembrandt",
+		"position": {
+			"longitude": 3.22337301529317,
+			"latitude": 51.2094571494325
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Coolcat café",
+		"position": {
+			"longitude": 3.22344565308174,
+			"latitude": 51.2095795322406
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Amborix",
+		"position": {
+			"longitude": 3.22344565308174,
+			"latitude": 51.2095795322406
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Pick",
+		"position": {
+			"longitude": 3.22372794761693,
+			"latitude": 51.2095034637211
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Don Quichotte",
+		"position": {
+			"longitude": 3.22366822404042,
+			"latitude": 51.2093058807977
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Los á Moelle",
+		"position": {
+			"longitude": 3.2236095989936,
+			"latitude": 51.2092890892582
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Voutje",
+		"position": {
+			"longitude": 3.22343585293779,
+			"latitude": 51.2092271465673
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "La Soure",
+		"position": {
+			"longitude": 3.22322816748043,
+			"latitude": 51.2091950050268
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Ter Halle",
+		"position": {
+			"longitude": 3.22368828926838,
+			"latitude": 51.2092400205483
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Pub",
+		"position": {
+			"longitude": 3.2238225878743,
+			"latitude": 51.2094058775951
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Pane pane",
+		"position": {
+			"longitude": 3.22272183446941,
+			"latitude": 51.2093789925126
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Pickles",
+		"position": {
+			"longitude": 3.2227048175187,
+			"latitude": 51.2092455597023
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "De Sneeuwberg",
+		"position": {
+			"longitude": 3.22428573865905,
+			"latitude": 51.2080487100036
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "De Pitaleir",
+		"position": {
+			"longitude": 3.22435004013333,
+			"latitude": 51.2079844365435
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "@ The Pub",
+		"position": {
+			"longitude": 3.22435004013333,
+			"latitude": 51.2079844365435
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Het Koffieboontje",
+		"position": {
+			"longitude": 3.22435004013333,
+			"latitude": 51.2079844365435
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Witte Raaf",
+		"position": {
+			"longitude": 3.22435004013333,
+			"latitude": 51.2079844365435
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Strijdershuis",
+		"position": {
+			"longitude": 3.22495774319976,
+			"latitude": 51.2075024389046
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Brasserie Boterhuis",
+		"position": {
+			"longitude": 3.22163357838908,
+			"latitude": 51.2104948458791
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Lucca",
+		"position": {
+			"longitude": 3.22252623083819,
+			"latitude": 51.2110330951384
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Aragon",
+		"position": {
+			"longitude": 3.22228263804139,
+			"latitude": 51.2106599018862
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "De Belegde Boterham",
+		"position": {
+			"longitude": 3.22287577065443,
+			"latitude": 51.208143989353
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Sale & Pepe",
+		"position": {
+			"longitude": 3.22282707100475,
+			"latitude": 51.2082489730178
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Bistro De Pompe",
+		"position": {
+			"longitude": 3.22257259136641,
+			"latitude": 51.2083195146748
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Stove",
+		"position": {
+			"longitude": 3.22258173342328,
+			"latitude": 51.2082477544551
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "In de Plantenmarkt",
+		"position": {
+			"longitude": 3.22345713972442,
+			"latitude": 51.2085853490112
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Amand",
+		"position": {
+			"longitude": 3.22335595129399,
+			"latitude": 51.2085739394006
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Beethoven",
+		"position": {
+			"longitude": 3.22323186170296,
+			"latitude": 51.2085935968822
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Eetablissement",
+		"position": {
+			"longitude": 3.22311509289615,
+			"latitude": 51.208615642853
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Taveerne Oud Brugge",
+		"position": {
+			"longitude": 3.22282125726163,
+			"latitude": 51.2086359731866
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Brasserie Medard",
+		"position": {
+			"longitude": 3.22253269858284,
+			"latitude": 51.2086667836011
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Carrilon",
+		"position": {
+			"longitude": 3.22230867241608,
+			"latitude": 51.2086240523701
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Chagall",
+		"position": {
+			"longitude": 3.22169406547588,
+			"latitude": 51.2084094996203
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Humptie Dumptie",
+		"position": {
+			"longitude": 3.22190615981016,
+			"latitude": 51.2082620645945
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "St Amandje",
+		"position": {
+			"longitude": 3.22201089371458,
+			"latitude": 51.2082793040956
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Chicken In",
+		"position": {
+			"longitude": 3.22209735419789,
+			"latitude": 51.2082894132221
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Yssalon",
+		"description": "Café Frappee +",
+		"position": {
+			"longitude": 3.22217655086106,
+			"latitude": 51.2082948164556
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Eethuis Aubergine",
+		"position": {
+			"longitude": 3.22228466069574,
+			"latitude": 51.2083248358131
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Vagevuur",
+		"position": {
+			"longitude": 3.22233519474534,
+			"latitude": 51.2083705209015
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Pasta Presto",
+		"position": {
+			"longitude": 3.22255581542263,
+			"latitude": 51.2084016305746
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Lange Muur",
+		"position": {
+			"longitude": 3.22303545857995,
+			"latitude": 51.2083274761925
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Ristorante Adriatico",
+		"position": {
+			"longitude": 3.22326178346317,
+			"latitude": 51.2083516866953
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Druid's Cellar",
+		"position": {
+			"longitude": 3.22303545857995,
+			"latitude": 51.2083274761925
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "De Medici",
+		"position": {
+			"longitude": 3.22245819284215,
+			"latitude": 51.2089210088668
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Sale et Sucre",
+		"position": {
+			"longitude": 3.22182951562311,
+			"latitude": 51.2086031826928
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Yssalon",
+		"description": "Da Vinci",
+		"position": {
+			"longitude": 3.22114872430023,
+			"latitude": 51.2085293651908
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Happy House",
+		"position": {
+			"longitude": 3.2213314875151,
+			"latitude": 51.2085995107635
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "La Monnaie",
+		"position": {
+			"longitude": 3.22213900460177,
+			"latitude": 51.2090720420383
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Best Western",
+		"position": {
+			"longitude": 3.22198732094734,
+			"latitude": 51.2081875262107
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel van Eyck",
+		"position": {
+			"longitude": 3.22236298036214,
+			"latitude": 51.2079153613849
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Anurak Thai",
+		"position": {
+			"longitude": 3.22006143601714,
+			"latitude": 51.19986216755
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Breugelhof",
+		"position": {
+			"longitude": 3.22011323255921,
+			"latitude": 51.199931043238
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "'t Keizershof",
+		"position": {
+			"longitude": 3.2202809136399,
+			"latitude": 51.2000879587144
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Stoepa",
+		"position": {
+			"longitude": 3.22039820618891,
+			"latitude": 51.2002687205674
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Cafedraal",
+		"position": {
+			"longitude": 3.22035848438287,
+			"latitude": 51.2060811502509
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Zilveren Pauw",
+		"position": {
+			"longitude": 3.22088841030442,
+			"latitude": 51.206586919596
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Best Western",
+		"position": {
+			"longitude": 3.22086277317988,
+			"latitude": 51.210179112874
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Relax Café",
+		"position": {
+			"longitude": 3.22094135860326,
+			"latitude": 51.2103594975343
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Pietje Pek",
+		"position": {
+			"longitude": 3.22218131817235,
+			"latitude": 51.209377230231
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Discotheek",
+		"description": "De Coulissen",
+		"position": {
+			"longitude": 3.22370930468296,
+			"latitude": 51.2101128388385
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "La Plaza",
+		"position": {
+			"longitude": 3.22305385621591,
+			"latitude": 51.2100578195648
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Nano",
+		"position": {
+			"longitude": 3.22305385621591,
+			"latitude": 51.2100578195648
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Grand café du Theatre",
+		"position": {
+			"longitude": 3.22346086157969,
+			"latitude": 51.2101625815691
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Kuppe",
+		"position": {
+			"longitude": 3.22306582452432,
+			"latitude": 51.2101715028982
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Bistro 't Zwarte Huis",
+		"position": {
+			"longitude": 3.22264234623451,
+			"latitude": 51.2102867615976
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Cavalier",
+		"position": {
+			"longitude": 3.22275981585431,
+			"latitude": 51.2104617275169
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Hans Memling",
+		"position": {
+			"longitude": 3.22309036489394,
+			"latitude": 51.2107500071772
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Oud Brugge Kojote",
+		"position": {
+			"longitude": 3.22272880885829,
+			"latitude": 51.2107476632312
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "In den Witten Kop",
+		"position": {
+			"longitude": 3.22241271466491,
+			"latitude": 51.2095706837796
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Cultuurcafe Biekorf",
+		"position": {
+			"longitude": 3.22225917255397,
+			"latitude": 51.2098878795846
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Republiek",
+		"position": {
+			"longitude": 3.22154664283525,
+			"latitude": 51.2100536391758
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "El Greco",
+		"position": {
+			"longitude": 3.22125926152059,
+			"latitude": 51.2107113965279
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Meneer B",
+		"position": {
+			"longitude": 3.22121042057001,
+			"latitude": 51.2107468470445
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Bottelier",
+		"position": {
+			"longitude": 3.22059598257579,
+			"latitude": 51.2113492807262
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Saint Cantroit",
+		"position": {
+			"longitude": 3.22081877010353,
+			"latitude": 51.2111428500574
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Zeno",
+		"position": {
+			"longitude": 3.22337936385611,
+			"latitude": 51.21175405298
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Zolder",
+		"position": {
+			"longitude": 3.22337936385611,
+			"latitude": 51.21175405298
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "El Churrasco",
+		"position": {
+			"longitude": 3.22476521890141,
+			"latitude": 51.2110663611298
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Brasserie Soufleur",
+		"position": {
+			"longitude": 3.22477810916566,
+			"latitude": 51.2107663436032
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De drie zintuigen",
+		"position": {
+			"longitude": 3.21998693313344,
+			"latitude": 51.2034886615334
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Capucientje",
+		"position": {
+			"longitude": 3.21976138779755,
+			"latitude": 51.2026845426654
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Poes café",
+		"position": {
+			"longitude": 3.22349907280776,
+			"latitude": 51.2081546622613
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Swiss Inn",
+		"position": {
+			"longitude": 3.22168435616009,
+			"latitude": 51.2065529237399
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Laurent",
+		"position": {
+			"longitude": 3.22158074293078,
+			"latitude": 51.2061150311136
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Brugse Hanze",
+		"position": {
+			"longitude": 3.22077739040879,
+			"latitude": 51.2062254386267
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Gouden Cop",
+		"position": {
+			"longitude": 3.22420196711576,
+			"latitude": 51.2082298390146
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Hobbit",
+		"position": {
+			"longitude": 3.22176666459531,
+			"latitude": 51.2069570028291
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Brugs Beertje",
+		"position": {
+			"longitude": 3.22161039029396,
+			"latitude": 51.2067851357245
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Dreupelhuisje",
+		"position": {
+			"longitude": 3.22149736394105,
+			"latitude": 51.2068802241063
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "The Food Box",
+		"position": {
+			"longitude": 3.21826738805241,
+			"latitude": 51.2061199273059
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "La Vitta",
+		"position": {
+			"longitude": 3.21792341308649,
+			"latitude": 51.2062289893245
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Azelea Hotel",
+		"position": {
+			"longitude": 3.21794006516572,
+			"latitude": 51.2074239295357
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "L'Intermedé",
+		"position": {
+			"longitude": 3.2189752134058,
+			"latitude": 51.2067421624546
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Juliette's",
+		"position": {
+			"longitude": 3.21969419980968,
+			"latitude": 51.2057131353676
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Bocca",
+		"position": {
+			"longitude": 3.21973173260444,
+			"latitude": 51.2057621719027
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Passage",
+		"position": {
+			"longitude": 3.21931099709053,
+			"latitude": 51.2057673540917
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Passage",
+		"position": {
+			"longitude": 3.21912396683358,
+			"latitude": 51.2058709917824
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Imperial",
+		"position": {
+			"longitude": 3.21908190728113,
+			"latitude": 51.205930843306
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Hemelrijcke",
+		"position": {
+			"longitude": 3.2191138454517,
+			"latitude": 51.2062069609839
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Le Bon Vivant",
+		"position": {
+			"longitude": 3.21915134949286,
+			"latitude": 51.2062571562702
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Atlas",
+		"position": {
+			"longitude": 3.21919335923494,
+			"latitude": 51.206349114071
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Sapristi",
+		"position": {
+			"longitude": 3.21914103236136,
+			"latitude": 51.2063764179033
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Maxim's et Voila",
+		"position": {
+			"longitude": 3.21913306244673,
+			"latitude": 51.2065501684645
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Yssalon",
+		"description": "De Ysbeer",
+		"position": {
+			"longitude": 3.21898592427545,
+			"latitude": 51.2064571886144
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Café Au Lait",
+		"position": {
+			"longitude": 3.22027442675135,
+			"latitude": 51.2078475849041
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Walwyck",
+		"position": {
+			"longitude": 3.21943897896707,
+			"latitude": 51.2100088405792
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Karel de Stoute",
+		"position": {
+			"longitude": 3.21986925207249,
+			"latitude": 51.2093930352455
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Prinsenhof",
+		"position": {
+			"longitude": 3.21946412810652,
+			"latitude": 51.2080888666494
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Yssalon",
+		"description": "Laurenzio",
+		"position": {
+			"longitude": 3.22127533642318,
+			"latitude": 51.2082571045846
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel Sablon",
+		"position": {
+			"longitude": 3.22096031557443,
+			"latitude": 51.2076386970228
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Carpaccio",
+		"position": {
+			"longitude": 3.22001264282638,
+			"latitude": 51.2070906291768
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Lunch Pakket",
+		"position": {
+			"longitude": 3.23496471875893,
+			"latitude": 51.2266131255952
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Boldershof",
+		"position": {
+			"longitude": 3.23264192874343,
+			"latitude": 51.2249128413184
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Ter Loy",
+		"position": {
+			"longitude": 3.23108025747468,
+			"latitude": 51.2255328801276
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Horeca",
+		"description": "Azucar Danscentrum",
+		"position": {
+			"longitude": 3.23101970976108,
+			"latitude": 51.2260479825705
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Grilladin",
+		"position": {
+			"longitude": 3.23046927906988,
+			"latitude": 51.2456548539326
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Zilverberk",
+		"position": {
+			"longitude": 3.23406276410026,
+			"latitude": 51.2803069069721
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Gallo Romeinse Wijnkelder",
+		"position": {
+			"longitude": 3.22473555083888,
+			"latitude": 51.2738320962298
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Yssalon",
+		"description": "J Verstegen Ijsatelier",
+		"position": {
+			"longitude": 3.23569843364388,
+			"latitude": 51.2226963174712
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Brsserie Fort van Beieren",
+		"position": {
+			"longitude": 3.24927324731767,
+			"latitude": 51.2356237349653
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Klokke",
+		"position": {
+			"longitude": 3.24625415235191,
+			"latitude": 51.2382720408775
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Kleine Hap",
+		"position": {
+			"longitude": 3.23941025432109,
+			"latitude": 51.2289964975072
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Houtzagerij",
+		"position": {
+			"longitude": 3.22893565350506,
+			"latitude": 51.2244785506197
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Waterweelde",
+		"position": {
+			"longitude": 3.22764208117861,
+			"latitude": 51.2272646861917
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur de Ring",
+		"position": {
+			"longitude": 3.2275954640574,
+			"latitude": 51.2278876935633
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Oriental Wok",
+		"position": {
+			"longitude": 3.22843644725581,
+			"latitude": 51.224214159206
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frietshop",
+		"position": {
+			"longitude": 3.22747257363071,
+			"latitude": 51.2230286384954
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Westminster",
+		"position": {
+			"longitude": 3.2274906526575,
+			"latitude": 51.2229685530083
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Art Hostel",
+		"position": {
+			"longitude": 3.22749039490017,
+			"latitude": 51.2229036552512
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Marmot",
+		"position": {
+			"longitude": 3.23615352148213,
+			"latitude": 51.2261470693902
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Café Vespa",
+		"position": {
+			"longitude": 3.2351015773895,
+			"latitude": 51.2247788327955
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Shalimar Tandoori",
+		"position": {
+			"longitude": 3.23093069771514,
+			"latitude": 51.2232659045478
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Eethuis Krokantje",
+		"position": {
+			"longitude": 3.23083463521763,
+			"latitude": 51.2231942911823
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Sint Joris",
+		"position": {
+			"longitude": 3.22756063893651,
+			"latitude": 51.2742718910219
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Brasserie de drie Zwanen",
+		"position": {
+			"longitude": 3.22507023374614,
+			"latitude": 51.2737449405243
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur Veerle",
+		"position": {
+			"longitude": 3.2250194541346,
+			"latitude": 51.2737815324349
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Café Sportwereld",
+		"position": {
+			"longitude": 3.22448714976131,
+			"latitude": 51.2725121164973
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Herdersbrug",
+		"position": {
+			"longitude": 3.21389315145843,
+			"latitude": 51.2694183583178
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Bar Choq",
+		"position": {
+			"longitude": 3.22021034183354,
+			"latitude": 51.2067785001504
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Bocadillo",
+		"position": {
+			"longitude": 3.22019439719934,
+			"latitude": 51.2065268741463
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "'t Zonnekin",
+		"position": {
+			"longitude": 3.22020016751253,
+			"latitude": 51.2064423338958
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Silversant",
+		"position": {
+			"longitude": 3.22016050218864,
+			"latitude": 51.2059552302134
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Joey's Café",
+		"position": {
+			"longitude": 3.22014048032522,
+			"latitude": 51.2058692805866
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Snack Izmir",
+		"position": {
+			"longitude": 3.24643711110968,
+			"latitude": 51.2131802908834
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Wagenmakerij",
+		"position": {
+			"longitude": 3.24615506423583,
+			"latitude": 51.2134001123915
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Schulle",
+		"position": {
+			"longitude": 3.25666316796781,
+			"latitude": 51.2133800156438
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Den Arend",
+		"position": {
+			"longitude": 3.24165731253498,
+			"latitude": 51.2120802915714
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Apertje",
+		"position": {
+			"longitude": 3.25918678154144,
+			"latitude": 51.2340367952078
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Waterman",
+		"position": {
+			"longitude": 3.270934069378,
+			"latitude": 51.2101121363386
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Seks",
+		"description": "Club Beaufort",
+		"position": {
+			"longitude": 3.29842833786025,
+			"latitude": 51.2070800008818
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Taverne Dampierre",
+		"position": {
+			"longitude": 3.28821903918454,
+			"latitude": 51.2075665855509
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Salons Lodewijk Van Male",
+		"position": {
+			"longitude": 3.28465253873607,
+			"latitude": 51.2088573399521
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Seks",
+		"description": "Tresor",
+		"position": {
+			"longitude": 3.28053150629238,
+			"latitude": 51.2074949421293
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Eethuis De Jonkman",
+		"position": {
+			"longitude": 3.27830578855992,
+			"latitude": 51.2076899859301
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur Rakontiki",
+		"position": {
+			"longitude": 3.2774469168641,
+			"latitude": 51.2069450421028
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Tearoom Usilia",
+		"position": {
+			"longitude": 3.28717727889425,
+			"latitude": 51.2076219581531
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Gasterie",
+		"position": {
+			"longitude": 3.25534842516957,
+			"latitude": 51.2142750201578
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "De Pauze",
+		"position": {
+			"longitude": 3.25265586212043,
+			"latitude": 51.2143759583912
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Tram 6",
+		"position": {
+			"longitude": 3.25112116112684,
+			"latitude": 51.2138191291828
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur Marnix",
+		"position": {
+			"longitude": 3.2502737882239,
+			"latitude": 51.2136083220014
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Sumo",
+		"position": {
+			"longitude": 3.24829535931282,
+			"latitude": 51.213476030779
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Isola Bella",
+		"position": {
+			"longitude": 3.2476047321128,
+			"latitude": 51.2137302264206
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Bies & Basil",
+		"position": {
+			"longitude": 3.24764763981531,
+			"latitude": 51.2137874164463
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Gildenhuis",
+		"position": {
+			"longitude": 3.24837007397132,
+			"latitude": 51.2142832934187
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Mexico",
+		"position": {
+			"longitude": 3.26119608113073,
+			"latitude": 51.2137852640924
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Jing Fu",
+		"position": {
+			"longitude": 3.25835236208895,
+			"latitude": 51.2135720291837
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Studio",
+		"position": {
+			"longitude": 3.24748289844458,
+			"latitude": 51.2158057183308
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Nieuwe Welkom",
+		"position": {
+			"longitude": 3.2391781347933,
+			"latitude": 51.2179273493814
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Pizza Line",
+		"position": {
+			"longitude": 3.23968341429081,
+			"latitude": 51.2168729900371
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Lotus",
+		"position": {
+			"longitude": 3.24452021923557,
+			"latitude": 51.2127924154114
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Nieuwe Steenweg",
+		"position": {
+			"longitude": 3.24197802602048,
+			"latitude": 51.212933939798
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Krokantino",
+		"position": {
+			"longitude": 3.23668364124858,
+			"latitude": 51.219664945808
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "La Riviera",
+		"position": {
+			"longitude": 3.24495531159253,
+			"latitude": 51.2102783796398
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Seks",
+		"description": "Mystique",
+		"position": {
+			"longitude": 3.25165381961632,
+			"latitude": 51.2095271693173
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Faluche",
+		"position": {
+			"longitude": 3.25228122161205,
+			"latitude": 51.2093673788206
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "'t Petatje",
+		"position": {
+			"longitude": 3.25315865393157,
+			"latitude": 51.209321192742
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Seks",
+		"description": "Huyze Orphee",
+		"position": {
+			"longitude": 3.25548923464705,
+			"latitude": 51.2089920232327
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Pizza Hut",
+		"position": {
+			"longitude": 3.24793558966953,
+			"latitude": 51.2104028438302
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Klein Noorwegen",
+		"position": {
+			"longitude": 3.24205963933358,
+			"latitude": 51.2116171099389
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Den Voerman",
+		"position": {
+			"longitude": 3.24183202110041,
+			"latitude": 51.2119510067187
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Nieuw Zevekote",
+		"position": {
+			"longitude": 3.24869947794789,
+			"latitude": 51.1994079847934
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "De Oosterse Hap / Het Westers Broodje",
+		"position": {
+			"longitude": 3.2470040283549,
+			"latitude": 51.20034332866
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Drakenpaleis",
+		"position": {
+			"longitude": 3.24676568453239,
+			"latitude": 51.2002831249076
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Pita Efes",
+		"position": {
+			"longitude": 3.2457522507506,
+			"latitude": 51.2006988025758
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Nieuw Gemeentehuis",
+		"position": {
+			"longitude": 3.24595484607887,
+			"latitude": 51.2005581879105
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Tramhuis",
+		"position": {
+			"longitude": 3.24613624160115,
+			"latitude": 51.2009921610941
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frietkotje",
+		"position": {
+			"longitude": 3.23676469048167,
+			"latitude": 51.2024070087567
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "New Hong Kong City",
+		"position": {
+			"longitude": 3.2383724987635,
+			"latitude": 51.2019032235649
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Groenhove",
+		"position": {
+			"longitude": 3.24362768699439,
+			"latitude": 51.2003008214251
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Tijger",
+		"position": {
+			"longitude": 3.21187801424935,
+			"latitude": 51.1887419193292
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "'t Snackstje",
+		"position": {
+			"longitude": 3.21138155782322,
+			"latitude": 51.1892040817777
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Papil",
+		"position": {
+			"longitude": 3.21139648494197,
+			"latitude": 51.189271441979
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Schuttershof",
+		"position": {
+			"longitude": 3.21199769205152,
+			"latitude": 51.1895682009292
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "El Commandante",
+		"position": {
+			"longitude": 3.2115893985414,
+			"latitude": 51.1898956398654
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Beiaard",
+		"position": {
+			"longitude": 3.18073137670028,
+			"latitude": 51.1969170873353
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Ocean City",
+		"position": {
+			"longitude": 3.17862128306398,
+			"latitude": 51.1967023352584
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "'t Stadion",
+		"position": {
+			"longitude": 3.17831117346052,
+			"latitude": 51.1967119608536
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "In De Vriendschap",
+		"position": {
+			"longitude": 3.17471863731514,
+			"latitude": 51.1962631771751
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Pitta Olympia",
+		"position": {
+			"longitude": 3.17508141885364,
+			"latitude": 51.1962853822785
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Zoete Zonde",
+		"position": {
+			"longitude": 3.17821629218193,
+			"latitude": 51.197033170782
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Platse",
+		"position": {
+			"longitude": 3.18002494487678,
+			"latitude": 51.1974245240729
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Jan Breydel",
+		"position": {
+			"longitude": 3.18022993709451,
+			"latitude": 51.1974868459597
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Chalet",
+		"position": {
+			"longitude": 3.18034765730574,
+			"latitude": 51.197499617914
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur Carlos",
+		"position": {
+			"longitude": 3.18022993709451,
+			"latitude": 51.1974868459597
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Los Amigos",
+		"position": {
+			"longitude": 3.18152280838031,
+			"latitude": 51.196982980371
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Corner",
+		"position": {
+			"longitude": 3.17352615597753,
+			"latitude": 51.1959417100571
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Tuinbos",
+		"position": {
+			"longitude": 3.171411048585,
+			"latitude": 51.1954219948244
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Guapa",
+		"position": {
+			"longitude": 3.18336495377293,
+			"latitude": 51.1979447808133
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Sweet Home Lunch",
+		"position": {
+			"longitude": 3.18311242327431,
+			"latitude": 51.1978657636213
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "La Baguette",
+		"position": {
+			"longitude": 3.18650613612459,
+			"latitude": 51.1981616494858
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Clos Du Midi",
+		"position": {
+			"longitude": 3.19111973813779,
+			"latitude": 51.1995287950336
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Putje",
+		"position": {
+			"longitude": 3.18914781465182,
+			"latitude": 51.1990954246297
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "De Lagune",
+		"position": {
+			"longitude": 3.18941713579392,
+			"latitude": 51.1987295923325
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Leitje",
+		"position": {
+			"longitude": 3.27014653044757,
+			"latitude": 51.1872975955875
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Leenhof",
+		"position": {
+			"longitude": 3.27394885243516,
+			"latitude": 51.187535668679
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De peerdeblomme",
+		"position": {
+			"longitude": 3.26384788554158,
+			"latitude": 51.1918719775146
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Vossesteert",
+		"position": {
+			"longitude": 3.26720998824924,
+			"latitude": 51.2071074009945
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Pitta Istanbul",
+		"position": {
+			"longitude": 3.20845066689242,
+			"latitude": 51.2039183758097
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Pannenhuis",
+		"position": {
+			"longitude": 3.20501721908089,
+			"latitude": 51.2034187761735
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Seks",
+		"description": "Club Ibiza",
+		"position": {
+			"longitude": 3.20350903433505,
+			"latitude": 51.2022798311416
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Tempelier",
+		"position": {
+			"longitude": 3.20324557613555,
+			"latitude": 51.2022668049724
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Kruimeltje",
+		"position": {
+			"longitude": 3.20321538995462,
+			"latitude": 51.2021459860705
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Weinebrugge",
+		"position": {
+			"longitude": 3.19733308804346,
+			"latitude": 51.1706083740222
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "In De Trutselaar",
+		"position": {
+			"longitude": 3.19372944218561,
+			"latitude": 51.1793197744723
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Toekomst",
+		"position": {
+			"longitude": 3.23187899717384,
+			"latitude": 51.192456567698
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Brugeoise",
+		"position": {
+			"longitude": 3.23189565655585,
+			"latitude": 51.1923025999401
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "'t Baronneke",
+		"position": {
+			"longitude": 3.23193740523728,
+			"latitude": 51.192254329399
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Corner",
+		"position": {
+			"longitude": 3.23834072726345,
+			"latitude": 51.2000163097077
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Nieuw St-Katharina",
+		"position": {
+			"longitude": 3.23512060094889,
+			"latitude": 51.1974163045117
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Zeven Torentjes",
+		"position": {
+			"longitude": 3.24502739783994,
+			"latitude": 51.1890512424119
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Zwaan",
+		"position": {
+			"longitude": 3.23626442742831,
+			"latitude": 51.1810607260516
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Aquila",
+		"position": {
+			"longitude": 3.2102029536616,
+			"latitude": 51.1847540862915
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Lunch Time",
+		"position": {
+			"longitude": 3.21024478623725,
+			"latitude": 51.1849260083666
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Lindenhove",
+		"position": {
+			"longitude": 3.21580622840323,
+			"latitude": 51.187162523898
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Fritwinkel",
+		"position": {
+			"longitude": 3.25835716332605,
+			"latitude": 51.1945299276739
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Bisdom",
+		"position": {
+			"longitude": 3.26411392310788,
+			"latitude": 51.1941122007884
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Boom In",
+		"position": {
+			"longitude": 3.26774559981122,
+			"latitude": 51.192928126146
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Wegwijzer",
+		"position": {
+			"longitude": 3.26524299402335,
+			"latitude": 51.1939408049851
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Mardin",
+		"position": {
+			"longitude": 3.26029917661605,
+			"latitude": 51.19453192626
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Rosenburg",
+		"position": {
+			"longitude": 3.23459433404928,
+			"latitude": 51.2067017729127
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Willemijn",
+		"position": {
+			"longitude": 3.23369187527973,
+			"latitude": 51.2035306112745
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Resto Mojo",
+		"position": {
+			"longitude": 3.23221891782516,
+			"latitude": 51.204552477323
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Shqiponja",
+		"position": {
+			"longitude": 3.23464391972428,
+			"latitude": 51.206027797793
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Schaar",
+		"position": {
+			"longitude": 3.23504376143763,
+			"latitude": 51.2072623298812
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "In 't Nieuw Museum",
+		"position": {
+			"longitude": 3.23610984229087,
+			"latitude": 51.2078797815876
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Nisse",
+		"position": {
+			"longitude": 3.23534561042139,
+			"latitude": 51.2073672018115
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Munckenhuis",
+		"position": {
+			"longitude": 3.23665314056187,
+			"latitude": 51.206245212036
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Royal",
+		"position": {
+			"longitude": 3.23928632841626,
+			"latitude": 51.212619714541
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Pro Deo",
+		"position": {
+			"longitude": 3.2381435298748,
+			"latitude": 51.2124210631515
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Kooktheater Sans Cravate",
+		"position": {
+			"longitude": 3.23806835045306,
+			"latitude": 51.2124018029556
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Hof Van Beroep",
+		"position": {
+			"longitude": 3.23699217888526,
+			"latitude": 51.211662595753
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Sol Y Sombra",
+		"position": {
+			"longitude": 3.23680949253828,
+			"latitude": 51.2115878401665
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Brugs Hof",
+		"position": {
+			"longitude": 3.22891370684397,
+			"latitude": 51.1998481700052
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Soeur Sourire",
+		"position": {
+			"longitude": 3.22899195122661,
+			"latitude": 51.1998164763075
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Het Visioen",
+		"position": {
+			"longitude": 3.22926517239108,
+			"latitude": 51.1995803855985
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Mystic",
+		"position": {
+			"longitude": 3.22981590229886,
+			"latitude": 51.1999148060677
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Zwaantje",
+		"position": {
+			"longitude": 3.22934907283442,
+			"latitude": 51.200072548226
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Happy Days Pub",
+		"position": {
+			"longitude": 3.22923515691211,
+			"latitude": 51.199978742169
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Sivalai",
+		"position": {
+			"longitude": 3.22866263440878,
+			"latitude": 51.2004611010312
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Katelijntje",
+		"position": {
+			"longitude": 3.22765323655583,
+			"latitude": 51.2009311301072
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Bekoring",
+		"position": {
+			"longitude": 3.22531398899055,
+			"latitude": 51.2006431553857
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Porta",
+		"position": {
+			"longitude": 3.22478305209366,
+			"latitude": 51.2030391661676
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Nieuw Walnutje",
+		"position": {
+			"longitude": 3.22461015941386,
+			"latitude": 51.2026423243224
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Zevende Hemel",
+		"position": {
+			"longitude": 3.22467411217148,
+			"latitude": 51.2025919535016
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Halve Maan",
+		"position": {
+			"longitude": 3.22413084400866,
+			"latitude": 51.2024047560809
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Lily",
+		"position": {
+			"longitude": 3.22470435973345,
+			"latitude": 51.2024867904268
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Heer Halewijn",
+		"position": {
+			"longitude": 3.22475001216832,
+			"latitude": 51.2024304482436
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Yssalon",
+		"description": "Bélissimo",
+		"position": {
+			"longitude": 3.22465800861968,
+			"latitude": 51.202120144087
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Pannenkoeken",
+		"description": "'t Crêperietje",
+		"position": {
+			"longitude": 3.22463857266894,
+			"latitude": 51.2021605159363
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Salade Folle",
+		"position": {
+			"longitude": 3.22493662152937,
+			"latitude": 51.2021923706251
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Academie",
+		"position": {
+			"longitude": 3.22559735278176,
+			"latitude": 51.2021779005091
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Detavenier",
+		"position": {
+			"longitude": 3.22525651629085,
+			"latitude": 51.2023113498598
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "La Maison du Pain",
+		"position": {
+			"longitude": 3.22525728556908,
+			"latitude": 51.2020540917064
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Wijngaert",
+		"position": {
+			"longitude": 3.22528038092197,
+			"latitude": 51.2020149139994
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Onbekend",
+		"position": {
+			"longitude": 3.22515316284166,
+			"latitude": 51.2018618738506
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Onbekend",
+		"position": {
+			"longitude": 3.22505360562611,
+			"latitude": 51.2018597521357
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Fonduehuisje",
+		"position": {
+			"longitude": 3.22478761635784,
+			"latitude": 51.2019498875681
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Vivaldi",
+		"position": {
+			"longitude": 3.22460044716872,
+			"latitude": 51.2019098345378
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Minnewater",
+		"position": {
+			"longitude": 3.22454804740807,
+			"latitude": 51.2017899655261
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "La Dentellière",
+		"position": {
+			"longitude": 3.22484666498895,
+			"latitude": 51.201647997825
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Oude Kanthuis",
+		"position": {
+			"longitude": 3.22440715152473,
+			"latitude": 51.2018187323273
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Maximiliaan van Oostenrijk",
+		"position": {
+			"longitude": 3.22420775586905,
+			"latitude": 51.2017507478374
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Hertog Jan",
+		"position": {
+			"longitude": 3.19092431365817,
+			"latitude": 51.1858568578217
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Auberge De Herborist",
+		"position": {
+			"longitude": 3.1626363778294,
+			"latitude": 51.1674073052735
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Mary Tudor",
+		"position": {
+			"longitude": 3.16741932270374,
+			"latitude": 51.1709326800731
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Het Koetsenhuis",
+		"position": {
+			"longitude": 3.1537225223713,
+			"latitude": 51.1767504616498
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Golden Harvest",
+		"position": {
+			"longitude": 3.19809146885024,
+			"latitude": 51.1885957675082
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Freety",
+		"position": {
+			"longitude": 3.19964021878468,
+			"latitude": 51.1869875222936
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Pizza Hut",
+		"position": {
+			"longitude": 3.19964021878468,
+			"latitude": 51.1869875222936
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Tijl",
+		"position": {
+			"longitude": 3.19328561532861,
+			"latitude": 51.188454209542
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Quick",
+		"position": {
+			"longitude": 3.19624985081607,
+			"latitude": 51.1931225887535
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Mister Grill",
+		"position": {
+			"longitude": 3.19624985081607,
+			"latitude": 51.1931225887535
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Het Bargehuis",
+		"position": {
+			"longitude": 3.22878609112039,
+			"latitude": 51.1993335673015
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Kasteel Minnewater",
+		"position": {
+			"longitude": 3.22455545805444,
+			"latitude": 51.1995314290917
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Egmond",
+		"position": {
+			"longitude": 3.2251392588317,
+			"latitude": 51.2000956449935
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Novotel",
+		"position": {
+			"longitude": 3.22660575789757,
+			"latitude": 51.2022780352285
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Ibis Hotel",
+		"position": {
+			"longitude": 3.22660575789757,
+			"latitude": 51.2022780352285
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Postiljon",
+		"position": {
+			"longitude": 3.2248014207284,
+			"latitude": 51.2037949163944
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Yssalon",
+		"description": "De Proeverie",
+		"position": {
+			"longitude": 3.22450087061892,
+			"latitude": 51.2035637144715
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "La Baguette",
+		"position": {
+			"longitude": 3.22453248054922,
+			"latitude": 51.2034782651643
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "l' Italiano",
+		"position": {
+			"longitude": 3.22467596970952,
+			"latitude": 51.203193416617
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Loreto",
+		"position": {
+			"longitude": 3.22502271741585,
+			"latitude": 51.2029696354912
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Manna & Co",
+		"position": {
+			"longitude": 3.22520728358593,
+			"latitude": 51.2028149751973
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Den Anker",
+		"position": {
+			"longitude": 3.22521534378919,
+			"latitude": 51.2026365896588
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Shang Hai",
+		"position": {
+			"longitude": 3.22597881702083,
+			"latitude": 51.2023438271113
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Charles Quint",
+		"position": {
+			"longitude": 3.22643617416423,
+			"latitude": 51.2020469441189
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Bron",
+		"position": {
+			"longitude": 3.2265802746499,
+			"latitude": 51.201962580878
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Kattepoortje",
+		"position": {
+			"longitude": 3.23353802366087,
+			"latitude": 51.2031061536374
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Indian Tandoori",
+		"position": {
+			"longitude": 3.22634366182386,
+			"latitude": 51.2028873781398
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Bistro Cosy",
+		"position": {
+			"longitude": 3.2261743624234,
+			"latitude": 51.2028706773695
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Tanuki",
+		"position": {
+			"longitude": 3.22588941657724,
+			"latitude": 51.2029061660025
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Montanus",
+		"position": {
+			"longitude": 3.22764658513137,
+			"latitude": 51.2035419626805
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "RED!",
+		"position": {
+			"longitude": 3.22864336762039,
+			"latitude": 51.2041947400908
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Parlasantje",
+		"position": {
+			"longitude": 3.23161243937014,
+			"latitude": 51.2043832490579
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "La Noche",
+		"position": {
+			"longitude": 3.22993757917565,
+			"latitude": 51.2043775617071
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "l'Estaminet",
+		"position": {
+			"longitude": 3.23016650688932,
+			"latitude": 51.207243287411
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Botaniek",
+		"position": {
+			"longitude": 3.22971755899967,
+			"latitude": 51.2076480385931
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Belleman Pub",
+		"position": {
+			"longitude": 3.22944338533472,
+			"latitude": 51.2067878481027
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Kachot",
+		"position": {
+			"longitude": 3.22921742716621,
+			"latitude": 51.2066732625313
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Bolero",
+		"position": {
+			"longitude": 3.22934437192514,
+			"latitude": 51.2043451940406
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Christophe",
+		"position": {
+			"longitude": 3.22944495286467,
+			"latitude": 51.2043056032749
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Couvert",
+		"position": {
+			"longitude": 3.22806800615798,
+			"latitude": 51.2064512706261
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "'t Eekhoetje",
+		"position": {
+			"longitude": 3.22761830821023,
+			"latitude": 51.2068108116236
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Eetkamer",
+		"position": {
+			"longitude": 3.22759457500591,
+			"latitude": 51.2064988515761
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Kunstbistro De Twijfelaar",
+		"position": {
+			"longitude": 3.22798697858784,
+			"latitude": 51.2060680680499
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Ganzespel",
+		"position": {
+			"longitude": 3.23571564563092,
+			"latitude": 51.2085388672207
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Jakobijn",
+		"position": {
+			"longitude": 3.23440823961793,
+			"latitude": 51.2097280608612
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Crash",
+		"position": {
+			"longitude": 3.23552583358936,
+			"latitude": 51.2104294478771
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Muppets",
+		"position": {
+			"longitude": 3.2360702864312,
+			"latitude": 51.2107255340243
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Pizzafoon",
+		"position": {
+			"longitude": 3.23573430402815,
+			"latitude": 51.2108857134397
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Joker's Place",
+		"position": {
+			"longitude": 3.23636919096364,
+			"latitude": 51.2108767286633
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Ratatouille",
+		"position": {
+			"longitude": 3.23641710981938,
+			"latitude": 51.2109548302162
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Flanders",
+		"position": {
+			"longitude": 3.23348533639596,
+			"latitude": 51.2095187248316
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Pepermolen",
+		"position": {
+			"longitude": 3.23222329678372,
+			"latitude": 51.2095993118363
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Torre",
+		"position": {
+			"longitude": 3.23182834119474,
+			"latitude": 51.2095294614298
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Uilenspiegel",
+		"position": {
+			"longitude": 3.23158851114125,
+			"latitude": 51.2096047986178
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Ter Reien",
+		"position": {
+			"longitude": 3.23154121247895,
+			"latitude": 51.209880149926
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Stokershuis",
+		"position": {
+			"longitude": 3.23195263847368,
+			"latitude": 51.2098041445997
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Versteende Nacht",
+		"position": {
+			"longitude": 3.23209279184466,
+			"latitude": 51.2098066504915
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Rock-Fort",
+		"position": {
+			"longitude": 3.23223635204074,
+			"latitude": 51.2098207774437
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Karmeliet",
+		"position": {
+			"longitude": 3.23250259079246,
+			"latitude": 51.2098731660371
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Risico",
+		"position": {
+			"longitude": 3.23322311144685,
+			"latitude": 51.2124098513479
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Sint-Barbe",
+		"position": {
+			"longitude": 3.23215831987312,
+			"latitude": 51.2117367630043
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Relais Ravenstein",
+		"position": {
+			"longitude": 3.23184192371669,
+			"latitude": 51.2103349920254
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Bistro De Max",
+		"position": {
+			"longitude": 3.23448128658781,
+			"latitude": 51.2100625097593
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Kelk",
+		"position": {
+			"longitude": 3.23528647277906,
+			"latitude": 51.2107133896348
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur 't Bootje",
+		"position": {
+			"longitude": 3.23593588134798,
+			"latitude": 51.2109421101271
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Sultan Kebab",
+		"position": {
+			"longitude": 3.236085462884,
+			"latitude": 51.2110883986356
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Botaniekske",
+		"position": {
+			"longitude": 3.23297957530286,
+			"latitude": 51.2059666301435
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Den Gouden Harynck",
+		"position": {
+			"longitude": 3.22587781367978,
+			"latitude": 51.2048865338185
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Pandreitje",
+		"position": {
+			"longitude": 3.22906216577417,
+			"latitude": 51.2067609979252
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Pandhotel",
+		"position": {
+			"longitude": 3.22795078394843,
+			"latitude": 51.2069449694418
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Carrello",
+		"position": {
+			"longitude": 3.23849295280828,
+			"latitude": 51.2123154711724
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Den Optimist",
+		"position": {
+			"longitude": 3.23857165308786,
+			"latitude": 51.2123417178189
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Park / Fleuri",
+		"position": {
+			"longitude": 3.23098071165682,
+			"latitude": 51.2072928419343
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Volkshuis",
+		"position": {
+			"longitude": 3.22888435896426,
+			"latitude": 51.2079227705249
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Hollandse Vismijn",
+		"position": {
+			"longitude": 3.22879043986938,
+			"latitude": 51.2079913963155
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Mozarthuys",
+		"position": {
+			"longitude": 3.22782849531246,
+			"latitude": 51.2077967041421
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Duc de Bourgogne",
+		"position": {
+			"longitude": 3.22736052192619,
+			"latitude": 51.2076960039865
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Huidevettershuis",
+		"position": {
+			"longitude": 3.22766456031963,
+			"latitude": 51.2075598757799
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Den Gouden Karpel",
+		"position": {
+			"longitude": 3.22789866468414,
+			"latitude": 51.2077185791933
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Visscherie",
+		"position": {
+			"longitude": 3.22803591573823,
+			"latitude": 51.2076886141377
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Bistro Old Bruges",
+		"position": {
+			"longitude": 3.22808355524631,
+			"latitude": 51.2076264956817
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Bistro De Mosselkelder",
+		"position": {
+			"longitude": 3.22780185520579,
+			"latitude": 51.2079053791203
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Lammetje",
+		"position": {
+			"longitude": 3.22797081296684,
+			"latitude": 51.2074840284122
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Klein Venetië",
+		"position": {
+			"longitude": 3.22792529773107,
+			"latitude": 51.2074592534933
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Dreveken",
+		"position": {
+			"longitude": 3.22766456031963,
+			"latitude": 51.2075598757799
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Kogge",
+		"position": {
+			"longitude": 3.22813749243886,
+			"latitude": 51.2075331489699
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Die Swaene",
+		"position": {
+			"longitude": 3.22862440328072,
+			"latitude": 51.2082934146237
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Jan Brito",
+		"position": {
+			"longitude": 3.23028854908829,
+			"latitude": 51.2081390947672
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "La Romagna",
+		"position": {
+			"longitude": 3.2284027102089,
+			"latitude": 51.2074001210258
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Gastro",
+		"position": {
+			"longitude": 3.22830027334254,
+			"latitude": 51.2073643677213
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "La Passione",
+		"position": {
+			"longitude": 3.22822768675014,
+			"latitude": 51.2073149959891
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Rozengoedkaai",
+		"position": {
+			"longitude": 3.22809270610572,
+			"latitude": 51.2073276003925
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Casa Patata",
+		"position": {
+			"longitude": 3.22770809670272,
+			"latitude": 51.2070619898486
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Matinée",
+		"position": {
+			"longitude": 3.22761641576836,
+			"latitude": 51.2070390870746
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Notre Dame",
+		"position": {
+			"longitude": 3.2231916854816,
+			"latitude": 51.2060217146625
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Venice Corn",
+		"position": {
+			"longitude": 3.22306589600231,
+			"latitude": 51.2061108866259
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Gruuthuse Hof",
+		"position": {
+			"longitude": 3.22355365839045,
+			"latitude": 51.2048779560064
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Hotel De Castillion",
+		"position": {
+			"longitude": 3.22242298081975,
+			"latitude": 51.2053977560668
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Het Gheestelic Hof",
+		"position": {
+			"longitude": 3.22215498095264,
+			"latitude": 51.2051181919822
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Bonobo",
+		"position": {
+			"longitude": 3.2224228763336,
+			"latitude": 51.2045008024742
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Gauthierz",
+		"position": {
+			"longitude": 3.22107921425989,
+			"latitude": 51.2045294887123
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "De Goezeput",
+		"position": {
+			"longitude": 3.22079771092047,
+			"latitude": 51.2043494517344
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "B.IN",
+		"position": {
+			"longitude": 3.22293082106494,
+			"latitude": 51.2031220536774
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Marieke van Brugghe",
+		"position": {
+			"longitude": 3.22366129929913,
+			"latitude": 51.2050771622309
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Maria van Bourgondië",
+		"position": {
+			"longitude": 3.22379851357737,
+			"latitude": 51.2051236860603
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Schrijverke",
+		"position": {
+			"longitude": 3.2244016516822,
+			"latitude": 51.2053531825743
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Den Comptoir",
+		"position": {
+			"longitude": 3.22579019437669,
+			"latitude": 51.2057525086719
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "De Tuilerieën",
+		"position": {
+			"longitude": 3.22663774689051,
+			"latitude": 51.2063980656223
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Den Dijver",
+		"position": {
+			"longitude": 3.22688912158004,
+			"latitude": 51.2065291255426
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Walburg",
+		"position": {
+			"longitude": 3.23029181012333,
+			"latitude": 51.2101984020343
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Anselmus",
+		"position": {
+			"longitude": 3.22938285741705,
+			"latitude": 51.2100981000629
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Patritius",
+		"position": {
+			"longitude": 3.22907708139305,
+			"latitude": 51.2103049057399
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Carlito's",
+		"position": {
+			"longitude": 3.22923237829028,
+			"latitude": 51.209762901648
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Charlie Rockets",
+		"position": {
+			"longitude": 3.22896172411909,
+			"latitude": 51.209815918419
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Pili Pili",
+		"position": {
+			"longitude": 3.22888146712222,
+			"latitude": 51.2097027365212
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Malleberg",
+		"position": {
+			"longitude": 3.22792282587239,
+			"latitude": 51.2092960078502
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Diligence",
+		"position": {
+			"longitude": 3.22790057557158,
+			"latitude": 51.2092251033589
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Calis",
+		"position": {
+			"longitude": 3.22873916330721,
+			"latitude": 51.2093351683732
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Kluiver",
+		"position": {
+			"longitude": 3.22888016903404,
+			"latitude": 51.2093782460531
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Kaffee Pergola",
+		"position": {
+			"longitude": 3.22925096620466,
+			"latitude": 51.2090017163996
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Chez Olivier",
+		"position": {
+			"longitude": 3.22928334052616,
+			"latitude": 51.2089603097161
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Oud Huis De Peellaert",
+		"position": {
+			"longitude": 3.22952643261094,
+			"latitude": 51.2095826362019
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Ryad",
+		"position": {
+			"longitude": 3.23028007819364,
+			"latitude": 51.209771832558
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Spinola",
+		"position": {
+			"longitude": 3.22634715957009,
+			"latitude": 51.2114860901548
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Jan van Eyck",
+		"position": {
+			"longitude": 3.22593863212282,
+			"latitude": 51.2113674174127
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Schilder",
+		"position": {
+			"longitude": 3.22585236374332,
+			"latitude": 51.2113492010791
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Lotus",
+		"position": {
+			"longitude": 3.22649123901363,
+			"latitude": 51.2098210555289
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Gulden Vlies",
+		"position": {
+			"longitude": 3.22781826065549,
+			"latitude": 51.2093471474265
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Cordoeanier",
+		"position": {
+			"longitude": 3.22609141119592,
+			"latitude": 51.2101011116433
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Vuurmolen",
+		"position": {
+			"longitude": 3.22534793021971,
+			"latitude": 51.2104763469077
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Marquee",
+		"position": {
+			"longitude": 3.22529804128594,
+			"latitude": 51.2106299916773
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Amon",
+		"position": {
+			"longitude": 3.22461600591777,
+			"latitude": 51.2112074563645
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Trium",
+		"position": {
+			"longitude": 3.22510534456998,
+			"latitude": 51.2115667970836
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Florentijnen",
+		"position": {
+			"longitude": 3.22415818333976,
+			"latitude": 51.2113687422719
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Fevery",
+		"position": {
+			"longitude": 3.22716789707935,
+			"latitude": 51.2152683843537
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "De Pauw",
+		"position": {
+			"longitude": 3.22710701964407,
+			"latitude": 51.215192471701
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Oud Handbogenhof",
+		"position": {
+			"longitude": 3.22650740737089,
+			"latitude": 51.2153408096859
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur 't Scheumspoantje",
+		"position": {
+			"longitude": 3.22388474708386,
+			"latitude": 51.2151439447505
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Europ",
+		"position": {
+			"longitude": 3.22482836539822,
+			"latitude": 51.2133823534089
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Opkikkertje",
+		"position": {
+			"longitude": 3.22450258671672,
+			"latitude": 51.2139516736734
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Tom's Dinner",
+		"position": {
+			"longitude": 3.22432903966137,
+			"latitude": 51.2141817644385
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Ter Brughe",
+		"position": {
+			"longitude": 3.22546975912921,
+			"latitude": 51.2133352477434
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Asiris",
+		"position": {
+			"longitude": 3.2264674933626,
+			"latitude": 51.2144840355675
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Jacobs",
+		"position": {
+			"longitude": 3.22623830071364,
+			"latitude": 51.2146510138199
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Kalvarieberg",
+		"position": {
+			"longitude": 3.22412790416466,
+			"latitude": 51.2183192231167
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Reisduif",
+		"position": {
+			"longitude": 3.22838618258175,
+			"latitude": 51.2160032565685
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Witte Poorte",
+		"position": {
+			"longitude": 3.22581992774292,
+			"latitude": 51.2118448752951
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Zonneke",
+		"position": {
+			"longitude": 3.22604976234834,
+			"latitude": 51.2120278765365
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Terrastje",
+		"position": {
+			"longitude": 3.22836613607668,
+			"latitude": 51.2131998107491
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Barabass",
+		"position": {
+			"longitude": 3.2224815210353,
+			"latitude": 51.2151813440341
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Pannenkoeken",
+		"description": "De Bretoen",
+		"position": {
+			"longitude": 3.22054733431889,
+			"latitude": 51.2116767632825
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "'t Knabbeltje",
+		"position": {
+			"longitude": 3.2187222142225,
+			"latitude": 51.2131157068092
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Pottekijker",
+		"position": {
+			"longitude": 3.21842970001537,
+			"latitude": 51.2133805568285
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "De Vlamingdam",
+		"position": {
+			"longitude": 3.2213456961441,
+			"latitude": 51.2154496141464
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Fortuintje",
+		"position": {
+			"longitude": 3.21786658852066,
+			"latitude": 51.2149661805807
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Croissanterie Ortiz",
+		"position": {
+			"longitude": 3.21777436481599,
+			"latitude": 51.2139176825376
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Ezeltje",
+		"position": {
+			"longitude": 3.21659123277312,
+			"latitude": 51.2150557434576
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Bethune",
+		"position": {
+			"longitude": 3.21692246268547,
+			"latitude": 51.2153162341315
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "De Biezen",
+		"position": {
+			"longitude": 3.21752624537028,
+			"latitude": 51.215822735245
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Gulden Vlies",
+		"position": {
+			"longitude": 3.21799027848535,
+			"latitude": 51.2160856740314
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Oud Huis Amsterdam",
+		"position": {
+			"longitude": 3.22685025361845,
+			"latitude": 51.2120379252905
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Bryghia",
+		"position": {
+			"longitude": 3.22617426510794,
+			"latitude": 51.2131218740546
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Kok au Vin",
+		"position": {
+			"longitude": 3.21964491307413,
+			"latitude": 51.2119101990858
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Snuffel",
+		"position": {
+			"longitude": 3.21873130635047,
+			"latitude": 51.212671955364
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "In 't Molenhuis",
+		"position": {
+			"longitude": 3.23325565423134,
+			"latitude": 51.2203980871921
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Bistro du Phare",
+		"position": {
+			"longitude": 3.23277181165305,
+			"latitude": 51.2213981595722
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Assisenhof",
+		"position": {
+			"longitude": 3.23293930661535,
+			"latitude": 51.2210370497678
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Saspoort",
+		"position": {
+			"longitude": 3.23287744178875,
+			"latitude": 51.2209252067848
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Ter Duinen",
+		"position": {
+			"longitude": 3.22812040455005,
+			"latitude": 51.2172893316573
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Bronne",
+		"position": {
+			"longitude": 3.22614586992817,
+			"latitude": 51.2193295457315
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Tableau",
+		"position": {
+			"longitude": 3.22653212341999,
+			"latitude": 51.2208884467303
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Golden Tulip",
+		"position": {
+			"longitude": 3.2296517066241,
+			"latitude": 51.2150315892207
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Adornes",
+		"position": {
+			"longitude": 3.22945821823438,
+			"latitude": 51.2132833423628
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Herberghe Vlissinghe 1515",
+		"position": {
+			"longitude": 3.23009991081972,
+			"latitude": 51.2128456827436
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Pas Partout",
+		"position": {
+			"longitude": 3.2307446849912,
+			"latitude": 51.2134915720849
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Gezelleke",
+		"position": {
+			"longitude": 3.23103653893186,
+			"latitude": 51.2137806150511
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Verloren Hoek",
+		"position": {
+			"longitude": 3.2370008856024,
+			"latitude": 51.2157916474362
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Windmolen",
+		"position": {
+			"longitude": 3.23682571727361,
+			"latitude": 51.2160147872706
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Pizza Company",
+		"position": {
+			"longitude": 3.21813605352796,
+			"latitude": 51.2130926233268
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Saigon",
+		"position": {
+			"longitude": 3.21777016660319,
+			"latitude": 51.213414700498
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Vismijn",
+		"position": {
+			"longitude": 3.21629178005352,
+			"latitude": 51.2148535039354
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Zen",
+		"position": {
+			"longitude": 3.21477311349297,
+			"latitude": 51.2112775462896
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Guillaume",
+		"position": {
+			"longitude": 3.21652616890928,
+			"latitude": 51.20775318333
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Ensor",
+		"position": {
+			"longitude": 3.21700815958845,
+			"latitude": 51.2071355738596
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Pastis",
+		"position": {
+			"longitude": 3.21691729889036,
+			"latitude": 51.2070048973188
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Montovani",
+		"position": {
+			"longitude": 3.21471942717957,
+			"latitude": 51.207927936624
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Karos",
+		"position": {
+			"longitude": 3.21536674751838,
+			"latitude": 51.2078624024749
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Frisse Lane",
+		"position": {
+			"longitude": 3.21576159025561,
+			"latitude": 51.2074873073318
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Golden Tree",
+		"position": {
+			"longitude": 3.21591894671576,
+			"latitude": 51.2070171877632
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Maraboe",
+		"position": {
+			"longitude": 3.21640382923384,
+			"latitude": 51.2061330722719
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Dickie's Beer & Grillhouse",
+		"position": {
+			"longitude": 3.21652746338214,
+			"latitude": 51.2055339902908
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "La Fuente",
+		"position": {
+			"longitude": 3.21652191686883,
+			"latitude": 51.2054597695526
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Lindenhof",
+		"position": {
+			"longitude": 3.21669232764872,
+			"latitude": 51.204759163798
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Hertog van Windsor",
+		"position": {
+			"longitude": 3.21671038488072,
+			"latitude": 51.2047002381082
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Parkhotel",
+		"position": {
+			"longitude": 3.21645367228345,
+			"latitude": 51.2046374765105
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Hauwerke",
+		"position": {
+			"longitude": 3.21626034183573,
+			"latitude": 51.2043238604939
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "NH hotel",
+		"position": {
+			"longitude": 3.21652816469595,
+			"latitude": 51.2040112616992
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "'t Beursken",
+		"position": {
+			"longitude": 3.21504919594103,
+			"latitude": 51.2036932218399
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Il Fiore",
+		"position": {
+			"longitude": 3.21510772495373,
+			"latitude": 51.2037134933904
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Het Andere Idee",
+		"position": {
+			"longitude": 3.21519147210027,
+			"latitude": 51.2037583468854
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Vetten Os",
+		"position": {
+			"longitude": 3.21537452262743,
+			"latitude": 51.203815757458
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Bonheur",
+		"position": {
+			"longitude": 3.21467326368866,
+			"latitude": 51.2055425635196
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Entree Principale",
+		"position": {
+			"longitude": 3.214621468948,
+			"latitude": 51.205473685597
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "'t Zandkoekje",
+		"position": {
+			"longitude": 3.21612049828066,
+			"latitude": 51.2055045296327
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Gouden Rivier",
+		"position": {
+			"longitude": 3.21435477475144,
+			"latitude": 51.2049194674049
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Narai Thai",
+		"position": {
+			"longitude": 3.21457429539693,
+			"latitude": 51.2050687847333
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Mas que Nada",
+		"position": {
+			"longitude": 3.21424510461399,
+			"latitude": 51.2036853742854
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Cocon",
+		"position": {
+			"longitude": 3.21438371798454,
+			"latitude": 51.2035256464922
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Aneth",
+		"position": {
+			"longitude": 3.21117141876879,
+			"latitude": 51.2118090294353
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Stil Ende",
+		"position": {
+			"longitude": 3.21454130405137,
+			"latitude": 51.2163974073737
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Sing Wah",
+		"position": {
+			"longitude": 3.21235811582058,
+			"latitude": 51.2177504808896
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Du Gaz",
+		"position": {
+			"longitude": 3.21229262878761,
+			"latitude": 51.2177869238811
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "City I",
+		"position": {
+			"longitude": 3.21112542006991,
+			"latitude": 51.2178276552318
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Kroon",
+		"position": {
+			"longitude": 3.20944715921279,
+			"latitude": 51.2184590168495
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Achtste Dag",
+		"position": {
+			"longitude": 3.21534941225142,
+			"latitude": 51.2161769964408
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Leonardo Brugge",
+		"position": {
+			"longitude": 3.20359726104308,
+			"latitude": 51.1733287596728
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Mayla",
+		"position": {
+			"longitude": 3.2082911081213,
+			"latitude": 51.2035842180427
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frietkotje",
+		"position": {
+			"longitude": 3.20822722238045,
+			"latitude": 51.2035569373697
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Pompe",
+		"position": {
+			"longitude": 3.20794009773708,
+			"latitude": 51.2033826082809
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Square",
+		"position": {
+			"longitude": 3.20871012265234,
+			"latitude": 51.2034249303347
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Brouwershof",
+		"position": {
+			"longitude": 3.20896526030379,
+			"latitude": 51.2034019380534
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Lam",
+		"position": {
+			"longitude": 3.20834355069561,
+			"latitude": 51.2031814502309
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Klokke",
+		"position": {
+			"longitude": 3.20083180283694,
+			"latitude": 51.1971463184119
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Farao's",
+		"position": {
+			"longitude": 3.19947367479456,
+			"latitude": 51.1949623447614
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur Patriek",
+		"position": {
+			"longitude": 3.198346558917,
+			"latitude": 51.1938676545359
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Cohiba",
+		"position": {
+			"longitude": 3.19803979021287,
+			"latitude": 51.1942597899636
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "'t Frietje",
+		"position": {
+			"longitude": 3.23541684037474,
+			"latitude": 51.1814176431827
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Hoekske",
+		"position": {
+			"longitude": 3.23331486806563,
+			"latitude": 51.1795235904524
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Taco Smulkroeg",
+		"position": {
+			"longitude": 3.23224164433788,
+			"latitude": 51.1939990155982
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Narai catering",
+		"position": {
+			"longitude": 3.21027349084596,
+			"latitude": 51.2053199218711
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Passage",
+		"position": {
+			"longitude": 3.21084543774143,
+			"latitude": 51.1903727600513
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur Bosrand",
+		"position": {
+			"longitude": 3.20921734420169,
+			"latitude": 51.1879846083982
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "D'Hoeve",
+		"position": {
+			"longitude": 3.20404148649006,
+			"latitude": 51.1808704310136
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Brugotel",
+		"position": {
+			"longitude": 3.19912838611274,
+			"latitude": 51.1921811318924
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Café Crea",
+		"position": {
+			"longitude": 3.20198328553854,
+			"latitude": 51.1797109625625
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Driehoek",
+		"position": {
+			"longitude": 3.2037031342015,
+			"latitude": 51.1938394406167
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Olympia",
+		"position": {
+			"longitude": 3.20690275771418,
+			"latitude": 51.2004439851711
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Spoor 13",
+		"position": {
+			"longitude": 3.22373541032903,
+			"latitude": 51.1843876343665
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Marabout",
+		"position": {
+			"longitude": 3.22574360113464,
+			"latitude": 51.1802386408238
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Grillhuisje 't Gehucht",
+		"position": {
+			"longitude": 3.22619773634634,
+			"latitude": 51.1798385882965
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "De Barge",
+		"position": {
+			"longitude": 3.22756749074163,
+			"latitude": 51.1968940109141
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Mayflower",
+		"position": {
+			"longitude": 3.22765836744184,
+			"latitude": 51.1971753310766
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Santa Fe",
+		"position": {
+			"longitude": 3.21784311879849,
+			"latitude": 51.1975912546949
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Den Express",
+		"position": {
+			"longitude": 3.21784311879849,
+			"latitude": 51.1975912546949
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "De Krakele",
+		"position": {
+			"longitude": 3.22083713494014,
+			"latitude": 51.2224707723727
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "La Tâche",
+		"position": {
+			"longitude": 3.20881731205735,
+			"latitude": 51.2194482949643
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur Peter",
+		"position": {
+			"longitude": 3.24613624160115,
+			"latitude": 51.2009921610941
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur 't Peerdeke",
+		"position": {
+			"longitude": 3.24613624160115,
+			"latitude": 51.2009921610941
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Monnikenwerve",
+		"position": {
+			"longitude": 3.19605325806449,
+			"latitude": 51.2473433683227
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Zandwegemolen",
+		"position": {
+			"longitude": 3.19342414901612,
+			"latitude": 51.22543479751
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Di Trevi",
+		"position": {
+			"longitude": 3.20774561264394,
+			"latitude": 51.2203208254819
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Grillroom",
+		"description": "Kerim",
+		"position": {
+			"longitude": 3.2054089577746,
+			"latitude": 51.2218924476012
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Sportcafetaria Tempelhof",
+		"position": {
+			"longitude": 3.2039633472818,
+			"latitude": 51.2271660513449
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Intermezzo",
+		"position": {
+			"longitude": 3.2058061032985,
+			"latitude": 51.2252083430775
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Golden City",
+		"position": {
+			"longitude": 3.20704474013273,
+			"latitude": 51.222307166446
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Normandie",
+		"position": {
+			"longitude": 3.20718845176056,
+			"latitude": 51.2220200240925
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Beurs",
+		"position": {
+			"longitude": 3.21324051573591,
+			"latitude": 51.2234722275037
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Shady",
+		"position": {
+			"longitude": 3.21209203369162,
+			"latitude": 51.223347437387
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Koopmanshuis",
+		"position": {
+			"longitude": 3.21197668787899,
+			"latitude": 51.2233103853216
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Groene Jager",
+		"position": {
+			"longitude": 3.21124238280733,
+			"latitude": 51.2230795454005
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Quick",
+		"position": {
+			"longitude": 3.26457207129506,
+			"latitude": 51.2083482576711
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Lunch Garden",
+		"position": {
+			"longitude": 3.26457207129506,
+			"latitude": 51.2083482576711
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Byblos Pub",
+		"position": {
+			"longitude": 3.26457207129506,
+			"latitude": 51.2083482576711
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "McDonald's",
+		"position": {
+			"longitude": 3.25654381875426,
+			"latitude": 51.2095628253425
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Bij Alfredo - De Spaanse Kok",
+		"position": {
+			"longitude": 3.19129802211507,
+			"latitude": 51.1953864713821
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Martin's Visrestaurant",
+		"position": {
+			"longitude": 3.20644269740846,
+			"latitude": 51.3313489089735
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Spinnetje",
+		"position": {
+			"longitude": 3.20965222054486,
+			"latitude": 51.3296328572522
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Pakhuis",
+		"position": {
+			"longitude": 3.20173644439091,
+			"latitude": 51.3339493823096
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Old Steamer",
+		"position": {
+			"longitude": 3.20320313054939,
+			"latitude": 51.3343288275618
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Pier 27",
+		"position": {
+			"longitude": 3.20439824574795,
+			"latitude": 51.3345468332332
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Anker",
+		"position": {
+			"longitude": 3.20577327833224,
+			"latitude": 51.3349682217546
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Kymata",
+		"position": {
+			"longitude": 3.20622144689267,
+			"latitude": 51.3350966070068
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur 'Met of Zonder'",
+		"position": {
+			"longitude": 3.20221868470963,
+			"latitude": 51.3324963591515
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Atlantic",
+		"position": {
+			"longitude": 3.20257431919478,
+			"latitude": 51.3316655221417
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Café Zonder Naam",
+		"position": {
+			"longitude": 3.20372226158433,
+			"latitude": 51.3322133291303
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Brasserie Nelson",
+		"position": {
+			"longitude": 3.20399742320848,
+			"latitude": 51.3323794225914
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Boat House",
+		"position": {
+			"longitude": 3.20408103712823,
+			"latitude": 51.3325123467663
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Sailor",
+		"position": {
+			"longitude": 3.2049450312253,
+			"latitude": 51.3325069235212
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Slabbinck",
+		"position": {
+			"longitude": 3.20517404997385,
+			"latitude": 51.332225265462
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Seawitch",
+		"position": {
+			"longitude": 3.20532638575202,
+			"latitude": 51.3327910944702
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Mon Manège à Toi",
+		"position": {
+			"longitude": 3.20547502565,
+			"latitude": 51.3328389045233
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Zeemeermin",
+		"position": {
+			"longitude": 3.2056215269335,
+			"latitude": 51.3328982813825
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Rembrandt",
+		"position": {
+			"longitude": 3.20290507835144,
+			"latitude": 51.330424224486
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Lichtboeie",
+		"position": {
+			"longitude": 3.20314887385021,
+			"latitude": 51.3297742171761
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "New Corner",
+		"position": {
+			"longitude": 3.20256137267169,
+			"latitude": 51.3294509296821
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Channel 16 (Ch 16)",
+		"position": {
+			"longitude": 3.20159969307461,
+			"latitude": 51.3300347734271
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Sedov Bistro",
+		"position": {
+			"longitude": 3.20178244930433,
+			"latitude": 51.3300493188952
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Kuisbank",
+		"position": {
+			"longitude": 3.20100897956854,
+			"latitude": 51.3299872409493
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Werftje",
+		"position": {
+			"longitude": 3.19969835515514,
+			"latitude": 51.3298074598522
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "'t Kastaarke",
+		"position": {
+			"longitude": 3.20588869320465,
+			"latitude": 51.3318301726636
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Abri",
+		"position": {
+			"longitude": 3.20569776066951,
+			"latitude": 51.3316243517932
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Polydor",
+		"position": {
+			"longitude": 3.20563338586755,
+			"latitude": 51.331535651764
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Las Vegas",
+		"position": {
+			"longitude": 3.2008678740553,
+			"latitude": 51.3287552055605
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Ship-Otel",
+		"position": {
+			"longitude": 3.19642135201031,
+			"latitude": 51.3279453597067
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Suffolk Ferry",
+		"position": {
+			"longitude": 3.19468418645663,
+			"latitude": 51.3267867512675
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Korenbloem",
+		"position": {
+			"longitude": 3.19461531405654,
+			"latitude": 51.3274639689145
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "El Toro",
+		"position": {
+			"longitude": 3.18894312657716,
+			"latitude": 51.3093464772141
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "'t Lisputje",
+		"position": {
+			"longitude": 3.19172447914315,
+			"latitude": 51.2985704999142
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur Baraque",
+		"position": {
+			"longitude": 3.19128167908624,
+			"latitude": 51.2973678831996
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "St Joseph",
+		"position": {
+			"longitude": 3.1944119696002,
+			"latitude": 51.2941055861321
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Seks",
+		"description": "De Zwarte Orchidee",
+		"position": {
+			"longitude": 3.19273545677394,
+			"latitude": 51.2947691849143
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Justy's Frietshop",
+		"position": {
+			"longitude": 3.19268405346015,
+			"latitude": 51.2949749444881
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Den Ouden Toren",
+		"position": {
+			"longitude": 3.19840496378555,
+			"latitude": 51.2944452277878
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Torretje",
+		"position": {
+			"longitude": 3.19831674547658,
+			"latitude": 51.2946459906726
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Pepermolen",
+		"position": {
+			"longitude": 3.19714401741909,
+			"latitude": 51.2943145668079
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Goedendag",
+		"position": {
+			"longitude": 3.19710573270208,
+			"latitude": 51.2948078447093
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Valckenaere",
+		"position": {
+			"longitude": 3.1966017507709,
+			"latitude": 51.2944899792528
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "St Jacobshuis",
+		"position": {
+			"longitude": 3.1980467458735,
+			"latitude": 51.2944312596385
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Huyze Saeftinghe",
+		"position": {
+			"longitude": 3.19866330103144,
+			"latitude": 51.2935056602444
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "St Amand",
+		"position": {
+			"longitude": 3.19760121609622,
+			"latitude": 51.2927442525533
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Cité",
+		"position": {
+			"longitude": 3.19615849937402,
+			"latitude": 51.3098201867575
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Kavijaks",
+		"position": {
+			"longitude": 3.19740238484065,
+			"latitude": 51.3103516330502
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Bras (Beach)",
+		"position": {
+			"longitude": 3.18133407350733,
+			"latitude": 51.3293897494165
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Ambrosius",
+		"position": {
+			"longitude": 3.18043075254198,
+			"latitude": 51.3291987678161
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Maritime",
+		"position": {
+			"longitude": 3.18106651222949,
+			"latitude": 51.3292920477776
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Sea & Sand",
+		"position": {
+			"longitude": 3.18090435696457,
+			"latitude": 51.3291954014746
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Falstaff",
+		"position": {
+			"longitude": 3.18067545516632,
+			"latitude": 51.3292498896769
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Old Barrel",
+		"position": {
+			"longitude": 3.1803363837412,
+			"latitude": 51.3292001396693
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Zandlopertje",
+		"position": {
+			"longitude": 3.1803363837412,
+			"latitude": 51.3292001396693
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Zeezicht",
+		"position": {
+			"longitude": 3.17901512519535,
+			"latitude": 51.3288612658087
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Atlas",
+		"position": {
+			"longitude": 3.18169953474786,
+			"latitude": 51.3284049477742
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Sandwich Express",
+		"position": {
+			"longitude": 3.18340677767378,
+			"latitude": 51.3278959291838
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Monte Carlo",
+		"position": {
+			"longitude": 3.18440894930892,
+			"latitude": 51.327763410344
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Jin Yan Lou",
+		"position": {
+			"longitude": 3.18460950659441,
+			"latitude": 51.3275139527088
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Beaufort",
+		"position": {
+			"longitude": 3.18378421676962,
+			"latitude": 51.3283273007644
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Monaco",
+		"position": {
+			"longitude": 3.18348264489648,
+			"latitude": 51.328620940694
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Lagaar",
+		"position": {
+			"longitude": 3.18290319231943,
+			"latitude": 51.3295120619857
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Olympos",
+		"position": {
+			"longitude": 3.18317158958652,
+			"latitude": 51.1943746905506
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Frituur Peter",
+		"position": {
+			"longitude": 3.20593528946061,
+			"latitude": 51.2277996375061
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Bezorg",
+		"description": "Traiteur Yves",
+		"position": {
+			"longitude": 3.20492437022846,
+			"latitude": 51.2301467922476
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Barrière",
+		"position": {
+			"longitude": 3.20506915130687,
+			"latitude": 51.2304101154845
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "Pickles",
+		"position": {
+			"longitude": 3.20577838549992,
+			"latitude": 51.2303174278098
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Charly's",
+		"position": {
+			"longitude": 3.20592027772589,
+			"latitude": 51.2301786019977
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Seks",
+		"description": "Erotiek Center Martine",
+		"position": {
+			"longitude": 3.20410147481115,
+			"latitude": 51.2333869399338
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Apollo Hotel",
+		"position": {
+			"longitude": 3.21276323624381,
+			"latitude": 51.2263484579324
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Vrede",
+		"position": {
+			"longitude": 3.20858569453815,
+			"latitude": 51.3313096368061
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Della Piazza",
+		"position": {
+			"longitude": 3.23383598238583,
+			"latitude": 51.1879708916791
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Le grand café Belfort",
+		"position": {
+			"longitude": 3.22352160463426,
+			"latitude": 51.2092662190461
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "La Bodega",
+		"position": {
+			"longitude": 3.22264234623451,
+			"latitude": 51.2102867615976
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Kempinski Dukes' Palace",
+		"position": {
+			"longitude": 3.21976489988876,
+			"latitude": 51.2086109550703
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Bauhaus",
+		"position": {
+			"longitude": 3.23746413618015,
+			"latitude": 51.2119058332984
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Biskajer",
+		"position": {
+			"longitude": 3.22606059932414,
+			"latitude": 51.2112839998107
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Cosy nostra",
+		"position": {
+			"longitude": 3.22536381961412,
+			"latitude": 51.2106561223036
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Concertgebouwcafé",
+		"position": {
+			"longitude": 3.21842614442565,
+			"latitude": 51.2037956508148
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Passeviet",
+		"position": {
+			"longitude": 3.21454447653394,
+			"latitude": 51.2055285592203
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Campanile",
+		"position": {
+			"longitude": 3.20585172369115,
+			"latitude": 51.1811072816347
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "The Night",
+		"position": {
+			"longitude": 3.20404148649006,
+			"latitude": 51.1808704310136
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Tuf-Tuf",
+		"position": {
+			"longitude": 3.22075185066067,
+			"latitude": 51.1981896894922
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Albert I",
+		"position": {
+			"longitude": 3.2172937454883,
+			"latitude": 51.2037857887998
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Partycentrum",
+		"description": "Rustenburg",
+		"position": {
+			"longitude": 3.21067369437159,
+			"latitude": 51.2201919229703
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Waterkant",
+		"position": {
+			"longitude": 3.19652581373678,
+			"latitude": 51.2331012244504
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Fastfood",
+		"description": "De Munte",
+		"position": {
+			"longitude": 3.26699778971708,
+			"latitude": 51.1930439978107
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Le Bar",
+		"position": {
+			"longitude": 3.19069017645825,
+			"latitude": 51.1854894806216
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Brasserie Den Tijd",
+		"position": {
+			"longitude": 3.21784311879849,
+			"latitude": 51.1975912546949
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Tonka",
+		"position": {
+			"longitude": 3.22471815863764,
+			"latitude": 51.2020743718643
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Malesherbes",
+		"position": {
+			"longitude": 3.22450763344134,
+			"latitude": 51.2032126472505
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Miramar",
+		"position": {
+			"longitude": 3.2236786017427,
+			"latitude": 51.2051990093413
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Sacre Coeur",
+		"position": {
+			"longitude": 3.23741557780539,
+			"latitude": 51.2120061885057
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Kartuizer",
+		"position": {
+			"longitude": 3.23668194693596,
+			"latitude": 51.2115217240079
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Lion Belge",
+		"position": {
+			"longitude": 3.2368852219314,
+			"latitude": 51.2116604134113
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Chasse-Spleen",
+		"position": {
+			"longitude": 3.21696673976443,
+			"latitude": 51.2067956262868
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Punta Est",
+		"position": {
+			"longitude": 3.23264960032908,
+			"latitude": 51.2092151932363
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "De Môle",
+		"position": {
+			"longitude": 3.18155348838635,
+			"latitude": 51.3291995847826
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Nadine Vandamme",
+		"position": {
+			"longitude": 3.20757450618948,
+			"latitude": 51.3307655338388
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Moloko",
+		"position": {
+			"longitude": 3.2476834539868,
+			"latitude": 51.2104537610826
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Wilgenhof",
+		"position": {
+			"longitude": 3.26040177901095,
+			"latitude": 51.2333980768387
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Blue lobster",
+		"position": {
+			"longitude": 3.20249333680046,
+			"latitude": 51.3300991882895
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Bloemenhof",
+		"position": {
+			"longitude": 3.24758629262872,
+			"latitude": 51.2783834203795
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De Ketel",
+		"position": {
+			"longitude": 3.24944320180856,
+			"latitude": 51.2416176614266
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Seks",
+		"description": "Dogas Club",
+		"position": {
+			"longitude": 3.1840733333542,
+			"latitude": 51.3280868406549
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Salon Monet",
+		"position": {
+			"longitude": 3.18254191490833,
+			"latitude": 51.329535100951
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Dol-Fijntje",
+		"position": {
+			"longitude": 3.20603290834411,
+			"latitude": 51.331906908612
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Tijdok",
+		"position": {
+			"longitude": 3.20297526841041,
+			"latitude": 51.3306497215593
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Kurt's Pan",
+		"position": {
+			"longitude": 3.2210128125277,
+			"latitude": 51.2109048510486
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De kleine nachtwinkel",
+		"position": {
+			"longitude": 3.22110092272956,
+			"latitude": 51.2109230888153
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Lunch Garden",
+		"position": {
+			"longitude": 3.20061870356016,
+			"latitude": 51.2505428708936
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "De 4 Torens",
+		"position": {
+			"longitude": 3.2035380097825,
+			"latitude": 51.3323320338366
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "De Kombuis",
+		"position": {
+			"longitude": 3.20354286164316,
+			"latitude": 51.3323598926623
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Restaurant",
+		"description": "Brasserie Forestiere",
+		"position": {
+			"longitude": 3.22465745892307,
+			"latitude": 51.2114732340176
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Pand 23",
+		"position": {
+			"longitude": 3.2458361290319,
+			"latitude": 51.2006625159382
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Cathedraak",
+		"position": {
+			"longitude": 3.22376276866129,
+			"latitude": 51.2094377463212
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Polshoogte",
+		"position": {
+			"longitude": 3.23370293365167,
+			"latitude": 51.203151772983
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Café Mundo",
+		"position": {
+			"longitude": 3.22293082106494,
+			"latitude": 51.2031220536774
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Lunchroom",
+		"description": "Coffee Time Bruges",
+		"position": {
+			"longitude": 3.22448337644099,
+			"latitude": 51.2041267479758
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Cafe Leffe",
+		"position": {
+			"longitude": 3.21801821432411,
+			"latitude": 51.2060502894539
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "'t Poatersgat",
+		"position": {
+			"longitude": 3.22385017725697,
+			"latitude": 51.2118907202681
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Hotel",
+		"description": "Jeugdherberg Europa",
+		"position": {
+			"longitude": 3.23338181264672,
+			"latitude": 51.1942104521882
+		}
+	},
+	{
+		"type": "horeca",
+		"sub-type": "Café",
+		"description": "Poulin",
+		"position": {
+			"longitude": 3.22699510778787,
+			"latitude": 51.222857157887
+		}
+	}
+]

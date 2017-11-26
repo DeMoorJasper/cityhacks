@@ -1,0 +1,2456 @@
+{
+    "routes": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.249105,
+                        51.193512
+                    ],
+                    [
+                        3.2495,
+                        51.193268
+                    ],
+                    [
+                        3.249391,
+                        51.194194
+                    ],
+                    [
+                        3.244877,
+                        51.195912
+                    ],
+                    [
+                        3.237342,
+                        51.201117
+                    ],
+                    [
+                        3.237317,
+                        51.202189
+                    ],
+                    [
+                        3.236813,
+                        51.202241
+                    ],
+                    [
+                        3.237171,
+                        51.203109
+                    ],
+                    [
+                        3.241178,
+                        51.207559
+                    ],
+                    [
+                        3.241444,
+                        51.211256
+                    ],
+                    [
+                        3.23917,
+                        51.215516
+                    ],
+                    [
+                        3.233454,
+                        51.222572
+                    ],
+                    [
+                        3.23967,
+                        51.229441
+                    ],
+                    [
+                        3.248334,
+                        51.240461
+                    ],
+                    [
+                        3.247741,
+                        51.241448
+                    ],
+                    [
+                        3.246777,
+                        51.241517
+                    ],
+                    [
+                        3.246235,
+                        51.242115
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "legs": [
+                {
+                    "summary": "Daverlostraat, Buiten Kruisvest",
+                    "weight": 4672.5,
+                    "duration": 4672.5,
+                    "steps": [
+                        {
+                            "intersections": [
+                                {
+                                    "out": 0,
+                                    "entry": [
+                                        true
+                                    ],
+                                    "bearings": [
+                                        182
+                                    ],
+                                    "location": [
+                                        3.249105,
+                                        51.193512
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.249105,
+                                        51.193512
+                                    ],
+                                    [
+                                        3.249086,
+                                        51.193214
+                                    ],
+                                    [
+                                        3.2495,
+                                        51.193268
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 182,
+                                "bearing_before": 0,
+                                "location": [
+                                    3.249105,
+                                    51.193512
+                                ],
+                                "modifier": "right",
+                                "type": "depart",
+                                "instruction": "Head south"
+                            },
+                            "weight": 45.2,
+                            "duration": 45.2,
+                            "name": "",
+                            "distance": 62.6
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        180,
+                                        255
+                                    ],
+                                    "location": [
+                                        3.2495,
+                                        51.193268
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.2495,
+                                        51.193268
+                                    ],
+                                    [
+                                        3.249462,
+                                        51.193932
+                                    ],
+                                    [
+                                        3.249481,
+                                        51.193999
+                                    ],
+                                    [
+                                        3.249496,
+                                        51.194051
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 357,
+                                "bearing_before": 77,
+                                "location": [
+                                    3.2495,
+                                    51.193268
+                                ],
+                                "modifier": "left",
+                                "type": "turn",
+                                "instruction": "Turn left onto Dries"
+                            },
+                            "weight": 62.8,
+                            "duration": 62.8,
+                            "name": "Dries",
+                            "distance": 87.3
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        195,
+                                        285
+                                    ],
+                                    "location": [
+                                        3.249496,
+                                        51.194051
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.249496,
+                                        51.194051
+                                    ],
+                                    [
+                                        3.249444,
+                                        51.194066
+                                    ],
+                                    [
+                                        3.249403,
+                                        51.194092
+                                    ],
+                                    [
+                                        3.24938,
+                                        51.194125
+                                    ],
+                                    [
+                                        3.249376,
+                                        51.19416
+                                    ],
+                                    [
+                                        3.249391,
+                                        51.194194
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 291,
+                                "bearing_before": 9,
+                                "location": [
+                                    3.249496,
+                                    51.194051
+                                ],
+                                "modifier": "left",
+                                "type": "turn",
+                                "instruction": "Turn left"
+                            },
+                            "weight": 14.3,
+                            "duration": 14.3,
+                            "name": "",
+                            "distance": 19.9
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        195,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.249391,
+                                        51.194194
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.247318,
+                                        51.194934
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        120,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.245685,
+                                        51.195535
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        135,
+                                        315
+                                    ],
+                                    "location": [
+                                        3.244466,
+                                        51.196169
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        135,
+                                        315
+                                    ],
+                                    "location": [
+                                        3.243538,
+                                        51.196858
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        135,
+                                        315
+                                    ],
+                                    "location": [
+                                        3.242781,
+                                        51.197332
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        60,
+                                        135,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.240518,
+                                        51.19876
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.249391,
+                                        51.194194
+                                    ],
+                                    [
+                                        3.248188,
+                                        51.194606
+                                    ],
+                                    [
+                                        3.247318,
+                                        51.194934
+                                    ],
+                                    [
+                                        3.247186,
+                                        51.194983
+                                    ],
+                                    [
+                                        3.246776,
+                                        51.195131
+                                    ],
+                                    [
+                                        3.246409,
+                                        51.195267
+                                    ],
+                                    [
+                                        3.245685,
+                                        51.195535
+                                    ],
+                                    [
+                                        3.245509,
+                                        51.195601
+                                    ],
+                                    [
+                                        3.245243,
+                                        51.195712
+                                    ],
+                                    [
+                                        3.244877,
+                                        51.195912
+                                    ],
+                                    [
+                                        3.244466,
+                                        51.196169
+                                    ],
+                                    [
+                                        3.244148,
+                                        51.196413
+                                    ],
+                                    [
+                                        3.243538,
+                                        51.196858
+                                    ],
+                                    [
+                                        3.242781,
+                                        51.197332
+                                    ],
+                                    [
+                                        3.242129,
+                                        51.197694
+                                    ],
+                                    [
+                                        3.241873,
+                                        51.19784
+                                    ],
+                                    [
+                                        3.241264,
+                                        51.198216
+                                    ],
+                                    [
+                                        3.240518,
+                                        51.19876
+                                    ],
+                                    [
+                                        3.240381,
+                                        51.198809
+                                    ],
+                                    [
+                                        3.240217,
+                                        51.198813
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 298,
+                                "bearing_before": 15,
+                                "location": [
+                                    3.249391,
+                                    51.194194
+                                ],
+                                "modifier": "left",
+                                "type": "turn",
+                                "instruction": "Turn left onto Daverlostraat"
+                            },
+                            "weight": 598,
+                            "duration": 598,
+                            "name": "Daverlostraat",
+                            "distance": 830.7
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 2,
+                                    "in": 0,
+                                    "entry": [
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        255,
+                                        330
+                                    ],
+                                    "location": [
+                                        3.240217,
+                                        51.198813
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 0,
+                                    "entry": [
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        135,
+                                        255,
+                                        330
+                                    ],
+                                    "location": [
+                                        3.2394,
+                                        51.199465
+                                    ]
+                                },
+                                {
+                                    "out": 3,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        135,
+                                        255,
+                                        315
+                                    ],
+                                    "location": [
+                                        3.238694,
+                                        51.199997
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.240217,
+                                        51.198813
+                                    ],
+                                    [
+                                        3.240119,
+                                        51.198909
+                                    ],
+                                    [
+                                        3.2394,
+                                        51.199465
+                                    ],
+                                    [
+                                        3.239059,
+                                        51.199772
+                                    ],
+                                    [
+                                        3.238694,
+                                        51.199997
+                                    ],
+                                    [
+                                        3.2382,
+                                        51.200303
+                                    ],
+                                    [
+                                        3.23772,
+                                        51.200637
+                                    ],
+                                    [
+                                        3.237474,
+                                        51.20089
+                                    ],
+                                    [
+                                        3.237342,
+                                        51.201117
+                                    ],
+                                    [
+                                        3.237292,
+                                        51.201838
+                                    ],
+                                    [
+                                        3.237312,
+                                        51.20213
+                                    ],
+                                    [
+                                        3.237317,
+                                        51.202189
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 322,
+                                "bearing_before": 274,
+                                "location": [
+                                    3.240217,
+                                    51.198813
+                                ],
+                                "modifier": "right",
+                                "type": "continue",
+                                "instruction": "Turn right to stay on Daverlostraat"
+                            },
+                            "weight": 321.90000000000003,
+                            "duration": 321.90000000000003,
+                            "name": "Daverlostraat",
+                            "distance": 447.1
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        105,
+                                        180,
+                                        285
+                                    ],
+                                    "location": [
+                                        3.237317,
+                                        51.202189
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 0,
+                                    "entry": [
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        105,
+                                        255,
+                                        285
+                                    ],
+                                    "location": [
+                                        3.236851,
+                                        51.202236
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.237317,
+                                        51.202189
+                                    ],
+                                    [
+                                        3.236851,
+                                        51.202236
+                                    ],
+                                    [
+                                        3.236813,
+                                        51.202241
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 278,
+                                "bearing_before": 0,
+                                "location": [
+                                    3.237317,
+                                    51.202189
+                                ],
+                                "modifier": "left",
+                                "type": "end of road",
+                                "instruction": "Turn left onto Generaal Lemanlaan (N337)"
+                            },
+                            "ref": "N337",
+                            "weight": 25.599999999999998,
+                            "duration": 25.599999999999998,
+                            "name": "Generaal Lemanlaan (N337)",
+                            "distance": 35.6
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        15,
+                                        105,
+                                        285
+                                    ],
+                                    "location": [
+                                        3.236813,
+                                        51.202241
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        15,
+                                        75,
+                                        195
+                                    ],
+                                    "location": [
+                                        3.236958,
+                                        51.202603
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.239011,
+                                        51.20529
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.236813,
+                                        51.202241
+                                    ],
+                                    [
+                                        3.236833,
+                                        51.20229
+                                    ],
+                                    [
+                                        3.236958,
+                                        51.202603
+                                    ],
+                                    [
+                                        3.237051,
+                                        51.202828
+                                    ],
+                                    [
+                                        3.237171,
+                                        51.203109
+                                    ],
+                                    [
+                                        3.237543,
+                                        51.203638
+                                    ],
+                                    [
+                                        3.237635,
+                                        51.203762
+                                    ],
+                                    [
+                                        3.237818,
+                                        51.203904
+                                    ],
+                                    [
+                                        3.238068,
+                                        51.204154
+                                    ],
+                                    [
+                                        3.238157,
+                                        51.204258
+                                    ],
+                                    [
+                                        3.238293,
+                                        51.204419
+                                    ],
+                                    [
+                                        3.238608,
+                                        51.204818
+                                    ],
+                                    [
+                                        3.239011,
+                                        51.20529
+                                    ],
+                                    [
+                                        3.239381,
+                                        51.205731
+                                    ],
+                                    [
+                                        3.240322,
+                                        51.206675
+                                    ],
+                                    [
+                                        3.240394,
+                                        51.206748
+                                    ],
+                                    [
+                                        3.240472,
+                                        51.206824
+                                    ],
+                                    [
+                                        3.240513,
+                                        51.206866
+                                    ],
+                                    [
+                                        3.240537,
+                                        51.20689
+                                    ],
+                                    [
+                                        3.24069,
+                                        51.207041
+                                    ],
+                                    [
+                                        3.240719,
+                                        51.207072
+                                    ],
+                                    [
+                                        3.241178,
+                                        51.207559
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 14,
+                                "bearing_before": 281,
+                                "location": [
+                                    3.236813,
+                                    51.202241
+                                ],
+                                "modifier": "right",
+                                "type": "turn",
+                                "instruction": "Turn right onto Nijverheidsstraat"
+                            },
+                            "weight": 481.7,
+                            "duration": 481.7,
+                            "name": "Nijverheidsstraat",
+                            "distance": 669
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 4,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210,
+                                        285,
+                                        315
+                                    ],
+                                    "location": [
+                                        3.241178,
+                                        51.207559
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        15,
+                                        165,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.240909,
+                                        51.208
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.241178,
+                                        51.207559
+                                    ],
+                                    [
+                                        3.241064,
+                                        51.207616
+                                    ],
+                                    [
+                                        3.241005,
+                                        51.207652
+                                    ],
+                                    [
+                                        3.240985,
+                                        51.207695
+                                    ],
+                                    [
+                                        3.240979,
+                                        51.207814
+                                    ],
+                                    [
+                                        3.240975,
+                                        51.207888
+                                    ],
+                                    [
+                                        3.240909,
+                                        51.208
+                                    ],
+                                    [
+                                        3.241001,
+                                        51.208147
+                                    ],
+                                    [
+                                        3.24117,
+                                        51.208454
+                                    ],
+                                    [
+                                        3.241294,
+                                        51.208724
+                                    ],
+                                    [
+                                        3.241361,
+                                        51.208965
+                                    ],
+                                    [
+                                        3.241415,
+                                        51.209348
+                                    ],
+                                    [
+                                        3.241449,
+                                        51.20995
+                                    ],
+                                    [
+                                        3.241453,
+                                        51.210154
+                                    ],
+                                    [
+                                        3.241448,
+                                        51.210278
+                                    ],
+                                    [
+                                        3.241421,
+                                        51.2107
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 307,
+                                "bearing_before": 29,
+                                "location": [
+                                    3.241178,
+                                    51.207559
+                                ],
+                                "modifier": "slight left",
+                                "type": "turn",
+                                "instruction": "Make a slight left onto Buiten Kazernevest (R30)"
+                            },
+                            "ref": "R30",
+                            "weight": 259.7,
+                            "duration": 259.7,
+                            "name": "Buiten Kazernevest (R30)",
+                            "distance": 361
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        180,
+                                        345
+                                    ],
+                                    "location": [
+                                        3.241421,
+                                        51.2107
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        30,
+                                        180
+                                    ],
+                                    "location": [
+                                        3.241432,
+                                        51.211066
+                                    ]
+                                },
+                                {
+                                    "out": 3,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        135,
+                                        180,
+                                        300,
+                                        345
+                                    ],
+                                    "location": [
+                                        3.241372,
+                                        51.211658
+                                    ]
+                                },
+                                {
+                                    "out": 3,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        105,
+                                        165,
+                                        240,
+                                        345
+                                    ],
+                                    "location": [
+                                        3.241336,
+                                        51.211749
+                                    ]
+                                },
+                                {
+                                    "out": 3,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        165,
+                                        210,
+                                        345
+                                    ],
+                                    "location": [
+                                        3.241264,
+                                        51.211969
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.241421,
+                                        51.2107
+                                    ],
+                                    [
+                                        3.241432,
+                                        51.210801
+                                    ],
+                                    [
+                                        3.241426,
+                                        51.210961
+                                    ],
+                                    [
+                                        3.241429,
+                                        51.211023
+                                    ],
+                                    [
+                                        3.241432,
+                                        51.211066
+                                    ],
+                                    [
+                                        3.241444,
+                                        51.211256
+                                    ],
+                                    [
+                                        3.241385,
+                                        51.211559
+                                    ],
+                                    [
+                                        3.241381,
+                                        51.211579
+                                    ],
+                                    [
+                                        3.241372,
+                                        51.211658
+                                    ],
+                                    [
+                                        3.241336,
+                                        51.211749
+                                    ],
+                                    [
+                                        3.241264,
+                                        51.211969
+                                    ],
+                                    [
+                                        3.241227,
+                                        51.212085
+                                    ],
+                                    [
+                                        3.241172,
+                                        51.212257
+                                    ],
+                                    [
+                                        3.241083,
+                                        51.212471
+                                    ],
+                                    [
+                                        3.24096,
+                                        51.212694
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 0,
+                                "bearing_before": 357,
+                                "location": [
+                                    3.241421,
+                                    51.2107
+                                ],
+                                "modifier": "slight right",
+                                "type": "fork",
+                                "instruction": "Keep right at the fork onto Buiten Kazernevest (R30)"
+                            },
+                            "ref": "R30",
+                            "weight": 164.4,
+                            "duration": 164.4,
+                            "name": "Buiten Kazernevest (R30)",
+                            "distance": 225.8
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 3,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        165,
+                                        270,
+                                        345
+                                    ],
+                                    "location": [
+                                        3.24096,
+                                        51.212694
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        120,
+                                        150,
+                                        330
+                                    ],
+                                    "location": [
+                                        3.240601,
+                                        51.213187
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        60,
+                                        165
+                                    ],
+                                    "location": [
+                                        3.23476,
+                                        51.220952
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        105,
+                                        180,
+                                        240
+                                    ],
+                                    "location": [
+                                        3.234725,
+                                        51.221182
+                                    ]
+                                },
+                                {
+                                    "out": 3,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        75,
+                                        165,
+                                        255,
+                                        345
+                                    ],
+                                    "location": [
+                                        3.234648,
+                                        51.221509
+                                    ]
+                                },
+                                {
+                                    "out": 3,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        60,
+                                        150,
+                                        270,
+                                        330
+                                    ],
+                                    "location": [
+                                        3.234376,
+                                        51.221873
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.24096,
+                                        51.212694
+                                    ],
+                                    [
+                                        3.240928,
+                                        51.212746
+                                    ],
+                                    [
+                                        3.240902,
+                                        51.212791
+                                    ],
+                                    [
+                                        3.240826,
+                                        51.212919
+                                    ],
+                                    [
+                                        3.240601,
+                                        51.213187
+                                    ],
+                                    [
+                                        3.240542,
+                                        51.213251
+                                    ],
+                                    [
+                                        3.240442,
+                                        51.213392
+                                    ],
+                                    [
+                                        3.240121,
+                                        51.213957
+                                    ],
+                                    [
+                                        3.239701,
+                                        51.214685
+                                    ],
+                                    [
+                                        3.239557,
+                                        51.214919
+                                    ],
+                                    [
+                                        3.23917,
+                                        51.215516
+                                    ],
+                                    [
+                                        3.238691,
+                                        51.216191
+                                    ],
+                                    [
+                                        3.238177,
+                                        51.216848
+                                    ],
+                                    [
+                                        3.237089,
+                                        51.218139
+                                    ],
+                                    [
+                                        3.236252,
+                                        51.21913
+                                    ],
+                                    [
+                                        3.23607,
+                                        51.219346
+                                    ],
+                                    [
+                                        3.235243,
+                                        51.220282
+                                    ],
+                                    [
+                                        3.235044,
+                                        51.220508
+                                    ],
+                                    [
+                                        3.234882,
+                                        51.220707
+                                    ],
+                                    [
+                                        3.234799,
+                                        51.22085
+                                    ],
+                                    [
+                                        3.23476,
+                                        51.220952
+                                    ],
+                                    [
+                                        3.234736,
+                                        51.221061
+                                    ],
+                                    [
+                                        3.234725,
+                                        51.221182
+                                    ],
+                                    [
+                                        3.234692,
+                                        51.221377
+                                    ],
+                                    [
+                                        3.234648,
+                                        51.221509
+                                    ],
+                                    [
+                                        3.234617,
+                                        51.22158
+                                    ],
+                                    [
+                                        3.234581,
+                                        51.221637
+                                    ],
+                                    [
+                                        3.234515,
+                                        51.221718
+                                    ],
+                                    [
+                                        3.234376,
+                                        51.221873
+                                    ],
+                                    [
+                                        3.234164,
+                                        51.222088
+                                    ],
+                                    [
+                                        3.234132,
+                                        51.222116
+                                    ],
+                                    [
+                                        3.233928,
+                                        51.222275
+                                    ],
+                                    [
+                                        3.233651,
+                                        51.222459
+                                    ],
+                                    [
+                                        3.233454,
+                                        51.222572
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 337,
+                                "bearing_before": 340,
+                                "location": [
+                                    3.24096,
+                                    51.212694
+                                ],
+                                "modifier": "straight",
+                                "type": "new name",
+                                "instruction": "Continue onto Buiten Kruisvest (R30)"
+                            },
+                            "ref": "R30",
+                            "weight": 886.6999999999999,
+                            "duration": 886.6999999999999,
+                            "name": "Buiten Kruisvest (R30)",
+                            "distance": 1225.8
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        135,
+                                        210,
+                                        315
+                                    ],
+                                    "location": [
+                                        3.233454,
+                                        51.222572
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.234612,
+                                        51.22375
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.235292,
+                                        51.224549
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.236162,
+                                        51.225622
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.236357,
+                                        51.225881
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.237406,
+                                        51.227017
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.238052,
+                                        51.227742
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.238177,
+                                        51.227889
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.238779,
+                                        51.228638
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        60,
+                                        90,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.239329,
+                                        51.229283
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        180,
+                                        240
+                                    ],
+                                    "location": [
+                                        3.23967,
+                                        51.229441
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.233454,
+                                        51.222572
+                                    ],
+                                    [
+                                        3.23354,
+                                        51.222657
+                                    ],
+                                    [
+                                        3.233706,
+                                        51.222825
+                                    ],
+                                    [
+                                        3.234441,
+                                        51.223538
+                                    ],
+                                    [
+                                        3.234612,
+                                        51.22375
+                                    ],
+                                    [
+                                        3.234737,
+                                        51.223897
+                                    ],
+                                    [
+                                        3.235292,
+                                        51.224549
+                                    ],
+                                    [
+                                        3.235779,
+                                        51.22515
+                                    ],
+                                    [
+                                        3.236162,
+                                        51.225622
+                                    ],
+                                    [
+                                        3.236357,
+                                        51.225881
+                                    ],
+                                    [
+                                        3.236711,
+                                        51.226348
+                                    ],
+                                    [
+                                        3.237406,
+                                        51.227017
+                                    ],
+                                    [
+                                        3.237709,
+                                        51.227302
+                                    ],
+                                    [
+                                        3.238052,
+                                        51.227742
+                                    ],
+                                    [
+                                        3.238177,
+                                        51.227889
+                                    ],
+                                    [
+                                        3.238779,
+                                        51.228638
+                                    ],
+                                    [
+                                        3.239095,
+                                        51.229017
+                                    ],
+                                    [
+                                        3.239181,
+                                        51.22912
+                                    ],
+                                    [
+                                        3.239329,
+                                        51.229283
+                                    ],
+                                    [
+                                        3.239392,
+                                        51.229339
+                                    ],
+                                    [
+                                        3.23967,
+                                        51.229441
+                                    ],
+                                    [
+                                        3.239696,
+                                        51.229598
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 32,
+                                "bearing_before": 312,
+                                "location": [
+                                    3.233454,
+                                    51.222572
+                                ],
+                                "modifier": "right",
+                                "type": "turn",
+                                "instruction": "Turn right onto Koolkerkse steenweg"
+                            },
+                            "weight": 647.9,
+                            "duration": 647.9,
+                            "name": "Koolkerkse steenweg",
+                            "distance": 899.9
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 1,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        12,
+                                        17,
+                                        186
+                                    ],
+                                    "location": [
+                                        3.239696,
+                                        51.229598
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.239696,
+                                        51.229598
+                                    ],
+                                    [
+                                        3.239906,
+                                        51.230025
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 16,
+                                "bearing_before": 5,
+                                "location": [
+                                    3.239696,
+                                    51.229598
+                                ],
+                                "modifier": "left",
+                                "type": "turn",
+                                "instruction": "Turn left"
+                            },
+                            "weight": 35.8,
+                            "duration": 35.8,
+                            "name": "",
+                            "distance": 49.7
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        195,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.239906,
+                                        51.230025
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.239906,
+                                        51.230025
+                                    ],
+                                    [
+                                        3.240207,
+                                        51.230392
+                                    ],
+                                    [
+                                        3.24052,
+                                        51.230742
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 26,
+                                "bearing_before": 16,
+                                "location": [
+                                    3.239906,
+                                    51.230025
+                                ],
+                                "modifier": "straight",
+                                "type": "turn",
+                                "instruction": "Go straight onto Brugsesteenweg (N374)"
+                            },
+                            "ref": "N374",
+                            "weight": 65.1,
+                            "duration": 65.1,
+                            "name": "Brugsesteenweg (N374)",
+                            "distance": 90.5
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.24052,
+                                        51.230742
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.241729,
+                                        51.232229
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.24275,
+                                        51.233452
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.24052,
+                                        51.230742
+                                    ],
+                                    [
+                                        3.241247,
+                                        51.231648
+                                    ],
+                                    [
+                                        3.241729,
+                                        51.232229
+                                    ],
+                                    [
+                                        3.241984,
+                                        51.232534
+                                    ],
+                                    [
+                                        3.24275,
+                                        51.233452
+                                    ],
+                                    [
+                                        3.24312,
+                                        51.233909
+                                    ],
+                                    [
+                                        3.243304,
+                                        51.234136
+                                    ],
+                                    [
+                                        3.24371,
+                                        51.234639
+                                    ],
+                                    [
+                                        3.244111,
+                                        51.235135
+                                    ],
+                                    [
+                                        3.24448,
+                                        51.235591
+                                    ],
+                                    [
+                                        3.24515,
+                                        51.236483
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 25,
+                                "bearing_before": 28,
+                                "location": [
+                                    3.24052,
+                                    51.230742
+                                ],
+                                "modifier": "straight",
+                                "type": "new name",
+                                "instruction": "Continue onto Brugse Steenweg (N374)"
+                            },
+                            "ref": "N374",
+                            "weight": 514.9,
+                            "duration": 514.9,
+                            "name": "Brugse Steenweg (N374)",
+                            "distance": 715.4
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        105,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.24515,
+                                        51.236483
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.24636,
+                                        51.238137
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        90,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.246579,
+                                        51.238445
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        135,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.246658,
+                                        51.238538
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        270
+                                    ],
+                                    "location": [
+                                        3.246669,
+                                        51.238551
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        300
+                                    ],
+                                    "location": [
+                                        3.2467,
+                                        51.238587
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.246782,
+                                        51.238683
+                                    ]
+                                },
+                                {
+                                    "out": 0,
+                                    "in": 2,
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        105,
+                                        210
+                                    ],
+                                    "location": [
+                                        3.247222,
+                                        51.239198
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.24515,
+                                        51.236483
+                                    ],
+                                    [
+                                        3.245681,
+                                        51.237209
+                                    ],
+                                    [
+                                        3.24636,
+                                        51.238137
+                                    ],
+                                    [
+                                        3.246516,
+                                        51.238356
+                                    ],
+                                    [
+                                        3.246552,
+                                        51.238407
+                                    ],
+                                    [
+                                        3.246579,
+                                        51.238445
+                                    ],
+                                    [
+                                        3.246658,
+                                        51.238538
+                                    ],
+                                    [
+                                        3.246669,
+                                        51.238551
+                                    ],
+                                    [
+                                        3.2467,
+                                        51.238587
+                                    ],
+                                    [
+                                        3.246757,
+                                        51.238654
+                                    ],
+                                    [
+                                        3.246782,
+                                        51.238683
+                                    ],
+                                    [
+                                        3.247222,
+                                        51.239198
+                                    ],
+                                    [
+                                        3.248334,
+                                        51.240461
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 23,
+                                "bearing_before": 23,
+                                "location": [
+                                    3.24515,
+                                    51.236483
+                                ],
+                                "modifier": "straight",
+                                "type": "new name",
+                                "instruction": "Continue onto Brugsesteenweg (N374)"
+                            },
+                            "ref": "N374",
+                            "weight": 356.5,
+                            "duration": 356.5,
+                            "name": "Brugsesteenweg (N374)",
+                            "distance": 495.2
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        330
+                                    ],
+                                    "location": [
+                                        3.248334,
+                                        51.240461
+                                    ]
+                                },
+                                {
+                                    "out": 2,
+                                    "in": 0,
+                                    "entry": [
+                                        false,
+                                        true,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        150,
+                                        255,
+                                        345
+                                    ],
+                                    "location": [
+                                        3.247919,
+                                        51.240903
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.248334,
+                                        51.240461
+                                    ],
+                                    [
+                                        3.247993,
+                                        51.240822
+                                    ],
+                                    [
+                                        3.247919,
+                                        51.240903
+                                    ],
+                                    [
+                                        3.247891,
+                                        51.240957
+                                    ],
+                                    [
+                                        3.247757,
+                                        51.241219
+                                    ],
+                                    [
+                                        3.247741,
+                                        51.241316
+                                    ],
+                                    [
+                                        3.247741,
+                                        51.241448
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 327,
+                                "bearing_before": 28,
+                                "location": [
+                                    3.248334,
+                                    51.240461
+                                ],
+                                "modifier": "left",
+                                "type": "turn",
+                                "instruction": "Turn left"
+                            },
+                            "weight": 86,
+                            "duration": 86,
+                            "name": "",
+                            "distance": 119.5
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "out": 2,
+                                    "in": 1,
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        180,
+                                        270
+                                    ],
+                                    "location": [
+                                        3.247741,
+                                        51.241448
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.247741,
+                                        51.241448
+                                    ],
+                                    [
+                                        3.24769,
+                                        51.241447
+                                    ],
+                                    [
+                                        3.247413,
+                                        51.241411
+                                    ],
+                                    [
+                                        3.247126,
+                                        51.241414
+                                    ],
+                                    [
+                                        3.246933,
+                                        51.241459
+                                    ],
+                                    [
+                                        3.246777,
+                                        51.241517
+                                    ],
+                                    [
+                                        3.246626,
+                                        51.241633
+                                    ],
+                                    [
+                                        3.246235,
+                                        51.242115
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 264,
+                                "bearing_before": 0,
+                                "location": [
+                                    3.247741,
+                                    51.241448
+                                ],
+                                "modifier": "left",
+                                "type": "end of road",
+                                "instruction": "Turn left onto Arendstraat"
+                            },
+                            "weight": 106,
+                            "duration": 106,
+                            "name": "Arendstraat",
+                            "distance": 147
+                        },
+                        {
+                            "intersections": [
+                                {
+                                    "in": 0,
+                                    "entry": [
+                                        true
+                                    ],
+                                    "bearings": [
+                                        153
+                                    ],
+                                    "location": [
+                                        3.246235,
+                                        51.242115
+                                    ]
+                                }
+                            ],
+                            "geometry": {
+                                "coordinates": [
+                                    [
+                                        3.246235,
+                                        51.242115
+                                    ],
+                                    [
+                                        3.246235,
+                                        51.242115
+                                    ]
+                                ],
+                                "type": "LineString"
+                            },
+                            "mode": "walking",
+                            "maneuver": {
+                                "bearing_after": 0,
+                                "bearing_before": 333,
+                                "location": [
+                                    3.246235,
+                                    51.242115
+                                ],
+                                "modifier": "right",
+                                "type": "arrive",
+                                "instruction": "You have arrived at your destination, on the right"
+                            },
+                            "weight": 0,
+                            "duration": 0,
+                            "name": "Arendstraat",
+                            "distance": 0
+                        }
+                    ],
+                    "distance": 6482.2
+                }
+            ],
+            "weight_name": "duration",
+            "weight": 4672.5,
+            "duration": 4672.5,
+            "distance": 6482.2
+        }
+    ],
+    "waypoints": [
+        {
+            "name": "",
+            "location": [
+                3.249105,
+                51.193512
+            ]
+        },
+        {
+            "name": "Arendstraat",
+            "location": [
+                3.246235,
+                51.242115
+            ]
+        }
+    ],
+    "code": "Ok",
+    "uuid": "cjae2ukcu028o5hl5q9wdm1tr"
+}

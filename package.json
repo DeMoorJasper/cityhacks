@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./bin/index.js"
+    "start": "node ./bin/index.js",
+    "parsedata": "node ./data/scripts/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,8 @@
   },
   "homepage": "https://github.com/DeMoorJasper/cityhacks#readme",
   "dependencies": {
+    "curl": "^0.1.4",
     "express": "^4.16.2",
-    "osrm": "^5.13.0"
+    "sqlite": "^2.8.0"
   }
 }

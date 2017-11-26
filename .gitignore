@@ -1,1 +1,6 @@
+# SKIP NODE MODULES
 /node_modules
+
+# Skip config file
+config.json
+package-lock.json

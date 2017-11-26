@@ -1,0 +1,119 @@
+[
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "Daverlo",
+		"position": {
+			"longitude": 3.24800666311843,
+			"latitude": 51.1935399510971
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "De Arend",
+		"position": {
+			"longitude": 3.24635640450493,
+			"latitude": 51.242153938097
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "De Dijk",
+		"position": {
+			"longitude": 3.20517041930265,
+			"latitude": 51.2288663690563
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "De Garve",
+		"position": {
+			"longitude": 3.2324913874791,
+			"latitude": 51.2272290785911
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "De Schorre",
+		"position": {
+			"longitude": 3.22873386210702,
+			"latitude": 51.2757792257903
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "De Zorge",
+		"position": {
+			"longitude": 3.24923573843303,
+			"latitude": 51.2143471142415
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "J.F. Willems",
+		"position": {
+			"longitude": 3.21080170892088,
+			"latitude": 51.3313092792393
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "Lissewege",
+		"position": {
+			"longitude": 3.19983771204385,
+			"latitude": 51.2940642141271
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "Lode Zielens",
+		"position": {
+			"longitude": 3.22003928438623,
+			"latitude": 51.2032353808921
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "Sint-Andries",
+		"position": {
+			"longitude": 3.18120475817193,
+			"latitude": 51.1975221360612
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "Sint-Michiels",
+		"position": {
+			"longitude": 3.21078129660261,
+			"latitude": 51.1882004220431
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "Sint-Thomas",
+		"position": {
+			"longitude": 3.28191253097748,
+			"latitude": 51.2125172944899
+		}
+	},
+	{
+		"type": "culture",
+		"sub-type": "library",
+		"description": "De Biekorf",
+		"position": {
+			"longitude": 3.22272852272307,
+			"latitude": 51.2099329882302
+		}
+	}
+]
