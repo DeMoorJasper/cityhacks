@@ -1,7 +1,8 @@
 import { h, Component } from 'preact';
 import { route } from 'preact-router';
-import style from './styles/home.less';
+import style from './styles/search.less';
 import Autosuggest from 'react-autosuggest';
+import { gpsLocation } from '../lib/utils';
 
 const ajax = require('ajax');
 const domain = require('../domain.json').domain;
@@ -14,7 +15,7 @@ const renderSuggestion = suggestion => (
 
 const getSuggestionValue = suggestion => suggestion.description;
 
-export default class Home extends Component {
+export default class Search extends Component {
 	constructor() {
 		super();
 		this.state = {
@@ -24,12 +25,35 @@ export default class Home extends Component {
 				suggestions: [],
 				searchValue: "",
 				selectedSearch: {},
-				type: "horeca"
+				type: "horeca",
+				distance: 2500
 			}
 		};
 		this.selectType = this.selectType.bind(this);
 		this.onSuggestionSelected = this.onSuggestionSelected.bind(this);
 		this.searchRoute = this.searchRoute.bind(this);
+		this.getGpsLocation = this.getGpsLocation.bind(this);
+		this.updateDistance = this.updateDistance.bind(this);
+	}
+
+	componentDidMount() {
+		this.getGpsLocation();
+	}
+
+	getGpsLocation() {
+		gpsLocation().then(location => {
+			let position = {
+				longitude: location.coords.longitude,
+				latitude: location.coords.latitude,
+				description: "Huidige locatie"
+			};
+
+			this.setState({
+				startLocation: position
+			});
+		}).catch(e => {
+			console.log(e);
+		})
 	}
 
 	searchRoute(evt) {
@@ -38,13 +62,14 @@ export default class Home extends Component {
 			this.state.form.selectedSearch.longitude &&
 			this.state.form.selectedSearch.latitude &&
 			this.state.form.type) {
+				console.log(this.state.form.selectedSearch);
 			let options = {
 				start: {
 					longitude: this.state.form.selectedSearch.longitude,
 					latitude: this.state.form.selectedSearch.latitude
 				},
 				type: this.state.form.type,
-				distance: 2500
+				distance: this.state.form.distance
 			};
 			console.log(options);
 			ajax.get(`${domain}/routing?options=${JSON.stringify(options)}`, null, (data) => {
@@ -72,6 +97,9 @@ export default class Home extends Component {
 	onSuggestionsFetchRequested = ({ value }) => {
 		ajax.get(`${domain}/search?query=${value}&page=0`, null, (data) => {
 			let form = this.state.form;
+			if (this.state.startLocation.description) {
+				data = [this.state.startLocation].concat(data);
+			}
 			form.searchData = data;
 			if (data && data.length > 0) {
 				this.setState({ form: form }, () => {
@@ -108,6 +136,12 @@ export default class Home extends Component {
 		this.setState({ form: form });
 	}
 
+	updateDistance(evt) {
+		let form = this.state.form;
+		form.distance = evt.target.value;
+		this.setState({ form: form });
+	}
+
 	render() {
 		const inputProps = {
 			placeholder: 'Zoek een startpunt...',
@@ -115,8 +149,10 @@ export default class Home extends Component {
 			onChange: this.onChange
 		};
 
+		// <img src='./assets/icons/gps.svg' onclick={this.selectGpsLocation} />
+
 		return (
-			<div class={style.home}>
+			<div class={style.search}>
 				<form onSubmit={this.searchRoute}>
 					<label for="type">Startpunt</label>
 					<Autosuggest
@@ -133,6 +169,8 @@ export default class Home extends Component {
 						<option value="horeca">Horeca</option>
 						<option value="nature">Natuurwandeling</option>
 					</select>
+					<label for="distance">Maximaal te wandelen afstand? (in meter)</label>
+					<input type="number" value={this.state.form.distance} id="distance" onchange={this.updateDistance} />
 					<button type="submit">Zoeken</button>
 				</form>
 			</div>

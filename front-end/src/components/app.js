@@ -2,7 +2,7 @@ import { h, Component } from 'preact';
 import { Router } from 'preact-router';
 
 import Header from './header';
-import Home from './home';
+import Search from './search';
 import Routing from './routing';
 
 export default class App extends Component {
@@ -28,7 +28,7 @@ export default class App extends Component {
 			<div id="app">
 				<Header />
 				<Router onChange={this.handleRoute}>
-					<Home path="/" setRoute={this.setRoute} />
+					<Search path="/" setRoute={this.setRoute} />
 					<Routing path="/routing" route={this.state.route} />
 				</Router>
 			</div>

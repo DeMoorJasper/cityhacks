@@ -19,10 +19,16 @@ routing.generateRoute = function(options) {
     return new Promise((resolve, reject) => {
         let i = 0;
         if (options && options.start && options.type && options.distance) {
+            options.start = {
+                description: "Start Location",
+                type: "start",
+                longitude: options.start.longitude,
+                latitude: options.start.latitude
+            }
             let routeBuilder = {
                 distance: 0,
                 lastPoint: options.start,
-                points: [],
+                points: [JSON.parse(JSON.stringify(options.start))],
                 radius: options.distance / 25,
                 passed: {},
                 addPoint: () => {
@@ -67,7 +73,6 @@ routing.generateRoute = function(options) {
                         if ((routeBuilder.distance + routeBuilder.radius) < options.distance) {
                             return routeBuilder.addPoint();
                         }
-                        console.log(routeBuilder.distance);
                         return resolve(routeBuilder.points);
                     }).catch(e => console.log(e));
                 }
@@ -85,7 +90,6 @@ routing.calculate = function(waypoints) {
         // distance = meters
         waypoints = waypointToString(waypoints);
         if (waypoints) {
-            // console.log(waypoints);
             let path = `https://api.mapbox.com/directions/v5/mapbox/walking/${waypoints}?access_token=${config.getMapBoxKey()}&steps=true&geometries=geojson&language=nl`;
             request.get(path).then((data) => {
                     resolve(JSON.parse(data));
