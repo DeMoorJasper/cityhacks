@@ -404,7 +404,6 @@
 			"latitude": 1434.534557564008
 		}
 	},
-	true,
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
@@ -441,16 +440,6 @@
 			"latitude": 564.6324571696542
 		}
 	},
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
@@ -460,7 +449,6 @@
 			"latitude": 10140.87667432007
 		}
 	},
-	true,
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
@@ -470,7 +458,6 @@
 			"latitude": 870.5337515204783
 		}
 	},
-	true,
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
@@ -480,17 +467,6 @@
 			"latitude": 204.7513339411544
 		}
 	},
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
-	true,
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
@@ -518,7 +494,6 @@
 			"latitude": 870.1837394730796
 		}
 	},
-	true,
 	{
 		"type": "nature",
 		"sub-type": "siertuin",
@@ -546,7 +521,6 @@
 			"latitude": 460.82976320594975
 		}
 	},
-	true,
 	{
 		"type": "nature",
 		"sub-type": "siertuin",
@@ -574,11 +548,6 @@
 			"latitude": 872.0012870198399
 		}
 	},
-	true,
-	true,
-	true,
-	true,
-	true,
 	{
 		"type": "nature",
 		"sub-type": "siertuin",
@@ -687,7 +656,6 @@
 			"latitude": 972.4138582615467
 		}
 	},
-	true,
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
@@ -805,7 +773,6 @@
 			"latitude": 3379.3555950291857
 		}
 	},
-	true,
 	{
 		"type": "nature",
 		"sub-type": "park",

@@ -18,9 +18,7 @@ const convert = () => {
         console.log(e);
     });
     convertor('./data/raw/groeninventarisok.json', './data/converted/nature-inventory.json', (record) => {
-        if (!record["json_geometry"]) {
-            return true;
-        }
+        if (!record["json_geometry"]) return null;
         result = {
             "type": "nature",
             "sub-type": record["GROENOBJECT"],
