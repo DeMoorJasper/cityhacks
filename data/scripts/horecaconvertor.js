@@ -1,7 +1,5 @@
-const horeca = require('../raw/horeca.json');
-
-const utils = require('./utils');
-const fs = require('fs');
+const geoUtils = require('./geoUtils');
+const convertor = require('./convertor');
 
 function extractBranche(branche) {
     let res = branche.match(/([A-zé])\w+/);
@@ -10,21 +8,18 @@ function extractBranche(branche) {
 }
 
 const convert = () => {
-    let converted = [];
-    horeca.forEach(business => {
-        let newBusiness = {
+    convertor('./data/raw/horeca.json', './data/converted/horeca.json', (record) => {
+        result = {
             "type": "horeca",
-            "sub-type": extractBranche(business["Branche"]),
-            "description": business["Naam"],
-            "position": utils.positionArrayToObject(business["json_geometry"]["coordinates"])
+            "sub-type": extractBranche(record["Branche"]),
+            "description": record["Naam"],
+            "position": geoUtils.positionArrayToObject(record["json_geometry"]["coordinates"])
         };
-        converted.push(newBusiness);
-    });
-    fs.writeFile('./data/converted/horeca.json', JSON.stringify(converted, null, '\t'), (err) => {
-        if (err) {
-            return console.log(err);
-        }
+        return result;
+    }).then(() => {
         console.log("Horeca data written.");
+    }).catch(e => {
+        console.log(e);
     });
 }
 

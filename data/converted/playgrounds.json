@@ -1,7 +1,7 @@
 [
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 30",
 		"position": {
 			"longitude": 3.22888794590563,
@@ -10,7 +10,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 31",
 		"position": {
 			"longitude": 3.22570176651719,
@@ -19,7 +19,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 32",
 		"position": {
 			"longitude": 3.19629463230742,
@@ -28,7 +28,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 33",
 		"position": {
 			"longitude": 3.18961945223362,
@@ -37,7 +37,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 38",
 		"position": {
 			"longitude": 3.19804796314999,
@@ -46,7 +46,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 36",
 		"position": {
 			"longitude": 3.21372957587818,
@@ -55,7 +55,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 35",
 		"position": {
 			"longitude": 3.21045144964246,
@@ -64,7 +64,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 37",
 		"position": {
 			"longitude": 3.17754553666527,
@@ -73,7 +73,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 43",
 		"position": {
 			"longitude": 3.25008989412303,
@@ -82,7 +82,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 44",
 		"position": {
 			"longitude": 3.24570559006058,
@@ -91,7 +91,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 47",
 		"position": {
 			"longitude": 3.24594550766644,
@@ -100,7 +100,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 45",
 		"position": {
 			"longitude": 3.24649444398782,
@@ -109,7 +109,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 46",
 		"position": {
 			"longitude": 3.22974372831146,
@@ -118,7 +118,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 39",
 		"position": {
 			"longitude": 3.23167515696785,
@@ -127,7 +127,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 40",
 		"position": {
 			"longitude": 3.23384966702422,
@@ -136,7 +136,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 42",
 		"position": {
 			"longitude": 3.23915272997384,
@@ -145,7 +145,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 41",
 		"position": {
 			"longitude": 3.23827369407546,
@@ -154,7 +154,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 25",
 		"position": {
 			"longitude": 3.20368647797049,
@@ -163,7 +163,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 24",
 		"position": {
 			"longitude": 3.20546244576615,
@@ -172,7 +172,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 29",
 		"position": {
 			"longitude": 3.21146043257091,
@@ -181,7 +181,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 27",
 		"position": {
 			"longitude": 3.21253747060537,
@@ -190,7 +190,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 26",
 		"position": {
 			"longitude": 3.20834976615217,
@@ -199,7 +199,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 28",
 		"position": {
 			"longitude": 3.19641998736114,
@@ -208,7 +208,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 16",
 		"position": {
 			"longitude": 3.23450583307253,
@@ -217,7 +217,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 14",
 		"position": {
 			"longitude": 3.23621756185599,
@@ -226,7 +226,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 15",
 		"position": {
 			"longitude": 3.23607654430581,
@@ -235,7 +235,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 13",
 		"position": {
 			"longitude": 3.22474863413441,
@@ -244,7 +244,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 12",
 		"position": {
 			"longitude": 3.22419587399119,
@@ -253,7 +253,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 20",
 		"position": {
 			"longitude": 3.21702781102304,
@@ -262,7 +262,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 21",
 		"position": {
 			"longitude": 3.21185272065295,
@@ -271,7 +271,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 22",
 		"position": {
 			"longitude": 3.21830107242247,
@@ -280,7 +280,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 17",
 		"position": {
 			"longitude": 3.23211732408441,
@@ -289,7 +289,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 23",
 		"position": {
 			"longitude": 3.23117013146911,
@@ -298,7 +298,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 19",
 		"position": {
 			"longitude": 3.21237405852169,
@@ -307,7 +307,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 90",
 		"position": {
 			"longitude": 3.21352145159414,
@@ -316,7 +316,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 88",
 		"position": {
 			"longitude": 3.21804059251069,
@@ -325,7 +325,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 92",
 		"position": {
 			"longitude": 3.22115712874106,
@@ -334,7 +334,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 87",
 		"position": {
 			"longitude": 3.21748287695678,
@@ -343,7 +343,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 89",
 		"position": {
 			"longitude": 3.20966760443965,
@@ -352,7 +352,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 91",
 		"position": {
 			"longitude": 3.20485195810845,
@@ -361,7 +361,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 52",
 		"position": {
 			"longitude": 3.24696941248568,
@@ -370,7 +370,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 51",
 		"position": {
 			"longitude": 3.24069919580245,
@@ -379,7 +379,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 55",
 		"position": {
 			"longitude": 3.23854374410498,
@@ -388,7 +388,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 57",
 		"position": {
 			"longitude": 3.2443318190133,
@@ -397,7 +397,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 59",
 		"position": {
 			"longitude": 3.24462553541837,
@@ -406,7 +406,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 56",
 		"position": {
 			"longitude": 3.23422741348242,
@@ -415,7 +415,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 54",
 		"position": {
 			"longitude": 3.27151024113346,
@@ -424,7 +424,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 53",
 		"position": {
 			"longitude": 3.27382020912959,
@@ -433,7 +433,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 50",
 		"position": {
 			"longitude": 3.26944216186106,
@@ -442,7 +442,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 49",
 		"position": {
 			"longitude": 3.27088098087942,
@@ -451,7 +451,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 48",
 		"position": {
 			"longitude": 3.25604278419006,
@@ -460,7 +460,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 60",
 		"position": {
 			"longitude": 3.2467748455986,
@@ -469,7 +469,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 65",
 		"position": {
 			"longitude": 3.25694850818239,
@@ -478,7 +478,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 66",
 		"position": {
 			"longitude": 3.26306249156491,
@@ -487,7 +487,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 61",
 		"position": {
 			"longitude": 3.27072899368934,
@@ -496,7 +496,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 64",
 		"position": {
 			"longitude": 3.28076219009835,
@@ -505,7 +505,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 67",
 		"position": {
 			"longitude": 3.20765651673859,
@@ -514,7 +514,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 68",
 		"position": {
 			"longitude": 3.2002703061695,
@@ -523,7 +523,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 75",
 		"position": {
 			"longitude": 3.20728534941749,
@@ -532,7 +532,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 74",
 		"position": {
 			"longitude": 3.20946733926139,
@@ -541,7 +541,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 76",
 		"position": {
 			"longitude": 3.20209907967496,
@@ -550,7 +550,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 77",
 		"position": {
 			"longitude": 3.19934844170629,
@@ -559,7 +559,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 82",
 		"position": {
 			"longitude": 3.18799283487674,
@@ -568,7 +568,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 81",
 		"position": {
 			"longitude": 3.18658605495164,
@@ -577,7 +577,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 79",
 		"position": {
 			"longitude": 3.17669263518087,
@@ -586,7 +586,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 78",
 		"position": {
 			"longitude": 3.18189007801355,
@@ -595,7 +595,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 80",
 		"position": {
 			"longitude": 3.18053513567263,
@@ -604,7 +604,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 70",
 		"position": {
 			"longitude": 3.19391457897723,
@@ -613,7 +613,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 69",
 		"position": {
 			"longitude": 3.18792565247023,
@@ -622,7 +622,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 83",
 		"position": {
 			"longitude": 3.18947333744775,
@@ -631,7 +631,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 86",
 		"position": {
 			"longitude": 3.17612982071718,
@@ -640,7 +640,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 85",
 		"position": {
 			"longitude": 3.17067687150117,
@@ -649,7 +649,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 84",
 		"position": {
 			"longitude": 3.1998302398936,
@@ -658,7 +658,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 71",
 		"position": {
 			"longitude": 3.16588682890929,
@@ -667,7 +667,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 72",
 		"position": {
 			"longitude": 3.17611322593657,
@@ -676,7 +676,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 73",
 		"position": {
 			"longitude": 3.17503350009597,
@@ -685,7 +685,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 58",
 		"position": {
 			"longitude": 3.23732557172145,
@@ -694,7 +694,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 62",
 		"position": {
 			"longitude": 3.27773003056506,
@@ -703,7 +703,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 63",
 		"position": {
 			"longitude": 3.28158988731031,
@@ -712,7 +712,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 96",
 		"position": {
 			"longitude": 3.2569242865517,
@@ -721,7 +721,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 95",
 		"position": {
 			"longitude": 3.23853984595966,
@@ -730,7 +730,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 97",
 		"position": {
 			"longitude": 3.2389622924981,
@@ -739,7 +739,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 94",
 		"position": {
 			"longitude": 3.18738271551205,
@@ -748,7 +748,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 93",
 		"position": {
 			"longitude": 3.21846279503566,
@@ -757,7 +757,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 98",
 		"position": {
 			"longitude": 3.22570784395913,
@@ -766,7 +766,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 101",
 		"position": {
 			"longitude": 3.21954034262854,
@@ -775,7 +775,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 100",
 		"position": {
 			"longitude": 3.241524952544,
@@ -784,7 +784,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 99",
 		"position": {
 			"longitude": 3.22648701186005,
@@ -793,7 +793,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 102",
 		"position": {
 			"longitude": 3.18747002718254,
@@ -802,7 +802,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 103",
 		"position": {
 			"longitude": 3.20957367213946,
@@ -811,7 +811,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 11",
 		"position": {
 			"longitude": 3.24235203859111,
@@ -820,7 +820,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 117",
 		"position": {
 			"longitude": 3.23827426161923,
@@ -829,7 +829,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 104",
 		"position": {
 			"longitude": 3.24634294134067,
@@ -838,7 +838,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 105",
 		"position": {
 			"longitude": 3.25214613904777,
@@ -847,7 +847,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 106",
 		"position": {
 			"longitude": 3.24551084778999,
@@ -856,7 +856,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 107",
 		"position": {
 			"longitude": 3.20104978338719,
@@ -865,7 +865,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 108",
 		"position": {
 			"longitude": 3.18949925476941,
@@ -874,7 +874,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 109",
 		"position": {
 			"longitude": 3.20163727654344,
@@ -883,7 +883,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 110",
 		"position": {
 			"longitude": 3.23554247673906,
@@ -892,7 +892,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 111",
 		"position": {
 			"longitude": 3.23240774847645,
@@ -901,7 +901,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 112",
 		"position": {
 			"longitude": 3.19232484069193,
@@ -910,7 +910,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 113",
 		"position": {
 			"longitude": 3.23515930815478,
@@ -919,7 +919,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 114",
 		"position": {
 			"longitude": 3.21306787052046,
@@ -928,7 +928,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 115",
 		"position": {
 			"longitude": 3.19167883666557,
@@ -937,7 +937,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 116",
 		"position": {
 			"longitude": 3.2262267274403,
@@ -946,7 +946,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 1",
 		"position": {
 			"longitude": 3.19486174948167,
@@ -955,7 +955,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 2",
 		"position": {
 			"longitude": 3.18070896401319,
@@ -964,7 +964,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 3",
 		"position": {
 			"longitude": 3.23072052859261,
@@ -973,7 +973,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 4",
 		"position": {
 			"longitude": 3.22748181227267,
@@ -982,7 +982,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 5",
 		"position": {
 			"longitude": 3.23702463004865,
@@ -991,7 +991,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 6",
 		"position": {
 			"longitude": 3.18276941255055,
@@ -1000,7 +1000,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 7",
 		"position": {
 			"longitude": 3.20332994464638,
@@ -1009,7 +1009,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 8",
 		"position": {
 			"longitude": 3.27833411916148,
@@ -1018,7 +1018,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 9",
 		"position": {
 			"longitude": 3.23292354440134,
@@ -1027,7 +1027,7 @@
 	},
 	{
 		"type": "kids",
-		"sub-type": "forest",
+		"sub-type": "playground",
 		"description": "Speelruimte 10",
 		"position": {
 			"longitude": 3.22987786950876,

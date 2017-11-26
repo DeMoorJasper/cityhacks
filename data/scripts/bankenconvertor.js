@@ -1,29 +1,22 @@
-const banken = require('../raw/banken.json');
-
-const utils = require('./utils');
-const fs = require('fs');
+const geoUtils = require('./geoUtils');
+const convertor = require('./convertor');
 
 const convert = () => {
-    let converted = [];
-    banken.forEach(bank => {
-        if (!(bank["aantal"] && bank["aantal"] > 0)) {
-            return true;
-        }
-        let newBank = {
+    convertor('./data/raw/banken.json', './data/converted/benches.json', (record) => {
+        if (record["aantal"] < 1) return null;
+        result = {
             "type": "bench",
-            "description": bank["Locatie"] ? bank["Locatie"] : bank["element"],
-            "amount" : bank["aantal"],
-            "position": bank["json_geometry"]["type"] !== "MultiPoint" ? 
-                utils.positionArrayToObject(bank["json_geometry"]["coordinates"]) : 
-                utils.multipointCenter(bank["json_geometry"]["coordinates"])
+            "description": record["Locatie"] ? record["Locatie"] : record["element"],
+            "amount" : record["aantal"],
+            "position": record["json_geometry"]["type"] !== "MultiPoint" ? 
+                geoUtils.positionArrayToObject(record["json_geometry"]["coordinates"]) : 
+                geoUtils.multipointCenter(record["json_geometry"]["coordinates"])
         };
-        converted.push(newBank);
-    });
-    fs.writeFile('./data/converted/benches.json', JSON.stringify(converted, null, '\t'), (err) => {
-        if (err) {
-            return console.log(err);
-        }
+        return result;
+    }).then(() => {
         console.log("Bench data written.");
+    }).catch(e => {
+        console.log(e);
     });
 }
 

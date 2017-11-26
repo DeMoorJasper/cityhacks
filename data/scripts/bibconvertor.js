@@ -1,24 +1,19 @@
-const rawData = require('../raw/bibliotheken.json');
-
-const utils = require('./utils');
-const fs = require('fs');
+const geoUtils = require('./geoUtils');
+const convertor = require('./convertor');
 
 const convert = () => {
-    let converted = [];
-    rawData.forEach(data => {
-        let newData = {
+    convertor('./data/raw/bibliotheken.json', './data/converted/libraries.json', (record) => {
+        result = {
             "type": "culture",
             "sub-type": "library",
-            "description": data["NaamBibliotheek"],
-            "position": utils.positionArrayToObject(data["json_geometry"]["coordinates"])
+            "description": record["NaamBibliotheek"],
+            "position": geoUtils.positionArrayToObject(record["json_geometry"]["coordinates"])
         };
-        converted.push(newData);
-    });
-    fs.writeFile('./data/converted/libraries.json', JSON.stringify(converted, null, '\t'), (err) => {
-        if (err) {
-            return console.log(err);
-        }
+        return result;
+    }).then(() => {
         console.log("Library data written.");
+    }).catch(e => {
+        console.log(e);
     });
 }
 

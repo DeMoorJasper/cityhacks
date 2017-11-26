@@ -1,37 +1,39 @@
-const rawData = require('../raw/buurtgroen.json');
-const rawDatas = require('../raw/groeninventarisok.json');
-
-const utils = require('./utils');
-const fs = require('fs');
+const geoUtils = require('./geoUtils');
+const convertor = require('./convertor');
 
 const convert = () => {
-    let converted = [];
-    rawData.forEach(data => {
-        let newData = {
+    convertor('./data/raw/buurtgroen.json', './data/converted/neighboorhood-nature.json', (record) => {
+        result = {
             "type": "nature",
-            "sub-type": data["groenobject"],
-            "description": `${data["groenobject"]} ${data["straat"]}`,
-            "position": data["json_geometry"]["type"] === "Polygon" ? utils.polygonCenter(data["json_geometry"]["coordinates"]) : utils.multiPolygonCenter(data["json_geometry"]["coordinates"])
+            "sub-type": record["groenobject"],
+            "description": `${record["groenobject"]} ${record["straat"]}`,
+            "position": record["json_geometry"]["type"] === "Polygon" ? 
+                    geoUtils.polygonCenter(record["json_geometry"]["coordinates"]) : 
+                    geoUtils.multiPolygonCenter(record["json_geometry"]["coordinates"])
         };
-        converted.push(newData);
+        return result;
+    }).then(() => {
+        console.log("Neighboorhood nature data written.");
+    }).catch(e => {
+        console.log(e);
     });
-    rawDatas.forEach(data => {
-        if (!data["json_geometry"]) {
+    convertor('./data/raw/groeninventarisok.json', './data/converted/nature-inventory.json', (record) => {
+        if (!record["json_geometry"]) {
             return true;
         }
-        let newData = {
+        result = {
             "type": "nature",
-            "sub-type": data["GROENOBJECT"],
-            "description": `${data["GROENOBJECT"]} ${data["STRAAT"]}`,
-            "position": data["json_geometry"]["type"] === "Polygon" ? utils.polygonCenter(data["json_geometry"]["coordinates"]) : utils.multiPolygonCenter(data["json_geometry"]["coordinates"])
+            "sub-type": record["GROENOBJECT"],
+            "description": `${record["GROENOBJECT"]} ${record["STRAAT"]}`,
+            "position": record["json_geometry"]["type"] === "Polygon" ? 
+                    geoUtils.polygonCenter(record["json_geometry"]["coordinates"]) : 
+                    geoUtils.multiPolygonCenter(record["json_geometry"]["coordinates"])
         };
-        converted.push(newData);
-    });
-    fs.writeFile('./data/converted/nature.json', JSON.stringify(converted, null, '\t'), (err) => {
-        if (err) {
-            return console.log(err);
-        }
-        console.log("Nature data written.");
+        return result;
+    }).then(() => {
+        console.log("Nature inventory data written.");
+    }).catch(e => {
+        console.log(e);
     });
 }
 

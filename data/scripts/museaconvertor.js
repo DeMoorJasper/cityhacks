@@ -1,24 +1,19 @@
-const rawData = require('../raw/musea.json');
-
-const utils = require('./utils');
-const fs = require('fs');
+const geoUtils = require('./geoUtils');
+const convertor = require('./convertor');
 
 const convert = () => {
-    let converted = [];
-    rawData.forEach(data => {
-        let newData = {
+    convertor('./data/raw/musea.json', './data/converted/museums.json', (record) => {
+        result = {
             "type": "culture",
             "sub-type": "museum",
-            "description": data["Gebouw"],
-            "position": utils.polygonCenter(data["json_geometry"]["coordinates"])
+            "description": record["Gebouw"],
+            "position": geoUtils.polygonCenter(record["json_geometry"]["coordinates"])
         };
-        converted.push(newData);
-    });
-    fs.writeFile('./data/converted/museums.json', JSON.stringify(converted, null, '\t'), (err) => {
-        if (err) {
-            return console.log(err);
-        }
+        return result;
+    }).then(() => {
         console.log("Museum data written.");
+    }).catch(e => {
+        console.log(e);
     });
 }
 
