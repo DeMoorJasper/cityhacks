@@ -43,6 +43,13 @@ export default class Profile extends Component {
 		}
 	}
 
+	clickMarker(e, data) {
+		e.preventDefault();
+		// Placeholder for real location details
+		alert(`${data.type}\n${data.description}`);
+		console.log(data);
+	}
+
 	drawMarkers() {
 		console.log(this.props.route);
 		return this.props.route["waypoints"].map((waypoint) => {
@@ -57,6 +64,7 @@ export default class Profile extends Component {
 							height: 'auto',
 							marginBottom: '-1.1rem'
 						}}
+						onclick={(e) => {this.clickMarker(e, waypoint)}}
 					/>
 				</Marker>
 			);
@@ -112,6 +120,11 @@ export default class Profile extends Component {
 							width: '3rem',
 							height: 'auto'
 						}}
+						onclick={(e) => {this.clickMarker(e, {
+							description: "Huidige locatie",
+							location: [this.state.gps.longitude, this.state.gps.latitude],
+							type: "gps"
+						})}}
 					/>
 				</Marker>
 

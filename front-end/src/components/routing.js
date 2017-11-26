@@ -29,10 +29,6 @@ export default class Routing extends Component {
 	}
 
 	componentDidMount() {
-		// FIX THIS
-		if (!(this.props.route && this.props.route["waypoints"])) {
-			return route('/', true);
-		}
 		this.fillManeuvers();
 		let gpsLocation = this.state.gps;
 		this.getLocation().then(position => {
@@ -55,6 +51,7 @@ export default class Routing extends Component {
 	}
 
 	fillManeuvers() {
+		if (!this.props.route["routes"]) return;
 		let maneuvers = [];
 		this.props.route["routes"][0]["legs"][0]["steps"].forEach((step) => {
 			maneuvers.push(step.maneuver);
@@ -76,10 +73,13 @@ export default class Routing extends Component {
 	}
 
 	render() {
-		if (!this.props.route) {
-			return <h1>No route data supplied.</h1>
+		// Check if route is defined, else redirect to search
+		if (!this.props.route.routes) {
+			route('/', true);
+			return <h1>No route data supplied.</h1>;
 		}
 
+		// Render out the map and all other routing related elements
 		return (
 			<div>
 				<Map gps={this.state.gps} route={this.props.route} gpsEnabled={this.state.gpsEnabled} 
