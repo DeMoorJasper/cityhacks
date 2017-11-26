@@ -1,8 +1,23 @@
 const db = require('sqlite');
+const fs = require('fs');
+
 const database = require('./database');
 const geoUtils = require('../utils/geoUtils');
 
 let locations = {};
+
+locations.importData = function(source) {
+    return new Promise((resolve, reject) => {
+        fs.readFile(source, "utf8", (err, data) => {
+            if (err) return reject(err);
+            data = JSON.parse(data);
+            data.forEach(record => {
+                locations.insert(record);
+            });
+            resolve();
+        });
+    });
+};
 
 locations.initTable = function() {
     return db.run("CREATE TABLE IF NOT EXISTS locations (type varchar(100), " +

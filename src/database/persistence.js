@@ -1,9 +1,5 @@
+const fs = require('fs');
 const locations = require('./locations');
-const benches = require('./benches');
-const horeca = require('./horeca');
-const nature = require('./nature');
-const culture = require('./culture');
-const kids = require('./kids');
 
 let persistence = {};
 
@@ -11,16 +7,19 @@ persistence.checkAll = function() {
     return new Promise((resolve, reject) => {
         locations.initTable().then(data => {
             console.log("[DB]: Table initialised");
-            // Check / init all cleaned data
-            benches.insertAll(() => {
-                horeca.insertAll(() => {
-                    nature.insertAll(() => {
-                        culture.insertAll(() => {
-                            kids.insertAll(() => {
-                                resolve();
-                            });
-                        });
-                    });
+            let count = 0;
+            fs.readdir('./data/converted/', (err, files) => {
+                if (err) return reject(err);
+                files.forEach((file) => {
+                    let extension = file.substring(file.lastIndexOf('.') + 1, file.length) || file;
+                    if (extension !== "json") return true;
+                    locations.importData(`./data/converted/${file}`)
+                    .then(() => {
+                        count--;
+                        console.log(`[DB]: content of ${file} imported/checked.`);
+                        if (count === 0) resolve();
+                    }).catch(e => reject(e));
+                    count++;
                 });
             });
         }).catch(e => reject(e));
