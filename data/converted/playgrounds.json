@@ -1,0 +1,1037 @@
+[
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 30",
+		"position": {
+			"longitude": 3.22888794590563,
+			"latitude": 51.2755992936774
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 31",
+		"position": {
+			"longitude": 3.22570176651719,
+			"latitude": 51.2730052760439
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 32",
+		"position": {
+			"longitude": 3.19629463230742,
+			"latitude": 51.2937689922647
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 33",
+		"position": {
+			"longitude": 3.18961945223362,
+			"latitude": 51.2938846857139
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 38",
+		"position": {
+			"longitude": 3.19804796314999,
+			"latitude": 51.3090907911013
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 36",
+		"position": {
+			"longitude": 3.21372957587818,
+			"latitude": 51.3305770218517
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 35",
+		"position": {
+			"longitude": 3.21045144964246,
+			"latitude": 51.3349786006706
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 37",
+		"position": {
+			"longitude": 3.17754553666527,
+			"latitude": 51.3294055740122
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 43",
+		"position": {
+			"longitude": 3.25008989412303,
+			"latitude": 51.2329006075647
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 44",
+		"position": {
+			"longitude": 3.24570559006058,
+			"latitude": 51.2314626821609
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 47",
+		"position": {
+			"longitude": 3.24594550766644,
+			"latitude": 51.2406649396123
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 45",
+		"position": {
+			"longitude": 3.24649444398782,
+			"latitude": 51.241866059857
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 46",
+		"position": {
+			"longitude": 3.22974372831146,
+			"latitude": 51.2461826166186
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 39",
+		"position": {
+			"longitude": 3.23167515696785,
+			"latitude": 51.2274767029799
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 40",
+		"position": {
+			"longitude": 3.23384966702422,
+			"latitude": 51.2304201749835
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 42",
+		"position": {
+			"longitude": 3.23915272997384,
+			"latitude": 51.2278948220837
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 41",
+		"position": {
+			"longitude": 3.23827369407546,
+			"latitude": 51.2261643908551
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 25",
+		"position": {
+			"longitude": 3.20368647797049,
+			"latitude": 51.227759493943
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 24",
+		"position": {
+			"longitude": 3.20546244576615,
+			"latitude": 51.2204148017414
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 29",
+		"position": {
+			"longitude": 3.21146043257091,
+			"latitude": 51.2273838393988
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 27",
+		"position": {
+			"longitude": 3.21253747060537,
+			"latitude": 51.234787794013
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 26",
+		"position": {
+			"longitude": 3.20834976615217,
+			"latitude": 51.2338695583097
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 28",
+		"position": {
+			"longitude": 3.19641998736114,
+			"latitude": 51.2290145989594
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 16",
+		"position": {
+			"longitude": 3.23450583307253,
+			"latitude": 51.2098129553305
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 14",
+		"position": {
+			"longitude": 3.23621756185599,
+			"latitude": 51.2120323277166
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 15",
+		"position": {
+			"longitude": 3.23607654430581,
+			"latitude": 51.213813283382
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 13",
+		"position": {
+			"longitude": 3.22474863413441,
+			"latitude": 51.219645675165
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 12",
+		"position": {
+			"longitude": 3.22419587399119,
+			"latitude": 51.2157755727289
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 20",
+		"position": {
+			"longitude": 3.21702781102304,
+			"latitude": 51.2097043053478
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 21",
+		"position": {
+			"longitude": 3.21185272065295,
+			"latitude": 51.2118648886792
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 22",
+		"position": {
+			"longitude": 3.21830107242247,
+			"latitude": 51.2186734513054
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 17",
+		"position": {
+			"longitude": 3.23211732408441,
+			"latitude": 51.2057711337097
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 23",
+		"position": {
+			"longitude": 3.23117013146911,
+			"latitude": 51.2035347136908
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 19",
+		"position": {
+			"longitude": 3.21237405852169,
+			"latitude": 51.2022190431907
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 90",
+		"position": {
+			"longitude": 3.21352145159414,
+			"latitude": 51.1873134105184
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 88",
+		"position": {
+			"longitude": 3.21804059251069,
+			"latitude": 51.1831484962456
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 92",
+		"position": {
+			"longitude": 3.22115712874106,
+			"latitude": 51.1838080579132
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 87",
+		"position": {
+			"longitude": 3.21748287695678,
+			"latitude": 51.1779490304614
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 89",
+		"position": {
+			"longitude": 3.20966760443965,
+			"latitude": 51.1773523111815
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 91",
+		"position": {
+			"longitude": 3.20485195810845,
+			"latitude": 51.1908892230741
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 52",
+		"position": {
+			"longitude": 3.24696941248568,
+			"latitude": 51.1933429018325
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 51",
+		"position": {
+			"longitude": 3.24069919580245,
+			"latitude": 51.1979093848168
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 55",
+		"position": {
+			"longitude": 3.23854374410498,
+			"latitude": 51.195137683726
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 57",
+		"position": {
+			"longitude": 3.2443318190133,
+			"latitude": 51.1890671688003
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 59",
+		"position": {
+			"longitude": 3.24462553541837,
+			"latitude": 51.186825258572
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 56",
+		"position": {
+			"longitude": 3.23422741348242,
+			"latitude": 51.1900008542468
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 54",
+		"position": {
+			"longitude": 3.27151024113346,
+			"latitude": 51.1882772634644
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 53",
+		"position": {
+			"longitude": 3.27382020912959,
+			"latitude": 51.190427484997
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 50",
+		"position": {
+			"longitude": 3.26944216186106,
+			"latitude": 51.1941102353804
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 49",
+		"position": {
+			"longitude": 3.27088098087942,
+			"latitude": 51.2010778349936
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 48",
+		"position": {
+			"longitude": 3.25604278419006,
+			"latitude": 51.1971520270863
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 60",
+		"position": {
+			"longitude": 3.2467748455986,
+			"latitude": 51.2172446021909
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 65",
+		"position": {
+			"longitude": 3.25694850818239,
+			"latitude": 51.2124016804786
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 66",
+		"position": {
+			"longitude": 3.26306249156491,
+			"latitude": 51.2065013867486
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 61",
+		"position": {
+			"longitude": 3.27072899368934,
+			"latitude": 51.2160845658559
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 64",
+		"position": {
+			"longitude": 3.28076219009835,
+			"latitude": 51.2214986355949
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 67",
+		"position": {
+			"longitude": 3.20765651673859,
+			"latitude": 51.2022516181296
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 68",
+		"position": {
+			"longitude": 3.2002703061695,
+			"latitude": 51.1990209664383
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 75",
+		"position": {
+			"longitude": 3.20728534941749,
+			"latitude": 51.2095313872787
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 74",
+		"position": {
+			"longitude": 3.20946733926139,
+			"latitude": 51.2069546424338
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 76",
+		"position": {
+			"longitude": 3.20209907967496,
+			"latitude": 51.2068821840722
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 77",
+		"position": {
+			"longitude": 3.19934844170629,
+			"latitude": 51.2077658792928
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 82",
+		"position": {
+			"longitude": 3.18799283487674,
+			"latitude": 51.2035564723816
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 81",
+		"position": {
+			"longitude": 3.18658605495164,
+			"latitude": 51.2001052276922
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 79",
+		"position": {
+			"longitude": 3.17669263518087,
+			"latitude": 51.2075118710027
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 78",
+		"position": {
+			"longitude": 3.18189007801355,
+			"latitude": 51.2035034899935
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 80",
+		"position": {
+			"longitude": 3.18053513567263,
+			"latitude": 51.2093363470425
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 70",
+		"position": {
+			"longitude": 3.19391457897723,
+			"latitude": 51.1922609085737
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 69",
+		"position": {
+			"longitude": 3.18792565247023,
+			"latitude": 51.1961506596349
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 83",
+		"position": {
+			"longitude": 3.18947333744775,
+			"latitude": 51.1936594796181
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 86",
+		"position": {
+			"longitude": 3.17612982071718,
+			"latitude": 51.1979165819703
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 85",
+		"position": {
+			"longitude": 3.17067687150117,
+			"latitude": 51.1971522253562
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 84",
+		"position": {
+			"longitude": 3.1998302398936,
+			"latitude": 51.1945712199619
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 71",
+		"position": {
+			"longitude": 3.16588682890929,
+			"latitude": 51.1711725666917
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 72",
+		"position": {
+			"longitude": 3.17611322593657,
+			"latitude": 51.1841293260152
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 73",
+		"position": {
+			"longitude": 3.17503350009597,
+			"latitude": 51.1851069463466
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 58",
+		"position": {
+			"longitude": 3.23732557172145,
+			"latitude": 51.1867289614071
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 62",
+		"position": {
+			"longitude": 3.27773003056506,
+			"latitude": 51.2164575952564
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 63",
+		"position": {
+			"longitude": 3.28158988731031,
+			"latitude": 51.2166263980835
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 96",
+		"position": {
+			"longitude": 3.2569242865517,
+			"latitude": 51.2050555435781
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 95",
+		"position": {
+			"longitude": 3.23853984595966,
+			"latitude": 51.2080194350832
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 97",
+		"position": {
+			"longitude": 3.2389622924981,
+			"latitude": 51.2093920706441
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 94",
+		"position": {
+			"longitude": 3.18738271551205,
+			"latitude": 51.1942829376795
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 93",
+		"position": {
+			"longitude": 3.21846279503566,
+			"latitude": 51.1885390004199
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 98",
+		"position": {
+			"longitude": 3.22570784395913,
+			"latitude": 51.2248570018849
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 101",
+		"position": {
+			"longitude": 3.21954034262854,
+			"latitude": 51.2065685546508
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 100",
+		"position": {
+			"longitude": 3.241524952544,
+			"latitude": 51.2293984412581
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 99",
+		"position": {
+			"longitude": 3.22648701186005,
+			"latitude": 51.177737409422
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 102",
+		"position": {
+			"longitude": 3.18747002718254,
+			"latitude": 51.2973779763806
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 103",
+		"position": {
+			"longitude": 3.20957367213946,
+			"latitude": 51.3312282715184
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 11",
+		"position": {
+			"longitude": 3.24235203859111,
+			"latitude": 51.2287017444309
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 117",
+		"position": {
+			"longitude": 3.23827426161923,
+			"latitude": 51.2311671037976
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 104",
+		"position": {
+			"longitude": 3.24634294134067,
+			"latitude": 51.2119573378865
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 105",
+		"position": {
+			"longitude": 3.25214613904777,
+			"latitude": 51.2109275878985
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 106",
+		"position": {
+			"longitude": 3.24551084778999,
+			"latitude": 51.199464014897
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 107",
+		"position": {
+			"longitude": 3.20104978338719,
+			"latitude": 51.1917521666796
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 108",
+		"position": {
+			"longitude": 3.18949925476941,
+			"latitude": 51.2320550179443
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 109",
+		"position": {
+			"longitude": 3.20163727654344,
+			"latitude": 51.2376648125616
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 110",
+		"position": {
+			"longitude": 3.23554247673906,
+			"latitude": 51.2082259992236
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 111",
+		"position": {
+			"longitude": 3.23240774847645,
+			"latitude": 51.2050565960337
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 112",
+		"position": {
+			"longitude": 3.19232484069193,
+			"latitude": 51.1795276686324
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 113",
+		"position": {
+			"longitude": 3.23515930815478,
+			"latitude": 51.2330366385667
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 114",
+		"position": {
+			"longitude": 3.21306787052046,
+			"latitude": 51.224706393074
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 115",
+		"position": {
+			"longitude": 3.19167883666557,
+			"latitude": 51.2270218171403
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 116",
+		"position": {
+			"longitude": 3.2262267274403,
+			"latitude": 51.1993012749866
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 1",
+		"position": {
+			"longitude": 3.19486174948167,
+			"latitude": 51.2084990233627
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 2",
+		"position": {
+			"longitude": 3.18070896401319,
+			"latitude": 51.2011321806766
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 3",
+		"position": {
+			"longitude": 3.23072052859261,
+			"latitude": 51.1934529905587
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 4",
+		"position": {
+			"longitude": 3.22748181227267,
+			"latitude": 51.2446786805513
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 5",
+		"position": {
+			"longitude": 3.23702463004865,
+			"latitude": 51.1885698231722
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 6",
+		"position": {
+			"longitude": 3.18276941255055,
+			"latitude": 51.1925656619175
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 7",
+		"position": {
+			"longitude": 3.20332994464638,
+			"latitude": 51.2045035966835
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 8",
+		"position": {
+			"longitude": 3.27833411916148,
+			"latitude": 51.1877667721252
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 9",
+		"position": {
+			"longitude": 3.23292354440134,
+			"latitude": 51.1963701551166
+		}
+	},
+	{
+		"type": "kids",
+		"sub-type": "forest",
+		"description": "Speelruimte 10",
+		"position": {
+			"longitude": 3.22987786950876,
+			"latitude": 51.2728925430693
+		}
+	}
+]

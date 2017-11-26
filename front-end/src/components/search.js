@@ -168,6 +168,8 @@ export default class Search extends Component {
 					<select name="type" id="type" class="TextInput" onchange={this.selectType} value={this.state.form.type}>
 						<option value="horeca">Horeca</option>
 						<option value="nature">Natuurwandeling</option>
+						<option value="culture">Cultuur</option>
+						<option value="kids">Kinderen</option>
 					</select>
 					<label for="distance">Maximaal te wandelen afstand? (in meter)</label>
 					<input type="number" value={this.state.form.distance} id="distance" onchange={this.updateDistance} />

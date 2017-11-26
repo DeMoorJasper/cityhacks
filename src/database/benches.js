@@ -2,7 +2,7 @@ const locations = require("./locations");
 
 let benches = {};
 
-benches.insertAllBenches = function(callback) {
+benches.insertAll = function(callback) {
     const benches = require('../../data/converted/benches.json');
 
     benches.forEach(bench => {

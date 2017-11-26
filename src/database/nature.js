@@ -2,7 +2,7 @@ const locations = require("./locations");
 
 let nature = {};
 
-nature.insertAllNature = function(callback) {
+nature.insertAll = function(callback) {
     const natureData = require('../../data/converted/nature.json');
 
     natureData.forEach(natureLocation => {
