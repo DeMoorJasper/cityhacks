@@ -3,6 +3,13 @@ const fs = require('fs');
 const apiKey = require('../../../bin/config').getGoogleMapsApi();
 
 const DIRECTORY = './data/image-dump/';
+let delayed = [];
+let timeout = null;
+
+function runDelayed() {
+    console.log("run delayed image-dump")
+    delayed.forEach(fetchGoogleImage);
+}
 
 function fetchGoogleImage(position) {
     const checkUri = `https://maps.googleapis.com/maps/api/streetview/metadata?location=${position.latitude},${position.longitude}&key=${apiKey}`;
@@ -17,7 +24,12 @@ function fetchGoogleImage(position) {
             // Only request if the file is not already in here...
             if (!existError) return resolve();
             request(checkUri, { encoding: "UTF8" }, (error, response, body) => {
-                if (error || !body) return reject(error);
+                if (error || !body) {
+                    delayed.push(position);
+                    // delay request for a minute
+                    timeout = setTimeout(runDelayed, 60000);
+                    return reject(error);
+                }
                 body = JSON.parse(body);
                 if (body.status === "ZERO_RESULTS" || body.status === "NOT_FOUND") {
                     return resolve();
