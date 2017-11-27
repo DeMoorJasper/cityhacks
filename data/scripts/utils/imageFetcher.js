@@ -20,10 +20,7 @@ function fetchGoogleImage(position) {
                 if (!body) return reject(undefined);
                 body = JSON.parse(body);
                 if (body.status === "ZERO_RESULTS" || body.status === "NOT_FOUND") {
-                    if (!existError) {
-                        fs.unlinkSync(fileLocation);
-                        console.log('removed ' + fileLocation);
-                    }
+                    return resolve();
                 } else {
                     if (existError) {
                         request(uri, { encoding: 'binary' }, (error, response, body) => {
