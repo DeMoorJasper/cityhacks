@@ -3,11 +3,28 @@ const fs = require('fs');
 const apiKey = require('../../../bin/config').getGoogleMapsApi();
 
 const DIRECTORY = './data/image-dump/';
+const DELAY_TIME = 60000;
+
 let delayed = [];
 let timeout = null;
 
+function removeDelayed(position) {
+    let index = delayed.indexOf(position);
+    if (index >= 0) {
+        delayed.splice(index, 1);
+    }
+}
+
+function addDelayed(position) {
+    let index = delayed.indexOf(position);
+    if (index >= 0) {
+        delayed.push(position);
+    }
+}
+
 function runDelayed() {
-    console.log("run delayed image-dump")
+    console.log("Run delayed image-dump");
+    console.log("# of delayed requests: " + delayed.length);
     delayed.forEach(fetchGoogleImage);
 }
 
@@ -25,13 +42,16 @@ function fetchGoogleImage(position) {
             if (!existError) return resolve();
             request(checkUri, { encoding: "UTF8" }, (error, response, body) => {
                 if (error || !body) {
-                    delayed.push(position);
+                    addDelayed(position);
                     // delay request for a minute
-                    timeout = setTimeout(runDelayed, 60000);
+                    clearTimeout(timeout);
+                    timeout = setTimeout(runDelayed, DELAY_TIME);
+                    // Reject the promise anyways... might fix this later
                     return reject(error);
                 }
                 body = JSON.parse(body);
                 if (body.status === "ZERO_RESULTS" || body.status === "NOT_FOUND") {
+                    removeDelayed(position);
                     return resolve();
                 } else {
                     request(uri, { encoding: 'binary' }, (error, response, body) => {
@@ -39,6 +59,7 @@ function fetchGoogleImage(position) {
                         fs.writeFile(fileLocation, body, 'binary', function (err) {
                             if (err) return reject(err);
                             console.log(uri + " fetched");
+                            removeDelayed(position);
                             return resolve();
                         });
                     });
