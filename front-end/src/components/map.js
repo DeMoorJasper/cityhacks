@@ -1,15 +1,12 @@
 // Node.js imports
 import { h, Component } from 'preact';
-import ReactMapboxGl, { GeoJSONLayer, Feature } from "react-mapbox-gl";
-import { Marker } from "react-mapbox-gl";
-
-import style from './styles/map.less';
+import ReactMapboxGl, { GeoJSONLayer, Feature, Marker } from "react-mapbox-gl";
 
 const Map = ReactMapboxGl({
 	accessToken: "pk.eyJ1IjoiZ2lsbGVzdmluY2tpZXIyMCIsImEiOiJjamFlN3ZwbDUxeWtkMzNsbzRnMHM2eHZtIn0.QxVyqaJamA9maRZDRhQ5Vg"
 });
 
-export default class Profile extends Component {
+export default class MapContainer extends Component {
 	constructor() {
 		super();
 		this.state = {
@@ -45,9 +42,7 @@ export default class Profile extends Component {
 
 	clickMarker(e, data) {
 		e.preventDefault();
-		// Placeholder for real location details
-		alert(`${data.type}\n${data.description}`);
-		console.log(data);
+		this.props.showDetail(data);
 	}
 
 	drawMarkers() {
@@ -90,7 +85,8 @@ export default class Profile extends Component {
 				style="mapbox://styles/jaspernorth/cjaducuvi5lgt2rovlbzxf9ma"
 				containerStyle={{
 					height: "100vh",
-					width: "100vw"
+					width: "100%",
+					boxSizing: "border-box"
 				}}
 				center={[startPoint.latitude, startPoint.longitude]}
 				movingMethod="easeTo"
