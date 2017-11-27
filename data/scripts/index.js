@@ -1,10 +1,10 @@
-const banken = require('./bankenconvertor');
-const horeca = require('./horecaconvertor');
-const nature = require('./natureconvertor');
-const libraries = require('./bibconvertor');
-const musea = require('./museaconvertor');
-const playforest = require('./playforestsconvertor');
-const playgrounds = require('./playgroundconvertor');
+const banken = require('./parsers/bankenconvertor');
+const horeca = require('./parsers/horecaconvertor');
+const nature = require('./parsers/natureconvertor');
+const libraries = require('./parsers/bibconvertor');
+const musea = require('./parsers/museaconvertor');
+const playforest = require('./parsers/playforestsconvertor');
+const playgrounds = require('./parsers/playgroundconvertor');
 
 (() => {
     banken();

@@ -4,125 +4,139 @@
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Beukenlaan",
 		"position": {
-			"longitude": 16.39295776093396,
-			"latitude": 256.0466296945851
-		}
+			"longitude": 3.278592,
+			"latitude": 51.209326
+		},
+		"img": "51.209326-3.278592.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Veltemweg",
 		"position": {
-			"longitude": 45.61653033264066,
-			"latitude": 716.8681699919122
-		}
+			"longitude": 3.258324,
+			"latitude": 51.204869
+		},
+		"img": "51.204869-3.258324.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Veltemweg",
 		"position": {
-			"longitude": 228.1407087948968,
-			"latitude": 3584.4890179221297
-		}
+			"longitude": 3.259153,
+			"latitude": 51.206986
+		},
+		"img": "51.206986-3.259153.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Weidestraat",
 		"position": {
-			"longitude": 26.021846079823852,
-			"latitude": 409.52966798514194
-		}
+			"longitude": 3.252731,
+			"latitude": 51.191208
+		},
+		"img": "51.191208-3.252731.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos t' Speelhof",
 		"position": {
-			"longitude": 67.22862834740496,
-			"latitude": 1075.0178398835253
-		}
+			"longitude": 3.201363,
+			"latitude": 51.191326
+		},
+		"img": "51.191326-3.201363.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Doornstraat",
 		"position": {
-			"longitude": 111.70762299466571,
-			"latitude": 1791.7344619008886
-		}
+			"longitude": 3.191646,
+			"latitude": 51.192413
+		},
+		"img": "51.192413-3.191646.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Rijkeveldestraat",
 		"position": {
-			"longitude": 137.34739275698686,
-			"latitude": 2150.441629248303
-		}
+			"longitude": 3.270176,
+			"latitude": 51.200991
+		},
+		"img": "51.200991-3.270176.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Rijselstraat",
 		"position": {
-			"longitude": 41.745530376413484,
-			"latitude": 665.2930513463049
-		}
+			"longitude": 3.211195,
+			"latitude": 51.176389
+		},
+		"img": "51.176389-3.211195.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Diksmuidse Heerweg",
 		"position": {
-			"longitude": 41.47305321559551,
-			"latitude": 665.4657245641689
-		}
+			"longitude": 3.190235,
+			"latitude": 51.189671
+		},
+		"img": "51.189671-3.190235.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "bos Blankenbergse Steenweg",
 		"position": {
-			"longitude": 134.57144046880975,
-			"latitude": 2152.070491940448
-		}
+			"longitude": 3.204082,
+			"latitude": 51.239774
+		},
+		"img": "51.239774-3.204082.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "bos Duivekeetbos",
 		"position": {
-			"longitude": 144.42110784481162,
-			"latitude": 2305.6991458101415
-		}
+			"longitude": 3.209358,
+			"latitude": 51.237759
+		},
+		"img": "51.237759-3.209358.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "undefined undefined",
 		"position": {
-			"longitude": 220.3897614326565,
-			"latitude": 3531.3948028391196
-		}
+			"longitude": 3.194055,
+			"latitude": 51.179635
+		},
+		"img": "51.179635-3.194055.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "sportveld Geralaan",
 		"position": {
-			"longitude": 45.49883978972562,
-			"latitude": 717.0952044763568
-		}
+			"longitude": 3.249917,
+			"latitude": 51.221086
+		},
+		"img": "51.221086-3.249917.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "kwekerijen Geralaan",
 		"position": {
-			"longitude": 19.488035098746188,
-			"latitude": 307.32913989323106
-		}
+			"longitude": 3.248006,
+			"latitude": 51.221523
+		},
+		"img": "51.221523-3.248006.jpeg"
 	}
 ]

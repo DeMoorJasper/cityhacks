@@ -8,6 +8,7 @@ import style from './styles/routing.less';
 // Modules
 import Direction from './direction';
 import Map from './map';
+import Detail from './detail';
 
 export default class Routing extends Component {
 	constructor() {
@@ -19,13 +20,19 @@ export default class Routing extends Component {
 				accuracy: 0,
 				speed: 0
 			},
-			gpsEnabled: true,
+			gpsEnabled: false,
 			maneuvers: [],
-			lastManeuver: 0
+			lastManeuver: 0,
+			detail: {
+				display: false,
+				data: {}
+			}
 		}
 		this.fillManeuvers = this.fillManeuvers.bind(this);
 		this.checkManeuver = this.checkManeuver.bind(this);
 		this.updateGps = this.updateGps.bind(this);
+		this.showDetail = this.showDetail.bind(this);
+		this.hideDetail = this.hideDetail.bind(this);
 	}
 
 	componentDidMount() {
@@ -68,6 +75,22 @@ export default class Routing extends Component {
 		}
 	}
 
+	showDetail(locationDetails) {
+		let detail = {
+			display: true,
+			data: locationDetails
+		}
+		this.setState({detail});
+	}
+
+	hideDetail() {
+		let detail = {
+			display: false,
+			data: this.state.detail.data
+		}
+		this.setState({detail});
+	}
+
 	updateGps(gps) {
 		this.setState({ gps : gps });
 	}
@@ -79,13 +102,19 @@ export default class Routing extends Component {
 			return <h1>No route data supplied.</h1>;
 		}
 
+		let detail = "";
+		if (this.state.detail.display) {
+			detail = <Detail data={this.state.detail.data} hideDetail={this.hideDetail} />
+		}
+
 		// Render out the map and all other routing related elements
 		return (
 			<div>
 				<Map gps={this.state.gps} route={this.props.route} gpsEnabled={this.state.gpsEnabled} 
 					getLocation={this.getLocation} checkManeuver={this.checkManeuver} 
-					updateGps={this.updateGps} />
+					updateGps={this.updateGps} showDetail={this.showDetail} />
 				<Direction data={this.state.maneuvers[this.state.lastManeuver]} />
+				{detail}
 			</div>
 		);
 	}
