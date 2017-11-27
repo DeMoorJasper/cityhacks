@@ -6,7 +6,7 @@ import style from './styles/detail.less';
 export default class Detail extends Component {
 	render() {
         let properties = this.props.data;
-        let img = properties.img ? <img src="#" alt={properties.description} title={properties.description} /> : "";
+        let img = properties.img ? <img src={properties.img} alt={properties.description} title={properties.description} /> : "";
 		return (
             <div class={style.detail} onclick={this.props.hideDetail}>
                 {img}

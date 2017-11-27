@@ -4,1979 +4,2199 @@
 		"sub-type": "bos",
 		"description": "bos Beukenlaan",
 		"position": {
-			"longitude": 16.39297246247066,
-			"latitude": 256.0466321487653
-		}
+			"longitude": 16.392972,
+			"latitude": 256.046632
+		},
+		"img": "256.046632-16.392972.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Komvest",
 		"position": {
-			"longitude": 145.14338028778636,
-			"latitude": 2304.9683759633426
-		}
+			"longitude": 145.14338,
+			"latitude": 2304.968376
+		},
+		"img": "2304.968376-145.14338.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wijkpark",
 		"description": "wijkpark Sint-Lenardstraat",
 		"position": {
-			"longitude": 54.892814219834946,
-			"latitude": 871.6697412411844
-		}
+			"longitude": 54.892814,
+			"latitude": 871.669741
+		},
+		"img": "871.669741-54.892814.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Pauwstraat",
 		"position": {
-			"longitude": 25.57230307438913,
-			"latitude": 409.6340454556731
-		}
+			"longitude": 25.572303,
+			"latitude": 409.634045
+		},
+		"img": "409.634045-25.572303.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Dijver",
 		"position": {
-			"longitude": 41.9319324023124,
-			"latitude": 665.6686684937376
-		}
+			"longitude": 41.931932,
+			"latitude": 665.668668
+		},
+		"img": "665.668668-41.931932.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Koningin Astridpark",
 		"position": {
-			"longitude": 193.8882795740553,
-			"latitude": 3072.353412663687
-		}
+			"longitude": 193.88828,
+			"latitude": 3072.353413
+		},
+		"img": "3072.353413-193.88828.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "buurtpark",
 		"description": "buurtpark Rozenpad",
 		"position": {
-			"longitude": 48.5087396539681,
-			"latitude": 768.4708764453254
-		}
+			"longitude": 48.50874,
+			"latitude": 768.470876
+		},
+		"img": "768.470876-48.50874.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Baljuwlaan",
 		"position": {
-			"longitude": 59.051982136848885,
-			"latitude": 921.9794953993687
-		}
+			"longitude": 59.051982,
+			"latitude": 921.979495
+		},
+		"img": "921.979495-59.051982.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Peter Benoitlaan",
 		"position": {
-			"longitude": 54.528405963565255,
-			"latitude": 870.5575147358901
-		}
+			"longitude": 54.528406,
+			"latitude": 870.557515
+		},
+		"img": "870.557515-54.528406.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Peter Benoitlaan",
 		"position": {
-			"longitude": 28.82191965318278,
-			"latitude": 460.8610308456375
-		}
+			"longitude": 28.82192,
+			"latitude": 460.861031
+		},
+		"img": "460.861031-28.82192.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "siertuin",
 		"description": "siertuin Zeeweg",
 		"position": {
-			"longitude": 22.174144299113493,
-			"latitude": 358.19378976724533
-		}
+			"longitude": 22.174144,
+			"latitude": 358.19379
+		},
+		"img": "358.19379-22.174144.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelbos",
 		"description": "speelbos Weidestraat",
 		"position": {
-			"longitude": 22.76901822191689,
-			"latitude": 358.3386058902862
-		}
+			"longitude": 22.769018,
+			"latitude": 358.338606
+		},
+		"img": "358.338606-22.769018.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelbos",
 		"description": "speelbos 't Speelhof",
 		"position": {
-			"longitude": 38.416980313536804,
-			"latitude": 614.2971499840467
-		}
+			"longitude": 38.41698,
+			"latitude": 614.29715
+		},
+		"img": "614.29715-38.41698.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelbos",
 		"description": "speelbos Doornstraat",
 		"position": {
-			"longitude": 86.17393823324899,
-			"latitude": 1382.1999223630914
-		}
+			"longitude": 86.173938,
+			"latitude": 1382.199922
+		},
+		"img": "1382.199922-86.173938.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Diksmuidse Heerweg",
 		"position": {
-			"longitude": 38.28342919573447,
-			"latitude": 614.2766434232896
-		}
+			"longitude": 38.283429,
+			"latitude": 614.276643
+		},
+		"img": "614.276643-38.283429.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Vaartdijkstraat",
 		"position": {
-			"longitude": 209.87608295976435,
-			"latitude": 3327.005076439117
-		}
+			"longitude": 209.876083,
+			"latitude": 3327.005076
+		},
+		"img": "3327.005076-209.876083.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Koningin Astridpark",
 		"position": {
-			"longitude": 42.021440234314746,
-			"latitude": 665.6743253272267
-		}
+			"longitude": 42.02144,
+			"latitude": 665.674325
+		},
+		"img": "665.674325-42.02144.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Jezuïetengoed",
 		"position": {
-			"longitude": 70.68691944885686,
-			"latitude": 1127.1675222827146
-		}
+			"longitude": 70.686919,
+			"latitude": 1127.167522
+		},
+		"img": "1127.167522-70.686919.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Tempelhof",
 		"position": {
-			"longitude": 48.057846575223536,
-			"latitude": 768.4130441011289
-		}
+			"longitude": 48.057847,
+			"latitude": 768.413044
+		},
+		"img": "768.413044-48.057847.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Baron Ruzettepark",
 		"position": {
-			"longitude": 65.5207770220169,
-			"latitude": 1041.475665686028
-		}
+			"longitude": 65.520777,
+			"latitude": 1041.475666
+		},
+		"img": "1041.475666-65.520777.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "kinderboerderij",
 		"description": "kinderboerderij Canadaring",
 		"position": {
-			"longitude": 55.81574469421755,
-			"latitude": 880.4570523489289
-		}
+			"longitude": 55.815745,
+			"latitude": 880.457052
+		},
+		"img": "880.457052-55.815745.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Schijfstraat",
 		"position": {
-			"longitude": 80.86849196745115,
-			"latitude": 1279.7502125926733
-		}
+			"longitude": 80.868492,
+			"latitude": 1279.750213
+		},
+		"img": "1279.750213-80.868492.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wijkpark",
 		"description": "wijkpark Zeezwaluwstraat",
 		"position": {
-			"longitude": 44.67515741176706,
-			"latitude": 718.1218887384798
-		}
+			"longitude": 44.675157,
+			"latitude": 718.121889
+		},
+		"img": "718.121889-44.675157.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Graaf Visartpark",
 		"position": {
-			"longitude": 77.09544828226326,
-			"latitude": 1229.0907285017308
-		}
+			"longitude": 77.095448,
+			"latitude": 1229.090729
+		},
+		"img": "1229.090729-77.095448.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wijkpark",
 		"description": "wijkpark Jakobinessenstraat",
 		"position": {
-			"longitude": 77.56439854306686,
-			"latitude": 1228.882442848809
-		}
+			"longitude": 77.564399,
+			"latitude": 1228.882443
+		},
+		"img": "1228.882443-77.564399.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Jan Van Hesestraat",
 		"position": {
-			"longitude": 34.88521438245193,
-			"latitude": 563.0854187280343
-		}
+			"longitude": 34.885214,
+			"latitude": 563.085419
+		},
+		"img": "563.085419-34.885214.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Josué Maertenstraat",
 		"position": {
-			"longitude": 16.09348713907045,
-			"latitude": 255.94245725857508
-		}
+			"longitude": 16.093487,
+			"latitude": 255.942457
+		},
+		"img": "255.942457-16.093487.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Spoorwegstraat (Leiselepark)",
 		"position": {
-			"longitude": 116.01608463123148,
-			"latitude": 1842.5996000143991
-		}
+			"longitude": 116.016085,
+			"latitude": 1842.5996
+		},
+		"img": "1842.5996-116.016085.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Sint-Claradreef",
 		"position": {
-			"longitude": 35.47847664606983,
-			"latitude": 563.4220925725901
-		}
+			"longitude": 35.478477,
+			"latitude": 563.422093
+		},
+		"img": "563.422093-35.478477.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "kinderboerderij",
 		"description": "kinderboerderij Evendijk-Oost",
 		"position": {
-			"longitude": 48.20275901475195,
-			"latitude": 769.9521106947253
-		}
+			"longitude": 48.202759,
+			"latitude": 769.952111
+		},
+		"img": "769.952111-48.202759.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wijkpark",
 		"description": "wijkpark Groenewijk",
 		"position": {
-			"longitude": 29.509854426417075,
-			"latitude": 460.6891379230319
-		}
+			"longitude": 29.509854,
+			"latitude": 460.689138
+		},
+		"img": "460.689138-29.509854.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "plein",
 		"description": "plein Burg",
 		"position": {
-			"longitude": 64.53361568466838,
-			"latitude": 1024.1794660672106
-		}
+			"longitude": 64.533616,
+			"latitude": 1024.179466
+		},
+		"img": "1024.179466-64.533616.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Handboogstraat",
 		"position": {
-			"longitude": 54.5875857316094,
-			"latitude": 870.8579149590666
-		}
+			"longitude": 54.587586,
+			"latitude": 870.857915
+		},
+		"img": "870.857915-54.587586.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Graaf Visartpark",
 		"position": {
-			"longitude": 41.75914086890798,
-			"latitude": 665.753194391456
-		}
+			"longitude": 41.759141,
+			"latitude": 665.753194
+		},
+		"img": "665.753194-41.759141.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Sint-Claradreef",
 		"position": {
-			"longitude": 85.45241667335654,
-			"latitude": 1357.3186164553417
-		}
+			"longitude": 85.452417,
+			"latitude": 1357.318616
+		},
+		"img": "1357.318616-85.452417.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Guido Gezellewarande",
 		"position": {
-			"longitude": 35.604051950890074,
-			"latitude": 563.3502606446633
-		}
+			"longitude": 35.604052,
+			"latitude": 563.350261
+		},
+		"img": "563.350261-35.604052.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Stationsstraat",
 		"position": {
-			"longitude": 54.34442083319584,
-			"latitude": 871.9958878937802
-		}
+			"longitude": 54.344421,
+			"latitude": 871.995888
+		},
+		"img": "871.995888-54.344421.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Doornweg",
 		"position": {
-			"longitude": 38.377383011865156,
-			"latitude": 615.7052119699205
-		}
+			"longitude": 38.377383,
+			"latitude": 615.705212
+		},
+		"img": "615.705212-38.377383.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Daverlostraat",
 		"position": {
-			"longitude": 19.4887552705308,
-			"latitude": 307.1655616988967
-		}
+			"longitude": 19.488755,
+			"latitude": 307.165562
+		},
+		"img": "307.165562-19.488755.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Parklaan",
 		"position": {
-			"longitude": 33.82795457615264,
-			"latitude": 537.425513846722
-		}
+			"longitude": 33.827955,
+			"latitude": 537.425514
+		},
+		"img": "537.425514-33.827955.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Buiten Boeverievest",
 		"position": {
-			"longitude": 51.40576422768546,
-			"latitude": 819.2323203025094
-		}
+			"longitude": 51.405764,
+			"latitude": 819.23232
+		},
+		"img": "819.23232-51.405764.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "siertuin",
 		"description": "siertuin Knotwilgenlaan",
 		"position": {
-			"longitude": 28.637958698471316,
-			"latitude": 460.8677362705167
-		}
+			"longitude": 28.637959,
+			"latitude": 460.867736
+		},
+		"img": "460.867736-28.637959.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Petegemstraat",
 		"position": {
-			"longitude": 26.17964664875612,
-			"latitude": 409.72294441974844
-		}
+			"longitude": 26.179647,
+			"latitude": 409.722944
+		},
+		"img": "409.722944-26.179647.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Baron Ruzettepark",
 		"position": {
-			"longitude": 114.4158962011514,
-			"latitude": 1818.3480351271658
-		}
+			"longitude": 114.415896,
+			"latitude": 1818.348035
+		},
+		"img": "1818.348035-114.415896.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Steenkaai",
 		"position": {
-			"longitude": 61.55319920366727,
-			"latitude": 983.394183634828
-		}
+			"longitude": 61.553199,
+			"latitude": 983.394184
+		},
+		"img": "983.394184-61.553199.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 62.24140279740746,
-			"latitude": 999.0181778398219
-		}
+			"longitude": 62.241403,
+			"latitude": 999.018178
+		},
+		"img": "999.018178-62.241403.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Vaartdijkstraat",
 		"position": {
-			"longitude": 45.243316038664595,
-			"latitude": 716.5816204844184
-		}
+			"longitude": 45.243316,
+			"latitude": 716.58162
+		},
+		"img": "716.58162-45.243316.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelplaats",
 		"description": "speelplaats Diksmuidse Heerweg",
 		"position": {
-			"longitude": 19.7050730638132,
-			"latitude": 315.7082410755467
-		}
+			"longitude": 19.705073,
+			"latitude": 315.708241
+		},
+		"img": "315.708241-19.705073.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Ooievaarsbos",
 		"position": {
-			"longitude": 86.51884317235799,
-			"latitude": 1383.4864105322179
-		}
+			"longitude": 86.518843,
+			"latitude": 1383.486411
+		},
+		"img": "1383.486411-86.518843.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelweide",
 		"description": "speelweide Ooievaarsbos",
 		"position": {
-			"longitude": 35.26635722273914,
-			"latitude": 563.6487660920524
-		}
+			"longitude": 35.266357,
+			"latitude": 563.648766
+		},
+		"img": "563.648766-35.266357.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Weidestraat",
 		"position": {
-			"longitude": 22.773469293413033,
-			"latitude": 358.3351655455122
-		}
+			"longitude": 22.773469,
+			"latitude": 358.335166
+		},
+		"img": "358.335166-22.773469.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Lisseweegse Steenweg",
 		"position": {
-			"longitude": 86.41822276608572,
-			"latitude": 1385.3782593663595
-		}
+			"longitude": 86.418223,
+			"latitude": 1385.378259
+		},
+		"img": "1385.378259-86.418223.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Zeeweg",
 		"position": {
-			"longitude": 25.28551386411585,
-			"latitude": 409.4327615427884
-		}
+			"longitude": 25.285514,
+			"latitude": 409.432762
+		},
+		"img": "409.432762-25.285514.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Zeeweg",
 		"position": {
-			"longitude": 15.812681434358039,
-			"latitude": 255.8716220525132
-		}
+			"longitude": 15.812681,
+			"latitude": 255.871622
+		},
+		"img": "255.871622-15.812681.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Zeeweg",
 		"position": {
-			"longitude": 49.009889523370205,
-			"latitude": 793.2088857239679
-		}
+			"longitude": 49.00989,
+			"latitude": 793.208886
+		},
+		"img": "793.208886-49.00989.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Zeeweg",
 		"position": {
-			"longitude": 253.60936031870355,
-			"latitude": 4093.524286126218
-		}
+			"longitude": 253.60936,
+			"latitude": 4093.524286
+		},
+		"img": "4093.524286-253.60936.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Zeeweg",
 		"position": {
-			"longitude": 93.60901827581829,
-			"latitude": 1509.4733604575063
-		}
+			"longitude": 93.609018,
+			"latitude": 1509.47336
+		},
+		"img": "1509.47336-93.609018.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "siertuin",
 		"description": "siertuin Zeeweg",
 		"position": {
-			"longitude": 40.991725089270695,
-			"latitude": 665.2972468897683
-		}
+			"longitude": 40.991725,
+			"latitude": 665.297247
+		},
+		"img": "665.297247-40.991725.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Zeeweg",
 		"position": {
-			"longitude": 67.58078388277384,
-			"latitude": 1097.9603194777515
-		}
+			"longitude": 67.580784,
+			"latitude": 1097.960319
+		},
+		"img": "1097.960319-67.580784.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Zeeweg",
 		"position": {
-			"longitude": 54.01231255865128,
-			"latitude": 878.5302876458622
-		}
+			"longitude": 54.012313,
+			"latitude": 878.530288
+		},
+		"img": "878.530288-54.012313.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Zeeweg",
 		"position": {
-			"longitude": 31.59543091163763,
-			"latitude": 511.71938906549934
-		}
+			"longitude": 31.595431,
+			"latitude": 511.719389
+		},
+		"img": "511.719389-31.595431.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Zeeweg",
 		"position": {
-			"longitude": 37.8970734263763,
-			"latitude": 614.118122723641
-		}
+			"longitude": 37.897073,
+			"latitude": 614.118123
+		},
+		"img": "614.118123-37.897073.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelweide",
 		"description": "speelweide Veltemweg",
 		"position": {
-			"longitude": 81.46217801264284,
-			"latitude": 1280.1226104325342
-		}
+			"longitude": 81.462178,
+			"latitude": 1280.12261
+		},
+		"img": "1280.12261-81.462178.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelbos",
 		"description": "speelbos Veltemweg",
 		"position": {
-			"longitude": 37.463442399790864,
-			"latitude": 588.8767746528526
-		}
+			"longitude": 37.463442,
+			"latitude": 588.876775
+		},
+		"img": "588.876775-37.463442.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelweide",
 		"description": "speelweide Paalbos",
 		"position": {
-			"longitude": 22.8838857888033,
-			"latitude": 358.4064457038853
-		}
+			"longitude": 22.883886,
+			"latitude": 358.406446
+		},
+		"img": "358.406446-22.883886.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Paalbos",
 		"position": {
-			"longitude": 37.04669658822474,
-			"latitude": 580.2725685855758
-		}
+			"longitude": 37.046697,
+			"latitude": 580.272569
+		},
+		"img": "580.272569-37.046697.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "Bos",
 		"description": "Bos Zeelaan",
 		"position": {
-			"longitude": 43.13509088607784,
-			"latitude": 691.914891064943
-		}
+			"longitude": 43.135091,
+			"latitude": 691.914891
+		},
+		"img": "691.914891-43.135091.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "zorgboerderij",
 		"description": "zorgboerderij Gemene Weidebeek",
 		"position": {
-			"longitude": 26.13799991300884,
-			"latitude": 409.60603021290746
-		}
+			"longitude": 26.138,
+			"latitude": 409.60603
+		},
+		"img": "409.60603-26.138.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Dopheidestraat",
 		"position": {
-			"longitude": 38.04276087646332,
-			"latitude": 614.2932698999758
-		}
+			"longitude": 38.042761,
+			"latitude": 614.29327
+		},
+		"img": "614.29327-38.042761.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "tennisveld",
 		"description": "tennisveld Zandstraat",
 		"position": {
-			"longitude": 22.25492408594489,
-			"latitude": 358.4091686230537
-		}
+			"longitude": 22.254924,
+			"latitude": 358.409169
+		},
+		"img": "358.409169-22.254924.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Zandstraat",
 		"position": {
-			"longitude": 44.52539096502134,
-			"latitude": 716.8156513928295
-		}
+			"longitude": 44.525391,
+			"latitude": 716.815651
+		},
+		"img": "716.815651-44.525391.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Gemene Weidebeek",
 		"position": {
-			"longitude": 177.87304628415032,
-			"latitude": 2790.3756443473903
-		}
+			"longitude": 177.873046,
+			"latitude": 2790.375644
+		},
+		"img": "2790.375644-177.873046.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Gemene Weidebeek",
 		"position": {
-			"longitude": 74.31142992709866,
-			"latitude": 1166.226840904889
-		}
+			"longitude": 74.31143,
+			"latitude": 1166.226841
+		},
+		"img": "1166.226841-74.31143.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wandelpad",
 		"description": "wandelpad Gemene Weidebeek",
 		"position": {
-			"longitude": 377.4818183208485,
-			"latitude": 5922.104392242224
-		}
+			"longitude": 377.481818,
+			"latitude": 5922.104392
+		},
+		"img": "5922.104392-377.481818.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 206.40989243560242,
-			"latitude": 3313.5724657963
-		}
+			"longitude": 206.409892,
+			"latitude": 3313.572466
+		},
+		"img": "3313.572466-206.409892.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "Bos",
 		"description": "Bos Zeeweg",
 		"position": {
-			"longitude": 345.4311885472509,
-			"latitude": 5577.472970804642
-		}
+			"longitude": 345.431189,
+			"latitude": 5577.472971
+		},
+		"img": "5577.472971-345.431189.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 153.44599946950638,
-			"latitude": 2459.1903981980436
-		}
+			"longitude": 153.445999,
+			"latitude": 2459.190398
+		},
+		"img": "2459.190398-153.445999.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 92.63663161523203,
-			"latitude": 1485.8116525921987
-		}
+			"longitude": 92.636632,
+			"latitude": 1485.811653
+		},
+		"img": "1485.811653-92.636632.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Blauwkasteelweg",
 		"position": {
-			"longitude": 19.47514870249461,
-			"latitude": 307.31147052347046
-		}
+			"longitude": 19.475149,
+			"latitude": 307.311471
+		},
+		"img": "307.311471-19.475149.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Koning Leopold III Laan",
 		"position": {
-			"longitude": 43.05573302403527,
-			"latitude": 691.1500652354052
-		}
+			"longitude": 43.055733,
+			"latitude": 691.150065
+		},
+		"img": "691.150065-43.055733.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Oorlogsvrijwilligerslaan",
 		"position": {
-			"longitude": 41.29604879061843,
-			"latitude": 665.4116092869823
-		}
+			"longitude": 41.296049,
+			"latitude": 665.411609
+		},
+		"img": "665.411609-41.296049.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelbos",
 		"description": "speelbos Veltemweg",
 		"position": {
-			"longitude": 117.33772583684713,
-			"latitude": 1843.4490065900482
-		}
+			"longitude": 117.337726,
+			"latitude": 1843.449007
+		},
+		"img": "1843.449007-117.337726.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "natuurterrein",
 		"description": "natuurterrein Zeelaan",
 		"position": {
-			"longitude": 66.04681209126663,
-			"latitude": 1059.2886254108712
-		}
+			"longitude": 66.046812,
+			"latitude": 1059.288625
+		},
+		"img": "1059.288625-66.046812.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Ten Boomgaard",
 		"position": {
-			"longitude": 77.93097601428367,
-			"latitude": 1241.2811384552665
-		}
+			"longitude": 77.930976,
+			"latitude": 1241.281138
+		},
+		"img": "1241.281138-77.930976.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 128.86432452521314,
-			"latitude": 2066.4274816366847
-		}
+			"longitude": 128.864325,
+			"latitude": 2066.427482
+		},
+		"img": "2066.427482-128.864325.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 25.520665719393218,
-			"latitude": 409.8670345220277
-		}
+			"longitude": 25.520666,
+			"latitude": 409.867035
+		},
+		"img": "409.867035-25.520666.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 125.56048454748942,
-			"latitude": 2015.051893887362
-		}
+			"longitude": 125.560485,
+			"latitude": 2015.051894
+		},
+		"img": "2015.051894-125.560485.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 1885.2404933082505,
-			"latitude": 30225.588824193284
-		}
+			"longitude": 1885.240493,
+			"latitude": 30225.588824
+		},
+		"img": "30225.588824-1885.240493.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 86.48493595386897,
-			"latitude": 1386.4736052393632
-		}
+			"longitude": 86.484936,
+			"latitude": 1386.473605
+		},
+		"img": "1386.473605-86.484936.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Duivekeetbos",
 		"position": {
-			"longitude": 91.46359273685374,
-			"latitude": 1460.280302297085
-		}
+			"longitude": 91.463593,
+			"latitude": 1460.280302
+		},
+		"img": "1460.280302-91.463593.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelbos",
 		"description": "speelbos Paalbos",
 		"position": {
-			"longitude": 134.0662327974393,
-			"latitude": 2099.2491694560617
-		}
+			"longitude": 134.066233,
+			"latitude": 2099.249169
+		},
+		"img": "2099.249169-134.066233.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Jacobus Roelofstraat",
 		"position": {
-			"longitude": 27.833348841467853,
-			"latitude": 435.1184858128222
-		}
+			"longitude": 27.833349,
+			"latitude": 435.118486
+		},
+		"img": "435.118486-27.833349.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "woonerf",
 		"description": "woonerf Matmeers",
 		"position": {
-			"longitude": 55.8717192048797,
-			"latitude": 881.2467116672935
-		}
+			"longitude": 55.871719,
+			"latitude": 881.246712
+		},
+		"img": "881.246712-55.871719.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "recreatiegebied",
 		"description": "recreatiegebied Blankenbergse Dijk",
 		"position": {
-			"longitude": 210.8314415124656,
-			"latitude": 3381.29618611223
-		}
+			"longitude": 210.831442,
+			"latitude": 3381.296186
+		},
+		"img": "3381.296186-210.831442.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Koning Albert I laan",
 		"position": {
-			"longitude": 115.41870348786456,
-			"latitude": 1836.776883600702
-		}
+			"longitude": 115.418703,
+			"latitude": 1836.776884
+		},
+		"img": "1836.776884-115.418703.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Paul Gilsonstraat",
 		"position": {
-			"longitude": 140.76995425258252,
-			"latitude": 2253.1303223553978
-		}
+			"longitude": 140.769954,
+			"latitude": 2253.130322
+		},
+		"img": "2253.130322-140.769954.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Gemene-Weidestraat",
 		"position": {
-			"longitude": 51.96731537212707,
-			"latitude": 819.7170734019046
-		}
+			"longitude": 51.967315,
+			"latitude": 819.717073
+		},
+		"img": "819.717073-51.967315.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Gemene-Weidestraat",
 		"position": {
-			"longitude": 16.22853360917779,
-			"latitude": 256.1606810325593
-		}
+			"longitude": 16.228534,
+			"latitude": 256.160681
+		},
+		"img": "256.160681-16.228534.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Gemene-Weidestraat",
 		"position": {
-			"longitude": 30.845454809290942,
-			"latitude": 486.70726585281164
-		}
+			"longitude": 30.845455,
+			"latitude": 486.707266
+		},
+		"img": "486.707266-30.845455.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Gemene-Weidestraat",
 		"position": {
-			"longitude": 68.16781543632732,
-			"latitude": 1075.8563330186669
-		}
+			"longitude": 68.167815,
+			"latitude": 1075.856333
+		},
+		"img": "1075.856333-68.167815.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Gemene-Weidestraat",
 		"position": {
-			"longitude": 38.97832436096105,
-			"latitude": 614.7715601344366
-		}
+			"longitude": 38.978324,
+			"latitude": 614.77156
+		},
+		"img": "614.77156-38.978324.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Minnewater",
 		"position": {
-			"longitude": 85.32653727325602,
-			"latitude": 1354.4606782670526
-		}
+			"longitude": 85.326537,
+			"latitude": 1354.460678
+		},
+		"img": "1354.460678-85.326537.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Walakker",
 		"position": {
-			"longitude": 41.839771812768916,
-			"latitude": 665.3769590706299
-		}
+			"longitude": 41.839772,
+			"latitude": 665.376959
+		},
+		"img": "665.376959-41.839772.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Gruitstraat",
 		"position": {
-			"longitude": 53.00620289449174,
-			"latitude": 851.2571508118398
-		}
+			"longitude": 53.006203,
+			"latitude": 851.257151
+		},
+		"img": "851.257151-53.006203.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Kraaienhof",
 		"position": {
-			"longitude": 30.57213700506227,
-			"latitude": 486.1876483678916
-		}
+			"longitude": 30.572137,
+			"latitude": 486.187648
+		},
+		"img": "486.187648-30.572137.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Bargeweg",
 		"position": {
-			"longitude": 74.19439931815566,
-			"latitude": 1177.5442001591305
-		}
+			"longitude": 74.194399,
+			"latitude": 1177.5442
+		},
+		"img": "1177.5442-74.194399.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Poelweg",
 		"position": {
-			"longitude": 80.20746702713774,
-			"latitude": 1280.8409437602231
-		}
+			"longitude": 80.207467,
+			"latitude": 1280.840944
+		},
+		"img": "1280.840944-80.207467.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Handboogstraat",
 		"position": {
-			"longitude": 155.3331275500531,
-			"latitude": 2478.096493723372
-		}
+			"longitude": 155.333128,
+			"latitude": 2478.096494
+		},
+		"img": "2478.096494-155.333128.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Tempelhof",
 		"position": {
-			"longitude": 101.80201252867047,
-			"latitude": 1627.8934176068633
-		}
+			"longitude": 101.802013,
+			"latitude": 1627.893418
+		},
+		"img": "1627.893418-101.802013.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wijkpark",
 		"description": "wijkpark Rustenburgstraat",
 		"position": {
-			"longitude": 81.42671490141096,
-			"latitude": 1300.9943552915424
-		}
+			"longitude": 81.426715,
+			"latitude": 1300.994355
+		},
+		"img": "1300.994355-81.426715.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wijkpark",
 		"description": "wijkpark Veerbootstraat",
 		"position": {
-			"longitude": 23.926790652675038,
-			"latitude": 384.9562136480782
-		}
+			"longitude": 23.926791,
+			"latitude": 384.956214
+		},
+		"img": "384.956214-23.926791.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Westhinderstraat",
 		"position": {
-			"longitude": 180.02483582771197,
-			"latitude": 2874.611768290987
-		}
+			"longitude": 180.024836,
+			"latitude": 2874.611768
+		},
+		"img": "2874.611768-180.024836.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Doornweg",
 		"position": {
-			"longitude": 99.16116631840818,
-			"latitude": 1590.5746956324883
-		}
+			"longitude": 99.161166,
+			"latitude": 1590.574696
+		},
+		"img": "1590.574696-99.161166.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Kazernevest",
 		"position": {
-			"longitude": 110.93788286206963,
-			"latitude": 1753.8723801872932
-		}
+			"longitude": 110.937883,
+			"latitude": 1753.87238
+		},
+		"img": "1753.87238-110.937883.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Gentpoortvest",
 		"position": {
-			"longitude": 114.32823814925058,
-			"latitude": 1811.2455153555145
-		}
+			"longitude": 114.328238,
+			"latitude": 1811.245515
+		},
+		"img": "1811.245515-114.328238.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Katelijnevest",
 		"position": {
-			"longitude": 131.17668690927766,
-			"latitude": 2082.0816120370073
-		}
+			"longitude": 131.176687,
+			"latitude": 2082.081612
+		},
+		"img": "2082.081612-131.176687.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Koning Albert I laan",
 		"position": {
-			"longitude": 99.78468994581596,
-			"latitude": 1587.2620770636056
-		}
+			"longitude": 99.78469,
+			"latitude": 1587.262077
+		},
+		"img": "1587.262077-99.78469.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Begijnhof",
 		"position": {
-			"longitude": 24.17190660205004,
-			"latitude": 384.0095443913228
-		}
+			"longitude": 24.171907,
+			"latitude": 384.009544
+		},
+		"img": "384.009544-24.171907.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Koning Albert I laan",
 		"position": {
-			"longitude": 120.65115859458558,
-			"latitude": 1920.0522891064768
-		}
+			"longitude": 120.651159,
+			"latitude": 1920.052289
+		},
+		"img": "1920.052289-120.651159.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Begijnvest",
 		"position": {
-			"longitude": 91.83550828607466,
-			"latitude": 1459.150719170361
-		}
+			"longitude": 91.835508,
+			"latitude": 1459.150719
+		},
+		"img": "1459.150719-91.835508.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Buiten Smedenvest",
 		"position": {
-			"longitude": 229.67302000577456,
-			"latitude": 3661.3342467769494
-		}
+			"longitude": 229.67302,
+			"latitude": 3661.334247
+		},
+		"img": "3661.334247-229.67302.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Buiten Boeverievest",
 		"position": {
-			"longitude": 89.98072697160464,
-			"latitude": 1433.6502402630938
-		}
+			"longitude": 89.980727,
+			"latitude": 1433.65024
+		},
+		"img": "1433.65024-89.980727.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Hendrick Consciencelaan",
 		"position": {
-			"longitude": 104.0562188065807,
-			"latitude": 1657.6789706303534
-		}
+			"longitude": 104.056219,
+			"latitude": 1657.678971
+		},
+		"img": "1657.678971-104.056219.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Guido Gezellelaan",
 		"position": {
-			"longitude": 108.04042360216175,
-			"latitude": 1721.843109155925
-		}
+			"longitude": 108.040424,
+			"latitude": 1721.843109
+		},
+		"img": "1721.843109-108.040424.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Oude Zak",
 		"position": {
-			"longitude": 100.82953317770273,
-			"latitude": 1604.560513632734
-		}
+			"longitude": 100.829533,
+			"latitude": 1604.560514
+		},
+		"img": "1604.560514-100.829533.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Stationsstraat",
 		"position": {
-			"longitude": 55.40813236801003,
-			"latitude": 889.0894965850035
-		}
+			"longitude": 55.408132,
+			"latitude": 889.089497
+		},
+		"img": "889.089497-55.408132.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Pol Dhondtstraat",
 		"position": {
-			"longitude": 79.8836056400595,
-			"latitude": 1282.428618042086
-		}
+			"longitude": 79.883606,
+			"latitude": 1282.428618
+		},
+		"img": "1282.428618-79.883606.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Sint-Donaasstraat",
 		"position": {
-			"longitude": 103.34672821178071,
-			"latitude": 1652.956070825368
-		}
+			"longitude": 103.346728,
+			"latitude": 1652.956071
+		},
+		"img": "1652.956071-103.346728.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Sint-Donaasstraat",
 		"position": {
-			"longitude": 40.93815095826262,
-			"latitude": 654.5191871041842
-		}
+			"longitude": 40.938151,
+			"latitude": 654.519187
+		},
+		"img": "654.519187-40.938151.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Boninvest",
 		"position": {
-			"longitude": 95.45619309561974,
-			"latitude": 1510.5175552707399
-		}
+			"longitude": 95.456193,
+			"latitude": 1510.517555
+		},
+		"img": "1510.517555-95.456193.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wijkpark",
 		"description": "wijkpark Heideroosstraat",
 		"position": {
-			"longitude": 52.709155010523126,
-			"latitude": 849.634379427251
-		}
+			"longitude": 52.709155,
+			"latitude": 849.634379
+		},
+		"img": "849.634379-52.709155.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Heideroosstraat",
 		"position": {
-			"longitude": 127.01354760800245,
-			"latitude": 2047.390587911738
-		}
+			"longitude": 127.013548,
+			"latitude": 2047.390588
+		},
+		"img": "2047.390588-127.013548.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Olympialaan",
 		"position": {
-			"longitude": 192.48720713930177,
-			"latitude": 3097.080383978919
-		}
+			"longitude": 192.487207,
+			"latitude": 3097.080384
+		},
+		"img": "3097.080384-192.487207.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Gentele",
 		"position": {
-			"longitude": 73.52018145950662,
-			"latitude": 1178.2702615044766
-		}
+			"longitude": 73.520181,
+			"latitude": 1178.270262
+		},
+		"img": "1178.270262-73.520181.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wijkpark",
 		"description": "wijkpark Edgard de Smedtplantsoen",
 		"position": {
-			"longitude": 49.546147386780234,
-			"latitude": 790.7837040024373
-		}
+			"longitude": 49.546147,
+			"latitude": 790.783704
+		},
+		"img": "790.783704-49.546147.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wijkpark",
 		"description": "wijkpark Hoog Brabantlaan",
 		"position": {
-			"longitude": 54.175597507335894,
-			"latitude": 864.7002635017757
-		}
+			"longitude": 54.175598,
+			"latitude": 864.700264
+		},
+		"img": "864.700264-54.175598.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Koningin Astridlaan",
 		"position": {
-			"longitude": 46.18633689244844,
-			"latitude": 737.1078323007387
-		}
+			"longitude": 46.186337,
+			"latitude": 737.107832
+		},
+		"img": "737.107832-46.186337.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Xaverianenstraat",
 		"position": {
-			"longitude": 107.40362670962705,
-			"latitude": 1714.7753405837648
-		}
+			"longitude": 107.403627,
+			"latitude": 1714.775341
+		},
+		"img": "1714.775341-107.403627.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Rijselstraat",
 		"position": {
-			"longitude": 181.05298497551274,
-			"latitude": 2886.447227675579
-		}
+			"longitude": 181.052985,
+			"latitude": 2886.447228
+		},
+		"img": "2886.447228-181.052985.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelbos",
 		"description": "speelbos Rijselstraat",
 		"position": {
-			"longitude": 56.73392576039675,
-			"latitude": 904.1414911199878
-		}
+			"longitude": 56.733926,
+			"latitude": 904.141491
+		},
+		"img": "904.141491-56.733926.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Kruisvest",
 		"position": {
-			"longitude": 117.75045820691282,
-			"latitude": 1863.000674436328
-		}
+			"longitude": 117.750458,
+			"latitude": 1863.000674
+		},
+		"img": "1863.000674-117.750458.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Zandstraat",
 		"position": {
-			"longitude": 129.3632477128964,
-			"latitude": 2082.308890797388
-		}
+			"longitude": 129.363248,
+			"latitude": 2082.308891
+		},
+		"img": "2082.308891-129.363248.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Zandstraat",
 		"position": {
-			"longitude": 41.37768330224988,
-			"latitude": 665.6426101627791
-		}
+			"longitude": 41.377683,
+			"latitude": 665.64261
+		},
+		"img": "665.64261-41.377683.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelbos",
 		"description": "speelbos Veltemweg",
 		"position": {
-			"longitude": 71.68953184951813,
-			"latitude": 1126.504999565112
-		}
+			"longitude": 71.689532,
+			"latitude": 1126.505
+		},
+		"img": "1126.505-71.689532.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Veltemweg",
 		"position": {
-			"longitude": 16.27474239786003,
-			"latitude": 256.02978189409043
-		}
+			"longitude": 16.274742,
+			"latitude": 256.029782
+		},
+		"img": "256.029782-16.274742.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Knotwilgenlaan",
 		"position": {
-			"longitude": 38.122872646303044,
-			"latitude": 614.4917176571046
-		}
+			"longitude": 38.122873,
+			"latitude": 614.491718
+		},
+		"img": "614.491718-38.122873.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Koning Leopold III-Laan",
 		"position": {
-			"longitude": 51.00427661493227,
-			"latitude": 819.1100145694973
-		}
+			"longitude": 51.004277,
+			"latitude": 819.110015
+		},
+		"img": "819.110015-51.004277.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Paalbos",
 		"position": {
-			"longitude": 19.63078327700723,
-			"latitude": 307.20283174224215
-		}
+			"longitude": 19.630783,
+			"latitude": 307.202832
+		},
+		"img": "307.202832-19.630783.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Lange Vesting",
 		"position": {
-			"longitude": 69.24366303933094,
-			"latitude": 1104.5961570058782
-		}
+			"longitude": 69.243663,
+			"latitude": 1104.596157
+		},
+		"img": "1104.596157-69.243663.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Zuidervaartje",
 		"position": {
-			"longitude": 125.22644081940518,
-			"latitude": 1980.5388250689712
-		}
+			"longitude": 125.226441,
+			"latitude": 1980.538825
+		},
+		"img": "1980.538825-125.226441.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Babbaertstraat",
 		"position": {
-			"longitude": 31.61898887771251,
-			"latitude": 495.08757931303086
-		}
+			"longitude": 31.618989,
+			"latitude": 495.087579
+		},
+		"img": "495.087579-31.618989.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Geralaan",
 		"position": {
-			"longitude": 31.191351787337897,
-			"latitude": 491.7231866512622
-		}
+			"longitude": 31.191352,
+			"latitude": 491.723187
+		},
+		"img": "491.723187-31.191352.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Geralaan",
 		"position": {
-			"longitude": 63.3059758584507,
-			"latitude": 998.7965697747285
-		}
+			"longitude": 63.305976,
+			"latitude": 998.79657
+		},
+		"img": "998.79657-63.305976.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Blauwkasteelweg",
 		"position": {
-			"longitude": 68.16170313301741,
-			"latitude": 1075.5684234414043
-		}
+			"longitude": 68.161703,
+			"latitude": 1075.568423
+		},
+		"img": "1075.568423-68.161703.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Montpellier",
 		"position": {
-			"longitude": 38.300085858381145,
-			"latitude": 597.5325344872778
-		}
+			"longitude": 38.300086,
+			"latitude": 597.532534
+		},
+		"img": "597.532534-38.300086.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Blauwkasteelweg",
 		"position": {
-			"longitude": 46.23119066399495,
-			"latitude": 729.8345676004863
-		}
+			"longitude": 46.231191,
+			"latitude": 729.834568
+		},
+		"img": "729.834568-46.231191.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Dekenstraat",
 		"position": {
-			"longitude": 131.1463663022757,
-			"latitude": 2048.656266136097
-		}
+			"longitude": 131.146366,
+			"latitude": 2048.656266
+		},
+		"img": "2048.656266-131.146366.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Dekenstraat",
 		"position": {
-			"longitude": 50.830731047936204,
-			"latitude": 793.8573792140332
-		}
+			"longitude": 50.830731,
+			"latitude": 793.857379
+		},
+		"img": "793.857379-50.830731.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Brieversweg",
 		"position": {
-			"longitude": 37.83890677017803,
-			"latitude": 588.9417483149613
-		}
+			"longitude": 37.838907,
+			"latitude": 588.941748
+		},
+		"img": "588.941748-37.838907.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Blauwkasteelweg",
 		"position": {
-			"longitude": 45.48664011080645,
-			"latitude": 717.0665990166777
-		}
+			"longitude": 45.48664,
+			"latitude": 717.066599
+		},
+		"img": "717.066599-45.48664.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Blauwkasteelweg",
 		"position": {
-			"longitude": 54.15390618217241,
-			"latitude": 853.6357620656186
-		}
+			"longitude": 54.153906,
+			"latitude": 853.635762
+		},
+		"img": "853.635762-54.153906.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Blauwkasteelweg",
 		"position": {
-			"longitude": 58.46388294339868,
-			"latitude": 921.9342244781714
-		}
+			"longitude": 58.463883,
+			"latitude": 921.934224
+		},
+		"img": "921.934224-58.463883.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Blauwkasteelweg",
 		"position": {
-			"longitude": 97.47123353394149,
-			"latitude": 1536.5042162623172
-		}
+			"longitude": 97.471234,
+			"latitude": 1536.504216
+		},
+		"img": "1536.504216-97.471234.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Blauwkasteelweg",
 		"position": {
-			"longitude": 51.95893020914346,
-			"latitude": 819.4775188296242
-		}
+			"longitude": 51.95893,
+			"latitude": 819.477519
+		},
+		"img": "819.477519-51.95893.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Petegemstraat",
 		"position": {
-			"longitude": 49.09831756728868,
-			"latitude": 768.233264514593
-		}
+			"longitude": 49.098318,
+			"latitude": 768.233265
+		},
+		"img": "768.233265-49.098318.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Petegemstraat",
 		"position": {
-			"longitude": 37.624438353130245,
-			"latitude": 588.9829862688838
-		}
+			"longitude": 37.624438,
+			"latitude": 588.982986
+		},
+		"img": "588.982986-37.624438.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Arendstraat",
 		"position": {
-			"longitude": 42.21494465260207,
-			"latitude": 666.1459831411298
-		}
+			"longitude": 42.214945,
+			"latitude": 666.145983
+		},
+		"img": "666.145983-42.214945.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Pannebekestraat",
 		"position": {
-			"longitude": 19.38579976818157,
-			"latitude": 307.3643592814491
-		}
+			"longitude": 19.3858,
+			"latitude": 307.364359
+		},
+		"img": "307.364359-19.3858.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Pannebekestraat",
 		"position": {
-			"longitude": 61.4144433882042,
-			"latitude": 973.3204437712145
-		}
+			"longitude": 61.414443,
+			"latitude": 973.320444
+		},
+		"img": "973.320444-61.414443.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Gandhiplein",
 		"position": {
-			"longitude": 80.44304733201665,
-			"latitude": 1274.3585120416667
-		}
+			"longitude": 80.443047,
+			"latitude": 1274.358512
+		},
+		"img": "1274.358512-80.443047.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Brugse Steenweg",
 		"position": {
-			"longitude": 29.146609620610317,
-			"latitude": 461.07775476283376
-		}
+			"longitude": 29.14661,
+			"latitude": 461.077755
+		},
+		"img": "461.077755-29.14661.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Brugse Steenweg",
 		"position": {
-			"longitude": 68.47471224668229,
-			"latitude": 1083.1562463948678
-		}
+			"longitude": 68.474712,
+			"latitude": 1083.156246
+		},
+		"img": "1083.156246-68.474712.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Amaat Vynckestraat",
 		"position": {
-			"longitude": 22.604140361999928,
-			"latitude": 358.927624831872
-		}
+			"longitude": 22.60414,
+			"latitude": 358.927625
+		},
+		"img": "358.927625-22.60414.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Amaat Vynckestraat",
 		"position": {
-			"longitude": 32.2998408177792,
-			"latitude": 512.7570794959505
-		}
+			"longitude": 32.299841,
+			"latitude": 512.757079
+		},
+		"img": "512.757079-32.299841.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "bos",
 		"description": "bos Foreest",
 		"position": {
-			"longitude": 94.9380790179585,
-			"latitude": 1535.5871525134114
-		}
+			"longitude": 94.938079,
+			"latitude": 1535.587153
+		},
+		"img": "1535.587153-94.938079.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Blauwe Poort",
 		"position": {
-			"longitude": 38.43396234718618,
-			"latitude": 614.8488450782575
-		}
+			"longitude": 38.433962,
+			"latitude": 614.848845
+		},
+		"img": "614.848845-38.433962.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Langerei",
 		"position": {
-			"longitude": 90.38958933413132,
-			"latitude": 1434.133120455927
-		}
+			"longitude": 90.389589,
+			"latitude": 1434.13312
+		},
+		"img": "1434.13312-90.389589.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Hogeweg",
 		"position": {
-			"longitude": 15.9052017221225,
-			"latitude": 256.0457985584043
-		}
+			"longitude": 15.905202,
+			"latitude": 256.045799
+		},
+		"img": "256.045799-15.905202.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wandelpad",
 		"description": "wandelpad Oorlogsvrijwilligerslaan",
 		"position": {
-			"longitude": 72.02628808612064,
-			"latitude": 1160.2030092386474
-		}
+			"longitude": 72.026288,
+			"latitude": 1160.203009
+		},
+		"img": "1160.203009-72.026288.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "verkeerstuin",
 		"description": "verkeerstuin Graaf Visartpark",
 		"position": {
-			"longitude": 16.06451416403305,
-			"latitude": 256.0585193818383
-		}
+			"longitude": 16.064514,
+			"latitude": 256.058519
+		},
+		"img": "256.058519-16.064514.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Bevrijdingslaan",
 		"position": {
-			"longitude": 64.21560778313132,
-			"latitude": 1024.223400662056
-		}
+			"longitude": 64.215608,
+			"latitude": 1024.223401
+		},
+		"img": "1024.223401-64.215608.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Bevrijdingslaan",
 		"position": {
-			"longitude": 298.54821859545984,
-			"latitude": 4762.656700925809
-		}
+			"longitude": 298.548219,
+			"latitude": 4762.656701
+		},
+		"img": "4762.656701-298.548219.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
 		"description": "siergroen Filips De Goedelaan",
 		"position": {
-			"longitude": 103.66807712274417,
-			"latitude": 1651.6356175822355
-		}
+			"longitude": 103.668077,
+			"latitude": 1651.635618
+		},
+		"img": "1651.635618-103.668077.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
 		"description": "siergroen Bloedput",
 		"position": {
-			"longitude": 179.65042077157798,
-			"latitude": 2863.1873261691217
-		}
+			"longitude": 179.650421,
+			"latitude": 2863.187326
+		},
+		"img": "2863.187326-179.650421.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "buurtpark",
 		"description": "buurtpark Pastoor Van Haeckeplantsoen",
 		"position": {
-			"longitude": 45.03334261585812,
-			"latitude": 716.9939565048952
-		}
+			"longitude": 45.033343,
+			"latitude": 716.993957
+		},
+		"img": "716.993957-45.033343.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
 		"description": "siergroen Oostmeers",
 		"position": {
-			"longitude": 27.531071602486403,
-			"latitude": 437.5553030021292
-		}
+			"longitude": 27.531072,
+			"latitude": 437.555303
+		},
+		"img": "437.555303-27.531072.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
 		"description": "siergroen Guido Gezelleplein",
 		"position": {
-			"longitude": 58.03856674563881,
-			"latitude": 921.6882155295174
-		}
+			"longitude": 58.038567,
+			"latitude": 921.688216
+		},
+		"img": "921.688216-58.038567.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
 		"description": "siergroen Wijngaardplein",
 		"position": {
-			"longitude": 47.28689688824696,
-			"latitude": 750.9469653020757
-		}
+			"longitude": 47.286897,
+			"latitude": 750.946965
+		},
+		"img": "750.946965-47.286897.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "plein",
 		"description": "plein Wijngaardplein",
 		"position": {
-			"longitude": 41.915730935407154,
-			"latitude": 665.6103315325465
-		}
+			"longitude": 41.915731,
+			"latitude": 665.610332
+		},
+		"img": "665.610332-41.915731.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "petanqueveld",
 		"description": "petanqueveld Jakobinessenstraat",
 		"position": {
-			"longitude": 16.16087349496371,
-			"latitude": 256.0157888980579
-		}
+			"longitude": 16.160873,
+			"latitude": 256.015789
+		},
+		"img": "256.015789-16.160873.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Jakobinessenstraat",
 		"position": {
-			"longitude": 16.15748448164062,
-			"latitude": 256.0171666390281
-		}
+			"longitude": 16.157484,
+			"latitude": 256.017167
+		},
+		"img": "256.017167-16.157484.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "boomgaard",
 		"description": "boomgaard Langerei (Hof de Jonghe)",
 		"position": {
-			"longitude": 143.17160516276493,
-			"latitude": 2271.616827348461
-		}
+			"longitude": 143.171605,
+			"latitude": 2271.616827
+		},
+		"img": "2271.616827-143.171605.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Legeweg (Les Accaccias)",
 		"position": {
-			"longitude": 38.44278332798394,
-			"latitude": 614.45198503321
-		}
+			"longitude": 38.442783,
+			"latitude": 614.451985
+		},
+		"img": "614.451985-38.442783.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "siergroen",
 		"description": "siergroen Ter Lindehof",
 		"position": {
-			"longitude": 62.01091706047836,
-			"latitude": 991.526714007829
-		}
+			"longitude": 62.010917,
+			"latitude": 991.526714
+		},
+		"img": "991.526714-62.010917.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "kinderboerderij",
 		"description": "kinderboerderij Canadaring",
 		"position": {
-			"longitude": 23.150819626858144,
-			"latitude": 365.15042262766997
-		}
+			"longitude": 23.15082,
+			"latitude": 365.150423
+		},
+		"img": "365.150423-23.15082.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "kinderboerderij",
 		"description": "kinderboerderij Canadaring",
 		"position": {
-			"longitude": 29.20188975964696,
-			"latitude": 460.7011129602244
-		}
+			"longitude": 29.20189,
+			"latitude": 460.701113
+		},
+		"img": "460.701113-29.20189.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Astridlaan",
 		"position": {
-			"longitude": 107.39075257707056,
-			"latitude": 1689.427518950052
-		}
+			"longitude": 107.390753,
+			"latitude": 1689.427519
+		},
+		"img": "1689.427519-107.390753.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Daverlostraat",
 		"position": {
-			"longitude": 42.21819909782456,
-			"latitude": 665.5102247268665
-		}
+			"longitude": 42.218199,
+			"latitude": 665.510225
+		},
+		"img": "665.510225-42.218199.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Paalbos",
 		"position": {
-			"longitude": 13.08538046133911,
-			"latitude": 204.8016840900118
-		}
+			"longitude": 13.08538,
+			"latitude": 204.801684
+		},
+		"img": "204.801684-13.08538.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "boomgaard",
 		"description": "boomgaard Paalbos",
 		"position": {
-			"longitude": 16.34055416234865,
-			"latitude": 256.0060101875639
-		}
+			"longitude": 16.340554,
+			"latitude": 256.00601
+		},
+		"img": "256.00601-16.340554.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Dekenstraat",
 		"position": {
-			"longitude": 45.87860599819109,
-			"latitude": 717.031241221088
-		}
+			"longitude": 45.878606,
+			"latitude": 717.031241
+		},
+		"img": "717.031241-45.878606.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Langerei (Hof Campers)",
 		"position": {
-			"longitude": 64.55082553204245,
-			"latitude": 1024.376140966713
-		}
+			"longitude": 64.550826,
+			"latitude": 1024.376141
+		},
+		"img": "1024.376141-64.550826.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Parklaan",
 		"position": {
-			"longitude": 22.5509294388221,
-			"latitude": 358.2839895137023
-		}
+			"longitude": 22.550929,
+			"latitude": 358.28399
+		},
+		"img": "358.28399-22.550929.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Schijfstraat (TIR)",
 		"position": {
-			"longitude": 84.17541169143011,
-			"latitude": 1330.8966078544324
-		}
+			"longitude": 84.175412,
+			"latitude": 1330.896608
+		},
+		"img": "1330.896608-84.175412.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "park",
 		"description": "park Daverlostraat",
 		"position": {
-			"longitude": 48.61699887713714,
-			"latitude": 767.9645165148188
-		}
+			"longitude": 48.616999,
+			"latitude": 767.964517
+		},
+		"img": "767.964517-48.616999.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Daverlostraat",
 		"position": {
-			"longitude": 38.89162384003916,
-			"latitude": 614.3739897288201
-		}
+			"longitude": 38.891624,
+			"latitude": 614.37399
+		},
+		"img": "614.37399-38.891624.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wandelpad",
 		"description": "wandelpad Dudzeelse Steenweg",
 		"position": {
-			"longitude": 16.12486347530119,
-			"latitude": 256.22009080897527
-		}
+			"longitude": 16.124863,
+			"latitude": 256.220091
+		},
+		"img": "256.220091-16.124863.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "boomgaard",
 		"description": "boomgaard Brugse Steenweg",
 		"position": {
-			"longitude": 71.26066017006018,
-			"latitude": 1127.0628581844558
-		}
+			"longitude": 71.26066,
+			"latitude": 1127.062858
+		},
+		"img": "1127.062858-71.26066.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wandelpad",
 		"description": "wandelpad Sint-Pietersgroenestraat",
 		"position": {
-			"longitude": 115.52751289295398,
-			"latitude": 1844.200868330036
-		}
+			"longitude": 115.527513,
+			"latitude": 1844.200868
+		},
+		"img": "1844.200868-115.527513.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Gentele",
 		"position": {
-			"longitude": 19.18250401308369,
-			"latitude": 307.3730898891174
-		}
+			"longitude": 19.182504,
+			"latitude": 307.37309
+		},
+		"img": "307.37309-19.182504.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "dreef",
 		"description": "dreef Weidestraat",
 		"position": {
-			"longitude": 84.53181368718441,
-			"latitude": 1331.0016905821367
-		}
+			"longitude": 84.531814,
+			"latitude": 1331.001691
+		},
+		"img": "1331.001691-84.531814.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "sportveld",
 		"description": "sportveld Daverlostraat",
 		"position": {
-			"longitude": 147.69943026448917,
-			"latitude": 2329.322507029754
-		}
+			"longitude": 147.69943,
+			"latitude": 2329.322507
+		},
+		"img": "2329.322507-147.69943.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wandelpad",
 		"description": "wandelpad Over De Vaartbeek",
 		"position": {
-			"longitude": 44.51322541090069,
-			"latitude": 702.614811830926
-		}
+			"longitude": 44.513225,
+			"latitude": 702.614812
+		},
+		"img": "702.614812-44.513225.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "wandelpad",
 		"description": "wandelpad Gemene-Weidestraat",
 		"position": {
-			"longitude": 29.776231693516024,
-			"latitude": 469.62984701688583
-		}
+			"longitude": 29.776232,
+			"latitude": 469.629847
+		},
+		"img": "469.629847-29.776232.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "boomgaard",
 		"description": "boomgaard Zeeweg",
 		"position": {
-			"longitude": 17267.090792117986,
-			"latitude": 279715.5796495782
-		}
+			"longitude": 17267.090792,
+			"latitude": 279715.57965
+		},
+		"img": "279715.57965-17267.090792.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "Boomgaard",
 		"description": "Boomgaard Zeeweg",
 		"position": {
-			"longitude": 230.13075994133695,
-			"latitude": 3735.7299806158485
-		}
+			"longitude": 230.13076,
+			"latitude": 3735.729981
+		},
+		"img": "3735.729981-230.13076.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "dreef",
 		"description": "dreef Hogeweg",
 		"position": {
-			"longitude": 34.99620680165888,
-			"latitude": 563.2976326199835
-		}
+			"longitude": 34.996207,
+			"latitude": 563.297633
+		},
+		"img": "563.297633-34.996207.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "dreef",
 		"description": "dreef Zandstraat",
 		"position": {
-			"longitude": 20.679254865419093,
-			"latitude": 332.81188716941824
-		}
+			"longitude": 20.679255,
+			"latitude": 332.811887
+		},
+		"img": "332.811887-20.679255.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Poelweg",
 		"position": {
-			"longitude": 32.086094052282306,
-			"latitude": 512.3389493331047
-		}
+			"longitude": 32.086094,
+			"latitude": 512.338949
+		},
+		"img": "512.338949-32.086094.jpeg"
 	},
 	{
 		"type": "nature",
 		"sub-type": "speelterrein",
 		"description": "speelterrein Evendijk-Oost",
 		"position": {
-			"longitude": 20.890828819101234,
-			"latitude": 333.6477266507282
-		}
+			"longitude": 20.890829,
+			"latitude": 333.647727
+		},
+		"img": "333.647727-20.890829.jpeg"
 	}
 ]

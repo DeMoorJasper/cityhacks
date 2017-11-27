@@ -22,7 +22,7 @@ locations.importData = function(source) {
 locations.initTable = function() {
     return db.run("CREATE TABLE IF NOT EXISTS locations (type varchar(100), " +
         "subType varchar(100), description varchar(250), amount int(5), " +
-        "longitude FLOAT(250), latitude FLOAT(250), PRIMARY KEY (longitude, latitude));");
+        "longitude FLOAT(250), latitude FLOAT(250), img varchar(250), PRIMARY KEY (longitude, latitude));");
 };
 
 locations.insert = function(location) {
@@ -32,8 +32,9 @@ locations.insert = function(location) {
     let amount = !isNaN(location.amount) ? `${parseInt(location.amount)}` : 0;
     let longitude = !isNaN(location.position.longitude) ? `${parseFloat(location.position.longitude)}` : 0;
     let latitude = !isNaN(location.position.latitude) ? `${parseFloat(location.position.latitude)}` : 0;
-    let query = `INSERT OR IGNORE INTO locations (type, subType, description, amount, longitude, latitude) ` + 
-    `VALUES('${type}', '${subType}', '${description}', '${amount}', '${longitude}', ${latitude});`;
+    let img = `${database.removeQuote(location.img)}`;
+    let query = `INSERT OR IGNORE INTO locations (type, subType, description, amount, longitude, latitude, img) ` + 
+    `VALUES('${type}', '${subType}', '${description}', ${amount}, ${longitude}, ${latitude}, '${img}');`;
     return db.run(query);
 };
 
