@@ -20,7 +20,7 @@ export default class Routing extends Component {
 				accuracy: 0,
 				speed: 0
 			},
-			gpsEnabled: true,
+			gpsEnabled: false,
 			maneuvers: [],
 			lastManeuver: 0,
 			detail: {
