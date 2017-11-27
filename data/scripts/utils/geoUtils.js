@@ -22,16 +22,18 @@ utils.positionArrayToObject = (coordinates) => {
 utils.multiPolygonCenter = (points) => {
     let longitude = 0;
     let latitude = 0;
+    let count = 0;
     points.forEach(subPoints => {
         subPoints.forEach(subSubPoints => {
             subSubPoints.forEach(point => {
                 longitude += point[0];
                 latitude += point[1];
+                count++;
             });
         });
     });
-    longitude = longitude / points.length;
-    latitude = latitude / points.length;
+    longitude = longitude / count;
+    latitude = latitude / count;
     return utils.roundPosition({
         longitude: longitude,
         latitude: latitude
@@ -41,14 +43,16 @@ utils.multiPolygonCenter = (points) => {
 utils.polygonCenter = (points) => {
     let longitude = 0;
     let latitude = 0;
+    let count = 0;
     points.forEach(subPoints => {
         subPoints.forEach(point => {
             longitude += point[0];
             latitude += point[1];
+            count++;
         });
     });
-    longitude = longitude / points.length;
-    latitude = latitude / points.length;
+    longitude = longitude / count;
+    latitude = latitude / count;
     return utils.roundPosition({
         longitude: longitude,
         latitude: latitude

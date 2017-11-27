@@ -4,219 +4,219 @@
 		"sub-type": "museum",
 		"description": "Steenmuseum",
 		"position": {
-			"longitude": 83.841975,
-			"latitude": 1331.336716
+			"longitude": 3.224691,
+			"latitude": 51.205258
 		},
-		"img": "1331.336716-83.841975.jpeg"
+		"img": "51.205258-3.224691.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Gruuthusemuseum",
 		"position": {
-			"longitude": 103.198304,
-			"latitude": 1638.558922
+			"longitude": 3.224947,
+			"latitude": 51.204966
 		},
-		"img": "1638.558922-103.198304.jpeg"
+		"img": "51.204966-3.224947.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Archeologisch Museum",
 		"position": {
-			"longitude": 90.256728,
-			"latitude": 1433.725735
+			"longitude": 3.223455,
+			"latitude": 51.204491
 		},
-		"img": "1433.725735-90.256728.jpeg"
+		"img": "51.204491-3.223455.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Arendshuis",
 		"position": {
-			"longitude": 80.63226,
-			"latitude": 1280.13655
+			"longitude": 3.22529,
+			"latitude": 51.205462
 		},
-		"img": "1280.13655-80.63226.jpeg"
+		"img": "51.205462-3.22529.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Groeningemuseum",
 		"position": {
-			"longitude": 67.756383,
-			"latitude": 1075.314282
+			"longitude": 3.226494,
+			"latitude": 51.205442
 		},
-		"img": "1075.314282-67.756383.jpeg"
+		"img": "51.205442-3.226494.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Memlingmuseum",
 		"position": {
-			"longitude": 58.033494,
-			"latitude": 921.670828
+			"longitude": 3.224083,
+			"latitude": 51.203935
 		},
-		"img": "921.670828-58.033494.jpeg"
+		"img": "51.203935-3.224083.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Stadhuis -Gotische Zaal-",
 		"position": {
-			"longitude": 16.135547,
-			"latitude": 256.040941
+			"longitude": 3.227109,
+			"latitude": 51.208188
 		},
-		"img": "256.040941-16.135547.jpeg"
+		"img": "51.208188-3.227109.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Brugse Vrije -Provinciaalmuseum-",
 		"position": {
-			"longitude": 19.364864,
-			"latitude": 307.250718
+			"longitude": 3.227477,
+			"latitude": 51.208453
 		},
-		"img": "307.250718-19.364864.jpeg"
+		"img": "51.208453-3.227477.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "De Gouden Boom -Brouwerijmuseum-",
 		"position": {
-			"longitude": 64.682519,
-			"latitude": 1024.203118
+			"longitude": 3.234126,
+			"latitude": 51.210156
 		},
-		"img": "1024.203118-64.682519.jpeg"
+		"img": "51.210156-3.234126.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Guido Gezellemuseum",
 		"position": {
-			"longitude": 19.424237,
-			"latitude": 307.287711
+			"longitude": 3.237373,
+			"latitude": 51.214619
 		},
-		"img": "307.287711-19.424237.jpeg"
+		"img": "51.214619-3.237373.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "O.L.-Vrouwekerk -praalgraven, madon",
 		"position": {
-			"longitude": 45.13849,
-			"latitude": 716.866505
+			"longitude": 3.224178,
+			"latitude": 51.20475
 		},
-		"img": "716.866505-45.13849.jpeg"
+		"img": "51.20475-3.224178.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Schuttersgilde Sint-Joris",
 		"position": {
-			"longitude": 51.803038,
-			"latitude": 819.423519
+			"longitude": 3.23769,
+			"latitude": 51.21397
 		},
-		"img": "819.423519-51.803038.jpeg"
+		"img": "51.21397-3.23769.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Sint-Salvatorskathedraal",
 		"position": {
-			"longitude": 25.771544,
-			"latitude": 409.641772
+			"longitude": 3.221443,
+			"latitude": 51.205221
 		},
-		"img": "409.641772-25.771544.jpeg"
+		"img": "51.205221-3.221443.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Museum van Volkskunde",
 		"position": {
-			"longitude": 32.333265,
-			"latitude": 512.133921
+			"longitude": 3.233327,
+			"latitude": 51.213392
 		},
-		"img": "512.133921-32.333265.jpeg"
+		"img": "51.213392-3.233327.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Schuttersgilde Sint-Sebastiaan",
 		"position": {
-			"longitude": 45.311359,
-			"latitude": 717.014456
+			"longitude": 3.236526,
+			"latitude": 51.215318
 		},
-		"img": "717.014456-45.311359.jpeg"
+		"img": "51.215318-3.236526.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Belfort",
 		"position": {
-			"longitude": 19.348162,
-			"latitude": 307.249171
+			"longitude": 3.224694,
+			"latitude": 51.208195
 		},
-		"img": "307.249171-19.348162.jpeg"
+		"img": "51.208195-3.224694.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Kantcentrum",
 		"position": {
-			"longitude": 16.169888,
-			"latitude": 256.061625
+			"longitude": 3.233978,
+			"latitude": 51.212325
 		},
-		"img": "256.061625-16.169888.jpeg"
+		"img": "51.212325-3.233978.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Begijnenhuisje",
 		"position": {
-			"longitude": 29.013235,
-			"latitude": 460.814526
+			"longitude": 3.223693,
+			"latitude": 51.201614
 		},
-		"img": "460.814526-29.013235.jpeg"
+		"img": "51.201614-3.223693.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Brouwerij Halve Maan",
 		"position": {
-			"longitude": 106.395898,
-			"latitude": 1689.673672
+			"longitude": 3.224118,
+			"latitude": 51.202232
 		},
-		"img": "1689.673672-106.395898.jpeg"
+		"img": "51.202232-3.224118.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Museum Heilig Bloed",
 		"position": {
-			"longitude": 35.491497,
-			"latitude": 563.289071
+			"longitude": 3.2265,
+			"latitude": 51.208097
 		},
-		"img": "563.289071-35.491497.jpeg"
+		"img": "51.208097-3.2265.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Onze-Lieve-Vrouw van de Potterie",
 		"position": {
-			"longitude": 16.15345,
-			"latitude": 256.097343
+			"longitude": 3.23069,
+			"latitude": 51.219469
 		},
-		"img": "256.097343-16.15345.jpeg"
+		"img": "51.219469-3.23069.jpeg"
 	},
 	{
 		"type": "culture",
 		"sub-type": "museum",
 		"description": "Kerk Engels Klooster",
 		"position": {
-			"longitude": 100.262242,
-			"latitude": 1587.655298
+			"longitude": 3.234266,
+			"latitude": 51.214687
 		},
-		"img": "1587.655298-100.262242.jpeg"
+		"img": "51.214687-3.234266.jpeg"
 	}
 ]

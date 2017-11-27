@@ -4,139 +4,139 @@
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Beukenlaan",
 		"position": {
-			"longitude": 16.392958,
-			"latitude": 256.04663
+			"longitude": 3.278592,
+			"latitude": 51.209326
 		},
-		"img": "256.04663-16.392958.jpeg"
+		"img": "51.209326-3.278592.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Veltemweg",
 		"position": {
-			"longitude": 45.61653,
-			"latitude": 716.86817
+			"longitude": 3.258324,
+			"latitude": 51.204869
 		},
-		"img": "716.86817-45.61653.jpeg"
+		"img": "51.204869-3.258324.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Veltemweg",
 		"position": {
-			"longitude": 228.140709,
-			"latitude": 3584.489018
+			"longitude": 3.259153,
+			"latitude": 51.206986
 		},
-		"img": "3584.489018-228.140709.jpeg"
+		"img": "51.206986-3.259153.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Weidestraat",
 		"position": {
-			"longitude": 26.021846,
-			"latitude": 409.529668
+			"longitude": 3.252731,
+			"latitude": 51.191208
 		},
-		"img": "409.529668-26.021846.jpeg"
+		"img": "51.191208-3.252731.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos t' Speelhof",
 		"position": {
-			"longitude": 67.228628,
-			"latitude": 1075.01784
+			"longitude": 3.201363,
+			"latitude": 51.191326
 		},
-		"img": "1075.01784-67.228628.jpeg"
+		"img": "51.191326-3.201363.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Doornstraat",
 		"position": {
-			"longitude": 111.707623,
-			"latitude": 1791.734462
+			"longitude": 3.191646,
+			"latitude": 51.192413
 		},
-		"img": "1791.734462-111.707623.jpeg"
+		"img": "51.192413-3.191646.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Rijkeveldestraat",
 		"position": {
-			"longitude": 137.347393,
-			"latitude": 2150.441629
+			"longitude": 3.270176,
+			"latitude": 51.200991
 		},
-		"img": "2150.441629-137.347393.jpeg"
+		"img": "51.200991-3.270176.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Rijselstraat",
 		"position": {
-			"longitude": 41.74553,
-			"latitude": 665.293051
+			"longitude": 3.211195,
+			"latitude": 51.176389
 		},
-		"img": "665.293051-41.74553.jpeg"
+		"img": "51.176389-3.211195.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "groenzone/speelbos Diksmuidse Heerweg",
 		"position": {
-			"longitude": 41.473053,
-			"latitude": 665.465725
+			"longitude": 3.190235,
+			"latitude": 51.189671
 		},
-		"img": "665.465725-41.473053.jpeg"
+		"img": "51.189671-3.190235.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "bos Blankenbergse Steenweg",
 		"position": {
-			"longitude": 134.57144,
-			"latitude": 2152.070492
+			"longitude": 3.204082,
+			"latitude": 51.239774
 		},
-		"img": "2152.070492-134.57144.jpeg"
+		"img": "51.239774-3.204082.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "bos Duivekeetbos",
 		"position": {
-			"longitude": 144.421108,
-			"latitude": 2305.699146
+			"longitude": 3.209358,
+			"latitude": 51.237759
 		},
-		"img": "2305.699146-144.421108.jpeg"
+		"img": "51.237759-3.209358.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "undefined undefined",
 		"position": {
-			"longitude": 220.389761,
-			"latitude": 3531.394803
+			"longitude": 3.194055,
+			"latitude": 51.179635
 		},
-		"img": "3531.394803-220.389761.jpeg"
+		"img": "51.179635-3.194055.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "sportveld Geralaan",
 		"position": {
-			"longitude": 45.49884,
-			"latitude": 717.095204
+			"longitude": 3.249917,
+			"latitude": 51.221086
 		},
-		"img": "717.095204-45.49884.jpeg"
+		"img": "51.221086-3.249917.jpeg"
 	},
 	{
 		"type": "kids",
 		"sub-type": "forest",
 		"description": "kwekerijen Geralaan",
 		"position": {
-			"longitude": 19.488035,
-			"latitude": 307.32914
+			"longitude": 3.248006,
+			"latitude": 51.221523
 		},
-		"img": "307.32914-19.488035.jpeg"
+		"img": "51.221523-3.248006.jpeg"
 	}
 ]
