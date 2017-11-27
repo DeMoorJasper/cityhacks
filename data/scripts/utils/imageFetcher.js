@@ -15,23 +15,21 @@ function fetchGoogleImage(position) {
 
         fs.stat(fileLocation, (existError, stats) => {
             // Only request if the file is not already in here...
+            if (!existError) return resolve();
             request(checkUri, { encoding: "UTF8" }, (error, response, body) => {
-                if (error) return reject(error);
-                if (!body) return reject(undefined);
+                if (error || !body) return reject(error);
                 body = JSON.parse(body);
                 if (body.status === "ZERO_RESULTS" || body.status === "NOT_FOUND") {
                     return resolve();
                 } else {
-                    if (existError) {
-                        request(uri, { encoding: 'binary' }, (error, response, body) => {
-                            if (error) return reject(error);
-                            fs.writeFile(fileLocation, body, 'binary', function (err) {
-                                if (err) return reject(err);
-                                console.log(uri + " fetched");
-                                return resolve();
-                            });
+                    request(uri, { encoding: 'binary' }, (error, response, body) => {
+                        if (error) return reject(error);
+                        fs.writeFile(fileLocation, body, 'binary', function (err) {
+                            if (err) return reject(err);
+                            console.log(uri + " fetched");
+                            return resolve();
                         });
-                    }
+                    });
                 }
             });
             return resolve();
