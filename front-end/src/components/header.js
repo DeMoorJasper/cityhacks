@@ -7,6 +7,9 @@ export default class Header extends Component {
 		return (
 			<header class={style.header}>
 				<h1>Pitstop</h1>
+				<nav>
+					<a href="https://github.com/DeMoorJasper/pitstop" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+				</nav>
 			</header>
 		);
 	}
