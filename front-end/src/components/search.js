@@ -73,6 +73,7 @@ export default class Search extends Component {
 			};
 			console.log(options);
 			ajax.get(`${domain}/routing?options=${JSON.stringify(options)}`, null, (data) => {
+				console.log(`${domain}/routing?options=${JSON.stringify(options)}`);
 				if (data && data.routes) {
 					this.props.setRoute(data, () => {
 						route('/routing', true);

@@ -9,6 +9,7 @@ function appendDetailsToWaypoints(route, detailed) {
         route.waypoints[i].subType = detailed[i].subType;
         route.waypoints[i].description = detailed[i].description;
         route.waypoints[i].amount = detailed[i].amount;
+        route.waypoints[i].img = detailed[i].img;
     }
     return route;
 }

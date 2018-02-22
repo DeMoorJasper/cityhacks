@@ -10,4 +10,8 @@ configExports.getMapBoxKey = function() {
     return config["map-box-api"];
 };
 
+configExports.getGoogleMapsApi = function() {
+    return config["google-maps-api"];
+};
+
 module.exports = configExports;
